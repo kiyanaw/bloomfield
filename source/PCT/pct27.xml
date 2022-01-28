@@ -1,0 +1,308 @@
+<?xml version="1.0" ?><!DOCTYPE TEI.2  PUBLIC '-//TEI//DTD TEI Lite XML ver. 1//EN'  'file:/c:/app/usr/dtds/teixlite.dtd'><tei.2>
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+	<title>PCT 27: How the Blackfoot Killed their Wives</title>
+	<author>Mrs. Maggie Achenam</author>
+	<respstmt>
+	  <name>Kevin Russell</name>
+	  <resp>TEI markup and word-tagging</resp>
+	</respstmt>
+      </titlestmt>
+      <publicationstmt>
+	<authority>Cree Text Project</authority>
+	<address>
+	  <addrline>Linguistics Department</addrline>
+	  <addrline>University of Manitoba</addrline>
+	  <addrline>Winnipeg, MB  R3T 2N2  Canada</addrline>
+	</address>
+	<availability>
+	  <p>for internal use only</p>
+	</availability>
+      </publicationstmt>
+      <sourcedesc>
+	<bibl>
+          <title>Plains Cree Texts</title>
+          <editor>Leonard Bloomfield</editor>
+          <date>1934</date>
+          <publisher>G.E. Stechert &amp; Co.</publisher>
+          <pubplace>New York</pubplace>
+          <series>Publications of the American Ethnological Society, Volume XVI</series>
+          <biblscope>pages 138-139</biblscope>
+        </bibl>
+      </sourcedesc>
+    </filedesc>
+    <encodingdesc>
+      <p/>
+      <p>This electronic document is oriented more toward representing those
+      features that seem most likely to be relevant for grammatical analyses,
+      rather than toward faithfully representing all the information available in
+      the book.</p>
+    </encodingdesc>
+    <profiledesc>
+      <langusage>
+	<language id="x-neh">Plains Cree</language>
+	<language id="eng">English</language>
+      </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>2004 04 01; KR; inauguration</item>
+        <item>2014 06 10; KR; UTF-8, paragraph and sentence numbering, smart-quotes in English translations</item>
+      </list>
+    </revisiondesc>
+  </teiheader>
+  <text>
+    <body>
+
+<head>PCT 27 - How the Blackfoot killed their wives</head>
+<docauthor>Mrs. Maggie Achenam</docauthor>
+
+<p n="1">
+
+<seg n="1.1">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
+<w canon="kotak" class="pr" gcat="0sPR" sgloss="other" stem="kotak">kotak</w>
+.
+<gloss>Now another story.</gloss>
+</seg>
+</p>
+
+<p n="2">
+
+<seg n="2.1">
+<w canon="nitâmisoyiwa" class="vai" gcat="3oAI" sgloss="look_for_berries" stem="nitâmiso" suffix="-yiwa">ntâmisôyiwah</w>
+<w canon="owîkimâkana" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="spouse" stem="wîkimâkan" suffix="-a">owîkimâkanah</w>
+.
+<gloss>A man's wives gathered berries.</gloss>
+</seg>
+
+<seg n="2.2">
+<w canon="nîsôskwêwêw" class="vai" gcat="3sAI" sgloss="have_two_wives" stem="nîsôskwêwê" suffix="-w">nîsoskwêwêw</w>
+.
+<gloss>He had two wives.</gloss>
+</seg>
+
+<seg n="2.3">
+<w canon="kâ-nakiskawâyit" class="vta" gcat="3o3oTAcnj" preverbs="kâ|cnj" sgloss="encounter" stem="nakiskaw" suffix="-âyit">kâ-nakiskawâyit</w>
+<w canon="oskinîkiwa" class="na" gcat="3oNA" sgloss="young_man" stem="oskinîkiw" suffix="-a">oskinîkiwah</w>
+,
+<w canon="nâpêsisa" class="na" gcat="3oNA" sgloss="boy" stem="nâpêsis" suffix="-a">nâpêsisah</w>
+,
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="kâ-âsitêyimât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj" sgloss="suspect" stem="âsitêyim" suffix="-ât">k-âsitêyimât</w>
+.
+<gloss>When they met a youth or even a boy, he became jealous of him.</gloss>
+</seg>
+</p>
+
+<p n="3">
+
+<seg n="3.1">
+<q>
+<w canon="miyâmay" class="ipc" gcat="IPC" sgloss="surely" stem="miyâmay">miyâmay</w>
+<w canon="kônâpêmin" class="vai" gcat="2sAI" prefix="2" sgloss="have_husband" stem="onâpêmi" suffix="-n">kônâpêmin</w>
+<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôk</w>
+<w canon="oskinîkiw" class="na" gcat="3sNA" sgloss="young_man" stem="oskinîkiw" suffix="0">ôskinîkiw</w>
+!</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+.
+<gloss>“I can tell that youth is your man!” he said to her.</gloss>
+</seg>
+</p>
+
+<p n="4">
+
+<seg n="4.1">
+<q>
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+,</q>
+<w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
+;
+<gloss>“No,” she answered him;</gloss>
+</seg>
+
+<seg n="4.2">
+<q>
+<w canon="konita" class="ipc" gcat="IPC" sgloss="in_vain" stem="konita">kont</w>
+<w canon="ê-nakiskawak" class="vta" gcat="1s3sTAcnj" preverbs="ê|cnj" sgloss="encounter" stem="nakiskaw" suffix="-ak">êh-nakiskawak</w>
+.</q>
+<gloss>“I only met him by chance.”</gloss>
+</seg>
+</p>
+
+<p n="5">
+
+<seg n="5.1">
+<q>
+<w canon="â" class="ipc" gcat="IPC" sgloss="ah" stem="â">â</w>
+,
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+!
+<w canon="ohcitaw" class="ipc" gcat="IPC" sgloss="expressly" stem="ohcitaw">ohcitaw</w>
+<w canon="kônâpêmin" class="vai" gcat="2sAI" prefix="2" sgloss="have_husband" stem="onâpêmi" suffix="-n">kônâpêmin</w>
+,</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+.
+<gloss>“Oh no! You say that just because he is your man,” he told her.</gloss>
+</seg>
+</p>
+
+<p n="6">
+
+<seg n="6.1">
+<w canon="acosisa" class="ni" gcat="0pNI" sgloss="arrow" stem="acosis" suffix="-a">acosisah</w>
+<w canon="tahkonam" class="vti" gcat="3sTI" sgloss="carry" stem="tahkon" suffix="-am">tahkonam</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">aw</w>
+<w canon="ayahciyiniw" class="na" gcat="3sNA" sgloss="Blackfoot" stem="ayahciyiniw" suffix="0">îyahciyiniw</w>
+.
+<gloss>That Blackfoot took some arrows.</gloss>
+</seg>
+
+<seg n="6.2">
+<w canon="ê-nakiskawât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="encounter" stem="nakiskaw" suffix="-ât">êh-nakiskawât</w>
+<w canon="owîkimâkana" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="spouse" stem="wîkimâkan" suffix="-a">owîkimâkanah</w>
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
+<w canon="nâpêsisa" class="na" gcat="3oNA" sgloss="boy" stem="nâpêsis" suffix="-a">nâpêsisah</w>
+<w canon="ê-wîcêwâyit" class="vta" gcat="3o3oTAcnj" preverbs="ê|cnj" sgloss="accompany" stem="wîcêw" suffix="-âyit">êh-wîcêwâyit</w>
+,
+<w canon="nîkân" class="ipc" gcat="IPC" sgloss="first" stem="nîkân">nîkân</w>
+<w canon="owîkimâkana" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="spouse" stem="wîkimâkan" suffix="-a">owîkimâkanah</w>
+<w canon="pa-pî-pimwêw" class="vta" gcat="3s3oTA" preverbs="dupL|L.REDUP dupH|H.REDUP" sgloss="shoot_at" stem="pimw" suffix="-êw">pa-pî-pimwêw</w>
+.
+<gloss>When he encountered his wife and a boy who was with her, first he shot arrow after arrow into his wife.</gloss>
+<note>NB weird reduplication</note>
+</seg>
+
+<seg n="6.3">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="nâpêsisa" class="na" gcat="3oNA" sgloss="boy" stem="nâpêsis" suffix="-a">nâpêsisah</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mînah</w>
+,
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîn</w>
+<w canon="êwakoni" class="pr" gcat="3oPR" sgloss="that_one" stem="êwako" suffix="-3o">êyakonih</w>
+<w canon="pimwêw" class="vta" gcat="3s3oTA" sgloss="shoot_at" stem="pimw" suffix="-êw">pimwêw</w>
+;
+<w canon="nipahêw" class="vta" gcat="3s3oTA" sgloss="kill" stem="nipah" suffix="-êw">nipahêw</w>
+.
+<gloss>Then the boy, too, him too he shot; he killed him.</gloss>
+</seg>
+
+<seg n="6.4">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="oskinîkiwa" class="na" gcat="3oNA" sgloss="young_man" stem="oskinîkiw" suffix="-a">oskinîkiwah</w>
+<w canon="nitonawêw" class="vta" gcat="3s3oTA" sgloss="look_for" stem="nitonaw" suffix="-êw">ntonawêw</w>
+;
+<w canon="papâ-têhtapiw" class="vai" gcat="3sAI" preverbs="papâ|around" sgloss="be_mounted" stem="têhtapi" suffix="-w">papâ-têhtapiw</w>
+<w canon="sakâhk" class="ni" gcat="0locNI" sgloss="bush" stem="sakâw" suffix="-ihk">sakâhk</w>
+.
+<gloss>Then he looked for the young man; he rode about in the woods.</gloss>
+</seg>
+
+<seg n="6.5">
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+<w canon="kî-miskawêw" class="vta" gcat="3s3oTA" preverbs="kî|can" sgloss="find" stem="miskaw" suffix="-êw">kîh-miskawêw</w>
+.
+<gloss>He could not find him.</gloss>
+</seg>
+</p>
+
+<p n="7">
+
+<seg n="7.1">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+,
+<q>
+<w canon="êkây" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâya">êkây</w>
+<w canon="awiyak" class="pr" gcat="3sPR" sgloss="someone" stem="awiyak">âwiyak</w>
+<w canon="ta-otinêw" class="vta" gcat="3s3oTA" preverbs="ta|FUT" sgloss="take" stem="otin" suffix="-êw">t-ôtinêw</w>
+<w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôhih</w>
+<w canon="kâ-nipahimak" class="vta" gcat="1s3oTAcnj" preverbs="kâ|cnj" sgloss="kill" stem="nipah" suffix="-imak">kâ-nipahimak</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+.
+<gloss>Then, “No one is to take up the bodies of those I have killed,” he said.</gloss>
+</seg>
+</p>
+
+<p n="8">
+
+<seg n="8.1">
+<w canon="owîkimâkana" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="spouse" stem="wîkimâkan" suffix="-a">owîkimâkanah</w>
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="kotaka" class="pr" gcat="3oPR" sgloss="other" stem="kotak" suffix="-3o">kotakah</w>
+<w canon="nâpêsisa" class="na" gcat="3oNA" sgloss="boy" stem="nâpêsis" suffix="-a">nâpêsisah</w>
+,
+<w canon="êwakoni" class="pr" gcat="3oPR" sgloss="that_one" stem="êwako" suffix="-3o">êyakonih</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mînah</w>
+<w canon="ê-nipahât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="kill" stem="nipah" suffix="-ât">êh-nipahât</w>
+,
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="pimisinwak" class="vai" gcat="3pAI" sgloss="lie_extended" stem="pimisin" suffix="-wak">pimisinwak</w>
+,
+<w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohcih</w>
+<w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôh</w>
+<w canon="awiya" class="pr" gcat="3oPR" sgloss="someone" stem="awiyak" suffix="-3o">awiyah</w>
+<w canon="wî-otinâyici" class="vta" gcat="3o3oTAsubjunc" preverbs="wî|will" sgloss="take" stem="otin" suffix="-âyici">wîh-otinâyicih</w>
+,
+<w canon="ê-wî-nipahât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj wî|will" sgloss="kill" stem="nipah" suffix="-ât">ê-wîh-nipahât</w>
+.
+<gloss>His wife and the boy he had slain with her would lie there then, because if anyone were going to take them up, he would kill him.</gloss>
+</seg>
+</p>
+
+<p n="9">
+
+<seg n="9.1">
+<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyoko</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
+<w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
+<w canon="ayahciyiniw" class="na" gcat="3sNA" sgloss="Blackfoot" stem="ayahciyiniw" suffix="0">iyahciyiniw</w>
+<w canon="otôtamôwin" class="ni" gcat="0sNIof3s" prefix="3" sgloss="way_of_doing" stem="tôtamôwin" suffix="0">otôtamôwin</w>
+;
+<gloss>This too was a custom of the Blackfoot;</gloss>
+</seg>
+
+<seg n="9.2">
+<w canon="maywês" class="ipc" gcat="IPC" sgloss="previously" stem="maywês">mayiwês</w>
+<w canon="ihtakohk" class="vii" gcat="0sIIcnj" sgloss="exist" stem="ihtakon" suffix="-k">ihtakohk</w>
+<w canon="wiyasôwêwin" class="ni" gcat="0sNI" sgloss="decision" stem="wiyasiwêwin" suffix="0">oyasôwêwin</w>
+<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkôh</w>
+<w canon="kâ-kî-ispayik" class="vii" gcat="0sIIcnj" preverbs="kâ|cnj kî|PAST" sgloss="happen" stem="ispayi" suffix="-k">kâ-kih-ispayik</w>
+;
+<gloss>before there was any law was when this took place;</gloss>
+</seg>
+
+<seg n="9.3">
+<w canon="mêkwâc" class="ipc" gcat="IPC" sgloss="while" stem="mêkwâc">mêkwâc</w>
+<w canon="paskwâwi-mostoswa" class="na" gcat="3oNA" sgloss="bison" stem="paskwâwi-mostosw" suffix="-a">paskwâwimostoswah</w>
+<w canon="ê-ohtâpanihocik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="get_food_from" stem="ohtâpaniho" suffix="-cik">êh-ohtâpanihocik</w>
+<w canon="ayîsiyiniwak" class="na" gcat="3pNA" sgloss="person" stem="ayisiyiniw" suffix="-ak">ayîsiyiniwak</w>
+,
+<w canon="ayahciyiniwak" class="na" gcat="3pNA" sgloss="Blackfoot" stem="ayahciyiniw" suffix="-ak">iyahciyiniwak</w>
+,
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mînah</w>
+<w canon="pwâsîmowak" class="na" gcat="3pNA" sgloss="Sioux" stem="pwâsîmow" suffix="-ak">pwâsîmowak</w>
+,
+<w canon="sasîwak" class="na" gcat="3pNA" sgloss="Sarci" stem="sasîw" suffix="-ak">sasîwak</w>
+,
+<w canon="kinêpikoyiniwak" class="na" gcat="3pNA" sgloss="Snake_Indian" stem="kinêpikoyiniw" suffix="-ak">kinêpikôwiniwak</w>
+,
+<w canon="kâ-otaskîwikamikowak" class="vai" gcat="3pAI" preverbs="kâ|cnj" sgloss="have_earth_house" stem="otaskîwikamiko" suffix="-wak">k-ôtaskîwikamikowak</w>
+,
+<w canon="nahkawiyiniwak" class="na" gcat="3pNA" sgloss="Saulteaux" stem="nahkawiyiniw" suffix="-ak">nahkawiyiniwak</w>
+,
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakw</w>
+<w canon="anima" class="dem" gcat="0sDEM" sgloss="that" stem="anima">ânima</w>
+<w canon="kâ-kî-ihkihk" class="vii" gcat="0sIIcnj" preverbs="kâ|cnj kî|PAST" sgloss="happen" stem="ihkin" suffix="-k">kâ-kîh-ihkihk</w>
+.
+<gloss>when the people were still living on buffalo-flesh, - the Blackfoot and the Assiniboine, the Sarsi, the Snakes, the Earth-Lodge People, the Salteaux, - that was when this took place.</gloss>
+<note>LB on {k-ôtaskîwikamikowak}:  I have not been able to identify this tribe.</note>
+</seg>
+</p>
+</body>
+</text>
+</tei.2>

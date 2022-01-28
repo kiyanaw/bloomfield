@@ -1,0 +1,197 @@
+<?xml version="1.0" ?><!DOCTYPE TEI.2  PUBLIC '-//TEI//DTD TEI Lite XML ver. 1//EN'  'file:/c:/app/usr/dtds/teixlite.dtd'><tei.2>
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+	<title>PCT 05: Three Songs</title>
+	<author>Coming-Day</author>
+	<respstmt>
+	  <name>Kevin Russell</name>
+	  <resp>TEI markup and word-tagging</resp>
+	</respstmt>
+      </titlestmt>
+      <publicationstmt>
+	<authority>Cree Text Project</authority>
+	<address>
+	  <addrline>Linguistics Department</addrline>
+	  <addrline>University of Manitoba</addrline>
+	  <addrline>Winnipeg, MB  R3T 2N2  Canada</addrline>
+	</address>
+	<availability>
+	  <p>for internal use only</p>
+	</availability>
+      </publicationstmt>
+      <sourcedesc>
+	<bibl>
+          <title>Plains Cree Texts</title>
+          <editor>Leonard Bloomfield</editor>
+          <date>1934</date>
+          <publisher>G.E. Stechert &amp; Co.</publisher>
+          <pubplace>New York</pubplace>
+          <series>Publications of the American Ethnological Society, Volume XVI</series>
+          <biblscope>pages 22-23</biblscope>
+        </bibl>
+      </sourcedesc>
+    </filedesc>
+    <encodingdesc>
+      <p/>
+      <p>This electronic document is oriented more toward representing those
+      features that seem most likely to be relevant for grammatical analyses,
+      rather than toward faithfully representing all the information available in
+      the book.</p>
+    </encodingdesc>
+    <profiledesc>
+      <langusage>
+	<language id="x-neh">Plains Cree</language>
+	<language id="eng">English</language>
+      </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>2004 04 01; KR; inauguration</item>
+        <item>2014 06 10; KR; UTF-8, paragraph and sentence numbering, smart-quotes in English translations</item>
+      </list>
+    </revisiondesc>
+  </teiheader>
+  <text>
+    <body>
+
+<div1 n="a" type="song">
+<head>PCT 05a:  Three songs (a)</head>
+<docauthor>Coming-Day</docauthor>
+
+<p n="1">
+
+<seg n="1.1">
+<w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">pikoh</w>
+<w canon="êtokê" class="ipc" gcat="IPC" sgloss="I_guess" stem="êtikwê">êtokê</w>
+<w canon="ê-asawâpit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="be_on_lookout" stem="asawâpi" suffix="-t">êh-asawâpit</w>
+,
+/
+<w canon="ê-wî-mâtot" class="vai" gcat="3sAIcnj" preverbs="ê|cnj wî|will" sgloss="cry" stem="mâto" suffix="-t">ê-wîh-mâtot</w>
+<w canon="nîcimos" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="sweetheart" stem="îcimos" suffix="0">nîcimos</w>
+,
+/
+<w canon="ê-itwêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="say" stem="itwê" suffix="-t">êh-itwêt</w>
+,
+/
+<q>
+<w canon="âhwiya" class="interj" gcat="INTERJ" sgloss="alas" stem="âhwiya">âhwiyah</w>
+,
+<w canon="nîcimos" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="sweetheart" stem="îcimos" suffix="0">nîcimos</w>
+/
+<w canon="nisâkihâw" class="vta" gcat="1s3sTA" prefix="1" sgloss="love" stem="sâkih" suffix="-âw">nisâkihâw</w>
+,</q>
+<w canon="ê-itwêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="say" stem="itwê" suffix="-t">êh-itwêt</w>
+.
+<gloss>I wonder if she only looks out, / Near to weeping, my sweetheart, / And says, / “Ah me, my sweetheart, / I love him.”</gloss>
+</seg>
+</p>
+
+</div1>
+
+<div1 n="b">
+<head>PCT 05b:  Three songs (b)</head>
+<docauthor>Coming-Day</docauthor>
+
+
+<p n="2">
+
+<seg n="2.1">
+<w canon="âhkamêyimo" class="vai" gcat="2sAIimp" sgloss="persevere" stem="âhkamêyimo" suffix="0">âhkamêyimoh</w>
+/
+<w canon="ê-pimohtêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="go_along" stem="pimohtê" suffix="-yan">êh-pimohtêyan</w>
+,
+/
+<w canon="nicîmisim" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="lover" stem="cîmisim" suffix="0">nicîmisim</w>
+.
+<gloss>Hasten / Your walking / My lover.</gloss>
+</seg>
+</p>
+
+<p n="3">
+
+<seg n="3.1">
+<w canon="ê-itwêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="say" stem="itwê" suffix="-t">êh-itwêt</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+<w canon="iskwêw" class="na" gcat="3sNA" sgloss="woman" stem="iskwêw" suffix="0">iskwêw</w>
+,
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+<w canon="oskinîkiw" class="na" gcat="3sNA" sgloss="young_man" stem="oskinîkiw" suffix="0">oskinîkiw</w>
+<w canon="takosihki" class="vai" gcat="3sAIsubjunc" sgloss="arrive" stem="takosin" suffix="-ci">takosihkih</w>
+,
+<w canon="pêhtahki" class="vti" gcat="3sTIsubjunc" sgloss="hear" stem="pêht" suffix="-ahki">pêhtahkih</w>
+<w canon="wîcimosa" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="sweetheart" stem="îcimos" suffix="-a">wîcimosah</w>
+<w canon="ê-itwêyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj" sgloss="say" stem="itwê" suffix="-yit">êh-itwêyit</w>
+,
+<q>
+<w canon="tâpwê" class="ipc" gcat="IPC" sgloss="truly" stem="tâpwê">tâpwê</w>
+<w canon="nimiywêyihtên" class="vti" gcat="1sTI" prefix="1" sgloss="consider_good" stem="miywêyiht" suffix="-ên">nimiywêyihtên</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+;
+<gloss>When the woman says this, then the young man, when he arrives, hearing his sweetheart say this, “Truly, I am glad,” he will say;</gloss>
+</seg>
+
+<seg n="3.2">
+<q>
+<w canon="tâpwê" class="ipc" gcat="IPC" sgloss="truly" stem="tâpwê">tâpwê</w>
+<w canon="nisâkihik" class="vta" gcat="3s1sTA" prefix="1" sgloss="love" stem="sâkih" suffix="-ik">nisâkihik</w>
+<w canon="nîcimos" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="sweetheart" stem="îcimos" suffix="0">nîcimos</w>
+,</q>
+<w canon="itêyihtam" class="vti" gcat="3sTI" sgloss="think_of" stem="itêyiht" suffix="-am">itêyihtam</w>
+;
+<gloss>“Truly my sweetheart loves me,” he will think;</gloss>
+</seg>
+
+<seg n="3.3">
+<w canon="mamâhtâkosiw" class="vai" gcat="3sAI" sgloss="be_glad" stem="mamâhtâkosi" suffix="-w">mamahtâkosiw</w>
+<w canon="ê-itwêyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj" sgloss="say" stem="itwê" suffix="-yit">êh-itwêyit</w>
+<w canon="wîcimosa" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="sweetheart" stem="îcimos" suffix="-a">wicimosah</w>
+.
+<gloss>he will be happy because his sweetheart has said those words.</gloss>
+</seg>
+</p>
+
+</div1>
+
+<div1 n="c">
+<head>PCT 05c:  Three songs (c)</head>
+<docauthor>Coming-Day</docauthor>
+
+<p n="4">
+
+<seg n="4.1">
+<w canon="nîcimos" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="sweetheart" stem="îcimos" suffix="0">nîcimos</w>
+<w canon="ê-itwêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="say" stem="itwê" suffix="-t">êh-itwêt</w>
+,
+/
+<q>
+<w canon="itâp" class="ipc" gcat="IPC" sgloss="then" stem="itâp">itâp</w>
+<w canon="ani" class="ipc" gcat="IPC" sgloss="then" stem="ani">anih</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mînah</w>
+<w canon="kika-wâpamitin" class="vta" gcat="1s2sTA" prefix="2" preverbs="ka|will" sgloss="see" stem="wâpam" suffix="-itin">kika-wâpamitin</w>
+,</q>
+/
+<q>
+<w canon="wiya" class="ipc" gcat="IPC" sgloss="WIYA" stem="wiya">wiya</w>
+<w canon="pimâtisiyâni" class="vai" gcat="1sAIsubjunc" sgloss="live" stem="pimâtisi" suffix="-yâni">pimâtisiyâni</w>
+,
+/
+<w canon="kika-wâpamitin" class="vta" gcat="1s2sTA" prefix="2" preverbs="ka|will" sgloss="see" stem="wâpam" suffix="-itin">kika-wâpamitin</w>
+,</q>
+/
+<w canon="nititâw" class="vta" gcat="1s3sTA" prefix="1" sgloss="say_to" stem="it" suffix="-âw">nititâw</w>
+.
+/
+<w canon="hay" class="interj" gcat="INTERJ" sgloss="hay" stem="hay">hay</w>
+<w canon="hay" class="interj" gcat="INTERJ" sgloss="hay" stem="hay">hay</w>
+<w canon="hay" class="interj" gcat="INTERJ" sgloss="hay" stem="hay">hay</w>
+!
+<gloss>When my sweetheart said, /  “Later surely again I will see you,” - /  “Indeed if I live, /  I shall see you,” / I said to her. /  Hi hi hi!</gloss>
+</seg>
+</p>
+</div1>
+</body>
+</text>
+</tei.2>

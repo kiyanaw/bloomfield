@@ -1,0 +1,333 @@
+<?xml version="1.0" ?><!DOCTYPE TEI.2  PUBLIC '-//TEI//DTD TEI Lite XML ver. 1//EN'  'file:/c:/app/usr/dtds/teixlite.dtd'><tei.2>
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+	<title>SSSC 09: Wisahketchahk and the Rapids</title>
+	<author>Coming-Day</author>
+	<respstmt>
+	  <name>Kevin Russell</name>
+	  <resp>TEI markup and word-tagging</resp>
+	</respstmt>
+      </titlestmt>
+      <publicationstmt>
+	<authority>Cree Text Project</authority>
+	<address>
+	  <addrline>Linguistics Department</addrline>
+	  <addrline>University of Manitoba</addrline>
+	  <addrline>Winnipeg, MB  R3T 2N2  Canada</addrline>
+	</address>
+	<availability>
+	  <p>for internal use only</p>
+	</availability>
+      </publicationstmt>
+      <sourcedesc>
+	<bibl>
+          <title>Sacred Stories of the Sweet Grass Cree</title>
+          <editor>Leonard Bloomfield</editor>
+          <date>1930</date>
+          <publisher>F.A. Acland, King's Printer</publisher>
+          <pubplace>Ottawa</pubplace>
+          <series>National Museum of Canada, Bulletin no. 60, Anthropological Series, no. 11</series>
+          <biblscope>pages 52-53</biblscope>
+        </bibl>
+      </sourcedesc>
+    </filedesc>
+    <encodingdesc>
+      <p/>
+      <p>This electronic document is oriented more toward representing those
+      features that seem most likely to be relevant for grammatical analyses,
+      rather than toward faithfully representing all the information available in
+      the book.</p>
+    </encodingdesc>
+    <profiledesc>
+      <langusage>
+	<language id="x-neh">Plains Cree</language>
+	<language id="eng">English</language>
+      </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>2004 04 01; KR; inauguration</item>
+        <item>2014 06 10; KR; UTF-8, paragraph and sentence numbering, smart-quotes in English translations</item>
+      </list>
+    </revisiondesc>
+  </teiheader>
+  <text>
+    <body>
+
+<head>Sacred Stories 09:  Wisahketchahk and the Rapids</head>
+<docauthor>Coming-Day</docauthor>
+
+<p n="1">
+
+<seg n="1.1">
+<q>
+<w canon="nisîm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="younger_sib" stem="sîm" suffix="0">nisîm</w>
+!</q>
+<w canon="ê-wâpahtahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="see" stem="wâpaht" suffix="-ahk">êh-wâpahtahk</w>
+<w canon="pâwistik" class="ni" gcat="0sNI" sgloss="rapids" stem="pâwistikw" suffix="0">pâwistik</w>
+;
+<q>
+<w canon="nisîm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="younger_sib" stem="sîm" suffix="0">nisîm</w>
+!</q>
+<gloss>“Little brother!” when he saw the rapids; “Little brother!”</gloss>
+</seg>
+</p>
+
+<p n="2">
+
+<seg n="2.1">
+<q>
+<w canon="wêy" class="interj" gcat="INTERJ" sgloss="what_is_it" stem="wêy">wêy</w>
+!</q>
+<w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
+.
+<gloss>“Yes, what is it?” it answered him.</gloss>
+</seg>
+</p>
+
+<p n="3">
+
+<seg n="3.1">
+<q rend="PRE 1 POST0">
+<q>
+<w canon="tâpwê" class="ipc" gcat="IPC" sgloss="truly" stem="tâpwê">tâpwâ</w>
+<w canon="nisîpwêwêmon" class="vai" gcat="1sAI" prefix="1" sgloss="be_longwinded" stem="sîpwêwêmo" suffix="-n">nisîpwêwêmon</w>
+!</q>
+<w canon="kitêyihtên" class="vti" gcat="2sTI" prefix="2" sgloss="think_of" stem="itêyiht" suffix="-ên">kitêyihtên</w>
+.</q>
+<gloss>“Truly, I keep long at my noise!” you think.</gloss>
+</seg>
+
+<seg n="3.2">
+<q rend="PRE 0 POST1">
+<w canon="kimawinêhotin" class="vta" gcat="1s2sTA" prefix="2" sgloss="challenge" stem="mawinêhw" suffix="-itin">kimawinêhotin</w>
+,
+<w canon="awîna" class="pr" gcat="3sPRq" sgloss="who" stem="awîna">awîna</w>
+<w canon="kiyipa" class="ipc" gcat="IPC" sgloss="quickly" stem="kiyipa">kiyipa</w>
+<w canon="kê-kihtimit" class="vai" gcat="3sAIcnj" preverbs="kê|IC+FUT" sgloss="be_lazy" stem="kihtimi" suffix="-t">kê-kihtimit</w>
+,</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+.
+<gloss>I challenge you to see which of us will weary first,” he told it.</gloss>
+</seg>
+</p>
+
+<p n="4">
+
+<seg n="4.1">
+<q>
+<w canon="â" class="ipc" gcat="IPC" sgloss="ah" stem="â">â</w>
+,
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+!
+<w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">iyikohk</w>
+<w canon="ta-pôni-askîwik" class="vii" gcat="0sIIcnj" preverbs="ta|FUT pôni|cease" sgloss="be_the_earth" stem="askîwi" suffix="-k">ta-pôn-âskîwik</w>
+,
+<w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
+<w canon="nikî-itik" class="vta" gcat="3s1sTA" prefix="1" preverbs="kî|PAST" sgloss="say_to" stem="it" suffix="-ik">nikîh-itik</w>
+<w canon="kôhtâwînaw" class="nda" gcat="3sNDAof1i" prefix="2" sgloss="father" stem="ôhtâwiy" suffix="-inaw">kôhtâwînaw</w>
+<w canon="ta-kîskowêyân" class="vai" gcat="1sAIcnj" preverbs="ta|FUT" sgloss="stop_talking" stem="kîskowê" suffix="-yân">ta-kîskowêyân</w>
+,</q>
+<w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
+.
+<gloss>“Oh, no! When the green earth ceases to be, only then did Our Father tell me to cease from my noise,” it told him.</gloss>
+<note>LB on {ta-pôn-âskîwik}:  As {askiy} means not only “earth,” but also “summer” and “year,” double meaning and misunderstanding are probably essential to the story.</note>
+</seg>
+</p>
+
+<p n="5">
+
+<seg n="5.1">
+<q>
+<w canon="â" class="ipc" gcat="IPC" sgloss="ah" stem="â">â</w>
+,
+<w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
+<w canon="kiwî-mawinêhotin" class="vta" gcat="1s2sTA" prefix="2" preverbs="wî|will" sgloss="challenge" stem="mawinêhw" suffix="-itin">kiwîh-mawinêhotin</w>
+!</q>
+<gloss>“Oh, but I mean to challenge you!”</gloss>
+</seg>
+</p>
+
+<p n="6">
+
+<seg n="6.1">
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">ômis</w>
+<w canon="itêyihtam" class="vti" gcat="3sTI" sgloss="think_of" stem="itêyiht" suffix="-am">îtêyihtam</w>
+:
+<q>
+<w canon="pipohki" class="vii" gcat="0sIIsubjunc" sgloss="be_winter" stem="pipon" suffix="-ki">pipohkih</w>
+<w canon="ta-kîskowêw" class="vai" gcat="3sAI" preverbs="ta|FUT" sgloss="stop_talking" stem="kîskowê" suffix="-w">ta-kîskowâw</w>
+,</q>
+<w canon="ê-itêyimât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="think_thus_of" stem="itêyim" suffix="-ât">êh-itêyimât</w>
+.
+<gloss>He thought, “In winter it will stop”; that was what he thought of it.</gloss>
+</seg>
+</p>
+
+<p n="7">
+
+<seg n="7.1">
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="nahapiw" class="vai" gcat="3sAI" sgloss="sit_down_in_place" stem="nahapi" suffix="-w">nahapiw</w>
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+,
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">om</w>
+<w canon="ê-pêhtâkwaniyik" class="vii" gcat="0oIIcnj" preverbs="ê|cnj" sgloss="be_heard" stem="pêhtâkwan" suffix="-yik">êh-pêhtâkwaniyik</w>
+.
+<gloss>Then Wisahketchahk sat down there where its sound was heard.</gloss>
+</seg>
+
+<seg n="7.2">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">omis</w>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">îtwêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+:
+<q>
+<w canon="blblblbl" error="***">blblblbl</w>
+!</q>
+<gloss>And Wisahketchahk said, “Blblblbl!”</gloss>
+<note>LB on {blblblbl}:  Sound made by pulling tongue back and forth between rounded lips, with voicing.</note>
+</seg>
+</p>
+
+<p n="9">
+
+<seg n="9.1">
+<w canon="apiw" class="vai" gcat="3sAI" sgloss="sit" stem="api" suffix="-w">apiw</w>
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+.
+<gloss>He sat there.</gloss>
+</seg>
+
+<seg n="9.2">
+<w canon="piyisk" class="ipc" gcat="IPC" sgloss="finally" stem="piyis">piyisk</w>
+<w canon="piponiyiw" class="vii" gcat="0oII" sgloss="be_winter" stem="pipon" suffix="-yiw">piponiyiw</w>
+.
+<gloss>At last winter came.</gloss>
+</seg>
+
+<seg n="9.3">
+<w canon="âhci" class="ipc" gcat="IPC" sgloss="still" stem="âhci">âhci</w>
+<w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">pikoh</w>
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="apiw" class="vai" gcat="3sAI" sgloss="sit" stem="api" suffix="-w">apiw</w>
+,
+<w canon="pisisik" class="ipc" gcat="IPC" sgloss="always" stem="pisisik">pisisik</w>
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkos</w>
+<w canon="ê-itwêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="say" stem="itwê" suffix="-t">êh-itwêt</w>
+,
+<q>
+<w canon="blblblbl" error="***">blblblbl</w>
+!</q>
+<gloss>Still he sat there, all the while saying, “Blblblbl!”</gloss>
+</seg>
+</p>
+
+<p n="10">
+
+<seg n="10.1">
+<w canon="piyis" class="ipc" gcat="IPC" sgloss="finally" stem="piyis">piyis</w>
+<w canon="nîpin" class="vii" gcat="0sII" sgloss="be_summer" stem="nîpin" suffix="0">nîpin</w>
+.
+<gloss>At last it was spring.</gloss>
+</seg>
+
+<seg n="10.2">
+<w canon="miyoskamiw" class="vii" gcat="0sII" sgloss="be_spring" stem="miyoskami" suffix="-w">miyoskamiw</w>
+.
+<gloss>The thawing weather came.</gloss>
+</seg>
+
+<seg n="10.3">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="kôna" class="na" gcat="3oNA" sgloss="snow" stem="kôn" suffix="-a">kônah</w>
+<w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
+<w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
+<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+.
+<gloss>Then all the snow disappeared.</gloss>
+</seg>
+
+<seg n="10.4">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistahi</w>
+<w canon="nipiy" class="ni" gcat="0sNI" sgloss="water" stem="nipiy" suffix="0">nipiy</w>
+<w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
+<w canon="pê-ayâyiw" class="vii" gcat="0oII" preverbs="pê|thence" sgloss="be_there" stem="ayâ" suffix="-yiw">pêy-ayâyiw</w>
+,
+<w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
+<w canon="ê-apit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="sit" stem="api" suffix="-t">êh-apit</w>
+.
+<gloss>Then much water came and was where he sat.</gloss>
+</seg>
+
+<seg n="10.5">
+<w canon="piyisk" class="ipc" gcat="IPC" sgloss="finally" stem="piyis">piyisk</w>
+<w canon="ômayikohk" class="ipc" gcat="IPC" sgloss="this_much" stem="ômayikohk">omayikohk</w>
+<w canon="iskopêw" class="vai" gcat="3sAI" sgloss="be_so_far_deep" stem="iskopê" suffix="-w">iskopêw</w>
+<w canon="nipiy" class="ni" gcat="0sNI" sgloss="water" stem="nipiy" suffix="0">nipiy</w>
+.
+<gloss>At last he was up to here in the water.</gloss>
+<note>LB on {omayikohk}:  Gesture to chest.</note>
+</seg>
+
+<seg n="10.6">
+<w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
+<w canon="pasikôw" class="vai" gcat="3sAI" sgloss="arise" stem="pasikô" suffix="-w">pasikôw</w>
+,
+<w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
+<w canon="askiy" class="ni" gcat="0sNI" sgloss="land" stem="askiy" suffix="0">askiy</w>
+,
+<q>
+<w canon="blblblbl" error="***">blblblbl</w>
+!</q>
+<w canon="ê-itwêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="say" stem="itwê" suffix="-t">êh-itwêt</w>
+.
+<gloss>Only then he arose to his feet, having said, “Blblblbl!” for a whole year.</gloss>
+</seg>
+</p>
+
+<p n="11">
+
+<seg n="11.1">
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">ômis</w>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">îtwêw</w>
+:
+<q>
+<w canon="wâcistakâ" class="ipc" gcat="IPC" sgloss="incredible" stem="wâcistakâ">wâcistakâ</w>
+<w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
+<w canon="kî-ayiwâkitonâmâw" class="vta" gcat="x3sTA" preverbs="kî|PAST" sgloss="outtalk" stem="ayiwâkitonâm" suffix="-âw">kih-âyiwâkitonâmâw</w>
+<w canon="nisîm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="younger_sib" stem="sîm" suffix="0">nisîm</w>
+!</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+.
+<gloss>He said, “Incredible, how my little brother cannot be out-talked!”</gloss>
+</seg>
+</p>
+
+<p n="12">
+
+<seg n="12.1">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkos</w>
+<w canon="ê-sipwêhtêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="leave" stem="sipwêhtê" suffix="-t">êh-sipwêhtêt</w>
+.
+<gloss>With that he went away from there.</gloss>
+</seg>
+</p>
+
+<p n="13">
+
+<seg n="13.1">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosih</w>
+<w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
+<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôw</w>
+.
+<gloss>That is the end of this.</gloss>
+</seg>
+</p>
+</body>
+</text>
+</tei.2>

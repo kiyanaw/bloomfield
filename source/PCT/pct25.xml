@@ -1,0 +1,353 @@
+<?xml version="1.0" ?><!DOCTYPE TEI.2  PUBLIC '-//TEI//DTD TEI Lite XML ver. 1//EN'  'file:/c:/app/usr/dtds/teixlite.dtd'><tei.2>
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+	<title>PCT 25: How Women Were Treated</title>
+	<author>Mrs. Maggie Achenam</author>
+	<respstmt>
+	  <name>Kevin Russell</name>
+	  <resp>TEI markup and word-tagging</resp>
+	</respstmt>
+      </titlestmt>
+      <publicationstmt>
+	<authority>Cree Text Project</authority>
+	<address>
+	  <addrline>Linguistics Department</addrline>
+	  <addrline>University of Manitoba</addrline>
+	  <addrline>Winnipeg, MB  R3T 2N2  Canada</addrline>
+	</address>
+	<availability>
+	  <p>for internal use only</p>
+	</availability>
+      </publicationstmt>
+      <sourcedesc>
+	<bibl>
+          <title>Plains Cree Texts</title>
+          <editor>Leonard Bloomfield</editor>
+          <date>1934</date>
+          <publisher>G.E. Stechert &amp; Co.</publisher>
+          <pubplace>New York</pubplace>
+          <series>Publications of the American Ethnological Society, Volume XVI</series>
+          <biblscope>pages 134-137</biblscope>
+        </bibl>
+      </sourcedesc>
+    </filedesc>
+    <encodingdesc>
+      <p/>
+      <p>This electronic document is oriented more toward representing those
+      features that seem most likely to be relevant for grammatical analyses,
+      rather than toward faithfully representing all the information available in
+      the book.</p>
+    </encodingdesc>
+    <profiledesc>
+      <langusage>
+	<language id="x-neh">Plains Cree</language>
+	<language id="eng">English</language>
+      </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>2004 04 01; KR; inauguration</item>
+        <item>2014 06 10; KR; UTF-8, paragraph and sentence numbering, smart-quotes in English translations</item>
+      </list>
+    </revisiondesc>
+  </teiheader>
+  <text>
+    <body>
+
+<head>PCT 25 - How women were treated</head>
+<docauthor>Mrs. Maggie Achenam</docauthor>
+
+<p n="1">
+
+<seg n="1.1">
+<w canon="kêtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kêtahtawê</w>
+<w canon="âsay" class="ipc" gcat="IPC" sgloss="already" stem="âsay">âsa</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
+<w canon="ê-âh-ihkihk" class="vii" gcat="0sIIcnj" preverbs="ê|cnj âh|H.REDUP" sgloss="happen" stem="ihkin" suffix="-k">êh-ây-ihkihk</w>
+,
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
+<w canon="kotak" class="pr" gcat="3sPR" sgloss="other" stem="kotak">kotak</w>
+<w canon="ayahciyiniw" class="na" gcat="3sNA" sgloss="Blackfoot" stem="ayahciyiniw" suffix="0">iyahciyiniw</w>
+<w canon="kâ-âsitêyimât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj" sgloss="suspect" stem="âsitêyim" suffix="-ât">k-âsitêyimât</w>
+<w canon="kotaka" class="pr" gcat="3oPR" sgloss="other" stem="kotak" suffix="-3o">kotakah</w>
+<w canon="nâpêwa" class="na" gcat="3oNA" sgloss="man" stem="nâpêw" suffix="-a">nâpêwah</w>
+.
+<gloss>Another thing which used to happen, was when some Blackfoot became suspicious about another man.</gloss>
+<note>CHECK heaviness of ây</note>
+</seg>
+</p>
+
+<p n="2">
+
+<seg n="2.1">
+<q>
+<w canon="kônâpêmin" class="vai" gcat="2sAI" prefix="2" sgloss="have_husband" stem="onâpêmi" suffix="-n">kônâpêmin</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwakw</w>
+<w canon="ana" class="dem" gcat="3sDEM" sgloss="that" stem="ana">ânah</w>
+<w canon="oskinîkiw" class="na" gcat="3sNA" sgloss="young_man" stem="oskinîkiw" suffix="0">oskinîkiw</w>
+,</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+.
+<gloss>“You are consorting with that young man,” he would tell her.</gloss>
+</seg>
+</p>
+
+<p n="3">
+
+<seg n="3.1">
+<q>
+<w canon="â" class="ipc" gcat="IPC" sgloss="ah" stem="â">â</w>
+,
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+!</q>
+<gloss>“Oh dear, no!”</gloss>
+</seg>
+</p>
+
+<p n="4">
+
+<seg n="4.1">
+<q rend="PRE1 POST0">
+<w canon="â" class="ipc" gcat="IPC" sgloss="ah" stem="â">â</w>
+,
+<w canon="kônâpêmin" class="vai" gcat="2sAI" prefix="2" sgloss="have_husband" stem="onâpêmi" suffix="-n">kônâpêmin</w>
+<w canon="ohcitaw" class="ipc" gcat="IPC" sgloss="expressly" stem="ohcitaw">ohcitaw</w>
+!
+</q>
+<gloss>“Yes, you are, just the same!</gloss>
+</seg>
+
+<seg n="4.2">
+<q rend="PRE0 POST1">
+<w canon="wâpahki" class="ipc" gcat="IPC" sgloss="tomorrow" stem="wâpahki">wâpahkih</w>
+<w canon="misi-yêkawaciyihk" class="ni" gcat="0locNI" prenouns="misi|big" sgloss="sand_hill" stem="yêkawaciy" suffix="-ihk">misi-yêkawaciyihk</w>
+<w canon="ki-ka-itohtân" class="vai" gcat="2sAI" prefix="2" preverbs="ka|will" sgloss="go" stem="itohtê" suffix="-n">kik-êtohtân</w>
+.</q>
+<gloss>Tomorrow you will go to the great sand-hill.”</gloss>
+</seg>
+</p>
+
+<p n="5">
+
+<seg n="5.1">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="ê-wâpahk" class="vii" gcat="0sIIcnj" preverbs="ê|cnj" sgloss="be_dawn" stem="wâpan" suffix="-k">êh-wâpahk</w>
+,
+<w canon="kâ-wawêyît" class="vai" gcat="3sAIcnj" preverbs="kâ|cnj" sgloss="get_ready" stem="wawêyî" suffix="-t">kâ-wawêyît</w>
+,
+<q>
+<w canon="kâ-miywâsiki" class="vii" gcat="0pIIcnj" preverbs="kâ|cnj" sgloss="be_good" stem="miywâsin" suffix="-ki">kâ-miywâsikih</w>
+<w canon="kitayiwinisa" class="ni" gcat="0pNIof2s" prefix="2" sgloss="clothes" stem="ayiwinis" suffix="-a">kitayôwinisah</w>
+<w canon="postiska" class="vti" gcat="2sTIimp" sgloss="put_on" stem="postisk" suffix="-a">postiskah</w>
+.</q>
+<gloss>Then, the next morning, when he had made ready, “Put on your best clothes.”</gloss>
+</seg>
+</p>
+
+<p n="6">
+
+<seg n="6.1">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="tâpwê" class="ipc" gcat="IPC" sgloss="truly" stem="tâpwê">tâpwê</w>
+<w canon="wawêsîw" class="vai" gcat="3sAI" sgloss="dress_up" stem="wawêsî" suffix="-w">wawêsîw</w>
+.
+<gloss>Accordingly she dressed up.</gloss>
+</seg>
+</p>
+
+<p n="7">
+
+<seg n="7.1">
+<q>
+<w canon="wayawîtimihk" class="ipc" gcat="IPC" sgloss="outside" stem="wayawîtimihk">wayawîtimihk</w>
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="kitâpam" class="vta" gcat="2s3sTAimp" sgloss="look_at" stem="kitâpam" suffix="0">kitâpam</w>
+<w canon="iskwêyâc" class="ipc" gcat="IPC" sgloss="to_the_end" stem="iskwêyâc">iskwêyâc</w>
+<w canon="kâ-manitôwit" class="vai" gcat="3sAIcnj" preverbs="kâ|cnj" sgloss="be_spirit" stem="manitowi" suffix="-t">kâ-manitôwit</w>
+<w canon="pîsim" class="na" gcat="3sNA" sgloss="sun" stem="pîsimw" suffix="0">pîsim</w>
+,</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+.
+<gloss>“Go outside now and for the last time look upon the holy sun.”</gloss>
+</seg>
+</p>
+
+<p n="8">
+
+<seg n="8.1">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="wayawîw" class="vai" gcat="3sAI" sgloss="go_outside" stem="wayawî" suffix="-w">wayawîw</w>
+<w canon="iskwêw" class="na" gcat="3sNA" sgloss="woman" stem="iskwêw" suffix="0">iskwêw</w>
+.
+<gloss>Then the woman went outside.</gloss>
+</seg>
+
+<seg n="8.2">
+<w canon="kitâpamêw" class="vta" gcat="3s3oTA" sgloss="look_at" stem="kitâpam" suffix="-êw">kitâpamêw</w>
+;
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="pîhtokêw" class="vai" gcat="3sAI" sgloss="enter" stem="pîhtikwê" suffix="-w">pîhtokêw</w>
+.
+<gloss>She looked upon the sun; then she came in.</gloss>
+</seg>
+</p>
+
+<p n="9">
+
+<seg n="9.1">
+<q>
+<w canon="tânima" class="pr" gcat="0sPR" sgloss="which_one" stem="tâna" suffix="-0s">tânimâh</w>
+<w canon="wâh-otinaman" class="vti" gcat="2sTIcnj" prefix="IC" preverbs="wî|will" sgloss="take" stem="otin" suffix="-aman">wâh-otinaman</w>
+?</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+<w canon="owîkimâkana" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="spouse" stem="wîkimâkan" suffix="-a">owîkimâkanah</w>
+;
+<q>
+<w canon="ta-nipiyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="die" stem="nipi" suffix="-yan">ta-nipiyan</w>
+,
+<w canon="awêkâ" class="ipc" gcat="IPC" sgloss="or_else" stem="awêkâ">awêkâh</w>
+<w canon="ta-kîskikotêyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="have_cutoff_nose" stem="kîskikotê" suffix="-yan">ta-kîskikotêyan</w>
+?</q>
+<gloss>“Which will you take?” he asked his wife; “To die, or that I cut off your nose?”</gloss>
+</seg>
+</p>
+
+<p n="10">
+
+<seg n="10.1">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="iskwêw" class="na" gcat="3sNA" sgloss="woman" stem="iskwêw" suffix="0">iskwêw</w>
+,
+<q>
+<w canon="kiyâm" class="ipc" gcat="IPC" sgloss="oh_well" stem="kiyâm">kiyâm</w>
+<w canon="kîskikotêson" class="vta" gcat="2s1sTAimp" sgloss="cut_off_nose" stem="kîskikotêsw" suffix="-in">kîskikotêson</w>
+,</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+.
+<gloss>Then the woman answered him, “Cut off my nose.”</gloss>
+</seg>
+</p>
+
+<p n="11">
+
+<seg n="11.1">
+<w canon="kîskikotêsok" class="vta" gcat="3o3sTA" sgloss="cut_off_nose" stem="kîskikotêsw" suffix="-ik">kîskikotêsok</w>
+.
+<gloss>He cut off her nose.</gloss>
+</seg>
+</p>
+
+<p n="12">
+
+<seg n="12.1">
+<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">âyakô</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mina</w>
+<w canon="kayâs" class="ipc" gcat="IPC" sgloss="long_ago" stem="kayâs">kayâs</w>
+<w canon="ayahciyiniwak" class="na" gcat="3pNA" sgloss="Blackfoot" stem="ayahciyiniw" suffix="-ak">ayahciyiniwak</w>
+<w canon="kâ-kâhkwêyihtahkik" class="vti" gcat="3pTIcnj" preverbs="kâ|cnj" sgloss="be_jealous" stem="kâhkwêyiht" suffix="-ahkik">kâ-kâhkwêyihtahkik</w>
+,
+<w canon="wîwiwâwa" class="nda" gcat="3oNDAof3p" prefix="3" sgloss="wife" stem="îw" suffix="-iwâwa">wîwiwâwah</w>
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="ê-kî-tôtawâcik" class="vta" gcat="3p3oTAcnj" preverbs="ê|cnj kî|PAST" sgloss="do_thus_to" stem="tôtaw" suffix="-âcik">ê-kîh-tôtawâcik</w>
+,
+<w canon="maywês" class="ipc" gcat="IPC" sgloss="previously" stem="maywês">mayôwês</w>
+<w canon="wiyasôwêwin" class="ni" gcat="0sNI" sgloss="decision" stem="wiyasiwêwin" suffix="0">wiyasôwêwin</w>
+<w canon="ihtakohk" class="vii" gcat="0sIIcnj" sgloss="exist" stem="ihtakon" suffix="-k">ihtakohk</w>
+,
+<w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">pikw</w>
+<w canon="isi" class="ipc" gcat="IPC" sgloss="thus" stem="isi">îsi</w>
+<w canon="kâ-kî-tôtawâcik" class="vta" gcat="3p3oTAcnj" preverbs="kâ|cnj kî|PAST" sgloss="do_thus_to" stem="tôtaw" suffix="-âcik">kâ-kîh-tôtawâcik</w>
+<w canon="wîwiwâwa" class="nda" gcat="3oNDAof3p" prefix="3" sgloss="wife" stem="îw" suffix="-iwâwa">wîwiwâwa</w>
+.
+<gloss>This is another example of how the Blackfoot of old, when they were jealous, treated their wives, before there was law, when they did what they pleased to their wives.</gloss>
+</seg>
+
+<seg n="12.2">
+<w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâk</w>
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="anohc" class="ipc" gcat="IPC" sgloss="now" stem="anohc">anohc</w>
+<w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
+<w canon="takon" class="vii" gcat="0sII" sgloss="exist" stem="takon" suffix="0">takon</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakw</w>
+<w canon="anima" class="dem" gcat="0sDEM" sgloss="that" stem="anima">ânima</w>
+;
+<gloss>But now this no longer happens;</gloss>
+</seg>
+
+<seg n="12.3">
+<w canon="wêtinahk" class="ipc" gcat="IPC" sgloss="quietly" stem="wêtinahk">wêtinahk</w>
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="iskwêwak" class="na" gcat="3pNA" sgloss="woman" stem="iskwêw" suffix="-ak">iskwêwak</w>
+<w canon="pimâtisiwak" class="vai" gcat="3pAI" sgloss="live" stem="pimâtisi" suffix="-wak">pimâtisiwak</w>
+.
+<gloss>now the women live in peace.</gloss>
+</seg>
+
+<seg n="12.4">
+<w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
+<w canon="kî-kakwâtakihâwak" class="vta" gcat="x3pTA" preverbs="kî|PAST" sgloss="make_suffer" stem="kakwâtakih" suffix="-âwak">kî-kakwâtakihâwak</w>
+;
+<w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâk</w>
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="wânaskêwak" class="vai" gcat="3pAI" sgloss="be_freed_from" stem="wânaskê" suffix="-wak">wânaskêwak</w>
+.
+<gloss>Then they were tormented; but now they are delivered from it.</gloss>
+</seg>
+
+<seg n="12.5">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">minah</w>
+<w canon="ê-kî-paskoswâcik" class="vta" gcat="3p3oTAcnj" preverbs="ê|cnj kî|PAST" sgloss="cut_hair" stem="paskosw" suffix="-âcik">ê-kîh-paskoswâcik</w>
+,
+<w canon="êwakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êyôkonik</w>
+<w canon="nêhiyawak" class="na" gcat="3pNA" sgloss="Cree" stem="nêhiyaw" suffix="-ak">nêhiyawak</w>
+,
+<w canon="ê-kîsi-nôtiniskwêwêcik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj kîsi|completely" sgloss="beat_wife" stem="nôtiniskwêwê" suffix="-cik">ê-kîsi-nôtiniskwêwêcik</w>
+,
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
+<w canon="wîhkâc" class="ipc" gcat="IPC" sgloss="ever" stem="wîhkâc">wîhkâc</w>
+<w canon="mâninâk" class="ipc" gcat="IPC" sgloss="continually" stem="mâninakis">maninâk</w>
+<w canon="ohci" class="ipc" gcat="IPC" sgloss="[past]" stem="ohci">ohci</w>
+<w canon="nipahêwak" class="vta" gcat="3p3oTA" sgloss="kill" stem="nipah" suffix="-êwak">nipahêwak</w>
+,
+<w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">pikôh</w>
+<w canon="ê-kîsi-kîskahwâcik" class="vta" gcat="3p3oTAcnj" preverbs="ê|cnj kîsi|completely" sgloss="cut_from" stem="kîskahw" suffix="-âcik">êh-kîs-kîskahwâcik</w>
+<w canon="wîwiwâwa" class="nda" gcat="3oNDAof3p" prefix="3" sgloss="wife" stem="îw" suffix="-iwâwa">wîwiwâwa</w>
+,
+<w canon="êyakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êyakonik</w>
+<w canon="nêhiyawak" class="na" gcat="3pNA" sgloss="Cree" stem="nêhiyaw" suffix="-ak">nêhiyawak</w>
+.
+<gloss>These Cree, too, mutilated their wives when they were angry at them, but they never went as far as killing them; they only cut them up, did these Cree.</gloss>
+</seg>
+
+<seg n="12.6">
+<w canon="êyakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êyakonik</w>
+<w canon="nêhiyawak" class="na" gcat="3pNA" sgloss="Cree" stem="nêhiyaw" suffix="-ak">nêhiyawak</w>
+<w canon="kâ-kî-tôtahkik" class="vti" gcat="3pTIcnj" preverbs="kâ|cnj kî|PAST" sgloss="do_thus" stem="tôt" suffix="-ahkik">kâ-kîh-tôtahkik</w>
+;
+<w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâk</w>
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwa</w>
+<w canon="nama-kîkwayiyiw" class="vii" gcat="0oII" sgloss="be_nothing" stem="nama-kîkwayi" suffix="-yiw">nama-kîkwâwiyiw</w>
+.
+<gloss>That was what these Cree did, but now it has ceased.</gloss>
+</seg>
+
+<seg n="12.7">
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakw</w>
+<w canon="anima" class="dem" gcat="0sDEM" sgloss="that" stem="anima">ânimah</w>
+<w canon="miywêyihtamwak" class="vti" gcat="3pTI" sgloss="consider_good" stem="miywêyiht" suffix="-amwak">miywêyihtamwak</w>
+<w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
+<w canon="ê-pônipayiyik" class="vii" gcat="0oIIcnj" preverbs="ê|cnj" sgloss="stop" stem="pônipayi" suffix="-yik">êh-pônipayiyik</w>
+<w canon="iskwêwak" class="na" gcat="3pNA" sgloss="woman" stem="iskwêw" suffix="-ak">iskwêwak</w>
+,
+<w canon="mitoni" class="ipc" gcat="IPC" sgloss="intensively" stem="mitoni">mitonih</w>
+<w canon="ê-wânaskêcik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="be_freed_from" stem="wânaskê" suffix="-cik">êh-wânaskêcik</w>
+.
+<gloss>The women are glad that it has stopped, for they are delivered from great suffering.</gloss>
+</seg>
+</p>
+</body>
+</text>
+</tei.2>

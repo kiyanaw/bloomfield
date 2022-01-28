@@ -1,0 +1,301 @@
+<?xml version="1.0" ?><!DOCTYPE TEI.2  PUBLIC '-//TEI//DTD TEI Lite XML ver. 1//EN'  'file:/c:/app/usr/dtds/teixlite.dtd'><tei.2>
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+	<title>SSSC 29: Rabbit</title>
+	<author>Mrs. Maggie Achenam</author>
+	<respstmt>
+	  <name>Kevin Russell</name>
+	  <resp>TEI markup and word-tagging</resp>
+	</respstmt>
+      </titlestmt>
+      <publicationstmt>
+	<authority>Cree Text Project</authority>
+	<address>
+	  <addrline>Linguistics Department</addrline>
+	  <addrline>University of Manitoba</addrline>
+	  <addrline>Winnipeg, MB  R3T 2N2  Canada</addrline>
+	</address>
+	<availability>
+	  <p>for internal use only</p>
+	</availability>
+      </publicationstmt>
+      <sourcedesc>
+	<bibl>
+          <title>Sacred Stories of the Sweet Grass Cree</title>
+          <editor>Leonard Bloomfield</editor>
+          <date>1930</date>
+          <publisher>F.A. Acland, King's Printer</publisher>
+          <pubplace>Ottawa</pubplace>
+          <series>National Museum of Canada, Bulletin no. 60, Anthropological Series, no. 11</series>
+          <biblscope>page 280</biblscope>
+        </bibl>
+      </sourcedesc>
+    </filedesc>
+    <encodingdesc>
+      <p/>
+      <p>This electronic document is oriented more toward representing those
+      features that seem most likely to be relevant for grammatical analyses,
+      rather than toward faithfully representing all the information available in
+      the book.</p>
+    </encodingdesc>
+    <profiledesc>
+      <langusage>
+	<language id="x-neh">Plains Cree</language>
+	<language id="eng">English</language>
+      </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>2004 04 01; KR; inauguration</item>
+        <item>2014 06 10; KR; UTF-8, paragraph and sentence numbering, smart-quotes in English translations</item>
+      </list>
+    </revisiondesc>
+  </teiheader>
+  <text>
+    <body>
+
+<head>Sacred Stories 29 - Rabbit</head>
+<docauthor>Mrs. Maggie Achenam</docauthor>
+
+<p n="1">
+
+<seg n="1.1">
+<w canon="kêtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kêtahtawê</w>
+<w canon="êsa" class="ipc" gcat="IPC" sgloss="reportedly" stem="êsa">êsah</w>
+<w canon="wâpos" class="na" gcat="3sNA" sgloss="rabbit" stem="wâposw" suffix="0">wâpos</w>
+<w canon="kâh-kimotiw" class="vai" gcat="3sAI" preverbs="dupH|H.REDUP" sgloss="steal" stem="kimoti" suffix="-w">kâh-kimotiw</w>
+<w canon="pakânisa" class="na" extra="dim" gcat="3oNA" sgloss="nut" stem="pakân" suffix="-a">pakânisah</w>
+.
+<gloss>Once upon a time a rabbit used to steal nuts.</gloss>
+</seg>
+
+<seg n="1.2">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="kisiwâhêw" class="vta" gcat="3s3oTA" sgloss="anger" stem="kisiwâh" suffix="-êw">kisiwâhêw</w>
+<w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôhih</w>
+<w canon="ka-kimotamawât" class="vta" gcat="3s3oTAcnj" preverbs="ka|will" sgloss="steal_from" stem="kimotamaw" suffix="-ât">ka-kimotamawât</w>
+.
+<gloss>He angered the people from whom he stole them.</gloss>
+</seg>
+</p>
+
+<p n="2">
+
+<seg n="2.1">
+<q>
+<w canon="tânisi" class="ipc" gcat="IPC" sgloss="how" stem="tânisi">tânisi</w>
+<w canon="kê-tôtawâyahk" class="vta" gcat="1i3sTAcnj" preverbs="kê|IC+FUT" sgloss="do_thus_to" stem="tôtaw" suffix="-âyahk">kê-tôtawâyahk</w>
+?</q>
+<w canon="itwêwak" class="vai" gcat="3pAI" sgloss="say" stem="itwê" suffix="-wak">itwêwak</w>
+.
+<gloss>“Shat shall we do to him?” they asked.</gloss>
+</seg>
+</p>
+
+<p n="3">
+
+<seg n="3.1">
+<q>
+<w canon="ka-wanihikamawânaw" class="vta" gcat="1i3sTA" preverbs="ka|will" sgloss="set_traps_for" stem="wanihikamaw" suffix="-ânaw">ka-wanîhikamawânaw</w>
+.</q>
+<gloss>“Let us set a snare for him.”</gloss>
+</seg>
+</p>
+
+<p n="4">
+
+<seg n="4.1">
+<w canon="pikiwa" class="na" gcat="3oNA" sgloss="spruce_gum" stem="pikiw" suffix="-a">pikiwah</w>
+<w canon="êsa" class="ipc" gcat="IPC" sgloss="reportedly" stem="êsa">ês</w>
+<w canon="ahêwak" class="vta" gcat="3p3oTA" sgloss="place_there" stem="ah" suffix="-êwak">âhêwak</w>
+.
+<gloss>They set some gum for him.</gloss>
+</seg>
+
+<seg n="4.2">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="wâpos" class="na" gcat="3sNA" sgloss="rabbit" stem="wâposw" suffix="0">wâpos</w>
+<w canon="ê-ispahtât" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="run" stem="ispahtâ" suffix="-t">êh-ispahtât</w>
+,
+<w canon="micimoskiwêw" class="vai" gcat="3sAI" sgloss="be_stuck" stem="micimoskowê" suffix="-w">micimoskiwêw</w>
+.
+<gloss>Then when Rabbit ran there, he got stuck in the gum.</gloss>
+</seg>
+</p>
+
+<p n="5">
+
+<seg n="5.1">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="ôki" class="dem" gcat="3pDEM" sgloss="this" stem="awa" suffix="-3p">ôki</w>
+<w canon="ayîsiyiniwak" class="na" gcat="3pNA" sgloss="person" stem="ayisiyiniw" suffix="-ak">ayîsiyiniwak</w>
+,
+<q>
+<w canon="tânisi" class="ipc" gcat="IPC" sgloss="how" stem="tânisi">tânisih</w>
+<w canon="kê-tôtawâyahk" class="vta" gcat="1i3sTAcnj" preverbs="kê|IC+FUT" sgloss="do_thus_to" stem="tôtaw" suffix="-âyahk">kê-tôtawâyahk</w>
+!</q>
+<gloss>Then those people, “What shall we do with him?”</gloss>
+</seg>
+</p>
+
+<p n="6">
+
+<seg n="6.1">
+<q>
+<w canon="mônahipânihk" class="ni" gcat="0locNI" sgloss="source" stem="mônahipân" suffix="-ihk">mônahipânihk</w>
+<w canon="ahpô" class="ipc" gcat="IPC" sgloss="even" stem="ahpô">ahpôh</w>
+<w canon="okâminakasîskâhk" class="ni" gcat="0locNI" sgloss="thorn_thicket" stem="okâminakasîwi-sakâw" suffix="-ihk">okâminakasîskâhk</w>
+<w canon="ka-pîhciwêpinânaw" class="vta" gcat="1i3sTA" preverbs="ka|will" sgloss="throw_inside" stem="pîhciwêpin" suffix="-ânaw">ka-pîhciwêpinânaw</w>
+?</q>
+<gloss>“Shall we throw him into a well or into the brambles?”</gloss>
+</seg>
+</p>
+
+<p n="7">
+
+<seg n="7.1">
+<q rend="PRE 1 POST0">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="êsa" class="ipc" gcat="IPC" sgloss="reportedly" stem="êsa">êsah</w>
+<w canon="ka-kakwêcimânaw" class="vta" gcat="1i3sTA" preverbs="ka|will" sgloss="ask" stem="kakwêcim" suffix="-ânaw">k-kakwêcimânaw</w>
+<w canon="tânita" class="ipc" gcat="IPC" sgloss="where" stem="tânita">tânitah</w>
+<w canon="kâ-isiwêpinâyahk" class="vta" gcat="1i3sTAcnj" preverbs="kâ|cnj" sgloss="throw_thus" stem="isiwêpin" suffix="-âyahk">k-êsiwêpinâyahk</w>
+.</q>
+<gloss>“Let us ask him where we are to throw him.</gloss>
+</seg>
+
+<seg n="7.2">
+<q rend="PRE 0 POST1">
+<w canon="tânima" class="pr" gcat="0sPR" sgloss="which_one" stem="tâna" suffix="-0s">tânimah</w>
+<w canon="kostahki" class="vti" gcat="3sTIsubjunc" sgloss="fear" stem="kost" suffix="-ahki">kostahkih</w>
+<w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
+<w canon="ka-isiwêpinânaw" class="vta" gcat="1i3sTA" preverbs="ka|will" sgloss="throw_thus" stem="isiwêpin" suffix="-ânaw">k-êsiwêpinânaw</w>
+.</q>
+<gloss>Whichever he fears, there we shall throw him.”</gloss>
+</seg>
+</p>
+
+<p n="8">
+
+<seg n="8.1">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="nâtêwak" class="vta" gcat="3p3oTA" sgloss="fetch" stem="nât" suffix="-êwak">nâtêwak</w>
+<w canon="wâposwa" class="na" gcat="3oNA" sgloss="rabbit" stem="wâposw" suffix="-a">wâposwah</w>
+;
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="kakwêcimêwak" class="vta" gcat="3p3oTA" sgloss="ask" stem="kakwêcim" suffix="-êwak">kakwêcimêwak</w>
+.
+<gloss>Then they fetched rabbit and questioned him.</gloss>
+</seg>
+</p>
+
+<p n="9">
+
+<seg n="9.1">
+<q>
+<w canon="tânita" class="ipc" gcat="IPC" sgloss="where" stem="tânita">tânitah</w>
+<w canon="kê-isiwêpinitâhk" class="vta" gcat="1e2xTAcnj" preverbs="kê|IC+FUT" sgloss="throw_thus" stem="isiwêpin" suffix="-itâhk">kêy-isiwêpinitâhk</w>
+,
+<w canon="mônahipânihk" class="ni" gcat="0locNI" sgloss="source" stem="mônahipân" suffix="-ihk">mônahipânihk</w>
+<w canon="ahpô" class="ipc" gcat="IPC" sgloss="even" stem="ahpô">ahpôh</w>
+<w canon="okâminakasîskâhk" class="ni" gcat="0locNI" sgloss="thorn_thicket" stem="okâminakasîwi-sakâw" suffix="-ihk">okâminakasîskâhk</w>
+?</q>
+<gloss>“Where shall we throw you, into a well or into the brambles?”</gloss>
+</seg>
+</p>
+
+<p n="10">
+
+<seg n="10.1">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="wâpos" class="na" gcat="3sNA" sgloss="rabbit" stem="wâposw" suffix="0">wâpos</w>
+,
+<q>
+<w canon="nikostên" class="vti" gcat="1sTI" prefix="1" sgloss="fear" stem="kost" suffix="-ên">nikostên</w>
+<w canon="okâminakasîskâhk" class="ni" gcat="0locNI" sgloss="thorn_thicket" stem="okâminakasîwi-sakâw" suffix="-ihk">okâminakasîskâhk</w>
+.</q>
+<gloss>Then Rabbit, “I am afraid of the brambles.”</gloss>
+</seg>
+</p>
+
+<p n="11">
+
+<seg n="11.1">
+<q>
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="ka-isiwêpinânaw" class="vta" gcat="1i3sTA" preverbs="ka|will" sgloss="throw_thus" stem="isiwêpin" suffix="-ânaw">k-êsiwêpinânaw</w>
+,</q>
+<w canon="itwêwak" class="vai" gcat="3pAI" sgloss="say" stem="itwê" suffix="-wak">itwêwak</w>
+.
+<gloss>“There we shall throw him.” they said.</gloss>
+</seg>
+</p>
+
+<p n="12">
+
+<seg n="12.1">
+<w canon="otihtinêwak" class="vta" gcat="3p3oTA" sgloss="grab" stem="otihtin" suffix="-êwak">otihtinêwak</w>
+<w canon="wâposwa" class="na" gcat="3oNA" sgloss="rabbit" stem="wâposw" suffix="-a">wâposwah</w>
+;
+<w canon="okâminakasîskâhk" class="ni" gcat="0locNI" sgloss="thorn_thicket" stem="okâminakasîwi-sakâw" suffix="-ihk">okâminakasîskâhk</w>
+<w canon="isiwêpinêwak" class="vta" gcat="3p3oTA" sgloss="throw_thus" stem="isiwêpin" suffix="-êwak">isiwêpinêwak</w>
+.
+<gloss>They took hold of Rabbit; they threw him into the brambles.</gloss>
+</seg>
+
+<seg n="12.2">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="miywêyihtam" class="vti" gcat="3sTI" sgloss="consider_good" stem="miywêyiht" suffix="-am">miywêhihtam</w>
+.
+<gloss>He was glad of that.</gloss>
+</seg>
+</p>
+
+<p n="13">
+
+<seg n="13.1">
+<q>
+<w canon="nimêcawêwinisihk" class="ni" extra="dim" gcat="0locNIof1s" prefix="1" sgloss="game" stem="mêtawêwin" suffix="-ihk">nimêcawêwinisihk</w>
+!</q>
+<gloss>“Into my own playground!”</gloss>
+</seg>
+</p>
+
+<p n="14">
+
+<seg n="14.1">
+<w canon="ati-pimipayiw" class="vii" gcat="0sII" preverbs="ati|PROG" sgloss="move_along" stem="pimipayi" suffix="-w">ati-pimipayiw</w>
+.
+<gloss>He ran along.</gloss>
+</seg>
+</p>
+
+<p n="15">
+
+<seg n="15.1">
+<q>
+<w canon="kitatamihinâwâw" class="vta" gcat="2p1sTA" prefix="2" sgloss="make_grateful" stem="atamih" suffix="-inâwâw">kitatamihinâwâw</w>
+<w canon="êsiwêpiniyêk" class="vta" gcat="2p1sTAcnj" prefix="IC" sgloss="throw_thus" stem="isiwêpin" suffix="-iyêk">êsiwêpiniyêk</w>
+!</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="wâpos" class="na" gcat="3sNA" sgloss="rabbit" stem="wâposw" suffix="0">wâpos</w>
+.
+<gloss>“Very kind of you to throw me here!” said Rabbit.</gloss>
+</seg>
+</p>
+
+<p n="16">
+
+<seg n="16.1">
+<w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
+<w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
+<w canon="âtayôhkêwin" class="ni" gcat="0sNI" sgloss="sacred_story" stem="âtayôhkêwin" suffix="0">âtayôhkêwin</w>
+<w canon="ê-kîsihtâyân" class="vai" gcat="1sAIcnj" preverbs="ê|cnj" sgloss="finish" stem="kîsîhtâ" suffix="-yân">êh-kîsihtâyân</w>
+.
+<gloss>And so I have finished one sacred story.</gloss>
+</seg>
+</p>
+</body>
+</text>
+</tei.2>

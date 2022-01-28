@@ -1,0 +1,252 @@
+<?xml version="1.0" ?><!DOCTYPE TEI.2  PUBLIC '-//TEI//DTD TEI Lite XML ver. 1//EN'  'file:/c:/app/usr/dtds/teixlite.dtd'><tei.2>
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+	<title>PCT 20: A Great Herd</title>
+	<author>Coming-Day</author>
+	<respstmt>
+	  <name>Kevin Russell</name>
+	  <resp>TEI markup and word-tagging</resp>
+	</respstmt>
+      </titlestmt>
+      <publicationstmt>
+	<authority>Cree Text Project</authority>
+	<address>
+	  <addrline>Linguistics Department</addrline>
+	  <addrline>University of Manitoba</addrline>
+	  <addrline>Winnipeg, MB  R3T 2N2  Canada</addrline>
+	</address>
+	<availability>
+	  <p>for internal use only</p>
+	</availability>
+      </publicationstmt>
+      <sourcedesc>
+	<bibl>
+          <title>Plains Cree Texts</title>
+          <editor>Leonard Bloomfield</editor>
+          <date>1934</date>
+          <publisher>G.E. Stechert &amp; Co.</publisher>
+          <pubplace>New York</pubplace>
+          <series>Publications of the American Ethnological Society, Volume XVI</series>
+          <biblscope>pages 102-103</biblscope>
+        </bibl>
+      </sourcedesc>
+    </filedesc>
+    <encodingdesc>
+      <p/>
+      <p>This electronic document is oriented more toward representing those
+      features that seem most likely to be relevant for grammatical analyses,
+      rather than toward faithfully representing all the information available in
+      the book.</p>
+    </encodingdesc>
+    <profiledesc>
+      <langusage>
+	<language id="x-neh">Plains Cree</language>
+	<language id="eng">English</language>
+      </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>2004 04 01; KR; inauguration</item>
+        <item>2014 06 10; KR; UTF-8, paragraph and sentence numbering, smart-quotes in English translations</item>
+      </list>
+    </revisiondesc>
+  </teiheader>
+  <text>
+    <body>
+
+<head>PCT 20 - A great herd</head>
+<docauthor>Coming-Day</docauthor>
+
+<p n="1">
+
+<seg n="1.1">
+<w canon="kayâs" class="ipc" gcat="IPC" sgloss="long_ago" stem="kayâs">kayâs</w>
+<w canon="mostoswak" class="na" gcat="3pNA" sgloss="cattle" stem="mostosw" suffix="-ak">mostoswak</w>
+,
+<w canon="paskwâwi-mostoswak" class="na" gcat="3pNA" sgloss="bison" stem="paskwâwi-mostosw" suffix="-ak">paskwâwi-mostoswak</w>
+,
+<w canon="nânitaw" class="ipc" gcat="IPC" sgloss="simply" stem="nânitaw">nânitaw</w>
+<w canon="mitâtaht" class="ipc" gcat="IPC" sgloss="ten" stem="mitâtaht">mitâtaht</w>
+<w canon="tipahikan" class="ni" gcat="0sNI" sgloss="measure" stem="tipahikan" suffix="0">tipahikan</w>
+,
+<w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
+<w canon="askiy" class="ni" gcat="0sNI" sgloss="land" stem="askiy" suffix="0">askiy</w>
+<w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
+<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="nôkwan" class="vii" gcat="0sII" sgloss="be_visible" stem="nôkwan" suffix="0">nôkwan</w>
+,
+<w canon="ê-akoskahkik" class="vti" gcat="3pTIcnj" preverbs="ê|cnj" sgloss="step_on" stem="akosk" suffix="-ahkik">êh-akoskahkik</w>
+<w canon="paskwâwi-mostoswak" class="na" gcat="3pNA" sgloss="bison" stem="paskwâwi-mostosw" suffix="-ak">paskwâwi-mostoswak</w>
+.
+<gloss>The old-time buffalos, for a distance of some ten miles the earth was not visible, as the buffalos covered it.</gloss>
+</seg>
+
+<seg n="1.2">
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwakw</w>
+<w canon="âcimôwin" class="ni" gcat="0sNI" sgloss="story" stem="âcimowin" suffix="0">âcimôwin</w>
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+<w canon="kayâs" class="ipc" gcat="IPC" sgloss="long_ago" stem="kayâs">kayâs</w>
+,
+<w canon="mâskôc" class="ipc" gcat="IPC" sgloss="perhaps" stem="mâskôc">mâskôc</w>
+<w canon="niyânano-mitanaw" class="ipc" gcat="IPC" sgloss="fifty" stem="niyânanomitanaw">niyânano-mitanaw</w>
+<w canon="askiy" class="ni" gcat="0sNI" sgloss="land" stem="askiy" suffix="0">askiy</w>
+<w canon="êkospî" class="ipc" gcat="IPC" sgloss="then" stem="êkospî">êkospi</w>
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ômah</w>
+<w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">iyikohk</w>
+<w canon="ê-mihcêticik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="be_numerous" stem="mihcêti" suffix="-cik">ê-mihcêticik</w>
+<w canon="mostoswak" class="na" gcat="3pNA" sgloss="cattle" stem="mostosw" suffix="-ak">mostoswak</w>
+.
+<gloss>This story is not old, perhaps fifty years ago it was, when the buffalos were so many.</gloss>
+</seg>
+
+<seg n="1.3">
+<w canon="nâpêwak" class="na" gcat="3pNA" sgloss="man" stem="nâpêw" suffix="-ak">nâpêwak</w>
+<w canon="niyânan" class="ipc" gcat="IPC" sgloss="five" stem="niyânan">niyânan</w>
+<w canon="êwakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êwakonik</w>
+<w canon="ê-âcimocik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="tell_story" stem="âcimo" suffix="-cik">êh-âcimocik</w>
+<w canon="ê-wâpamâcik" class="vta" gcat="3p3oTAcnj" preverbs="ê|cnj" sgloss="see" stem="wâpam" suffix="-âcik">êh-wâpamâcik</w>
+,
+<w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">pikôh</w>
+<w canon="ê-pimohtêcik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="go_along" stem="pimohtê" suffix="-cik">êh-pimohtêcik</w>
+<w canon="ôki" class="dem" gcat="3pDEM" sgloss="this" stem="awa" suffix="-3p">ôki</w>
+<w canon="nêhiyawak" class="na" gcat="3pNA" sgloss="Cree" stem="nêhiyaw" suffix="-ak">nêhiyawak</w>
+,
+<gloss>Five men they were who told of it, having seen it when they were out for a walk, these Cree.</gloss>
+</seg>
+
+<seg n="1.4">
+<w canon="akohpa" class="ni" gcat="0pNI" sgloss="blanket" stem="akohp" suffix="-a">akohpah</w>
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">ômisi</w>
+<w canon="ê-wêpinahkik" class="vti" gcat="3pTIcnj" preverbs="ê|cnj" sgloss="throw_away" stem="wêpin" suffix="-ahkik">ê-wêpinahkik</w>
+,
+<w canon="ê-tawitisahwâcik" class="vta" gcat="3p3oTAcnj" preverbs="ê|cnj" sgloss="drive_apart" stem="tawitisahw" suffix="-âcik">êh-tawocahwâcik</w>
+<w canon="mostoswa" class="na" gcat="3oNA" sgloss="cattle" stem="mostosw" suffix="-a">mostoswah</w>
+;
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="ôtê" class="ipc" gcat="IPC" sgloss="over_here" stem="ôtê">ôtê</w>
+<w canon="nâway" class="ipc" gcat="IPC" sgloss="behind" stem="nâway">nâway</w>
+<w canon="kâwi" class="ipc" gcat="IPC" sgloss="again" stem="kâwi">kâw</w>
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">ômis</w>
+<w canon="ê-pê-tipwayâyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj pê|thence" sgloss="***" stem="***" suffix="-yit">êh-pê-tipwayâyit</w>
+<w canon="ê-misihtawayâyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj misi|big" sgloss="make_room" stem="tawayâ" suffix="-yit">ê-misihtawayâyit</w>
+.
+<gloss>They shook their blankets like this, to drive the buffalos apart, and behind them the herd closed in again.</gloss>
+<note>LB on {êh-tawocahwâcik}: Probably the normal form is {êh-tawitisahwâcik}, initial stem {taw-}: “open”, transitive verb final {-tisahw-}: “drive” (cf. {pimitisahwêw}: “he drives him on”).</note>
+<note>LB on {ê-misihtawayâyit}: The last two words are no doubt wrongly recorded; the only correction I can suggest is too far from the text: {êh-pê-kipwâyik ê-misih-tawâyik} “it closed up, the big opening.”  The meaning was clear from Coming-Day's gestures.</note>
+<note>CHECK {êh-pê-tipwayâyit}: ?? cf. {kipwâw}</note>
+</seg>
+
+<seg n="1.5">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="mitâtaht" class="ipc" gcat="IPC" sgloss="ten" stem="mitâtaht">mitâtaht</w>
+<w canon="tipahikan" class="ni" gcat="0sNI" sgloss="measure" stem="tipahikan" suffix="0">tipahikan</w>
+<w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
+<w canon="isko" class="ipc" gcat="IPC" sgloss="that_much" stem="isko">iskoh</w>
+<w canon="ê-ayâcik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="be" stem="ayâ" suffix="-cik">êh-ayâcik</w>
+<w canon="paskwâwi-mostoswak" class="na" gcat="3pNA" sgloss="bison" stem="paskwâwi-mostosw" suffix="-ak">paskwâwi-mostoswak</w>
+,
+<w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">iyikohk</w>
+<w canon="ê-mihcêticik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="be_numerous" stem="mihcêti" suffix="-cik">ê-mihcêticik</w>
+,
+<w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
+<w canon="ê-tawâyik" class="vii" gcat="0oIIcnj" preverbs="ê|cnj" sgloss="be_open" stem="tawâ" suffix="-yik">êh-tawâyik</w>
+<w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
+<w canon="kâ-pimohtêcik" class="vai" gcat="3pAIcnj" preverbs="kâ|cnj" sgloss="go_along" stem="pimohtê" suffix="-cik">kâ-pimohtêcik</w>
+.
+<gloss>And for a distance of ten miles there were buffalos so numerous that there was no opening where they walked.</gloss>
+</seg>
+
+<seg n="1.6">
+<w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
+<w canon="isko" class="ipc" gcat="IPC" sgloss="that_much" stem="isko">iskoh</w>
+,
+<w canon="mitâtaht" class="ipc" gcat="IPC" sgloss="ten" stem="mitâtaht">mitâtaht</w>
+<w canon="tipahikan" class="ni" gcat="0sNI" sgloss="measure" stem="tipahikan" suffix="0">tipahikan</w>
+<w canon="isko" class="ipc" gcat="IPC" sgloss="that_much" stem="isko">iskoh</w>
+<w canon="mihcêtiyit" class="vai" gcat="3oAIcnj" sgloss="be_numerous" stem="mihcêti" suffix="-yit">mihcêtiyit</w>
+<w canon="mostoswa" class="na" gcat="3oNA" sgloss="cattle" stem="mostosw" suffix="-a">mostoswah</w>
+,
+<w canon="ê-wâpamâcik" class="vta" gcat="3p3oTAcnj" preverbs="ê|cnj" sgloss="see" stem="wâpam" suffix="-âcik">êh-wâpamâcik</w>
+<w canon="nêhiyawak" class="na" gcat="3pNA" sgloss="Cree" stem="nêhiyaw" suffix="-ak">nêhiyawak</w>
+<w canon="kayâs" class="ipc" gcat="IPC" sgloss="long_ago" stem="kayâs">kayâs</w>
+,
+<w canon="nânitaw" class="ipc" gcat="IPC" sgloss="simply" stem="nânitaw">nânitaw</w>
+<w canon="niyânano-mitanaw" class="ipc" gcat="IPC" sgloss="fifty" stem="niyânanomitanaw">niyânano-mitanaw</w>
+<w canon="askiy" class="ni" gcat="0sNI" sgloss="land" stem="askiy" suffix="0">askiy</w>
+.
+<gloss>Ten miles in length was the herd of buffalos which these Cree saw of old, some fifty years ago.</gloss>
+</seg>
+
+<seg n="1.7">
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyako</w>
+<w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
+<w canon="âcimowin" class="ni" gcat="0sNI" sgloss="story" stem="âcimowin" suffix="0">âcimowin</w>
+.
+<gloss>That is a story;</gloss>
+</seg>
+
+<seg n="1.8">
+<w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+.
+<gloss>that is all there is to it.</gloss>
+</seg>
+</p>
+
+<p n="2">
+
+<seg n="2.1">
+<w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
+<w canon="nâpêw" class="na" gcat="3sNA" sgloss="man" stem="nâpêw" suffix="0">nâpêw</w>
+<w canon="powâmêkan" class="na" gcat="3sNA" sgloss="Powamekan" stem="powâmêkan" suffix="0">powâmêkan</w>
+<w canon="isiyîhkâsôw" class="vai" gcat="3sAI" sgloss="be_called" stem="isiyîhkâso" suffix="-w">isiyihkâsôw</w>
+;
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwakôw</w>
+<w canon="kâ-wâpamât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpam" suffix="-ât">kâ-wâpamât</w>
+<w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôhi</w>
+<w canon="mostoswa" class="na" gcat="3oNA" sgloss="cattle" stem="mostosw" suffix="-a">mostoswah</w>
+.
+<gloss>One man was called Powamekan; he saw these buffalos.</gloss>
+</seg>
+
+<seg n="2.2">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
+<w canon="nâpêw" class="na" gcat="3sNA" sgloss="man" stem="nâpêw" suffix="0">nâpêw</w>
+<w canon="tâmpêsin" class="na" gcat="3sNA" sgloss="Tampesin" stem="tâmpêsin" suffix="0">tâmpêsin</w>
+<w canon="isiyîhkâsôw" class="vai" gcat="3sAI" sgloss="be_called" stem="isiyîhkâso" suffix="-w">siyihkâsôw</w>
+.
+<gloss>And one man was called Tampesin.</gloss>
+<note>LB on {tâmpêsin}:  So recorded;  is this the {tawipîsin} who occurs in text 10?</note>
+</seg>
+
+<seg n="2.3">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
+<w canon="wataniy" class="nda" gcat="3sNDAof3s" prefix="3" sgloss="bird_tail" stem="ataniy" suffix="0">wataniy</w>
+<w canon="isiyîhkâsôw" class="vai" gcat="3sAI" sgloss="be_called" stem="isiyîhkâso" suffix="-w">isiyîhkâsôw</w>
+.
+<gloss>And one was called Bird-Tail.</gloss>
+</seg>
+
+<seg n="2.4">
+<w canon="êkonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êkonik</w>
+<w canon="ê-wâpamâcik" class="vta" gcat="3p3oTAcnj" preverbs="ê|cnj" sgloss="see" stem="wâpam" suffix="-âcik">êh-wâpamâcik</w>
+<w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">iyikohk</w>
+<w canon="ê-mihcêtiyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj" sgloss="be_numerous" stem="mihcêti" suffix="-yit">ê-mihcêtiyit</w>
+<w canon="paskwâwi-mostoswa" class="na" gcat="3oNA" sgloss="bison" stem="paskwâwi-mostosw" suffix="-a">paskwâwi-mostoswah</w>
+.
+<gloss>They saw the herd of buffalos that was so great.</gloss>
+</seg>
+
+<seg n="2.5">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+.
+<gloss>That is all.</gloss>
+</seg>
+</p>
+</body>
+</text>
+</tei.2>

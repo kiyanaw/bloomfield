@@ -1,0 +1,378 @@
+<?xml version="1.0" ?><!DOCTYPE TEI.2  PUBLIC '-//TEI//DTD TEI Lite XML ver. 1//EN'  'file:/c:/app/usr/dtds/teixlite.dtd'><tei.2>
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+	<title>PCT 28: With Nary a Fail</title>
+	<author>Simon Mimikwas</author>
+	<respstmt>
+	  <name>Kevin Russell</name>
+	  <resp>TEI markup and word-tagging</resp>
+	</respstmt>
+      </titlestmt>
+      <publicationstmt>
+	<authority>Cree Text Project</authority>
+	<address>
+	  <addrline>Linguistics Department</addrline>
+	  <addrline>University of Manitoba</addrline>
+	  <addrline>Winnipeg, MB  R3T 2N2  Canada</addrline>
+	</address>
+	<availability>
+	  <p>for internal use only</p>
+	</availability>
+      </publicationstmt>
+      <sourcedesc>
+	<bibl>
+          <title>Plains Cree Texts</title>
+          <editor>Leonard Bloomfield</editor>
+          <date>1934</date>
+          <publisher>G.E. Stechert &amp; Co.</publisher>
+          <pubplace>New York</pubplace>
+          <series>Publications of the American Ethnological Society, Volume XVI</series>
+          <biblscope>page 138-141</biblscope>
+        </bibl>
+      </sourcedesc>
+    </filedesc>
+    <encodingdesc>
+      <p/>
+      <p>This electronic document is oriented more toward representing those
+      features that seem most likely to be relevant for grammatical analyses,
+      rather than toward faithfully representing all the information available in
+      the book.</p>
+    </encodingdesc>
+    <profiledesc>
+      <langusage>
+	<language id="x-neh">Plains Cree</language>
+	<language id="eng">English</language>
+      </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>2004 04 01; KR; inauguration</item>
+        <item>2014 06 10; KR; UTF-8, paragraph and sentence numbering, smart-quotes in English translations</item>
+      </list>
+    </revisiondesc>
+  </teiheader>
+  <text>
+    <body>
+
+<head>PCT 28 - With nary a fail</head>
+<docauthor>Simon Mimikwas</docauthor>
+
+<p n="1">
+
+<seg n="1.1">
+<w canon="aya" class="pr" gcat="3sPR" sgloss="the_one" stem="aya">ayah</w>
+<w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
+<w canon="âhcî" class="ipc" gcat="IPC" preverbs="âh|H.REDUP" sgloss="[?]" stem="cî">âhcî</w>
+<w canon="ê-kî-sôniyâwokimâwit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj kî|PAST" sgloss="be_Indian_agent" stem="sôniyâwokimâwi" suffix="-t">ê-ki-sôniyâwokimâwit</w>
+<w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
+<w canon="nêhiyânâhk" class="na" gcat="3dlocNA" sgloss="Cree" stem="nêhiyaw" suffix="-inâhk">nêhiyânâhk</w>
+,
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
+<w canon="âpihtawikosisân" class="na" gcat="3sNA" sgloss="Métis" stem="âpihtawikosisân" suffix="0">âpihtawikosisân</w>
+<w canon="pôl" class="foreign" gcat="FOREIGN" sgloss="Paul" stem="pôl">pôl</w>
+<w canon="kapinêt" class="foreign" gcat="FOREIGN" sgloss="Caplette" stem="kapinêt">kapinêt</w>
+,
+<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôw</w>
+<w canon="pîhtokêwak" class="vai" gcat="3pAI" sgloss="enter" stem="pîhtikwê" suffix="-wak">pîhtokêwak</w>
+<w canon="minihkwêwikamikohk" class="ni" gcat="0locNI" sgloss="bar" stem="minihkwêwikamikw" suffix="-ihk">minihkwêwikamikohk</w>
+.
+<gloss>A certain man named Archie, who was Indian Agent here in the Cree country, and a halfbreed, Paul Caplette, entered a tavern.</gloss>
+</seg>
+</p>
+
+<p n="2">
+
+<seg n="2.1">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+,
+<q>
+<w canon="mitoni" class="ipc" gcat="IPC" sgloss="intensively" stem="mitoni">mitoni</w>
+<w canon="cî" class="ipc" gcat="IPC" sgloss="[?]" stem="cî">cî</w>
+<w canon="kinisitohtên" class="vti" gcat="2sTI" prefix="2" sgloss="understand" stem="nisitoht" suffix="-ên">kinisitohtên</w>
+<w canon="nêhiyawêwin" class="ni" gcat="0sNI" sgloss="speaking_Cree" stem="nêhiyawêwin" suffix="0">nêhiyawêwin</w>
+?</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+<w canon="kaplêt" class="foreign" gcat="FOREIGN" sgloss="Caplette" stem="kaplêt">kaplêt</w>
+,
+<w canon="sôniyâw-okimâw" class="na" gcat="3sNA" sgloss="Indian_agent" stem="sôniyâwikimâw" suffix="0">sôniyâw-okimâw</w>
+<w canon="ê-itât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="say_to" stem="it" suffix="-ât">êh-itât</w>
+.
+<gloss>Then, “Do you understand the Cree language very well this Caplette asked him, asked the Indian Agent.</gloss>
+</seg>
+</p>
+
+<p n="3">
+
+<seg n="3.1">
+<q>
+<w canon="â" class="ipc" gcat="IPC" sgloss="well" stem="â">â</w>
+,
+<w canon="mitoni" class="ipc" gcat="IPC" sgloss="intensively" stem="mitoni">mitoni</w>
+<w canon="ninêhiyawân" class="vai" gcat="1sAI" prefix="1" sgloss="speak_Cree" stem="nêhiyawê" suffix="-n">nnêhiyawân</w>
+!</q>
+<w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
+.
+<gloss>“Why, I speak Cree very well!” the other answered him.</gloss>
+</seg>
+</p>
+
+<p n="4">
+
+<seg n="4.1">
+<q rend="PRE 1 POST0">
+<w canon="hâ" class="ipc" gcat="IPC" sgloss="well" stem="hâ">hâ</w>
+,
+<w canon="kîspin" class="ipc" gcat="IPC" sgloss="if" stem="kîspin">kîspin</w>
+<w canon="kinêhiyawân" class="vai" gcat="2sAI" prefix="2" sgloss="speak_Cree" stem="nêhiyawê" suffix="-n">kinêhiyawân</w>
+,
+<w canon="kîspin" class="ipc" gcat="IPC" sgloss="if" stem="kîspin">kîspin</w>
+<w canon="mitoni" class="ipc" gcat="IPC" sgloss="intensively" stem="mitoni">mitoni</w>
+<w canon="kwayask" class="ipc" gcat="IPC" sgloss="properly" stem="kwayask">kwayask</w>
+<w canon="kinisitohtên" class="vti" gcat="2sTI" prefix="2" sgloss="understand" stem="nisitoht" suffix="-ên">kinisitohtên</w>
+<w canon="nêhiyawêwin" class="ni" gcat="0sNI" sgloss="speaking_Cree" stem="nêhiyawêwin" suffix="0">nêhiyawêwin</w>
+,
+<w canon="wanwêhkâtâni" class="vta" gcat="1s2sTAsubjunc" sgloss="confuse" stem="wanwêhkaw" suffix="-itâni">wanowêhkâtânih</w>
+,
+<w canon="kika-minahâwak" class="vta" gcat="2s3pTA" prefix="2" preverbs="ka|will" sgloss="give_to_drink" stem="minah" suffix="-âwak">kika-minahâwak</w>
+<w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
+<w canon="tahto" class="ipc" gcat="IPC" sgloss="so_many" stem="tahto">tahtoh</w>
+<w canon="kâ-ayâcik" class="vai" gcat="3pAIcnj" preverbs="kâ|cnj" sgloss="be" stem="ayâ" suffix="-cik">k-âyâcik</w>
+<w canon="pîhcâyihk" class="ipc" gcat="IPC" sgloss="inside" stem="pîhc-âyihk">pîhcâyihk</w>
+<w canon="âpihtawikosisânak" class="na" gcat="3pNA" sgloss="Métis" stem="âpihtawikosisân" suffix="-ak">âpihtawokosisânak</w>
+.</q>
+<gloss>“Well then, if you speak Cree, if you understand the Cree language very well, then, if I speak so that you cannot understand me, you will treat to drinks as many halfbreeds as are in here.</gloss>
+</seg>
+
+<seg n="4.2">
+<q rend="PRE 0 POST0">
+<w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
+<w canon="kîspin" class="ipc" gcat="IPC" sgloss="if" stem="kîspin">kîspin</w>
+<w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
+<w canon="wanwêhkâtâni" class="vta" gcat="1s2sTAsubjunc" sgloss="confuse" stem="wanwêhkaw" suffix="-itâni">wanowêhkâtânih</w>
+,
+<w canon="niya" class="pr" gcat="1sPR" sgloss="I" stem="niya">niya</w>
+<w canon="nika-minahiwân" class="vai" gcat="1sAI" prefix="1" preverbs="ka|will" sgloss="give_ppl_drink" stem="minahiwê" suffix="-n">nika-minahiwân</w>
+.</q>
+<gloss>But if I do not put you at a loss by my speech, then I shall stand the drinks.</gloss>
+</seg>
+
+<seg n="4.3">
+<q rend="PRE 0 POST1">
+<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="anima" class="dem" gcat="0sDEM" sgloss="that" stem="anima">anima</w>
+:
+<q>
+<w canon="ahpônâni" class="ipc" gcat="IPC" sgloss="of_course_not" stem="ahpônâni">ahpônâni</w>
+<w canon="kîwâc" class="ipc" gcat="IPC" sgloss="failing" stem="kîwâc">kîwâc</w>
+,</q>
+<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="anima" class="dem" gcat="0sDEM" sgloss="that" stem="anima">anim</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwakô</w>
+?</q>
+<gloss>What is this: 'With nary a fail,' what is this?”</gloss>
+</seg>
+</p>
+
+<p n="5">
+
+<seg n="5.1">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+,
+<q>
+<w canon="â" class="ipc" gcat="IPC" sgloss="ah" stem="â">â</w>
+,
+<w canon="konita" class="ipc" gcat="IPC" sgloss="in_vain" stem="konita">kontah</w>
+<w canon="ê-osîhtâyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="prepare" stem="osîhtâ" suffix="-yan">êh-osîhtâyin</w>
+,
+<q>
+<w canon="osâm" class="ipc" gcat="IPC" sgloss="because" stem="osâm">osâm</w>
+<w canon="ninihtâ-nêhiyawân" class="vai" gcat="1sAI" prefix="1" preverbs="nihtâ|good_at" sgloss="speak_Cree" stem="nêhiyawê" suffix="-n">nnihtâh-nêhiyawân</w>
+,</q>
+<w canon="ê-itêyihtaman" class="vti" gcat="2sTIcnj" preverbs="ê|cnj" sgloss="think_of" stem="itêyiht" suffix="-aman">êh-itêyihtaman</w>
+!</q>
+<w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+<w canon="kisêyiniw" class="na" gcat="3sNA" sgloss="old_man" stem="kisêyiniw" suffix="0">kisêyiniw</w>
+<w canon="kaplêt" class="foreign" gcat="FOREIGN" sgloss="Caplette" stem="kaplêt">kaplêt</w>
+.
+<gloss>Then, “Oh, you are just making it up, because you think you speak Cree so well!” said the other to old man Caplette.</gloss>
+</seg>
+</p>
+
+<p n="6">
+
+<seg n="6.1">
+<q>
+<w canon="â" class="ipc" gcat="IPC" sgloss="well" stem="â">â</w>
+,
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="minahiwê" class="vai" gcat="2sAIimp" sgloss="give_ppl_drink" stem="minahiwê" suffix="0">minahiwê</w>
+!</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+<w canon="kaplêt" class="foreign" gcat="FOREIGN" sgloss="Caplette" stem="kaplêt">kaplêt</w>
+.
+<gloss>“Ho, so now stand the drinks!” Caplette answered him.</gloss>
+</seg>
+</p>
+
+<p n="7">
+
+<seg n="7.1">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+<w canon="sôniyâw-okimâw" class="na" gcat="3sNA" sgloss="Indian_agent" stem="sôniyâwikimâw" suffix="0">sôniyâw-okimâw</w>
+<w canon="isiwêpinêw" class="vta" gcat="3s3oTA" sgloss="throw_thus" stem="isiwêpin" suffix="-êw">isiwêpinêw</w>
+<w canon="napakihtakohk" class="ni" gcat="0locNI" sgloss="flat_lumber" stem="napakihtakw" suffix="-ihk">napakihtakohk</w>
+<w canon="niyânanwâpisk" class="ipc" gcat="IPC" sgloss="five_dollars" stem="niyânanwâpisk">nyânanwâpisk</w>
+.
+<gloss>Thereupon the Indian Agent threw five dollars on the bar.</gloss>
+</seg>
+
+<seg n="7.2">
+<w canon="nânitaw" class="ipc" gcat="IPC" sgloss="simply" stem="nânitaw">nânitaw</w>
+<w canon="niyânanosâp" class="ipc" gcat="IPC" sgloss="fifteen" stem="niyânanosâp">nyânanosâp</w>
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="pîhcâyihk" class="ipc" gcat="IPC" sgloss="inside" stem="pîhc-âyihk">pîhcâyihk</w>
+<w canon="ê-ayâyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj" sgloss="be" stem="ayâ" suffix="-yit">êh-ayâyit</w>
+,
+<w canon="êkoni" class="pr" gcat="3oPR" sgloss="that_one" stem="êwako" suffix="-3o">êkonih</w>
+<w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
+<w canon="ê-minahât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="give_to_drink" stem="minah" suffix="-ât">êh-minahât</w>
+,
+<w canon="nayêstaw" class="ipc" gcat="IPC" sgloss="only" stem="nayêstaw">nayêstaw</w>
+<w canon="nikotwâsik" class="ipc" gcat="IPC" sgloss="six" stem="nikotwâsik">nkotwâsik</w>
+<w canon="sôniyâs" class="na" gcat="3sNA" sgloss="coin" stem="sôniyâs" suffix="0">sôniyâs</w>
+<w canon="ayiwâkipayiw" class="vii" gcat="0sII" sgloss="be_in_excess" stem="ayiwâkipayi" suffix="-w">âyiwâkipayiw</w>
+<w canon="anihi" class="dem" gcat="3oDEM" sgloss="that" stem="ana" suffix="-3o">anihi</w>
+<w canon="niyânanwâpisk" class="ipc" gcat="IPC" sgloss="five_dollars" stem="niyânanwâpisk">nyânanwâpisk</w>
+.
+<gloss>As there were about fifteen men in the place, when he had treated them all, only six bits were left of that five dollars.</gloss>
+</seg>
+</p>
+
+<p n="8">
+
+<seg n="8.1">
+<q rend="PRE 1 POST0">
+<w canon="hâ" class="ipc" gcat="IPC" sgloss="well" stem="hâ">hâ</w>
+,
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+<w canon="kîhtwâm" class="ipc" gcat="IPC" sgloss="again" stem="kîhtwâm">kîhtwâm</w>
+<w canon="ka-wanwêhkawin" class="vta" gcat="2s1sTA" preverbs="ka|will" sgloss="confuse" stem="wanwêhkaw" suffix="-in">ka-wanwêhkawin</w>
+<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+!</q>
+<gloss>“Well, you will never put me at a loss again:</gloss>
+</seg>
+
+<seg n="8.2">
+<q rend="PRE 0 POST1">
+<w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
+<q>
+<w canon="nîsta" class="pr" gcat="1sPRc" sgloss="I" stem="nîsta">nîsta</w>
+<w canon="ninêhiyawân" class="vai" gcat="1sAI" prefix="1" sgloss="speak_Cree" stem="nêhiyawê" suffix="-n">ninêhiyawân</w>
+,</q>
+<w canon="nititêyihtên" class="vti" gcat="1sTI" prefix="1" sgloss="think_of" stem="itêyiht" suffix="-ên">nitêyihtên</w>
+,
+<w canon="konita" class="ipc" gcat="IPC" sgloss="in_vain" stem="konita">konta</w>
+<w canon="kâ-wanihcikêyân" class="vai" gcat="1sAIcnj" preverbs="kâ|cnj" sgloss="lose_things" stem="wanihcikê" suffix="-yân">kâ-wanihcikêyân</w>
+.</q>
+<gloss>Because I thought 'I too speak Cree,' is why I lost my money for nothing.”</gloss>
+</seg>
+</p>
+
+<p n="9">
+
+<seg n="9.1">
+<q rend="PRE 1 POST0">
+<w canon="ê-pîtosi-nêhiyawêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj pîtosi|different" sgloss="speak_Cree" stem="nêhiyawê" suffix="-yan">êh-pîtosi-nêhiyawêyan</w>
+,
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+<w canon="mihcêtin" class="vii" gcat="0sII" sgloss="be_numerous" stem="mihcêtin" suffix="0">mihcêtin</w>
+<w canon="nêhiyawêwin" class="ni" gcat="0sNI" sgloss="speaking_Cree" stem="nêhiyawêwin" suffix="0">nêhiyawêwin</w>
+.</q>
+<gloss>“Because you talk a foreigner's Cree, the Cree language is poor and of small extent.</gloss>
+</seg>
+
+<seg n="9.2">
+<q rend="PRE 0 POST0">
+<w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
+<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="mihcêtwayak" class="ipc" gcat="IPC" sgloss="in_many_ways" stem="mihcêtwayak">mihcêtwayak</w>
+<w canon="isiyîhkâtêw" class="vii" gcat="0sII" sgloss="be_called_thus" stem="isiyîhkâtê" suffix="-w">isiyîhkâtêw</w>
+,
+<w canon="mitoni" class="ipc" gcat="IPC" sgloss="intensively" stem="mitoni">mitoni</w>
+<w canon="ta-nisitohtamihk" class="vti" gcat="xTIcnj" preverbs="ta|FUT" sgloss="understand" stem="nisitoht" suffix="-amihk">tâ-nisitohtamihk</w>
+<w canon="nêhiyawêwin" class="ni" gcat="0sNI" sgloss="speaking_Cree" stem="nêhiyawêwin" suffix="0">nêhiyawêwin</w>
+.</q>
+<gloss>But each thing has many names, when the Cree language is well understood.</gloss>
+</seg>
+
+<seg n="9.3">
+<q rend="PRE 0 POST1">
+<q>
+<w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
+<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="ninisitohtên" class="vti" gcat="1sTI" prefix="1" sgloss="understand" stem="nisitoht" suffix="-ên">nnisitohtên</w>
+,</q>
+<w canon="kitêyihtên" class="vti" gcat="2sTI" prefix="2" sgloss="think_of" stem="itêyiht" suffix="-ên">kitêyihtên</w>
+,
+<w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
+<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="pîkiskwêwin" class="ni" gcat="0sNI" sgloss="word" stem="pîkiskwêwin" suffix="0">pîkiskwêwin</w>
+<w canon="nêsitohtamani" class="vti" gcat="2sTIsubjunc" prefix="IC" sgloss="understand" stem="nisitoht" suffix="-amani">nêsitohtamani</w>
+<w canon="nêhiyawêwin" class="ni" gcat="0sNI" sgloss="speaking_Cree" stem="nêhiyawêwin" suffix="0">nêhiyawêwin</w>
+.</q>
+<gloss>You think, 'I understand the name of one thing,' when really you understand only one word.”</gloss>
+</seg>
+</p>
+
+<p n="10">
+
+<seg n="10.1">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistahi</w>
+<w canon="pâhpiwak" class="vai" gcat="3pAI" sgloss="laugh" stem="pâhpi" suffix="-wak">pâhpiwak</w>
+.
+<gloss>At that they laughed much.</gloss>
+</seg>
+
+<seg n="10.2">
+<w canon="ê-wîhtamâht" class="vta" gcat="x3sTAcnj" preverbs="ê|cnj" sgloss="tell_about" stem="wîhtamaw" suffix="-iht">êh-wîhtamâht</w>
+<w canon="ana" class="dem" gcat="3sDEM" sgloss="that" stem="ana">ana</w>
+<w canon="osîkinikêw" class="na" gcat="3sNA" sgloss="bartender" stem="osîkinikêw" suffix="0">osîkinikêw</w>
+<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
+<w canon="kâ-minahiwêt" class="vai" gcat="3sAIcnj" preverbs="kâ|cnj" sgloss="give_ppl_drink" stem="minahiwê" suffix="-t">kâ-minahiwêt</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+,
+<w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistahi</w>
+<w canon="pâhpiw" class="vai" gcat="3sAI" sgloss="laugh" stem="pâhpi" suffix="-w">pâhpiw</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">min</w>
+<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+.
+<gloss>When the bartender was told why this man was standing treat, then he too had a hearty laugh</gloss>
+</seg>
+
+<seg n="10.3">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="kîsihtâwak" class="vai" gcat="3pAI" sgloss="finish" stem="kîsîhtâ" suffix="-wak">kîsihtâwak</w>
+<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+.
+<gloss>So they finished this.</gloss>
+</seg>
+
+<seg n="10.4">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="wayawîwak" class="vai" gcat="3pAI" sgloss="go_outside" stem="wayawî" suffix="-wak">wayawîwak</w>
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+.
+<gloss>Then they went out of the place.</gloss>
+</seg>
+</p>
+</body>
+</text>
+</tei.2>

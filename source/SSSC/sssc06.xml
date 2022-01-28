@@ -1,0 +1,1980 @@
+<?xml version="1.0" ?><!DOCTYPE TEI.2  PUBLIC '-//TEI//DTD TEI Lite XML ver. 1//EN'  'file:/c:/app/usr/dtds/teixlite.dtd'><tei.2>
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+	<title>SSSC 06: The Shut-Eye Dancers</title>
+	<author>Coming-Day</author>
+	<respstmt>
+	  <name>Kevin Russell</name>
+	  <resp>TEI markup and word-tagging</resp>
+	</respstmt>
+      </titlestmt>
+      <publicationstmt>
+	<authority>Cree Text Project</authority>
+	<address>
+	  <addrline>Linguistics Department</addrline>
+	  <addrline>University of Manitoba</addrline>
+	  <addrline>Winnipeg, MB  R3T 2N2  Canada</addrline>
+	</address>
+	<availability>
+	  <p>for internal use only</p>
+	</availability>
+      </publicationstmt>
+      <sourcedesc>
+	<bibl>
+          <title>Sacred Stories of the Sweet Grass Cree</title>
+          <editor>Leonard Bloomfield</editor>
+          <date>1930</date>
+          <publisher>F.A. Acland, King's Printer</publisher>
+          <pubplace>Ottawa</pubplace>
+          <series>National Museum of Canada, Bulletin no. 60, Anthropological Series, no. 11</series>
+          <biblscope>pages 34-40</biblscope>
+        </bibl>
+      </sourcedesc>
+    </filedesc>
+    <encodingdesc>
+      <p/>
+      <p>This electronic document is oriented more toward representing those
+      features that seem most likely to be relevant for grammatical analyses,
+      rather than toward faithfully representing all the information available in
+      the book.</p>
+    </encodingdesc>
+    <profiledesc>
+      <langusage>
+	<language id="x-neh">Plains Cree</language>
+	<language id="eng">English</language>
+      </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>2004 04 01; KR; inauguration</item>
+        <item>2014 06 10; KR; UTF-8, paragraph and sentence numbering, smart-quotes in English translations</item>
+      </list>
+    </revisiondesc>
+  </teiheader>
+  <text>
+    <body>
+
+<head>Sacred Stories 06:  The Shut-Eye Dancers</head>
+<docauthor>Coming-Day</docauthor>
+
+<p n="1">
+
+<seg n="1.1">
+<w canon="kîtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kîtahtawê</w>
+<w canon="ê-pimohtêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="go_along" stem="pimohtê" suffix="-t">êh-pimohtêt</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+,
+-
+<w canon="nôhtêhkatêw" class="vai" gcat="3sAI" sgloss="be_hungry" stem="nôhtêhkatê" suffix="-w">nohtêhkatêw</w>
+<w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
+,
+-
+<w canon="ê-pimohtêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="go_along" stem="pimohtê" suffix="-t">êh-pimohtêt</w>
+,
+<w canon="kâ-wâpamât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpam" suffix="-ât">kâ-wâpamât</w>
+<w canon="sîsîpa" class="na" gcat="3oNA" sgloss="duck" stem="sîsîp" suffix="-a">sîsîpah</w>
+,
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="niska" class="na" gcat="3oNA" sgloss="goose" stem="nisk" suffix="-a">niskah</w>
+<w canon="mihcêt" class="ipc" gcat="IPC" sgloss="many" stem="mihcêt">mihcêt</w>
+,
+<w canon="sîsîpa" class="na" gcat="3oNA" sgloss="duck" stem="sîsîp" suffix="-a">sîsîpah</w>
+.
+<gloss>Once upon a time, as Wisahketchahk was tramping along  as usual he was hungry  as he was tramping along, he saw some ducks and many geese, ducks.</gloss>
+</seg>
+</p>
+
+<p n="2">
+
+<seg n="2.1">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">ômisi</w>
+<w canon="itêyihtam" class="vti" gcat="3sTI" sgloss="think_of" stem="itêyiht" suffix="-am">itêyihtam</w>
+:
+<q>
+<w canon="tânisi" class="ipc" gcat="IPC" sgloss="how" stem="tânisi">tânisi</w>
+<w canon="ka-isi-nipahakik" class="vta" gcat="1s3pTAcnj" preverbs="ka|will isi|thus" sgloss="kill" stem="nipah" suffix="-akik">k-êsi-nipahakik</w>
+?</q>
+<w canon="itêyihtam" class="vti" gcat="3sTI" sgloss="think_of" stem="itêyiht" suffix="-am">itêyihtam</w>
+.
+<gloss>Then this was what he thought: “How shall I kill them?” he thought.</gloss>
+</seg>
+</p>
+
+<p n="3">
+
+<seg n="3.1">
+<w canon="kîtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kîtahtawê</w>
+<w canon="kâ-wâpahtahk" class="vti" gcat="3sTIcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpaht" suffix="-ahk">kâ-wâpahtahk</w>
+<w canon="sâkahikanis" class="ni" gcat="0sNI" sgloss="small_lake" stem="sâkahikanisis" suffix="0">sâkahikanis</w>
+,
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="sisonê" class="ipc" gcat="IPC" sgloss="alongside" stem="sisonê">sisonê</w>
+<w canon="nipîhk" class="ni" gcat="0locNI" sgloss="water" stem="nipiy" suffix="-ihk">nipîhk</w>
+<w canon="kâ-wâpahtahk" class="vti" gcat="3sTIcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpaht" suffix="-ahk">kâ-wâpahtahk</w>
+<w canon="asisiya" class="ni" gcat="0pNI" sgloss="waterweed" stem="asisiy" suffix="-a">asisiyah</w>
+.
+<gloss>Presently he saw a little lake, and by the water's edge some weeds.</gloss>
+</seg>
+
+<seg n="3.2">
+<w canon="otinam" class="vti" gcat="3sTI" sgloss="take" stem="otin" suffix="-am">otinam</w>
+,
+<w canon="ê-titipinahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="twine" stem="titipin" suffix="-ahk">êh-titipinahk</w>
+.
+<gloss>He took them and rolled them up.</gloss>
+</seg>
+
+<seg n="3.3">
+<w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistahih</w>
+<w canon="tahkopitam" class="vti" gcat="3sTI" sgloss="tie_fast" stem="tahkopit" suffix="-am">tahkopitam</w>
+,
+<w canon="ê-nayahtahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="carry_on_back" stem="nayaht" suffix="-ahk">êh-nayahtahk</w>
+,
+<w canon="ê-sipwêhtêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="leave" stem="sipwêhtê" suffix="-t">ê-sipwêhtêt</w>
+.
+<gloss>He tied up a great bundle of them, took it on his back, and went off.</gloss>
+</seg>
+
+<seg n="3.4">
+<w canon="sîsîpa" class="na" gcat="3oNA" sgloss="duck" stem="sîsîp" suffix="-a">sîsîpah</w>
+<w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
+<w canon="kâ-ayâyit" class="vai" gcat="3oAIcnj" preverbs="kâ|cnj" sgloss="be" stem="ayâ" suffix="-yit">k-âyâyit</w>
+,
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="cîki" class="ipc" gcat="IPC" sgloss="close" stem="cîki">cîkih</w>
+<w canon="ê-pimohtêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="go_along" stem="pimohtê" suffix="-t">êh-pimohtêt</w>
+,
+<w canon="kâ-wâpamikot" class="vta" gcat="3o3sTAcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpam" suffix="-ikot">kâ-wâpamikot</w>
+<w canon="sîsîpa" class="na" gcat="3oNA" sgloss="duck" stem="sîsîp" suffix="-a">sîsîpah</w>
+.
+<gloss>When he came walking close to where the ducks were, they caught sight of him.</gloss>
+</seg>
+</p>
+
+<p n="4">
+
+<seg n="4.1">
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">ômis</w>
+<w canon="itwêwak" class="vai" gcat="3pAI" sgloss="say" stem="itwê" suffix="-wak">îtwêwak</w>
+<w canon="sîsîpak" class="na" gcat="3pNA" sgloss="duck" stem="sîsîp" suffix="-ak">sîsîpak</w>
+:
+<q>
+<w canon="hâ" class="ipc" gcat="IPC" sgloss="oh" stem="hâ">hâ</w>
+,
+<w canon="kistêsinaw" class="nda" gcat="3sNDAof1i" prefix="2" sgloss="older_brother" stem="stês" suffix="-inaw">kistêsinaw</w>
+!</q>
+<w canon="itwêwak" class="vai" gcat="3pAI" sgloss="say" stem="itwê" suffix="-wak">itwêwak</w>
+;
+<gloss>The ducks said, “Ho, our big brother!</gloss>
+</seg>
+
+<seg n="4.2">
+<q>
+<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kâ-nayahtahk" class="vti" gcat="3sTIcnj" preverbs="kâ|cnj" sgloss="carry_on_back" stem="nayaht" suffix="-ahk">kâ-nayahtahk</w>
+?</q>
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="itwêwak" class="vai" gcat="3pAI" sgloss="say" stem="itwê" suffix="-wak">itwêwak</w>
+.
+<gloss>What is that he's carrying on his back?” they said.</gloss>
+</seg>
+</p>
+
+<p n="5">
+
+<seg n="5.1">
+<q>
+<w canon="mahti" class="ipc" gcat="IPC" sgloss="let's_see" stem="mahti">mahtih</w>
+<w canon="nika-kakwêcimâw" class="vta" gcat="1s3sTA" prefix="1" preverbs="ka|will" sgloss="ask" stem="kakwêcim" suffix="-âw">nika-kakwêcimâw</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+<w canon="sîsîp" class="na" gcat="3sNA" sgloss="duck" stem="sîsîp" suffix="0">sîsîp</w>
+.
+<gloss>“Suppose I ask him,” said one duck.</gloss>
+</seg>
+</p>
+
+<p n="6">
+
+<seg n="6.1">
+<q>
+<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+,</q>
+<w canon="itwêwak" class="vai" gcat="3pAI" sgloss="say" stem="itwê" suffix="-wak">itwêwak</w>
+.
+<gloss>“Yes, do,” they said.</gloss>
+</seg>
+</p>
+
+<p n="7">
+
+<seg n="7.1">
+<q>
+<w canon="nistêsê" class="nda" extra="voc" gcat="3sNDAof1svoc" prefix="1" sgloss="older_brother" stem="stês">nistêsê</w>
+,
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kâ-nayahtaman" class="vti" gcat="2sTIcnj" preverbs="kâ|cnj" sgloss="carry_on_back" stem="nayaht" suffix="-aman">kâ-nayahtaman</w>
+?</q>
+<gloss>“Big brother, what is that you're carrying on your back?”</gloss>
+</seg>
+</p>
+
+<p n="8">
+
+<seg n="8.1">
+<w canon="âhci" class="ipc" gcat="IPC" sgloss="still" stem="âhci">âhci</w>
+<w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">pikoh</w>
+<w canon="pimohtêw" class="vai" gcat="3sAI" sgloss="go_along" stem="pimohtê" suffix="-w">pimohtêw</w>
+;
+<w canon="tâpiskôc" class="ipc" gcat="IPC" sgloss="like" stem="tâpiskôc">tâpiskôc</w>
+<w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâh</w>
+<w canon="ê-pêhtawât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="hear" stem="pêhtaw" suffix="-ât">êh-pêhtawât</w>
+,
+<w canon="âhci" class="ipc" gcat="IPC" sgloss="still" stem="âhci">âhci</w>
+<w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">pikoh</w>
+<w canon="pimohtêw" class="vai" gcat="3sAI" sgloss="go_along" stem="pimohtê" suffix="-w">pimohtêw</w>
+.
+<gloss>He kept right on walking; just as if he had not heard, he kept on walking.</gloss>
+</seg>
+</p>
+
+<p n="9">
+
+<seg n="9.1">
+<w canon="âsay" class="ipc" gcat="IPC" sgloss="already" stem="âsay">âsay</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mînah</w>
+<w canon="sîsîp" class="na" gcat="3sNA" sgloss="duck" stem="sîsîp" suffix="0">sîsîp</w>
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">omis</w>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">îtêw</w>
+:
+<q>
+<w canon="nistêsê" class="nda" extra="voc" gcat="3sNDAof1svoc" prefix="1" sgloss="older_brother" stem="stês">nistêsê</w>
+,
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kâ-nayahtaman" class="vti" gcat="2sTIcnj" preverbs="kâ|cnj" sgloss="carry_on_back" stem="nayaht" suffix="-aman">kâ-nayahtaman</w>
+?</q>
+<gloss>Again the duck asked him, “Big brother, what is it you're carrying on your back?”</gloss>
+</seg>
+</p>
+
+<p n="10">
+
+<seg n="10.1">
+<w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
+<w canon="nîpawiw" class="vai" gcat="3sAI" sgloss="stand" stem="nîpawi" suffix="-w">nîpawiw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+.
+<gloss>Only then did Wisahketchahk stand still.</gloss>
+</seg>
+</p>
+
+<p n="11">
+
+<seg n="11.1">
+<q>
+<w canon="mâ" class="interj" gcat="INTERJ" sgloss="yes" stem="mâ">mâh</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+,
+<q>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kâ-nayahtaman" class="vti" gcat="2sTIcnj" preverbs="kâ|cnj" sgloss="carry_on_back" stem="nayaht" suffix="-aman">kâ-nayahtaman</w>
+?</q>
+<gloss>“Say,” it said, “what is it you're carrying?”</gloss>
+</seg>
+</p>
+
+<p n="12">
+
+<seg n="12.1">
+<q>
+<w canon="wâ" class="ipc" gcat="IPC" sgloss="well" stem="wâ">wâh</w>
+,
+<w canon="pasakwâpisimôwina" class="ni" gcat="0pNI" sgloss="shut_eye_dance" stem="pasakwâpisimowin" suffix="-a">pasakwâpisimôwinah</w>
+!</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+.
+<gloss>“Why, Shut-Eye Dances!” said Wisahketchahk.</gloss>
+</seg>
+</p>
+
+<p n="13">
+
+<seg n="13.1">
+<q>
+<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="pasakwâpisimôwin" class="ni" gcat="0sNI" sgloss="shut_eye_dance" stem="pasakwâpisimowin" suffix="0">pasakwâpisimôwin</w>
+?</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="sîsîp" class="na" gcat="3sNA" sgloss="duck" stem="sîsîp" suffix="0">sîsîp</w>
+.
+<gloss>“What is a Shut-Eye Dance?” said the duck.</gloss>
+</seg>
+</p>
+
+<p n="14">
+
+<seg n="14.1">
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">ômis</w>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">îtwêw</w>
+:
+<q>
+<w canon="nîminâna" class="ni" gcat="0pNI" sgloss="dance" stem="nîminân" suffix="-a">nîminânah</w>
+,</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+.
+<gloss>Wisahketchahk spoke thus: “A saltatory rite,” he told the other.</gloss>
+<note>LB on {nîminânah}:  Unusual word.</note>
+</seg>
+</p>
+
+<p n="15">
+
+<seg n="15.1">
+<q>
+<w canon="nîmihinân" class="vta" gcat="2s1eTAimp" sgloss="make_dance" stem="nîmih" suffix="-inân">nîmihinân</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="sîsîp" class="na" gcat="3sNA" sgloss="duck" stem="sîsîp" suffix="0">sîsîp</w>
+;
+<q>
+<w canon="nika-pasakwâpisimonân" class="vai" gcat="1eAI" prefix="1" preverbs="ka|will" sgloss="dance_shuteye_dance" stem="pasakwâpisimo" suffix="-nân">nka-pasakwâpisimonân</w>
+!</q>
+<gloss>“Do you give us a dance,” said the duck; “Let us dance the Shut-Eye Dance!”</gloss>
+</seg>
+</p>
+
+<p n="16">
+
+<seg n="16.1">
+<q>
+<w canon="hay" class="interj" gcat="INTERJ" sgloss="hay" stem="hay">hay</w>
+<w canon="hay" class="interj" gcat="INTERJ" sgloss="hay" stem="hay">hay</w>
+!</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+;
+<gloss>“Splendid!” cried Wisahketchahk;</gloss>
+</seg>
+
+<seg n="16.2">
+<q rend="PRE 1 POST0">
+<w canon="â" class="ipc" gcat="IPC" sgloss="ah" stem="â">âh</w>
+,
+<w canon="miywâsin" class="vii" gcat="0sII" sgloss="be_good" stem="miywâsin" suffix="0">miywâsin</w>
+<w canon="ê-kitimâkinawiyêk" class="vta" gcat="2p1sTAcnj" preverbs="ê|cnj" sgloss="pity" stem="kitimâkinaw" suffix="-iyêk">êh-kitimâkinawiyêk</w>
+,
+<w canon="nisîmitik" class="nda" extra="vocp" gcat="3pNDAof1svoc" prefix="1" sgloss="younger_sib" stem="sîm" suffix="-VOCp">nisîmitik</w>
+!</q>
+<gloss>“Oh, it is fine that you have taken pity on me, little brothers!</gloss>
+</seg>
+
+<seg n="16.3">
+<q rend="PRE 0 POST1">
+<w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nam</w>
+<w canon="awiyak" class="pr" gcat="3sPR" sgloss="someone" stem="awiyak">âwiyak</w>
+<w canon="nitâpwêhtâkoh" class="vta" gcat="3s1sTAh" prefix="1" sgloss="agree_with" stem="tâpwêhtaw" suffix="-ikoh">ntâpwêhtâkoh</w>
+,
+<w canon="tê-nîmihitocik" class="vai" gcat="3pAIcnj" prefix="IC" preverbs="ta|FUT" sgloss="dance_with_e.o." stem="nîmihito" suffix="-cik">tê-nîmihitocik</w>
+,
+<w canon="kayâs" class="ipc" gcat="IPC" sgloss="long_ago" stem="kayâs">kayâs</w>
+<w canon="ê-kî-asotamân" class="vti" gcat="1sTIcnj" preverbs="ê|cnj kî|PAST" sgloss="promise" stem="asot" suffix="-amân">ê-kîh-asotamân</w>
+<w canon="ta-nîmihitôwinihkêyân" class="vai" gcat="1sAIcnj" preverbs="ta|FUT" sgloss="hold_dance" stem="nîmihitowinihkê" suffix="-yân">ta-nîmihitôwinihkêyân</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+;
+<gloss>No one has given heed to me until now, and danced, when long ago I had pledged myself to give a ritual dance,” said Wisahketchahk;</gloss>
+</seg>
+
+<seg n="16.4">
+<q>
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="pê-kapâk" class="vai" gcat="2pAIimp" preverbs="pê|thence" sgloss="come_ashore" stem="kapâ" suffix="-k">pê-kapâk</w>
+.</q>
+<gloss>“So then, come ashore.”</gloss>
+</seg>
+</p>
+
+<p n="17">
+
+<seg n="17.1">
+<w canon="ta-sipwêhtêwak" class="vai" gcat="3pAI" preverbs="ta|FUT" sgloss="leave" stem="sipwêhtê" suffix="-wak">ta-sipwêhtêwak</w>
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="sîsîpak" class="na" gcat="3pNA" sgloss="duck" stem="sîsîp" suffix="-ak">sîsîpak</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
+<w canon="niskak" class="na" gcat="3pNA" sgloss="goose" stem="nisk" suffix="-ak">niskak</w>
+.
+<gloss>Off went the ducks and geese.</gloss>
+</seg>
+
+<seg n="17.2">
+<w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
+<w canon="itohtêwak" class="vai" gcat="3pAI" sgloss="go" stem="itohtê" suffix="-wak">itohtêwak</w>
+.
+<gloss>All of them came.</gloss>
+</seg>
+</p>
+
+<p n="18">
+
+<seg n="18.1">
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">omis</w>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">îtwêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+:
+<q rend="PRE 1 POST0">
+<w canon="maci-kakêpâtisak" class="na" gcat="3pNA" prenouns="maci|bad" sgloss="stupid_person" stem="kakêpâtis" suffix="-ak">maci-kakêpâtisak</w>
+,
+<w canon="ninôhtêhkatêwâh" class="vai" gcat="1sAIhrel" prefix="1" sgloss="be_hungry" stem="nôhtêhkatê" suffix="-wâh">ninohtêhkatêwa</w>
+!</q>
+<gloss>Thus spoke Wisahketchahk: “Hopeless ninnies, I've been starving!</gloss>
+</seg>
+
+<seg n="18.2">
+<q rend="PRE 0 POST1">
+<w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistahi</w>
+<w canon="nika-mîcison" class="vai" gcat="1sAI" prefix="1" preverbs="ka|will" sgloss="eat" stem="mîciso" suffix="-n">nika-mîcison</w>
+!</q>
+<w canon="itêyihtam" class="vti" gcat="3sTI" sgloss="think_of" stem="itêyiht" suffix="-am">itêyihtam</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+.
+<gloss>I shall have a big meal!” thought Wisahketchahk.</gloss>
+</seg>
+</p>
+
+<p n="19">
+
+<seg n="19.1">
+<w canon="ê-apit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="sit" stem="api" suffix="-t">êh-apit</w>
+,
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="takohtêyiwa" class="vai" gcat="3oAI" sgloss="arrive" stem="takohtê" suffix="-yiwa">takohtêyiwah</w>
+.
+<gloss>They came to where he sat.</gloss>
+</seg>
+</p>
+
+<p n="20">
+
+<seg n="20.1">
+<q>
+<w canon="â" class="ipc" gcat="IPC" sgloss="well" stem="â">âh</w>
+,
+<w canon="âstamitik" class="ipc" gcat="IPC" sgloss="come_here_pl" stem="âstamitik">âstamitik</w>
+,
+<w canon="nisîmitik" class="nda" extra="vocp" gcat="3pNDAof1svoc" prefix="1" sgloss="younger_sib" stem="sîm" suffix="-VOCp">nisîmitik</w>
+!</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+.
+<gloss>“Ha, come here, little brothers!” said Wisahketchahk.</gloss>
+</seg>
+</p>
+
+<p n="21">
+
+<seg n="21.1">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="ê-sipwêhtêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="leave" stem="sipwêhtê" suffix="-t">ê-sipwêhtêt</w>
+,
+<w canon="ê-sakâyik" class="vii" gcat="0oIIcnj" preverbs="ê|cnj" sgloss="be_bush" stem="sakâ" suffix="-yik">ê-sakâyik</w>
+<w canon="ê-itohtêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="go" stem="itohtê" suffix="-t">êh-itohtêt</w>
+,
+<w canon="mihta" class="ni" gcat="0pNI" sgloss="firewood" stem="miht" suffix="-a">mihtah</w>
+<w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
+<w canon="ê-mihcêniyiki" class="vii" gcat="0qIIcnj" preverbs="ê|cnj" sgloss="be_numerous" stem="mihcên" suffix="-yiki">êh-mihcâniyikih</w>
+,
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="takohtêw" class="vai" gcat="3sAI" sgloss="arrive" stem="takohtê" suffix="-w">takohtêw</w>
+.
+<gloss>Setting out and making for a clump of trees, he came to where there was plenty of wood for a fire.</gloss>
+</seg>
+</p>
+
+<p n="22">
+
+<seg n="22.1">
+<q>
+<w canon="hâ" class="ipc" gcat="IPC" sgloss="oh" stem="hâ">hâ</w>
+,
+<w canon="nisîmitik" class="nda" extra="vocp" gcat="3pNDAof1svoc" prefix="1" sgloss="younger_sib" stem="sîm" suffix="-VOCp">nisîmitik</w>
+,
+<w canon="otinamok" class="vti" gcat="2pTIimp" sgloss="take" stem="otin" suffix="-amok">otinamok</w>
+<w canon="mihta" class="ni" gcat="0pNI" sgloss="firewood" stem="miht" suffix="-a">mihtah</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+.
+<gloss>“Ha, little brothers, take up some faggots,” he said.</gloss>
+</seg>
+</p>
+
+<p n="23">
+
+<seg n="23.1">
+<w canon="tâpwê" class="ipc" gcat="IPC" sgloss="truly" stem="tâpwê">tâpwê</w>
+<w canon="otinamwak" class="vti" gcat="3pTI" sgloss="take" stem="otin" suffix="-amwak">otinamwak</w>
+<w canon="mihcêt" class="ipc" gcat="IPC" sgloss="many" stem="mihcêt">mihcêt</w>
+,
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="ê-osihtâcik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="prepare" stem="osîhtâ" suffix="-cik">ê-osihtâcik</w>
+<w canon="wîkiwâw" class="ndi" gcat="0sNDIof3p" prefix="3" sgloss="house" stem="îk" suffix="-iwâw">wîkiwâw</w>
+,
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="ê-apahkwêcik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="make_roof" stem="apahkwê" suffix="-cik">êh-apahkwêcik</w>
+<w canon="ôho" class="dem" gcat="0pDEM" sgloss="this" stem="ôma" suffix="-0p">ôhô</w>
+<w canon="asisiya" class="ni" gcat="0pNI" sgloss="waterweed" stem="asisiy" suffix="-a">asisiyah</w>
+.
+<gloss>Accordingly they took up a plenty and built themselves a lodge, which they thatched with those weeds.</gloss>
+</seg>
+
+<seg n="23.2">
+<w canon="apisâsiniyiw" class="vii" gcat="0oII" sgloss="be_small" stem="apisâsin" suffix="-yiw">apisâsiniyiw</w>
+<w canon="iskwâhtêmis" class="ni" extra="dim" gcat="0sNI" sgloss="door" stem="iskwâhtêm" suffix="0">iskwâhtêmis</w>
+.
+<gloss>The little doorway was very small.</gloss>
+</seg>
+</p>
+
+<p n="24">
+
+<seg n="24.1">
+<q>
+<w canon="hâ" class="ipc" gcat="IPC" sgloss="oh" stem="hâ">hâ</w>
+,
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+,
+<w canon="nisîmitik" class="nda" extra="vocp" gcat="3pNDAof1svoc" prefix="1" sgloss="younger_sib" stem="sîm" suffix="-VOCp">nisîmitik</w>
+,
+<w canon="pîhtokêk" class="vai" gcat="2pAIimp" sgloss="enter" stem="pîhtikwê" suffix="-k">pîhtokêk</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+;
+<gloss>“Ha, now, little brothers, come inside,” he said;</gloss>
+</seg>
+
+<seg n="24.2">
+<q>
+<w canon="nîkân" class="ipc" gcat="IPC" sgloss="first" stem="nîkân">nîkân</w>
+<w canon="ta-pîhtokêwak" class="vai" gcat="3pAI" preverbs="ta|FUT" sgloss="enter" stem="pîhtikwê" suffix="-wak">ta-pîhtokêwak</w>
+<w canon="niskak" class="na" gcat="3pNA" sgloss="goose" stem="nisk" suffix="-ak">niskak</w>
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="kâ-misikiticik" class="vai" gcat="3pAIcnj" preverbs="kâ|cnj" sgloss="be_big" stem="misikiti" suffix="-cik">kâ-misikiticik</w>
+<w canon="sîsîpak" class="na" gcat="3pNA" sgloss="duck" stem="sîsîp" suffix="-ak">sîsîpak</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+;
+<gloss>“First the geese and the big ducks will come in,” he said;</gloss>
+</seg>
+
+<seg n="24.3">
+<q>
+<w canon="cikêmâ" class="ipc" gcat="IPC" sgloss="of_course" stem="cikêmâ">cikêmâ</w>
+<w canon="êwakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êyôkonik</w>
+<w canon="ê-okimâwicik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="be_chief" stem="okimâwi" suffix="-cik">êh-okimâwicik</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+.
+<gloss>“Especially those who are chiefs,” he said.</gloss>
+</seg>
+</p>
+
+<p n="25">
+
+<seg n="25.1">
+<w canon="wêskwâhtêmihk" class="ipc" gcat="IPC" sgloss="opposite_the_door" stem="wêskwâhtêmihk">wêskwâhtêmihk</w>
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">ômisi</w>
+<w canon="itapiyiwa" class="vai" gcat="3oAI" sgloss="sit_thus" stem="itapi" suffix="-yiwa">itapiyiwah</w>
+,
+<w canon="êyakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êyakonik</w>
+<w canon="niskak" class="na" gcat="3pNA" sgloss="goose" stem="nisk" suffix="-ak">niskak</w>
+.
+<gloss>Accordingly these, the geese, sat like this, at the far end, facing the door.</gloss>
+</seg>
+
+<seg n="25.2">
+<w canon="nêtê" class="ipc" gcat="IPC" sgloss="over_there" stem="nêtê">nêtê</w>
+<w canon="iskwâhtêmihk" class="ni" gcat="0locNI" sgloss="door" stem="iskwâhtêm" suffix="-ihk">iskwahtêmihk</w>
+,
+<w canon="êyakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êyakonik</w>
+<w canon="ê-apisîsisicik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="be_quite_small" stem="apisîsisi" suffix="-cik">êh-apisîsisicik</w>
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="apiwak" class="vai" gcat="3pAI" sgloss="sit" stem="api" suffix="-wak">apiwak</w>
+.
+<gloss>Over at the other end, by the door sat the little fellows.</gloss>
+</seg>
+
+<seg n="25.3">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="kipaham" class="vti" gcat="3sTI" sgloss="close" stem="kipah" suffix="-am">kipaham</w>
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">om</w>
+<w canon="iskwâhtêm" class="ni" gcat="0sNI" sgloss="door" stem="iskwâhtêm" suffix="0">iskwâhtêm</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+,
+<q>
+<w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâh</w>
+<w canon="ka-wayawîcik" class="vai" gcat="3pAIcnj" preverbs="ka|will" sgloss="go_outside" stem="wayawî" suffix="-cik">ka-wayawîcik</w>
+,</q>
+<w canon="ê-itêyihtahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="think_of" stem="itêyiht" suffix="-ahk">êh-itêyihtahk</w>
+.
+<gloss>Then that Wisahketchahk blocked up the doorway, thinking “So that they can't get out.”</gloss>
+</seg>
+
+<seg n="25.4">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="mâtôw" class="vai" gcat="3sAI" sgloss="cry" stem="mâto" suffix="-w">mâtôw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+.
+<gloss>Then Wisahketchahk wept.</gloss>
+</seg>
+</p>
+
+<p n="26">
+
+<seg n="26.1">
+<q rend="PRE 1 POST0">
+<w canon="nisîmitik" class="nda" extra="vocp" gcat="3pNDAof1svoc" prefix="1" sgloss="younger_sib" stem="sîm" suffix="-VOCp">nisîmitik</w>
+,
+<w canon="kinanâskomitinâwâw" class="vta" gcat="1s2pTA" prefix="2" sgloss="be_grateful_to" stem="nanâskom" suffix="-itinâwâw">kinanâskomitinâwâw</w>
+,
+<w canon="ê-kîsihtâyêk" class="vai" gcat="2pAIcnj" preverbs="ê|cnj" sgloss="finish" stem="kîsîhtâ" suffix="-yêk">ê-kîsihtâyêk</w>
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ômah</w>
+<w canon="mîkiwâhp" class="ni" gcat="0sNI" sgloss="lodge" stem="mîkiwâhp" suffix="0">mîkiwâhp</w>
+.</q>
+<gloss>“Little brothers, I thank you for having built this lodge.</gloss>
+</seg>
+
+<seg n="26.2">
+<q rend="PRE 0 POST1">
+<w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êk</w>
+<w canon="awiyak" class="pr" gcat="3sPR" sgloss="someone" stem="awiyak">âwiyak</w>
+<w canon="ê-kitimâkinawit" class="vta" gcat="3s1sTAcnj" preverbs="ê|cnj" sgloss="pity" stem="kitimâkinaw" suffix="-it">êh-kitimâkinawit</w>
+,
+<w canon="kiyawâw" class="pr" gcat="2pPR" sgloss="you" stem="kiyawâw">kiyawâw</w>
+<w canon="kâ-kitimâkinawiyêk" class="vta" gcat="2p1sTAcnj" preverbs="kâ|cnj" sgloss="pity" stem="kitimâkinaw" suffix="-iyêk">kâ-kitimâkinawiyêk</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+,
+<w canon="ê-mâtot" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="cry" stem="mâto" suffix="-t">êh-mâtot</w>
+.
+<gloss>When no one took pity on me, it was you who pitied me,” he spoke, weeping.</gloss>
+</seg>
+</p>
+
+<p n="27">
+
+<seg n="27.1">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="pôni-mâtôw" class="vai" gcat="3sAI" preverbs="pôni|cease" sgloss="cry" stem="mâto" suffix="-w">pôni-mâtôw</w>
+.
+<gloss>Then he ceased weeping.</gloss>
+</seg>
+</p>
+
+<p n="28">
+
+<seg n="28.1">
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">ômisî</w>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+:
+<q rend="PRE 1 POST0">
+<w canon="hâw" class="ipc" gcat="IPC" sgloss="now" stem="hâw">hâw</w>
+,
+<w canon="nisîmitik" class="nda" extra="vocp" gcat="3pNDAof1svoc" prefix="1" sgloss="younger_sib" stem="sîm" suffix="-VOCp">nisîmitik</w>
+,
+<w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
+<w canon="tâwayihk" class="ipc" gcat="IPC" sgloss="in_between" stem="tawâyihk">tâwayihk</w>
+<w canon="nika-nîpawin" class="vai" gcat="1sAI" prefix="1" preverbs="ka|will" sgloss="stand" stem="nîpawi" suffix="-n">nika-nîpawin</w>
+;
+<w canon="nika-nikamon" class="vai" gcat="1sAI" prefix="1" preverbs="ka|will" sgloss="sing" stem="nikamo" suffix="-n">nika-nikamon</w>
+.</q>
+<gloss>Thus spoke Wisahketchahk: “Now, little brothers, here in the centre I shall stand; I shall sing.</gloss>
+</seg>
+
+<seg n="28.2">
+<q rend="PRE 0 POST0">
+<w canon="nikamoyâni" class="vai" gcat="1sAIsubjunc" sgloss="sing" stem="nikamo" suffix="-yâni">nikamoyânih</w>
+,
+<w canon="ka-nîmihitonâwâw" class="vai" gcat="2pAI" preverbs="ka|will" sgloss="dance_with_e.o." stem="nîmihito" suffix="-nâwâw">ka-nimihitonâwâw</w>
+.</q>
+<gloss>When I sing, you will dance; [sic] you will close your eyes.</gloss>
+</seg>
+
+<seg n="28.3">
+<q rend="PRE 0 POST0">
+<w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">iyikohk</w>
+<w canon="pôni-nikamoyâni" class="vai" gcat="1sAIsubjunc" preverbs="pôni|cease" sgloss="sing" stem="nikamo" suffix="-yâni">pôni-nikamoyânih</w>
+,
+<w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
+<w canon="ka-tôhkâpinâwâw" class="vai" gcat="2pAI" preverbs="ka|will" sgloss="open_eyes" stem="tôhkâpi" suffix="-nâwâw">ka-tôhkâpinâwâw</w>
+.</q>
+<gloss>Not until I cease singing will you open your eyes.</gloss>
+</seg>
+
+<seg n="28.4">
+<q rend="PRE 0 POST0">
+<w canon="kîspin" class="ipc" gcat="IPC" sgloss="if" stem="kîspin">kîspin</w>
+<w canon="manitôw" class="na" gcat="3sNA" sgloss="spirit" stem="manitow" suffix="0">manitôw</w>
+<w canon="nipêcimâw" class="vta" gcat="1s3sTA" prefix="1" sgloss="call_here" stem="pêcim" suffix="-âw">nipêcimâw</w>
+,
+<q>
+<w canon="hweh" class="interj" gcat="INTERJ" sgloss="hwe" stem="hweh">hweh</w>
+<w canon="hweh" class="interj" gcat="INTERJ" sgloss="hwe" stem="hweh">hweh</w>
+<w canon="hweh" class="interj" gcat="INTERJ" sgloss="hwe" stem="hweh">hweh</w>
+!</q>
+<w canon="nika-itwân" class="vai" gcat="1sAI" prefix="1" preverbs="ka|will" sgloss="say" stem="itwê" suffix="-n">nik-êtwân</w>
+;</q>
+<gloss>When I summon the spirit-power, I shall say, ‘Hwe, hwe, hwe!’</gloss>
+</seg>
+
+<seg n="28.5">
+<q rend="PRE 0 POST1">
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="sôhki" class="ipc" gcat="IPC" sgloss="strongly" stem="sôhki">sôhkih</w>
+<w canon="ka-nîmihitonâwâw" class="vai" gcat="2pAI" preverbs="ka|will" sgloss="dance_with_e.o." stem="nîmihito" suffix="-nâwâw">ka-nîmihitonâwâw</w>
+,
+<w canon="pêhtawiyêko" class="vta" gcat="2p1sTAsubjunc" sgloss="hear" stem="pêhtaw" suffix="-iyêko">pêhtawiyêkoh</w>
+,
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="itwêyâni" class="vai" gcat="1sAIsubjunc" sgloss="say" stem="itwê" suffix="-yâni">itwêyânih</w>
+.</q>
+<gloss>then you will dance with all your might, when you hear me call thus.</gloss>
+</seg>
+</p>
+
+<p n="29">
+
+<seg n="29.1">
+<q>
+<w canon="ahaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">âhag</w>
+,</q>
+<w canon="itwêwak" class="vai" gcat="3pAI" sgloss="say" stem="itwê" suffix="-wak">itwêwak</w>
+.
+<gloss>“Very well,” they answered.</gloss>
+</seg>
+</p>
+
+<p n="30">
+
+<seg n="30.1">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="mistik" class="ni" gcat="0sNI" sgloss="stick" stem="mistikw" suffix="0">mistik</w>
+<w canon="tahkonam" class="vti" gcat="3sTI" sgloss="carry" stem="tahkon" suffix="-am">tahkonam</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+,
+<w canon="nîpiya" class="ni" gcat="0pNI" sgloss="leaf" stem="nîpiy" suffix="-a">nîpiyah</w>
+<w canon="ê-kayâsâyiwiyiki" class="vii" gcat="0qIIcnj" preverbs="ê|cnj" sgloss="be_an_old_thing" stem="kayâsâyiwi" suffix="-yiki">ê-kayâsayiwiyikih</w>
+<w canon="ê-takopitêyiki" class="vii" gcat="0qIIcnj" preverbs="ê|cnj" sgloss="be_tied_to" stem="takopitê" suffix="-yiki">êh-takopitêyikih</w>
+,
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">ômisi</w>
+<w canon="ê-isiwêpinahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="throw_this" stem="isiwêpin" suffix="-ahk">êy-isiwêpinahk</w>
+,
+<w canon="ê-sêwêpayiyiki" class="vii" gcat="0qIIcnj" preverbs="ê|cnj" sgloss="jingle" stem="sêwêpayi" suffix="-yiki">ê-sêwêpayiyikih</w>
+,
+<w canon="tâpiskôc" class="ipc" gcat="IPC" sgloss="like" stem="tâpiskôc">tâpiskôc</w>
+<w canon="sasawihyâkan" class="na" gcat="3sNA" sgloss="bell" stem="sasawihyâkan" suffix="0">sasawihyâkan</w>
+,
+<w canon="ôhi" class="dem" gcat="0pDEM" sgloss="this" stem="ôma" suffix="-0p">ôhi</w>
+<w canon="nîpiya" class="ni" gcat="0pNI" sgloss="leaf" stem="nîpiy" suffix="-a">nîpiyah</w>
+.
+<gloss>Then Wisahketchahk took hold of a branch that had old leaves on it which rustled when he swung it, like this, just like a bell, those leaves.</gloss>
+</seg>
+
+<seg n="30.2">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="nikamôw" class="vai" gcat="3sAI" sgloss="sing" stem="nikamo" suffix="-w">nikamôw</w>
+.
+<gloss>Thereupon he began singing.</gloss>
+</seg>
+</p>
+
+<p n="31">
+
+<seg n="31.1">
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">ômis</w>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">îtwêw</w>
+:
+<q>
+<w canon="pasakwâpisimôwina" class="ni" gcat="0pNI" sgloss="shut_eye_dance" stem="pasakwâpisimowin" suffix="-a">pasakwâpisimôwinah</w>
+<w canon="nipêciwitân" class="vai" gcat="1sAI" prefix="1" sgloss="bring_here" stem="pêciwitâ" suffix="-n">nipêciwitân</w>
+!</q>
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkos</w>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">îtwêw</w>
+,
+<w canon="ê-nikamot" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="sing" stem="nikamo" suffix="-t">êh-nikamot</w>
+.
+<gloss>These were his words: “Shut-Eye Dances I bring here!” were the words of his song.</gloss>
+</seg>
+</p>
+
+<p n="32">
+
+<seg n="32.1">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôhi</w>
+<w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
+<w canon="ê-pasakwâpicik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="close_eyes" stem="pasakwâpi" suffix="-cik">êh-pasakwâpicik</w>
+,
+<w canon="ê-nîmihitocik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="dance_with_e.o." stem="nîmihito" suffix="-cik">êh-nîmihitocik</w>
+,
+<w canon="kîtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kîtahtawê</w>
+,
+<q>
+<w canon="hweh" class="interj" gcat="INTERJ" sgloss="hwe" stem="hweh">hweh</w>
+<w canon="hweh" class="interj" gcat="INTERJ" sgloss="hwe" stem="hweh">hweh</w>
+!</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+,
+<w canon="ê-otinât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="take" stem="otin" suffix="-ât">êh-otinât</w>
+<w canon="ê-misikitiyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj" sgloss="be_big" stem="misikiti" suffix="-yit">ê-misikitiyit</w>
+<w canon="niska" class="na" gcat="3oNA" sgloss="goose" stem="nisk" suffix="-a">niskah</w>
+,
+<w canon="ê-kîskikwêpitât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="jerk_off_head" stem="kîskikwêpit" suffix="-ât">êh-kîskikwêpitât</w>
+.
+<gloss>Then, when they all had closed their eyes and were dancing, presently, “Hwe, hwe!” went Wisahketchahk, taking hold of a big goose and wringing its neck.</gloss>
+</seg>
+
+<seg n="32.2">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkos</w>
+<w canon="ê-ati-wâsakâmêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj ati|PROG" sgloss="make_circuit" stem="wâsakâmê" suffix="-t">ê-ati-wâsakâmêt</w>
+,
+<w canon="tahki" class="ipc" gcat="IPC" sgloss="always" stem="tahki">tahk</w>
+<w canon="ê-nikamot" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="sing" stem="nikamo" suffix="-t">êh-nikamot</w>
+,
+<w canon="ê-ati-kîskikwêpitât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj ati|PROG" sgloss="jerk_off_head" stem="kîskikwêpit" suffix="-ât">êh-ati-kîskikwêpitât</w>
+<w canon="niska" class="na" gcat="3oNA" sgloss="goose" stem="nisk" suffix="-a">niskah</w>
+<w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôhi</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
+<w canon="sîsîpa" class="na" gcat="3oNA" sgloss="duck" stem="sîsîp" suffix="-a">sîsîpah</w>
+<w canon="kâ-misikitiyit" class="vai" gcat="3oAIcnj" preverbs="kâ|cnj" sgloss="be_big" stem="misikiti" suffix="-yit">kâ-misikitiyit</w>
+.
+<gloss>In this way he kept on circling round, singing all the while, and, as he went, wringing the necks of the geese and of the big ducks.</gloss>
+</seg>
+
+<seg n="32.3">
+<w canon="nêtê" class="ipc" gcat="IPC" sgloss="over_there" stem="nêtê">nêtêh</w>
+<w canon="iskwâhtêmihk" class="ni" gcat="0locNI" sgloss="door" stem="iskwâhtêm" suffix="-ihk">skwâhtêmihk</w>
+<w canon="ê-nîmihitot" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="dance_with_e.o." stem="nîmihito" suffix="-t">êh-nîmihitot</w>
+<w canon="sihkihp" class="na" gcat="3sNA" sgloss="diver_duck" stem="sihkihp" suffix="0">sihkihp</w>
+,
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwakoh</w>
+<w canon="ê-pêhtahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="hear" stem="pêht" suffix="-ahk">êh-pêhtahk</w>
+<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+,
+<w canon="ê-napatê-tôhkâpit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj napatê|on_one_side" sgloss="open_eyes" stem="tôhkâpi" suffix="-t">êh-napatêh-tôhkâpit</w>
+,
+<w canon="ê-nîmihitot" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="dance_with_e.o." stem="nîmihito" suffix="-t">êh-nîmihitot</w>
+,
+<w canon="kâ-wâpamât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpam" suffix="-ât">kâ-wâpamât</w>
+<w canon="wîsahkêcâhkwa" class="na" gcat="3oNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="-a">wîsahkêcâhkwah</w>
+<w canon="ê-ati-nipahâyit" class="vta" gcat="3o3oTAcnj" preverbs="ê|cnj ati|PROG" sgloss="kill" stem="nipah" suffix="-âyit">êh-ati-nipahâyit</w>
+.
+<gloss>Over yonder by the door danced Hell-Diver, and when he heard something or other, and opened one eye as he danced, there he saw Wisahketchahk killing one after another.</gloss>
+</seg>
+</p>
+
+<p n="33">
+
+<seg n="33.1">
+<q>
+<w canon="îyahâ" class="interj" gcat="INTERJ" sgloss="îyahâ" stem="îyahâ">îyahâ</w>
+!</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+,
+<q>
+<w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mînah</w>
+<w canon="kimêscihikonaw" class="vta" gcat="3s1iTA" prefix="2" sgloss="kill_off" stem="mêscih" suffix="-ikonaw">kimêscihikonaw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+!</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+.
+<gloss>“Yah!” he cried, “It's the same old story, Wisahketchahk is killing us off!”</gloss>
+</seg>
+</p>
+
+<p n="34">
+
+<seg n="34.1">
+<w canon="ê-tôhkâpicik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="open_eyes" stem="tôhkâpi" suffix="-cik">êh-tôhkâpicik</w>
+<w canon="kotakak" class="pr" gcat="3pPR" sgloss="other" stem="kotak" suffix="-3p">kotakak</w>
+,
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">omis</w>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">îtwêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+:
+<q rend="PRE 1 POST0">
+<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
+<w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
+<w canon="kê-pêtâyân" class="vai" gcat="1sAIcnj" preverbs="kê|IC+FUT" sgloss="bring" stem="pêtâ" suffix="-yân">kê-pêtâyân</w>
+<w canon="nîmihitôwin" class="ni" gcat="0sNI" sgloss="dance" stem="nîmihitowin" suffix="0">nîmihitôwin</w>
+,
+<w canon="kakêpâtisicik" class="na" extra="vocp dim" gcat="3pNAof1svoc" sgloss="stupid_person" stem="kakêpâtis" suffix="-VOCp">kâkêpâtisicik</w>
+?</q>
+<gloss>When the others opened their eyes, Wisahketchahk said, “What sort of a dance would I be bringing you blockheads?</gloss>
+<note>LB on {kâkêpâtisicik}:  The ending of the vocative plural is, of course, {-itik}.  The sound {c} for {t} appears in diminutives (among the younger generation of speakers, almost universally); less often in other words formed with suffixes containing {s} (as in the present instance); and occasionally in other words, probably always with a diminutive touch.</note>
+</seg>
+
+<seg n="34.2">
+<q rend="PRE 0 POST1">
+<w canon="ninôhtêhkatâh" class="vai" gcat="1sAIh" prefix="1" sgloss="be_hungry" stem="nôhtêhkatê" suffix="-h">ninôhtêhkatâh</w>
+!</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+<w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôhi</w>
+<w canon="sîsîpa" class="na" gcat="3oNA" sgloss="duck" stem="sîsîp" suffix="-a">sîsîpah</w>
+.
+<gloss>I was hungry, that's all!” he said to those ducks.</gloss>
+</seg>
+</p>
+
+<p n="35">
+
+<seg n="35.1">
+<w canon="wayawîyâmowak" class="vai" gcat="3pAI" sgloss="flee_out" stem="wayawiyâmo" suffix="-wak">wayawîyâmowak</w>
+<w canon="kotakak" class="pr" gcat="3pPR" sgloss="other" stem="kotak" suffix="-3p">kotakak</w>
+,
+<w canon="ê-tapasîcik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="flee" stem="tapasî" suffix="-cik">êh-tapasîcik</w>
+.
+<gloss>They fled out of doors, the others, trying to get away.</gloss>
+</seg>
+</p>
+
+<p n="36">
+
+<seg n="36.1">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="wayawîw" class="vai" gcat="3sAI" sgloss="go_outside" stem="wayawî" suffix="-w">wayawîw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+,
+<w canon="ê-pâhpit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="laugh" stem="pâhpi" suffix="-t">êh-pâhpit</w>
+,
+<w canon="ê-miywêyihtahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="consider_good" stem="miywêyiht" suffix="-ahk">êh-miywêyihtahk</w>
+,
+<q>
+<w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistahi</w>
+<w canon="nika-mîcison" class="vai" gcat="1sAI" prefix="1" preverbs="ka|will" sgloss="eat" stem="mîciso" suffix="-n">nika-mîcison</w>
+,</q>
+<w canon="ê-itêyihtahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="think_of" stem="itêyiht" suffix="-ahk">êh-itêyihtahk</w>
+.
+<gloss>Thereupon Wisahketchahk went out of the lodge, laughing and rejoicing, thinking, “I shall eat a plenty.”</gloss>
+</seg>
+
+<seg n="36.2">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="pîkonam" class="vti" gcat="3sTI" sgloss="break" stem="pîkon" suffix="-am">pîkonam</w>
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">oma</w>
+<w canon="wîki" class="ndi" gcat="0sNDIof3s" prefix="3" sgloss="house" stem="îk" suffix="0">wîkih</w>
+,
+<w canon="ôhi" class="dem" gcat="0pDEM" sgloss="this" stem="ôma" suffix="-0p">ôhi</w>
+<w canon="mihta" class="ni" gcat="0pNI" sgloss="firewood" stem="miht" suffix="-a">mihtah</w>
+<w canon="ê-otinahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="take" stem="otin" suffix="-ahk">êh-otinahk</w>
+,
+<w canon="ê-kotawêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="make_fire" stem="kotawê" suffix="-t">êh-kotawêt</w>
+,
+<w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôhih</w>
+<w canon="ê-wî-nawacît" class="vai" gcat="3sAIcnj" preverbs="ê|cnj wî|will" sgloss="roast" stem="nawacî" suffix="-t">ê-wih-nawacît</w>
+<w canon="nîpin-âya" class="na" gcat="3oNA" sgloss="summer_creature" stem="nîpin-ây" suffix="-a">nîpin-âyah</w>
+.
+<gloss>So then he tore up that lodge of his, taking the faggots and building a fire to roast those summer creatures.</gloss>
+</seg>
+
+<seg n="36.3">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="ê-nawacît" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="roast" stem="nawacî" suffix="-t">êh-nawacît</w>
+,
+<w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
+<w canon="nawacîw" class="vai" gcat="3sAI" sgloss="roast" stem="nawacî" suffix="-w">nawacîw</w>
+.
+<gloss>He roasted them whole.</gloss>
+</seg>
+
+<seg n="36.4">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="osâm" class="ipc" gcat="IPC" sgloss="too_much" stem="osâm">ôsâm</w>
+<w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistah</w>
+<w canon="ê-pônahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="build_fire" stem="pôn" suffix="-ahk">êh-pônahk</w>
+,
+<w canon="apwêsiw" class="vai" gcat="3sAI" sgloss="sweat" stem="apwêsi" suffix="-w">âpwêsiw</w>
+.
+<gloss>Having made too big a fire, he began to feel hot.</gloss>
+</seg>
+</p>
+
+<p n="37">
+
+<seg n="37.1">
+<w canon="sipwêhtêw" class="vai" gcat="3sAI" sgloss="leave" stem="sipwêhtê" suffix="-w">sipwêhtêw</w>
+,
+<q rend="PRE 1 POST0">
+<w canon="pita" class="ipc" gcat="IPC" sgloss="first" stem="pitamâ">pitah</w>
+<w canon="nika-pôni-apwêsin" class="vai" gcat="1sAI" prefix="1" preverbs="ka|will pôni|cease" sgloss="sweat" stem="apwêsi" suffix="-n">nika-pôn-âpwêsin</w>
+;</q>
+<gloss>He went off, thinking, “First I shall get over feeling hot;</gloss>
+</seg>
+
+<seg n="37.2">
+<q rend="PRE 0 POST1">
+<w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
+<w canon="ta-kîsisôwak" class="vai" gcat="3pAI" preverbs="ta|FUT" sgloss="get_burnt" stem="kîsiso" suffix="-wak">ta-kîsisôwak</w>
+<w canon="niniskimak" class="na" extra="im" gcat="3pNAof1s" prefix="1" sgloss="goose" stem="nisk" suffix="-ak">niniskimak</w>
+,</q>
+<w canon="ê-itêyihtahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="think_of" stem="itêyiht" suffix="-ahk">êh-itêyihtahk</w>
+.
+<gloss>by that time my geese will be done.”</gloss>
+</seg>
+</p>
+
+<p n="38">
+
+<seg n="38.1">
+<w canon="tâpwê" class="ipc" gcat="IPC" sgloss="truly" stem="tâpwê">tâpwâh</w>
+<w canon="wâhyawês" class="ipc" gcat="IPC" sgloss="a_little_away" stem="wâhyawês">wâhyawês</w>
+<w canon="ê-itohtêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="go" stem="itohtê" suffix="-t">êh-itohtêt</w>
+,
+<w canon="kâ-wâpamât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpam" suffix="-ât">kâ-wâpamât</w>
+<w canon="mahkêsîsa" class="na" gcat="3oNA" sgloss="Fox" stem="mahkêsîs" suffix="-a">mahkêsîsah</w>
+<w canon="ê-wîsakêyihtamiyit" class="vti" gcat="3oTIcnj" preverbs="ê|cnj" sgloss="have_pain_in" stem="wîsakêyiht" suffix="-amiyit">ê-wîsakêyihtamiyit</w>
+<w canon="oskâtiyiw" class="ndi" gcat="0sNDIof3o" prefix="3" sgloss="leg" stem="skât" suffix="-iyiw">oskâtiyiw</w>
+,
+<w canon="ê-watiskâyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj" sgloss="limp" stem="watiskâ" suffix="-yit">êh-watiskâyit</w>
+,
+<w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
+<w canon="ê-kî-pimohtêyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj kî|can" sgloss="go_along" stem="pimohtê" suffix="-yit">êh-kih-pimohtêyit</w>
+,
+<w canon="ê-wî-tapasîhikot" class="vta" gcat="3o3sTAcnj" preverbs="ê|cnj wî|will" sgloss="flee_from" stem="tapasîh" suffix="-ikot">ê-wîh-tapasîhikot</w>
+.
+<gloss>And so when he had walked a little ways, there he saw Fox, who had a pain in his leg, and was limping and could not walk properly, as he tried to run away from him.</gloss>
+</seg>
+</p>
+
+<p n="39">
+
+<seg n="39.1">
+<q>
+<w canon="cêskwa" class="ipc" gcat="IPC" sgloss="wait" stem="cêskwa">cêskwa</w>
+,
+<w canon="nisîm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="younger_sib" stem="sîm" suffix="0">nisîm</w>
+!</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+.
+<gloss>“Wait a moment, little brother!” he called to him.</gloss>
+</seg>
+</p>
+
+<p n="40">
+
+<seg n="40.1">
+<q>
+<w canon="wâ" class="ipc" gcat="IPC" sgloss="well" stem="wâ">wâh</w>
+,
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+</q>
+<w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
+;
+<q>
+<w canon="osâm" class="ipc" gcat="IPC" sgloss="because" stem="osâm">osâm</w>
+<w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
+<w canon="nânitaw" class="ipc" gcat="IPC" sgloss="simply" stem="nânitaw">nânitaw</w>
+<w canon="kiwî-tôtawin" class="vta" gcat="2s1sTA" prefix="2" preverbs="wî|will" sgloss="do_thus_to" stem="tôtaw" suffix="-in">kiwîh-tôtawin</w>
+,</q>
+<w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
+.
+<gloss>“Dear me, no!” the other answered; “You are only going to play me some new trick,” he said to him.</gloss>
+</seg>
+</p>
+
+<p n="41">
+
+<seg n="41.1">
+<q>
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+!</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+;
+<q rend="PRE 1 POST0">
+<w canon="ê-wî-âcimostâtân" class="vta" gcat="1s2sTAcnj" preverbs="ê|cnj wî|will" sgloss="tell_about" stem="âcimostaw" suffix="-itân">ê-wih-âcimostâtân</w>
+.</q>
+<gloss>“No! he told him; “It is only that I want to tell you some news.</gloss>
+</seg>
+
+<seg n="41.2">
+<q rend="PRE 0 POST1">
+<w canon="îh" class="ipc" gcat="IPC" sgloss="lo" stem="îh">îh</w>
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">oma</w>
+<w canon="kiwâpahtên" class="vti" gcat="2sTI" prefix="2" sgloss="see" stem="wâpaht" suffix="-ên">kiwâpahtên</w>
+<w canon="cî" class="ipc" gcat="IPC" sgloss="[?]" stem="cî">cî</w>
+<w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistahi</w>
+<w canon="kâ-pikihtêk" class="vii" gcat="0sIIcnj" preverbs="kâ|cnj" sgloss="smoke" stem="pikihtê" suffix="-k">kâ-pikihtêk</w>
+?</q>
+<gloss>Do you see all the smoke rising over here?”</gloss>
+</seg>
+</p>
+
+<p n="42">
+
+<seg n="42.1">
+<q>
+<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+,</q>
+<w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
+.
+<gloss>“Yes,” said the other to him.</gloss>
+</seg>
+</p>
+
+<p n="43">
+
+<seg n="43.1">
+<q>
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="mihcêt" class="ipc" gcat="IPC" sgloss="many" stem="mihcêt">mihcêt</w>
+<w canon="ninipahâwak" class="vta" gcat="1s3pTA" prefix="1" sgloss="kill" stem="nipah" suffix="-âwak">ninipahâwak</w>
+<w canon="niskak" class="na" gcat="3pNA" sgloss="goose" stem="nisk" suffix="-ak">niskak</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
+<w canon="sîsîpak" class="na" gcat="3pNA" sgloss="duck" stem="sîsîp" suffix="-ak">sîsîpak</w>
+,
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="ê-nawacîyân" class="vai" gcat="1sAIcnj" preverbs="ê|cnj" sgloss="roast" stem="nawacî" suffix="-yân">êh-nawaciyân</w>
+,</q>
+<w canon="ê-itât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="say_to" stem="it" suffix="-ât">êh-itât</w>
+;
+<gloss>“Over there I have killed a lot of geese and ducks, and there I am roasting them,” he told him;</gloss>
+</seg>
+
+<seg n="43.2">
+<q>
+<w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistahi</w>
+<w canon="ka-mîcisonânaw" class="vai" gcat="1iAI" preverbs="ka|will" sgloss="eat" stem="mîciso" suffix="-nânaw">ka-mîcisonânaw</w>
+,</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+;
+<gloss>“We shall have plenty to eat,” he told him;</gloss>
+</seg>
+
+<seg n="43.3">
+<q rend="PRE 1 POST0">
+<w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâkah</w>
+<w canon="pita" class="ipc" gcat="IPC" sgloss="first" stem="pitamâ">pitah</w>
+<w canon="ka-kakwê-nakatonânaw" class="vai" gcat="1iAI" preverbs="ka|will kakwê|try_to" sgloss="race" stem="nakato" suffix="-nânaw">ka-kakwê-nakatonânaw</w>
+.</q>
+<gloss>“But first let us race.</gloss>
+</seg>
+
+<seg n="43.4">
+<q rend="PRE 0 POST1">
+<w canon="nêma" class="dem" gcat="0sDEM" sgloss="that" stem="nêma">nêma</w>
+<w canon="wâhyaw" class="ipc" gcat="IPC" sgloss="far_away" stem="wâhyaw">wâhyaw</w>
+<w canon="kâ-ispatinâ-k" class="vii" gcat="0sIIcnj" preverbs="kâ|cnj" sgloss="be_hill" stem="ispatinâ" suffix="-k">k-êspatinâk</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwakoh</w>
+<w canon="ka-têtipêwêpahtânânaw" class="vai" gcat="1iAI" preverbs="ka|will" sgloss="run_around" stem="têtipêwêpahtâ" suffix="-nânaw">ka-têtipêwêpahtânânaw</w>
+.</q>
+<gloss>Let us run around that hill not far from here.”</gloss>
+</seg>
+</p>
+
+<p n="44">
+
+<seg n="44.1">
+<q>
+<w canon="hâh" class="interj" gcat="INTERJ" sgloss="hah" stem="hâh">hâh</w>
+,
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+!
+<w canon="kiwâpamin" class="vta" gcat="2s1sTA" prefix="2" sgloss="see" stem="wâpam" suffix="-in">kiwâpamin</w>
+<w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâh</w>
+<w canon="ê-kî-pimohtêyân" class="vai" gcat="1sAIcnj" preverbs="ê|cnj kî|can" sgloss="go_along" stem="pimohtê" suffix="-yân">êh-kîh-pimohtêyân</w>
+,
+<w canon="ê-wîsakêyihtamân" class="vti" gcat="1sTIcnj" preverbs="ê|cnj" sgloss="have_pain_in" stem="wîsakêyiht" suffix="-amân">ê-wîsakêyihtamân</w>
+<w canon="niskât" class="ndi" gcat="0sNDIof1s" prefix="1" sgloss="leg" stem="skât" suffix="0">niskât</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="mahkêsîs" class="na" gcat="3sNA" sgloss="Fox" stem="mahkêsîs" suffix="0">mahkêsîs</w>
+.
+<gloss>“Oh dear, no! You see I can't walk, with my sore leg,” said Fox.</gloss>
+</seg>
+</p>
+
+<p n="45">
+
+<seg n="45.1">
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">omis</w>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">îtwêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+:
+<q>
+<w canon="asiniyak" class="na" gcat="3pNA" sgloss="rock" stem="asiniy" suffix="-ak">asiniyak</w>
+<w canon="niskâtihk" class="ndi" gcat="0locNDIof1s" prefix="1" sgloss="leg" stem="skât" suffix="-ihk">niskâtihk</w>
+<w canon="nika-tahkopitâwak" class="vta" gcat="1s3pTA" prefix="1" preverbs="ka|will" sgloss="tie_fast" stem="tahkopit" suffix="-âwak">nika-tahkopitâwak</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+.
+<gloss>Wisahketchahk spoke thus: “I shall tie stones to my leg,” he said.</gloss>
+</seg>
+</p>
+
+<p n="46">
+
+<seg n="46.1">
+<q>
+<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="mahkêsîs" class="na" gcat="3sNA" sgloss="Fox" stem="mahkêsîs" suffix="0">mahkêsîs</w>
+.
+<gloss>“Very well,” said Fox.</gloss>
+</seg>
+</p>
+
+<p n="47">
+
+<seg n="47.1">
+<w canon="asiniya" class="na" gcat="3oNA" sgloss="rock" stem="asiniy" suffix="-a">asiniyah</w>
+<w canon="otinêw" class="vta" gcat="3s3oTA" sgloss="take" stem="otin" suffix="-êw">otinêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+,
+<w canon="ê-tahkopitât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="tie_fast" stem="tahkopit" suffix="-ât">êh-tahkopitât</w>
+<w canon="oskâtihk" class="ndi" gcat="0locNDIof3s" prefix="3" sgloss="leg" stem="skât" suffix="-ihk">oskâtihk</w>
+.
+<gloss>Wisahketchahk took some stones and tied them to his leg.</gloss>
+</seg>
+</p>
+
+<p n="48">
+
+<seg n="48.1">
+<q>
+<w canon="haw" class="ipc" gcat="IPC" sgloss="now" stem="hâw">haw</w>
+,
+<w canon="nisîm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="younger_sib" stem="sîm" suffix="0">nisîm</w>
+,
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+!</q>
+<gloss>“There, little brother, come on!”</gloss>
+</seg>
+</p>
+
+<p n="49">
+
+<seg n="49.1">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="sipwêpahtâwak" class="vai" gcat="3pAI" sgloss="run_off" stem="sipwêpahtâ" suffix="-wak">sipwêpahtâwak</w>
+.
+<gloss>So they set off at a run.</gloss>
+</seg>
+
+<seg n="49.2">
+<w canon="nakatêw" class="vta" gcat="3s3oTA" sgloss="leave_behind" stem="nakat" suffix="-êw">nakatêw</w>
+<w canon="mahkêsîsa" class="na" gcat="3oNA" sgloss="Fox" stem="mahkêsîs" suffix="-a">mahkêsîsah</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+.
+<gloss>Wisahketchahk left Fox behind.</gloss>
+</seg>
+</p>
+
+<p n="50">
+
+<seg n="50.1">
+<q rend="PRE 1 POST0">
+<w canon="hêy" class="ipc" gcat="IPC" sgloss="hey" stem="hêy">hêy</w>
+,
+<w canon="omîhkawikîh" class="vai" gcat="3sAIh" prefix="3" sgloss="run_fast" stem="mîhkawiki" suffix="-h">omîhkawikîh</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+<w canon="mahkêsîs" class="na" gcat="3sNA" sgloss="Fox" stem="mahkêsîs" suffix="0">mahkêsîs</w>
+,
+<w canon="kâ-kitimâkaskâtak" class="vta" gcat="1s3sTAcnj" preverbs="kâ|cnj" sgloss="outrun_pitifully" stem="kitimâkaskât" suffix="-ak">kâ-kitimâkaskâtak</w>
+<w canon="nisîm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="younger_sib" stem="sîm" suffix="0">nisîm</w>
+!</q>
+<gloss>“Hey, I thought this Fox was a runner, this poor little brother of mine whom I am leaving so far behind!</gloss>
+</seg>
+
+<seg n="50.2">
+<q rend="PRE0 POST1">
+<w canon="itâp" class="ipc" gcat="IPC" sgloss="then" stem="itâp">itâp</w>
+<w canon="âtiht" class="ipc" gcat="IPC" sgloss="some" stem="âtiht">âtiht</w>
+<w canon="nika-asamâw" class="vta" gcat="1s3sTA" prefix="1" preverbs="ka|will" sgloss="feed" stem="asam" suffix="-âw">nik-âsamâw</w>
+,
+<w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">êyikohk</w>
+<w canon="ta-takopahtâci" class="vai" gcat="3sAIsubjunc" preverbs="ta|FUT" sgloss="arrive_running" stem="takopahtâ" suffix="-ci">ta-takopahtâcih</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+.
+<gloss>I shall give the poor fellow a few of then when he arrives from his run,” said Wisahketchahk.</gloss>
+</seg>
+</p>
+
+<p n="51">
+
+<seg n="51.1">
+<w canon="mayaw" class="ipc" gcat="IPC" sgloss="as_soon_as" stem="mayaw">mayaw</w>
+<w canon="ê-âkawêwêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="go_out_of_sight" stem="âkawêwê" suffix="-t">êh-âkawêwêt</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+,
+<w canon="kîwêpayiw" class="vai" gcat="3sAI" sgloss="drive_home" stem="kîwêpayi" suffix="-w">kîwêpayiw</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+<w canon="mahkêsîs" class="na" gcat="3sNA" sgloss="Fox" stem="mahkêsîs" suffix="0">mahkêsîs</w>
+,
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+<w canon="ê-wîsakêyihtahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="have_pain_in" stem="wîsakêyiht" suffix="-ahk">ê-wîsakêyihtahk</w>
+<w canon="oskât" class="ndi" gcat="0sNDIof3s" prefix="3" sgloss="leg" stem="skât" suffix="0">oskât</w>
+,
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
+<w canon="kâ-pikihtêyik" class="vii" gcat="0oIIcnj" preverbs="kâ|cnj" sgloss="smoke" stem="pikihtê" suffix="-yik">kâ-pikihtêyik</w>
+<w canon="ê-ispayit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="move_thus" stem="ispayi" suffix="-t">êy-ispayit</w>
+.
+<gloss>As soon as Wisahketchahk was out of sight behind the hill, that Fox turned back, and his leg was not sore at all, as he made for the rising smoke.</gloss>
+</seg>
+
+<seg n="51.2">
+<w canon="ê-takohtêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="arrive" stem="takohtê" suffix="-t">êh-takohtêt</w>
+,
+<w canon="niska" class="na" gcat="3oNA" sgloss="goose" stem="nisk" suffix="-a">niskah</w>
+<w canon="sîsîpa" class="na" gcat="3oNA" sgloss="duck" stem="sîsîp" suffix="-a">sîsîpah</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
+<w canon="kâ-wâpamât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpam" suffix="-ât">kâ-wâpamât</w>
+<w canon="ê-kîsisoyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj" sgloss="get_burnt" stem="kîsisw" suffix="-yit">êh-kîsisoyit</w>
+.
+<gloss>When he got there, there he saw the geese and ducks a-roasting.</gloss>
+</seg>
+
+<seg n="51.3">
+<w canon="otinêw" class="vta" gcat="3s3oTA" sgloss="take" stem="otin" suffix="-êw">otinêw</w>
+,
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="ê-mîcisot" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="eat" stem="mîciso" suffix="-t">êh-mîcisot</w>
+,
+<w canon="wîsahkêcâhkwa" class="na" gcat="3oNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="-a">wîsahkêcâhkwah</w>
+<w canon="ê-kimotamawât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="steal_from" stem="kimotamaw" suffix="-ât">êh-kimotamawât</w>
+<w canon="onawacîwiniyiwa" class="ni" gcat="0pNIof3o" prefix="3" sgloss="roast" stem="nawacîwin" suffix="-iyiwa">onawacîwiniyiwa</w>
+.
+<gloss>He took them and ate, robbing Wisahketchahk of his roasts.</gloss>
+</seg>
+
+<seg n="51.4">
+<w canon="kitamwêw" class="vta" gcat="3s3oTA" sgloss="eat_all_of" stem="kitamw" suffix="-êw">kitamwêw</w>
+<w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
+.
+<gloss>He ate them all up.</gloss>
+</seg>
+
+<seg n="51.5">
+<w canon="ositiyiwa" class="ndi" gcat="0pNDIof3o" prefix="3" sgloss="foot" stem="sit" suffix="-iyiwa">ositiyiwah</w>
+<w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">pikoh</w>
+<w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôhi</w>
+<w canon="niska" class="na" gcat="3oNA" sgloss="goose" stem="nisk" suffix="-a">niskah</w>
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="sîsîpa" class="na" gcat="3oNA" sgloss="duck" stem="sîsîp" suffix="-a">sîsîpah</w>
+,
+<w canon="êkoni" class="pr" gcat="0pPR" sgloss="that_one" stem="êwako" suffix="-0p">êkonih</w>
+<w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">piko</w>
+<w canon="iskotêhk" class="ni" gcat="0locNI" sgloss="fire" stem="iskotêw" suffix="-ihk">iskotêhk</w>
+<w canon="astâw" class="vai" gcat="3sAI" sgloss="place_there" stem="astâ" suffix="-w">astâw</w>
+,
+<q>
+<w canon="ta-wâpahtahk" class="vti" gcat="3sTIcnj" preverbs="ta|FUT" sgloss="see" stem="wâpaht" suffix="-ahk">ta-wâpahtahk</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+,</q>
+<w canon="ê-itêyihtah" class="vti" gcat="3sTIh" preverbs="ê|cnj" sgloss="think_of" stem="itêyiht" suffix="-ah">êh-itêyihtah</w>
+.
+<gloss>Only the feet of those geese and ducks, only those did he put into the embers, thinking, “Let Wisahketchahk see them.”</gloss>
+</seg>
+
+<seg n="51.6">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="tapasîw" class="vai" gcat="3sAI" sgloss="flee" stem="tapasî" suffix="-w">tapasîw</w>
+,
+<q>
+<w canon="nika-kisiwâhâw" class="vta" gcat="1s3sTA" prefix="1" preverbs="ka|will" sgloss="anger" stem="kisiwâh" suffix="-âw">nka-kisiwâhâw</w>
+,</q>
+<w canon="ê-itêyimât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="think_thus_of" stem="itêyim" suffix="-ât">êh-itêyimât</w>
+<w canon="wîsahkêcâhkwa" class="na" gcat="3oNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="-a">wîsahkêcâhkwah</w>
+.
+<gloss>Then he made for safety, thinking of Wisahketchahk, “He will be angry at me.”</gloss>
+</seg>
+</p>
+
+<p n="52">
+
+<seg n="52.1">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+<w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">iyikohk</w>
+<w canon="ê-takohtêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="arrive" stem="takohtê" suffix="-t">êh-takohtêt</w>
+<w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistah</w>
+<w canon="apwêsiw" class="vai" gcat="3sAI" sgloss="sweat" stem="apwêsi" suffix="-w">âpwêsiw</w>
+;
+<w canon="ayisk" class="ipc" gcat="IPC" sgloss="for" stem="ayis">ayisk</w>
+<w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistahi</w>
+<w canon="pimipahtâw" class="vai" gcat="3sAI" sgloss="run" stem="pimipahtâ" suffix="-w">pimipahtâw</w>
+.
+<gloss>Then, when Wisahketchahk arrived, he was very hot; for he had had quite a run.</gloss>
+</seg>
+</p>
+
+<p n="53">
+
+<seg n="53.1">
+<q>
+<w canon="hêy" class="ipc" gcat="IPC" sgloss="hey" stem="hêy">hêy</w>
+,
+<w canon="âstêpwêsiyâni" class="vai" gcat="1sAIsubjunc" sgloss="stop_being_hot" stem="âstêpwêsi" suffix="-yâni">âstêpwêsiyânih</w>
+<w canon="nika-mîcison" class="vai" gcat="1sAI" prefix="1" preverbs="ka|will" sgloss="eat" stem="mîciso" suffix="-n">nika-mîcison</w>
+,</q>
+<w canon="ê-itêyihtah" class="vti" gcat="3sTIh" preverbs="ê|cnj" sgloss="think_of" stem="itêyiht" suffix="-ah">êh-itêyihtah</w>
+,
+<gloss>“Hah, when I am no longer hot, I shall eat,” he thought;</gloss>
+</seg>
+
+<seg n="53.2">
+<q>
+<w canon="itâp" class="ipc" gcat="IPC" sgloss="then" stem="itâp">itâp</w>
+<w canon="âtiht" class="ipc" gcat="IPC" sgloss="some" stem="âtiht">âtiht</w>
+<w canon="nika-asamâw" class="vta" gcat="1s3sTA" prefix="1" preverbs="ka|will" sgloss="feed" stem="asam" suffix="-âw">nk-âsamâw</w>
+<w canon="nisîm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="younger_sib" stem="sîm" suffix="0">nisîm</w>
+,</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+<w canon="mahkêsîsa" class="na" gcat="3oNA" sgloss="Fox" stem="mahkêsîs" suffix="-a">mahkêsîsah</w>
+,
+<q>
+<w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">iyikohk</w>
+<w canon="takohtêci" class="vai" gcat="3sAIsubjunc" sgloss="arrive" stem="takohtê" suffix="-ci">takohtêcih</w>
+,</q>
+<w canon="itêyihtam" class="vti" gcat="3sTI" sgloss="think_of" stem="itêyiht" suffix="-am">itêyihtam</w>
+.
+<gloss>“I shall give my little brother a few, too,” he said of Fox, “when he gets here,” he thought.</gloss>
+</seg>
+</p>
+
+<p n="54">
+
+<seg n="54.1">
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+<w canon="kiskêyihtam" class="vti" gcat="3sTI" sgloss="know" stem="kiskêyiht" suffix="-am">kiskêyihtam</w>
+<w canon="âsay" class="ipc" gcat="IPC" sgloss="already" stem="âsay">âsay</w>
+<w canon="ê-kitamwâyit" class="vta" gcat="3o3oTAcnj" preverbs="ê|cnj" sgloss="eat_all_of" stem="kitamw" suffix="-âyit">êh-kitamwâyit</w>
+<w canon="oniskima" class="na" extra="im" gcat="3oNAof3s" prefix="3" sgloss="goose" stem="nisk" suffix="-a">oniskimah</w>
+.
+<gloss>He did not know that the other had already eaten his geese.</gloss>
+</seg>
+
+<seg n="54.2">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="êkwani" class="ipc" gcat="IPC" sgloss="and_then" stem="êkwani">êkwan</w>
+<w canon="otinam" class="vti" gcat="3sTI" sgloss="take" stem="otin" suffix="-am">otinam</w>
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôm</w>
+<w canon="ositiyiw" class="ndi" gcat="0sNDIof3o" prefix="3" sgloss="foot" stem="sit" suffix="-iyiw">ôsitiyiw</w>
+.
+<gloss>So now he took one of those feet.</gloss>
+</seg>
+
+<seg n="54.3">
+<w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
+<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="niska" class="na" gcat="3oNA" sgloss="goose" stem="nisk" suffix="-a">niskah</w>
+.
+<gloss>There was not any goose.</gloss>
+</seg>
+</p>
+
+<p n="55">
+
+<seg n="55.1">
+<q>
+<w canon="hê" class="ipc" gcat="IPC" sgloss="hey" stem="hêy">hê</w>
+<w canon="hê" class="ipc" gcat="IPC" sgloss="hey" stem="hêy">hê</w>
+<w canon="hêy" class="ipc" gcat="IPC" sgloss="hey" stem="hêy">hêy</w>
+,
+<w canon="nôsâmi-mêstihkaswâw" class="vta" gcat="1s3sTA" prefix="1" preverbs="osâmi|too_much" sgloss="burn_all_up" stem="mêstihkasw" suffix="-âw">nôsâmih-mêstihkaswâw</w>
+!</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+.
+<gloss>“Oho, I have overcooked him!” he said.</gloss>
+</seg>
+</p>
+
+<p n="56">
+
+<seg n="56.1">
+<w canon="piyis" class="ipc" gcat="IPC" sgloss="finally" stem="piyis">piyis</w>
+<w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
+<w canon="otinêw" class="vta" gcat="3s3oTA" sgloss="take" stem="otin" suffix="-êw">otinêw</w>
+;
+<w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
+<w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
+<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+;
+<w canon="ositiyiwa" class="ndi" gcat="0pNDIof3o" prefix="3" sgloss="foot" stem="sit" suffix="-iyiwa">ositiyiwah</w>
+<w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">piko</w>
+.
+<gloss>At last he took them all out; ever one was gone; only the feet were there.</gloss>
+</seg>
+</p>
+
+<p n="57">
+
+<seg n="57.1">
+<q rend="PRE 1 POST0">
+<w canon="hê" class="ipc" gcat="IPC" sgloss="hey" stem="hêy">hê</w>
+<w canon="hê" class="ipc" gcat="IPC" sgloss="hey" stem="hêy">hê</w>
+<w canon="hêy" class="ipc" gcat="IPC" sgloss="hey" stem="hêy">hêy</w>
+,
+<w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîn</w>
+<w canon="êcika" class="ipc" gcat="IPC" sgloss="what_is_this" stem="êcika">êcik</w>
+<w canon="ani" class="ipc" gcat="IPC" sgloss="then" stem="ani">ânih</w>
+<w canon="ê-wayêsihit" class="vta" gcat="3s1sTAcnj" preverbs="ê|cnj" sgloss="trick" stem="wayêsih" suffix="-it">êh-wayêsihit</w>
+<w canon="mahêsihit" error="***">mahêsihit</w>
+<w canon="mahkêsîs" class="na" gcat="3sNA" sgloss="Fox" stem="mahkêsîs" suffix="0">mahkêsîs</w>
+,
+<w canon="kâ-kitamwât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj" sgloss="eat_all_of" stem="kitamw" suffix="-ât">kâ-kitamwât</w>
+<w canon="niniskima" class="na" extra="im" gcat="3oNAof1s" prefix="1" sgloss="goose" stem="nisk" suffix="-a">niniskimah</w>
+!</q>
+<gloss>“Oho, it's surely Fox has been fooling me again, eating up my geese!</gloss>
+<note>CHECK:  probable speaker error, possibly blend of surrounding words</note>
+</seg>
+
+<seg n="57.2">
+<q rend="PRE 0 POST1">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkos</w>
+<w canon="êcika" class="ipc" gcat="IPC" sgloss="what_is_this" stem="êcika">êcik</w>
+<w canon="ani" class="ipc" gcat="IPC" sgloss="then" stem="ani">ânih</w>
+<w canon="kê-nôhtêhkatêyân" class="vai" gcat="1sAIcnj" preverbs="kê|IC+FUT" sgloss="be_hungry" stem="nôhtêhkatê" suffix="-yân">kê-nôhtêhkatêyân</w>
+!</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+;
+<gloss>And so I am to stay hungry!” he cried;</gloss>
+</seg>
+
+<seg n="57.3">
+<q rend="PRE 1 POST0">
+<w canon="hâ" class="ipc" gcat="IPC" sgloss="oh" stem="hâ">hâ</w>
+<w canon="hah" class="interj" gcat="INTERJ" sgloss="hah" stem="hâh">hah</w>
+,
+<w canon="kikisiwâhin" class="vta" gcat="2s1sTA" prefix="2" sgloss="anger" stem="kisiwâh" suffix="-in">kikisiwâhin</w>
+,
+<w canon="mahkêsîs" class="na" gcat="3sNA" sgloss="Fox" stem="mahkêsîs" suffix="0">mahkêsîs</w>
+!</q>
+<gloss>“Ho, you have got me angry, Fox!</gloss>
+</seg>
+
+<seg n="57.4">
+<q rend="PRE 0 POST0">
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+<w canon="ta-pîhcâw" class="vii" gcat="0sII" preverbs="ta|FUT" sgloss="be_long_distance" stem="pîhcâw" suffix="0">ta-pîhcâw</w>
+<w canon="askiy" class="ni" gcat="0sNI" sgloss="land" stem="askiy" suffix="0">askiy</w>
+<w canon="itê" class="ipc" gcat="IPC" sgloss="there" stem="itê">itê</w>
+<w canon="tita-itâmoyan" class="vai" gcat="2sAIcnj" preverbs="kita|to" sgloss="flee" stem="itâmo" suffix="-yan">tit-êtâmowin</w>
+.</q>
+<gloss>The earth will not be big enough for you to escape.</gloss>
+</seg>
+
+<seg n="57.5">
+<q rend="PRE 0 POST0">
+<w canon="niya" class="pr" gcat="1sPR" sgloss="I" stem="niya">niya</w>
+<w canon="nikî-osîhtâ-n" class="vai" gcat="1sAI" prefix="1" preverbs="kî|PAST" sgloss="prepare" stem="osîhtâ" suffix="-n">nikiy-osîhtân</w>
+<w canon="askiy" class="ni" gcat="0sNI" sgloss="land" stem="askiy" suffix="0">askiy</w>
+;</q>
+<gloss>It was I created the earth;</gloss>
+</seg>
+
+<seg n="57.6">
+<q rend="PRE 0 POST0">
+<w canon="ka-miskâtin" class="vta" gcat="1s2sTA" preverbs="ka|will" sgloss="find" stem="miskaw" suffix="-itin">ka-miskâtin</w>
+;</q>
+<gloss>I will find you;</gloss>
+</seg>
+
+<seg n="57.7">
+<q rend="PRE 0 POST1">
+<w canon="miskâtâni" class="vta" gcat="1s2sTAsubjunc" sgloss="find" stem="miskaw" suffix="-itâni">miskâtânih</w>
+<w canon="kâ-kitamwacik" class="vta" gcat="2s3pTAcnj" preverbs="kâ|cnj" sgloss="eat_all_of" stem="kitamw" suffix="-acik">kâ-kitamwacik</w>
+<w canon="niniskimak" class="na" extra="im" gcat="3pNAof1s" prefix="1" sgloss="goose" stem="nisk" suffix="-ak">niniskimak</w>
+!</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+,
+<w canon="ê-sipwêhtêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="leave" stem="sipwêhtê" suffix="-t">êh-sipwêhtêt</w>
+,
+<w canon="ê-nitonawât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="look_for" stem="nitonaw" suffix="-ât">êh-ntonawât</w>
+<w canon="mahkêsîsa" class="na" gcat="3oNA" sgloss="Fox" stem="mahkêsîs" suffix="-a">mahkêsîsah</w>
+.
+<gloss>and when I find you, who ate up my geese!” cried Wisahketchahk, as he went off to look for Fox.</gloss>
+</seg>
+</p>
+
+<p n="58">
+
+<seg n="58.1">
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+<w canon="wâhyaw" class="ipc" gcat="IPC" sgloss="far_away" stem="wâhyaw">wâhyaw</w>
+<w canon="ê-ihtât" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="be_there" stem="ihtâ" suffix="-t">êh-ihtât</w>
+,
+<w canon="kâ-wâpamât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpam" suffix="-ât">kâ-wâpamât</w>
+,
+<w canon="ê-na-nipâyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj dupL|L.REDUP" sgloss="sleep" stem="nipâ" suffix="-yit">êh-na-nipâyit</w>
+,
+<w canon="mitoni" class="ipc" gcat="IPC" sgloss="intensively" stem="mitoni">mitonih</w>
+<w canon="ê-mistatayêyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj" sgloss="have_big_belly" stem="mistatayê" suffix="-yit">êh-mistatayêyit</w>
+;
+<w canon="ayisk" class="ipc" gcat="IPC" sgloss="for" stem="ayis">ayisk</w>
+<w canon="kî-kîspoyiwa" class="vai" gcat="3oAI" preverbs="kî|PAST" sgloss="be_full_with_food" stem="kîspo" suffix="-yiwa">kîh-kîspoyiwah</w>
+.
+<gloss>He had not gone far, when he saw him taking a nap, his belly all big; for he had eaten a hearty fill.</gloss>
+</seg>
+
+<seg n="58.2">
+<w canon="asiniya" class="na" gcat="3oNA" sgloss="rock" stem="asiniy" suffix="-a">asiniyah</w>
+<w canon="otinêw" class="vta" gcat="3s3oTA" sgloss="take" stem="otin" suffix="-êw">otinêw</w>
+,
+<w canon="ê-wî-pakamahwât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj wî|will" sgloss="hit" stem="pakamahw" suffix="-ât">ê-wîh-pakamahwât</w>
+.
+<gloss>He took up a stone, to strike him.</gloss>
+</seg>
+</p>
+
+<p n="59">
+
+<seg n="59.1">
+<q>
+<w canon="yahâ" class="interj" gcat="INTERJ" sgloss="yah" stem="yahâ">yahâ</w>
+!</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+;
+<q>
+<w canon="nika-watôkatahwâw" class="vta" gcat="1s3sTA" prefix="1" preverbs="ka|will" sgloss="***" stem="***" suffix="-âw">nka-watôkatahwâw</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+;
+<gloss>“Yah!” he said; “I shall ruin his hide,” he said;</gloss>
+<note>LB on {nka-watôkatahwâw}:  Error?</note>
+</seg>
+
+<seg n="59.2">
+<q>
+<w canon="nika-otastotinih" class="vai" gcat="1sAIh" prefix="1" preverbs="ka|will" sgloss="have_hat" stem="otastotini" suffix="-h">nik-ôtastotinih</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+<w canon="mahkêsîsiwayân" class="na" gcat="3sNA" sgloss="coyote_skin" stem="mahkêsîsiwayân" suffix="0">mahkêsîsiwayân</w>
+!</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+;
+<gloss>“I might as well have a cap of his fox-pelt!” he said;</gloss>
+</seg>
+
+<seg n="59.3">
+<q>
+<w canon="kiyâm" class="ipc" gcat="IPC" sgloss="oh_well" stem="kiyâm">kiyâm</w>
+<w canon="nika-pasisamawâw" class="vta" gcat="1s3sTA" prefix="1" preverbs="ka|will" sgloss="make_fire_for" stem="pasisamaw" suffix="-âw">nka-pasisamawâw</w>
+,
+<w canon="ta-nipahâpasot" class="vai" gcat="3sAIcnj" preverbs="ta|FUT" sgloss="be_smoked_to_death" stem="nipahâpaso" suffix="-t">ta-nipahâpasot</w>
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôm</w>
+<w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ôhci</w>
+<w canon="kaskâpahtêw" class="ni" gcat="0sNI" sgloss="smoke" stem="kaskâpahtêw" suffix="0">paskâpahtêw</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+.
+<gloss>“I had better make a fire round him so that he chokes in the smoke,” he said.</gloss>
+</seg>
+</p>
+
+<p n="60">
+
+<seg n="60.1">
+<w canon="na-nitohtâk" class="vta" gcat="3o3sTA" preverbs="dupL|L.REDUP" sgloss="listen_to" stem="nitohtaw" suffix="-ik">na-nitohtâk</w>
+,
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôm</w>
+<w canon="ê-itât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="say_to" stem="it" suffix="-ât">êh-itât</w>
+.
+<gloss>The other was listening to what he said about him.</gloss>
+</seg>
+
+<seg n="60.2">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="kotawêw" class="vai" gcat="3sAI" sgloss="make_fire" stem="kotawê" suffix="-w">kotawêw</w>
+,
+<w canon="wâsakâm" class="ipc" gcat="IPC" sgloss="around_a_circle" stem="wâsakâm">wâsakâm</w>
+<w canon="ê-saskahahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="light" stem="saskah" suffix="-ahk">ê-saskahahk</w>
+<w canon="maskosiya" class="ni" gcat="0pNI" sgloss="grass" stem="maskosiy" suffix="-a">maskosiyah</w>
+.
+<gloss>So then he made a fire, setting fire the grass round about.</gloss>
+</seg>
+
+<seg n="60.3">
+<w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
+<w canon="ê-kwâhkotêyik" class="vii" gcat="0oIIcnj" preverbs="ê|cnj" sgloss="catch_fire" stem="kwâhkotê" suffix="-yik">êh-kwâhkotêyik</w>
+,
+<w canon="waniskâw" class="vai" gcat="3sAI" sgloss="arise" stem="waniskâ" suffix="-w">waniskâw</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+<w canon="mahkêsîs" class="na" gcat="3sNA" sgloss="Fox" stem="mahkêsîs" suffix="0">mahkêsîs</w>
+.
+<gloss>When the blaze came, Fox got up.</gloss>
+</seg>
+
+<seg n="60.4">
+<w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistahi</w>
+<w canon="kaskâpasôw" class="vai" gcat="3sAI" sgloss="be_smoked" stem="kaskâpaso" suffix="-w">kaskâpâsôw</w>
+.
+<gloss>The smoke was getting too thick for him.</gloss>
+</seg>
+</p>
+
+<p n="61">
+
+<seg n="61.1">
+<q>
+<w canon="heq" class="ipc" gcat="IPC" sgloss="hey" stem="hêy">heg</w>
+,</q>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+<w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">omis</w>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">îtwêw</w>
+;
+<q>
+<w canon="hiheq" class="ipc" gcat="IPC" sgloss="ha" stem="haha">hiheg</w>
+,
+<w canon="mahti" class="ipc" gcat="IPC" sgloss="let's_see" stem="mahti">mahti</w>
+<w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mînah</w>
+<w canon="kitamok" class="vta" gcat="2s3pTAimp" sgloss="eat_all_of" stem="kitamw" suffix="-ik">kitamok</w>
+<w canon="niniskimak" class="na" extra="im" gcat="3pNAof1s" prefix="1" sgloss="goose" stem="nisk" suffix="-ak">niniskimak</w>
+!</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+.
+<gloss>“Ha,” said Wisahketchahk; “Haha, just you eat up my geese again!” he said to him.</gloss>
+</seg>
+</p>
+
+<p n="62">
+
+<seg n="62.1">
+<w canon="konita" class="ipc" gcat="IPC" sgloss="in_vain" stem="konita">kontah</w>
+<w canon="wâskâpayihôw" class="vai" gcat="3sAI" sgloss="throw_self_in_circle" stem="wâskâpayiho" suffix="-w">wâskâpayihôw</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+<w canon="mahkêsîs" class="na" gcat="3sNA" sgloss="Fox" stem="mahkêsîs" suffix="0">mahkêsîs</w>
+,
+<w canon="ê-kaskâpahtêyik" class="vii" gcat="0oIIcnj" preverbs="ê|cnj" sgloss="be_smoked" stem="kaskâpahtê" suffix="-yik">êh-kaskâpahtêyik</w>
+<w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistahi</w>
+.
+<gloss>Fox dashed about in a circle, this way and that, as the smoke grew denser.</gloss>
+</seg>
+
+<seg n="62.2">
+<w canon="piyisk" class="ipc" gcat="IPC" sgloss="finally" stem="piyis">piyisk</w>
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+<w canon="wâpamêw" class="vta" gcat="3s3oTA" sgloss="see" stem="wâpam" suffix="-êw">wâpamêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkâcâhk</w>
+.
+<gloss>At last Wisahketchahk could see him no more.</gloss>
+</seg>
+
+<seg n="62.3">
+<w canon="kwâskwêpayihôw" class="vai" gcat="3sAI" sgloss="leap_up" stem="kwâskwêpayiho" suffix="-w">kwaskwêpayihôw</w>
+<w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
+<w canon="mahkêsîs" class="na" gcat="3sNA" sgloss="Fox" stem="mahkêsîs" suffix="0">mahkêsîs</w>
+,
+<w canon="iskotêw" class="ni" gcat="0sNI" sgloss="fire" stem="iskotêw" suffix="0">iskotêw</w>
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">oma</w>
+<w canon="ê-pâsici-kwâskohtit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj pâsici|skipping" sgloss="jump_up" stem="kwâskohti" suffix="-t">êh-pâsici-kwaskohtit</w>
+,
+<w canon="ê-tapasît" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="flee" stem="tapasî" suffix="-t">êh-tapasît</w>
+.
+<gloss>Up leaped Fox, jumping across the flame, and making for safety.</gloss>
+</seg>
+
+<seg n="62.4">
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+<w canon="wâpamêw" class="vta" gcat="3s3oTA" sgloss="see" stem="wâpam" suffix="-êw">wâpamêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+,
+<w canon="ê-tapasîyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj" sgloss="flee" stem="tapasî" suffix="-yit">êh-tapasiyit</w>
+.
+<gloss>Wisahketchahk did not see how he ran away.</gloss>
+</seg>
+
+<seg n="62.5">
+<w canon="piyis" class="ipc" gcat="IPC" sgloss="finally" stem="piyis">piyis</w>
+<w canon="misiwê" class="ipc" gcat="IPC" sgloss="all_over" stem="misiwê">misiwê</w>
+<w canon="pasitêyiw" class="vii" gcat="0oII" sgloss="be_burnt" stem="pasitê" suffix="-yiw">pasitêyiw</w>
+,
+<w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
+<w canon="ê-wâskâhtêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="walk_around_in_circle" stem="wâsakâhtê" suffix="-t">êh-wâskâhtêt</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+.
+<gloss>At last there was a big fire, and Wisahketchahk kept walking round it.</gloss>
+</seg>
+</p>
+
+<p n="63">
+
+<seg n="63.1">
+<q>
+<w canon="tâpwê" class="ipc" gcat="IPC" sgloss="truly" stem="tâpwê">tâpwê</w>
+<w canon="nikitimahâw" class="vta" gcat="1s3sTA" prefix="1" sgloss="be_mean_to" stem="kitimah" suffix="-âw">nikitimahâw</w>
+,
+<w canon="ê-nipahîhkaswak" class="vta" gcat="1s3sTAcnj" preverbs="ê|cnj" sgloss="burn_to_death" stem="nipahîhkasw" suffix="-ak">êh-nipahîhkaswak</w>
+<w canon="mahkêsîs" class="na" gcat="3sNA" sgloss="Fox" stem="mahkêsîs" suffix="0">mahkêsîs</w>
+,</q>
+<w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
+<w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
+;
+<gloss>“I have surely put an end to Fox; burning him to death,” said Wisahketchahk;</gloss>
+</seg>
+
+<seg n="63.2">
+<w canon="kâ-wâpahtahk" class="vti" gcat="3sTIcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpaht" suffix="-ahk">kâ-wâpahtahk</w>
+<w canon="pihko" class="vta" gcat="2s3sTAimp" sgloss="free" stem="pihkoh" suffix="0">pihkoh</w>
+<w canon="ê-astêyik" class="vii" gcat="0oIIcnj" preverbs="ê|cnj" sgloss="be_placed" stem="astê" suffix="-yik">êh-astêyik</w>
+,
+<w canon="mostoso-mêy" class="ni" gcat="0sNI" prenouns="mostoso|buffalo" sgloss="dung" stem="mêy" suffix="0">mostoso-mêy</w>
+<w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
+<w canon="ê-kî-astêyik" class="vii" gcat="0oIIcnj" preverbs="ê|cnj kî|PAST" sgloss="be_placed" stem="astê" suffix="-yik">êh-kiy-astêyik</w>
+,
+<q>
+<w canon="tâpwê" class="ipc" gcat="IPC" sgloss="truly" stem="tâpwê">tâpwê</w>
+<w canon="nikitimâkîhkaswâw" class="vta" gcat="1s3sTA" prefix="1" sgloss="burn_pitiably" stem="kitimâkîhkasw" suffix="-âw">nikitimâkîhkaswâw</w>
+!</q>
+<w canon="ê-itwêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="say" stem="itwê" suffix="-t">êh-itwêt</w>
+;
+<gloss>and when he saw the ashes lying, where there had been buffalo-dung, “Surely I have burned him to a sorry end!” said he;</gloss>
+</seg>
+
+<seg n="63.3">
+<q>
+<w canon="mahti" class="ipc" gcat="IPC" sgloss="let's_see" stem="mahti">mahtih</w>
+<w canon="ka-iskohkasot" class="vai" gcat="3sAIcnj" preverbs="ka|will" sgloss="be_burnt_done" stem="iskohkaso" suffix="-t">k-êskohkasot</w>
+,
+<w canon="nika-môwâw" class="vta" gcat="1s3sTA" prefix="1" preverbs="ka|will" sgloss="eat" stem="mow" suffix="-âw">nka-môwâw</w>
+,
+<w canon="iskohkasoci" class="vai" gcat="3sAIsubjunc" sgloss="be_burnt_done" stem="iskohkaso" suffix="-ci">iskohkasocih</w>
+,</q>
+<w canon="ê-itêyihtah" class="vti" gcat="3sTIh" preverbs="ê|cnj" sgloss="think_of" stem="itêyiht" suffix="-ah">êh-itêyihtah</w>
+;
+<gloss>“I shall eat what is left of him, if there is any of him left from the fire,” he thought;</gloss>
+</seg>
+
+<seg n="63.4">
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">oma</w>
+<w canon="pihko" class="vta" gcat="2s3sTAimp" sgloss="free" stem="pihkoh" suffix="0">pihkoh</w>
+<w canon="ê-wî-otinahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj wî|will" sgloss="take" stem="otin" suffix="-ahk">ê-wîh-otinahk</w>
+,
+<q>
+<w canon="kâ-kîsisot" class="vai" gcat="3sAIcnj" preverbs="kâ|cnj" sgloss="get_burnt" stem="kîsiso" suffix="-t">kâ-kîsisot</w>
+<w canon="iskotêw" class="ni" gcat="0sNI" sgloss="fire" stem="iskotêw" suffix="0">iskotêw</w>
+<w canon="êsa" class="ipc" gcat="IPC" sgloss="reportedly" stem="êsa">ês</w>
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ômah</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwako</w>
+<w canon="mahkêsîs" class="na" gcat="3sNA" sgloss="Fox" stem="mahkêsîs" suffix="0">mahkêsîs</w>
+,</q>
+<w canon="ê-itêyihtah" class="vti" gcat="3sTIh" preverbs="ê|cnj" sgloss="think_of" stem="itêyiht" suffix="-ah">êh-iytêyihtah</w>
+,
+<w canon="ê-cîsihot" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="deceive_self" stem="cîsiho" suffix="-t">êh-cîsihot</w>
+.
+<gloss>and he was going to take up the ashes there, thinking, “And this must be Fox, burned up in this fire,” as he deceived himself.</gloss>
+</seg>
+</p>
+
+<p n="64">
+
+<seg n="64.1">
+<w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+<w canon="kiskêyihtam" class="vti" gcat="3sTI" sgloss="know" stem="kiskêyiht" suffix="-am">kiskêyihtam</w>
+<w canon="ê-kî-tapasîyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj kî|PAST" sgloss="flee" stem="tapasî" suffix="-yit">ê-kîh-tapasiyit</w>
+.
+<gloss>Even now he did not know that the other had got away.</gloss>
+</seg>
+</p>
+
+<p n="65">
+
+<seg n="65.1">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwako</w>
+<w canon="âtayôhkêwin" class="ni" gcat="0sNI" sgloss="sacred_story" stem="âtayôhkêwin" suffix="0">âtayôhkêwin</w>
+.
+<gloss>And so this is the end of this sacred story.</gloss>
+</seg>
+</p>
+
+<p n="66">
+
+<seg n="66.1">
+<w canon="ê-ta-tahkiskawât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj dupL|L.REDUP" sgloss="kick" stem="tahkiskaw" suffix="-ât">êh-tah-tahkiskawât</w>
+<w canon="sihkihpa" class="na" gcat="3oNA" sgloss="diver_duck" stem="sihkihp" suffix="-a">sihkihpah</w>
+,
+<q rend="PRE 1 POST0">
+<w canon="hâw" class="ipc" gcat="IPC" sgloss="now" stem="hâw">hâw</w>
+,
+<w canon="ôtê" class="ipc" gcat="IPC" sgloss="over_here" stem="ôtê">ôtêh</w>
+<w canon="nîkân" class="ipc" gcat="IPC" sgloss="first" stem="nîkân">nîkân</w>
+<w canon="ayîsiyiniw" class="na" gcat="3sNA" sgloss="person" stem="ayisiyiniw" suffix="0">ayîsiyiniw</w>
+<w canon="kita-ohpikiw" class="vai" gcat="3sAI" preverbs="kita|to" sgloss="grow_up" stem="ohpiki" suffix="-w">kit-ôhpikiw</w>
+;</q>
+<gloss>When he kicked Hell-Diver, “Now then, ahead in future time mortal man will grow up;</gloss>
+<note>LB:  THis paragraph was added in answer to a leading question.  “I did not tell you that part,” he explained.  This is a characteristic of our informant.  Notice that even now he does not explain the diver duck's red eyes.</note>
+</seg>
+
+<seg n="66.2">
+<q rend="PRE 0 POST0">
+<w canon="ka-wâpamik" class="vta" gcat="3s2sTA" preverbs="ka|will" sgloss="see" stem="wâpam" suffix="-ik">ka-wâpamik</w>
+<w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">oma</w>
+<w canon="kâ-nanâpotôkanêskâtân" class="vta" gcat="1s2sTAcnj" preverbs="kâ|cnj" sgloss="kick_rump_crooked" stem="nanâpotôkanêskaw" suffix="-itân">kâ-nanapotôkanêskâtân</w>
+.</q>
+<gloss>he will see here on you where I have kicked your rump crooked.</gloss>
+</seg>
+
+<seg n="66.3">
+<q rend="PRE 0 POST0">
+<q>
+<w canon="sihkihp" class="na" gcat="3sNA" sgloss="diver_duck" stem="sihkihp" suffix="0">sihkihp</w>
+</q>
+<w canon="kika-isiyihkâtikwak" class="vta" gcat="3p2sTA" prefix="2" preverbs="ka|will" sgloss="call_thus" stem="isiyîhkât" suffix="-ikwak">kik-êsiyihkâtikwak</w>
+.</q>
+<gloss>‘Hell-Diver,’ they will call you.</gloss>
+</seg>
+
+<seg n="66.4">
+<q rend="PRE 0 POST0">
+<w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
+<w canon="ka-miyosin" class="vai" gcat="2sAI" preverbs="ka|will" sgloss="be_good" stem="miyosi" suffix="-n">ka-miyosin</w>
+;</q>
+<gloss>You will not be handsome;</gloss>
+</seg>
+
+<seg n="66.5">
+<q rend="PRE 0 POST1">
+<w canon="osâm" class="ipc" gcat="IPC" sgloss="too_much" stem="osâm">osâm</w>
+<w canon="kikisiwâhin" class="vta" gcat="2s1sTA" prefix="2" sgloss="anger" stem="kisiwâh" suffix="-in">kikisiwâhin</w>
+<w canon="ê-wîhtaman" class="vti" gcat="2sTIcnj" preverbs="ê|cnj" sgloss="name" stem="wîht" suffix="-aman">êh-wîhtaman</w>
+,
+<w canon="ê-tôhkâpiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="open_eyes" stem="tôhkâpi" suffix="-yan">êh-tôhkâpiyan</w>
+,</q>
+<w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
+.
+<gloss>too much have you angered me by telling this and by opening your eyes,” he told him.</gloss>
+</seg>
+</p>
+
+<p n="67">
+
+<seg n="67.1">
+<w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
+<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
+.
+<gloss>So much for this.</gloss>
+</seg>
+</p>
+</body>
+</text>
+</tei.2>
