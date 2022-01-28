@@ -275,7 +275,7 @@
 
 <seg n="8.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 .</q>
 <gloss>“Yes.</gloss>
 </seg>
@@ -771,7 +771,7 @@
 
 <seg n="21.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itwêyiwa" class="vai" gcat="3oAI" sgloss="say" stem="itwê" suffix="-yiwa">itwêwiwa</w>
 .
@@ -1803,7 +1803,7 @@
 
 <seg n="52.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="nikî-mâtâhâw" class="vta" gcat="1s3sTA" prefix="1" preverbs="kî|PAST" sgloss="find_tracks_of" stem="mâtâh" suffix="-âw">nikîh-mâtâhwâw</w>
 <w canon="itê" class="ipc" gcat="IPC" sgloss="there" stem="itê">itêh</w>
@@ -1838,7 +1838,7 @@
 
 <seg n="54.1">
 <q>
-<w canon="hêhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">hêhag</w>
+<w canon="hêha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">hêhag</w>
 !</q>
 <gloss>“Yes!”</gloss>
 </seg>
@@ -2557,7 +2557,7 @@
 <w canon="nikiscikânisihk" class="ni" gcat="0locNIof1s" prefix="1" sgloss="garden" stem="kiscikânis" suffix="-ihk">nikiscikânisihk</w>
 ?</q>
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="êtikoci" class="vta" gcat="3o3sTAsubjunc" prefix="IC" sgloss="say_to" stem="it" suffix="-ikoci">êtikocih</w>
 ,
@@ -4051,7 +4051,7 @@
 
 <seg n="122.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 <w canon="hê" class="ipc" gcat="IPC" sgloss="hey" stem="hêy">hê</w>
 .</q>
 <gloss>“Oh, very well.”</gloss>
@@ -4388,7 +4388,7 @@
 
 <seg n="134.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 .</q>
 <gloss>“Very well.</gloss>
 </seg>

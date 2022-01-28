@@ -872,7 +872,7 @@
 
 <seg n="28.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="nôsisimis" class="nda" extra="dim" gcat="3sNDAof1s" prefix="1" sgloss="grandchild" stem="ôsisim" suffix="0">nôsisimis</w>
 !
@@ -1100,7 +1100,7 @@
 
 <seg n="37.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
 ,
@@ -1371,7 +1371,7 @@
 <w canon="piyis" class="ipc" gcat="IPC" sgloss="finally" stem="piyis">piyis</w>
 ,
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .
@@ -1518,7 +1518,7 @@
 
 <seg n="55.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !</q>
 <gloss>“Very well!”</gloss>
 </seg>
@@ -1774,7 +1774,7 @@
 
 <seg n="65.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">aw</w>
@@ -2123,7 +2123,7 @@
 
 <seg n="78.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ;
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
 <w canon="nôh-wâpamâw" class="vta" gcat="1s3sTA" prefix="1" preverbs="ôh|thence" sgloss="see" stem="wâpam" suffix="-âw">nôh-wâpamâw</w>
@@ -4646,7 +4646,7 @@
 
 <seg n="153.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">aw</w>
@@ -4755,7 +4755,7 @@
 
 <seg n="160.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="mitoni" class="ipc" gcat="IPC" sgloss="intensively" stem="mitoni">mitonih</w>
 <w canon="ninôhtê-matotisih" class="vai" gcat="1sAIh" prefix="1" preverbs="nôhtê|want_to" sgloss="hold_sweat_lodge" stem="matotisi" suffix="-h">nnôhtê-matotisih</w>
@@ -5016,7 +5016,7 @@
 
 <seg n="171.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !</q>
 <gloss>“Very well!”</gloss>
 </seg>
@@ -6297,7 +6297,7 @@
 <q rend="PRE 1 POST0">
 <w canon="hah" class="interj" gcat="INTERJ" sgloss="hah" stem="hâh">hah</w>
 ,
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="nitânis" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="daughter" stem="tânis" suffix="0">ntânis</w>
 ,
@@ -6352,7 +6352,7 @@
 
 <seg n="219.1">
 <q>
-<w canon="hêhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">hêhag</w>
+<w canon="hêha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">hêhag</w>
 ,
 <w canon="nika-wîhtamawâw" class="vta" gcat="1s3sTA" prefix="1" preverbs="ka|will" sgloss="tell_about" stem="wîhtamaw" suffix="-âw">nka-wîhtamawâw</w>
 ,</q>
@@ -6391,7 +6391,7 @@
 
 <seg n="221.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="wâpahki" class="ipc" gcat="IPC" sgloss="tomorrow" stem="wâpahki">wâpahkih</w>
 <w canon="ka-sipwêhtânânaw" class="vai" gcat="1iAI" preverbs="ka|will" sgloss="leave" stem="sipwêhtê" suffix="-nânaw">ka-sipwêhtânânaw</w>
@@ -6480,7 +6480,7 @@
 
 <seg n="224.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !</q>
 <gloss>“Very well!”</gloss>
 </seg>

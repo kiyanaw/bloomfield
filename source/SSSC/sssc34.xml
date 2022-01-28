@@ -138,7 +138,7 @@
 
 <seg n="3.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="osîma" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="younger_sib" stem="sîm" suffix="-a">osîma</w>
 .
@@ -234,7 +234,7 @@
 
 <seg n="7.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 .
@@ -680,7 +680,7 @@
 
 <seg n="16.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 ;
@@ -703,7 +703,7 @@
 
 <seg n="17.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 .</q>
 <gloss>“Yes.”</gloss>
 </seg>
@@ -750,7 +750,7 @@
 
 <seg n="19.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 .</q>
 <gloss>“Yes.”</gloss>
 </seg>
@@ -932,7 +932,7 @@
 
 <seg n="23.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 .</q>
 <gloss>“Yes.”</gloss>
 </seg>
@@ -1159,7 +1159,7 @@
 
 <seg n="30.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
 <w canon="cêskwa" class="ipc" gcat="IPC" sgloss="wait" stem="cêskwa">cêskwah</w>
@@ -1444,7 +1444,7 @@
 
 <seg n="43.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 .</q>
 <gloss>“Yes.”</gloss>
 </seg>
@@ -1941,7 +1941,7 @@
 
 <seg n="65.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 .</q>
 <gloss>“Very well.”</gloss>
 </seg>
@@ -3943,7 +3943,7 @@
 
 <seg n="142.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ;
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâk</w>
 <w canon="ê-wî-nipahit" class="vta" gcat="3s1sTAcnj" preverbs="ê|cnj wî|will" sgloss="kill" stem="nipah" suffix="-it">ê-wîh-nipahit</w>
@@ -5046,7 +5046,7 @@
 
 <seg n="176.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 .</q>
 <gloss>“Yes.”</gloss>
 </seg>
@@ -6109,7 +6109,7 @@
 
 <seg n="208.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 .</q>
 <gloss>“Yes.”</gloss>
 </seg>
@@ -6434,7 +6434,7 @@
 
 <seg n="219.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !
 <w canon="âskaw" class="ipc" gcat="IPC" sgloss="sometimes" stem="âskaw">âskaw</w>
 <w canon="ostikwânihk" class="ndi" gcat="0locNDIof3s" prefix="3" sgloss="head" stem="stikwân" suffix="-ihk">ostikwânihk</w>
@@ -6504,7 +6504,7 @@
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
 ,
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ;
 <w canon="nika-wîhtamawâw" class="vta" gcat="1s3sTA" prefix="1" preverbs="ka|will" sgloss="tell_about" stem="wîhtamaw" suffix="-âw">nka-wîhtamawâw</w>
 ,</q>
@@ -6704,7 +6704,7 @@
 
 <seg n="225.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 .</q>
 <gloss>“Yes.”</gloss>
 </seg>
@@ -6870,7 +6870,7 @@
 
 <seg n="231.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">aw</w>
@@ -6925,7 +6925,7 @@
 
 <seg n="234.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 .</q>
 <gloss>“No.”</gloss>
 </seg>

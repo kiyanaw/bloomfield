@@ -117,7 +117,7 @@
 
 <seg n="3.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 </q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 .
@@ -182,7 +182,7 @@
 
 <seg n="6.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 .
@@ -326,7 +326,7 @@
 
 <seg n="13.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .
@@ -509,7 +509,7 @@
 
 <seg n="17.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="nimosô" class="nda" extra="voc" gcat="3sNDAof1svoc" prefix="1" sgloss="grandfather" stem="mosôm">nimosô</w>
 ,</q>
@@ -900,7 +900,7 @@
 
 <seg n="32a.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !
 <w canon="nitayîm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="fellow_spouse" stem="tayîm" suffix="0">ntâyîm</w>
 ,
@@ -921,7 +921,7 @@
 
 <seg n="33.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="nêma" class="dem" gcat="0sDEM" sgloss="that" stem="nêma">nêma</w>
 <w canon="isko" class="ipc" gcat="IPC" sgloss="that_much" stem="isko">iskoh</w>
@@ -1072,7 +1072,7 @@
 
 <seg n="37.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !
 <w canon="nêma" class="dem" gcat="0sDEM" sgloss="that" stem="nêma">nêmay</w>
 <w canon="isko" class="ipc" gcat="IPC" sgloss="that_much" stem="isko">isko</w>
@@ -1324,7 +1324,7 @@
 
 <seg n="45.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !</q>
 <gloss>“Yes, indeed!”</gloss>
 </seg>
@@ -3013,7 +3013,7 @@
 
 <seg n="94.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 .

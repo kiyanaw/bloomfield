@@ -4563,7 +4563,7 @@
 
 <seg n="114.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
@@ -6459,7 +6459,7 @@
 
 <seg n="176.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhg</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhg</w>
 ,
 <w canon="nika-pê-wâpamikwak" class="vta" gcat="3p1sTA" prefix="1" preverbs="ka|will pê|thence" sgloss="see" stem="wâpam" suffix="-ikwak">nika-pê-wâpamikwak</w>
 .</q>

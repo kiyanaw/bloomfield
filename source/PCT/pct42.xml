@@ -1215,7 +1215,7 @@
 
 <seg n="34.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
@@ -1809,7 +1809,7 @@
 
 <seg n="57.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="nîtim" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="cousin" stem="îtim" suffix="0">nîtim</w>
 ,
@@ -1830,7 +1830,7 @@
 
 <seg n="58.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="nîtim" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="cousin" stem="îtim" suffix="0">nîtim</w>
 ,

@@ -3133,7 +3133,7 @@
 
 <seg n="70.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !</q>
 <gloss>“Indeed, yes!”</gloss>
 </seg>
@@ -3928,7 +3928,7 @@
 
 <seg n="95.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !
 <w canon="kiyipa" class="ipc" gcat="IPC" sgloss="quickly" stem="kiyipa">kiyipah</w>
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
@@ -3944,7 +3944,7 @@
 
 <seg n="96.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 .</q>
 <gloss>“Yes, [sic]</gloss>
 </seg>
@@ -4457,7 +4457,7 @@
 
 <seg n="113.1">
 <q>
-<w canon="hêhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">hêhag</w>
+<w canon="hêha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">hêhag</w>
 .</q>
 <gloss>“Yes, indeed.”</gloss>
 </seg>

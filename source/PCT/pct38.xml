@@ -721,7 +721,7 @@
 
 <seg n="21.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itâw" class="vta" gcat="x3sTA" sgloss="say_to" stem="it" suffix="-âw">itâw</w>
 .
@@ -975,7 +975,7 @@
 
 <seg n="26.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êag</w>
 .</q>
 <gloss>“Very well!</gloss>
 </seg>
@@ -1005,7 +1005,7 @@
 
 <seg n="27.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êag</w>
 .</q>
 <gloss>“Very well.</gloss>
 </seg>
@@ -1740,7 +1740,7 @@
 
 <seg n="51.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 .
@@ -2209,7 +2209,7 @@
 
 <seg n="66.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !</q>
 <gloss>“Yes!”</gloss>
 </seg>
@@ -2534,7 +2534,7 @@
 
 <seg n="75.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 .</q>
 <gloss>“Yes.”</gloss>
 </seg>
@@ -2608,7 +2608,7 @@
 
 <seg n="79.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !
 <w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
 <w canon="niwî-otinimâwa" class="vta" gcat="1s3oTA" prefix="1" preverbs="wî|will" sgloss="take" stem="otin" suffix="-imâwa">niwîh-otinimâwa</w>
@@ -3007,7 +3007,7 @@
 
 <seg n="91.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="nitôtêm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="kinsman" stem="tôtêm" suffix="0">ntôtêm</w>
 ,
@@ -3275,7 +3275,7 @@
 
 <seg n="101.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="nika-tôtên" class="vti" gcat="1sTI" prefix="1" preverbs="ka|will" sgloss="do_thus" stem="tôt" suffix="-ên">nka-tôtên</w>
 .
@@ -3308,7 +3308,7 @@
 
 <seg n="102.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="nitôtêm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="kinsman" stem="tôtêm" suffix="0">ntôtêm</w>
 ,
@@ -3417,7 +3417,7 @@
 
 <seg n="103.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="nitôtêm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="kinsman" stem="tôtêm" suffix="0">ntôtêm</w>
 ,
@@ -3494,7 +3494,7 @@
 
 <seg n="105.1">
 <q rend="PRE 1 POST0">
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="nitôtêm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="kinsman" stem="tôtêm" suffix="0">nitôtêm</w>
 ,

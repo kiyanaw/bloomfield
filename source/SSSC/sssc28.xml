@@ -3246,7 +3246,7 @@
 <seg n="69.53">
 <q rend="PRE 0 POST0">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !
 <w canon="tâpiskôc" class="ipc" gcat="IPC" sgloss="like" stem="tâpiskôc">tâpiskôc</w>
 <w canon="misatimoskasiya" class="ni" gcat="0pNI" sgloss="hoof" stem="misatimoskasiy" suffix="-a">misatimoskasiyah</w>
@@ -3383,7 +3383,7 @@
 <seg n="69.63">
 <q rend="PRE 0 POST0">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="kika-itik" class="vta" gcat="3s2sTA" prefix="2" preverbs="ka|will" sgloss="say_to" stem="it" suffix="-ik">kik-êtik</w>
 .</q>
@@ -4330,7 +4330,7 @@
 
 <seg n="91.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !
 <w canon="pita" class="ipc" gcat="IPC" sgloss="first" stem="pitamâ">pita</w>
 <w canon="nika-wayawîn" class="vai" gcat="1sAI" prefix="1" preverbs="ka|will" sgloss="go_outside" stem="wayawî" suffix="-n">nka-wayawîn</w>
@@ -4474,7 +4474,7 @@
 <w canon="âcimôw" class="vai" gcat="3sAI" sgloss="tell_story" stem="âcimo" suffix="-w">âcimôw</w>
 ,
 <q>
-<w canon="hêhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">hêhag</w>
+<w canon="hêha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">hêhag</w>
 !</q>
 <w canon="ê-itât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="say_to" stem="it" suffix="-ât">êh-itât</w>
 <w canon="mâna" class="ipc" gcat="IPC" sgloss="usually" stem="mâna">mâna</w>
@@ -4516,7 +4516,7 @@
 
 <seg n="99.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !</q>
 -
 <w canon="nipâci" class="vai" gcat="3sAIsubjunc" sgloss="sleep" stem="nipâ" suffix="-ci">nipâcih</w>
@@ -4594,7 +4594,7 @@
 
 <seg n="102.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !</q>
 <gloss>“Yes!”</gloss>
 </seg>
@@ -4636,7 +4636,7 @@
 <w canon="kimiyohtawin" class="vta" gcat="2s1sTA" prefix="2" sgloss="like_sound_of" stem="miyohtaw" suffix="-in">kimiyohtawin</w>
 ?</q>
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !</q>
 <w canon="ê-itikot" class="vta" gcat="3o3sTAcnj" preverbs="ê|cnj" sgloss="say_to" stem="it" suffix="-ikot">êh-itikot</w>
 .
@@ -5470,7 +5470,7 @@
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
 ,
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !</q>
 <gloss>Then, “Very well!”</gloss>
 </seg>
@@ -7011,7 +7011,7 @@
 
 <seg n="161.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 !
 <w canon="kakwêcimin" class="vta" gcat="2s1sTAimp" sgloss="ask" stem="kakwêcim" suffix="-in">kakwêcimin</w>
 ,

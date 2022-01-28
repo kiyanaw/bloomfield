@@ -3875,7 +3875,7 @@
 
 <seg n="113.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 <w canon="ôhkoma" class="nda" gcat="3oNDA" sgloss="grandmother" stem="ôhkom" suffix="-a">ôhkomah</w>
@@ -4539,7 +4539,7 @@
 <q>
 <w canon="ahaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">ahag</w>
 ,
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,
 <w canon="otina" class="vti" gcat="2sTIimp" sgloss="take" stem="otin" suffix="-a">otinah</w>
 .</q>
@@ -6626,7 +6626,7 @@
 
 <seg n="190.1">
 <q>
-<w canon="êhaq" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
+<w canon="êha" class="ipc" gcat="IPC" sgloss="yes" stem="êha">êhag</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
 <w canon="wacôw-awâsis" class="na" extra="dim" gcat="3sNA" sgloss="clot_child" stem="watôw-awâsis" suffix="0">wacôw-awâsis</w>
