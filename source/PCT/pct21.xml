@@ -1795,7 +1795,7 @@
 <w canon="sîkinam" class="vti" gcat="3sTI" sgloss="pour" stem="sîkin" suffix="-am">sîkinam</w>
 ,
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="ê-minihkwêcik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="drink" stem="minihkwê" suffix="-cik">êh-minihkwêcik</w>
 .
 <gloss>He took the whiskey and poured it into a bowl and then they drank it.</gloss>
@@ -3052,7 +3052,7 @@
 <w canon="ê-kitâpamât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="look_at" stem="kitâpam" suffix="-ât">êh-kitâpamât</w>
 ,
 <q>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkw</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">âwa</w>
 <w canon="kâ-kî-kitimâkisit" class="vai" gcat="3sAIcnj" preverbs="kâ|cnj kî|PAST" sgloss="be_pitiable" stem="kitimâkisi" suffix="-t">kâh-kîh-kitimâkisit</w>
 ,</q>
@@ -3067,7 +3067,7 @@
 <seg n="90.1">
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="kakwêcimâw" class="vta" gcat="x3sTA" sgloss="ask" stem="kakwêcim" suffix="-âw">kakwêcimâw</w>
 ,

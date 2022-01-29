@@ -196,7 +196,7 @@
 <w canon="asiniya" class="na" gcat="3oNA" sgloss="rock" stem="asiniy" suffix="-a">asiniyah</w>
 <w canon="ê-kisâpiskiswâcik" class="vta" gcat="3p3oTAcnj" preverbs="ê|cnj" sgloss="heat" stem="kisâpiskisw" suffix="-âcik">êh-kisâpiskiswâcik</w>
 ;
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôh</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôh</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="wiyâs" class="ni" gcat="0sNI" sgloss="meat" stem="wiyâs" suffix="0">wiyâs</w>
 <w canon="ê-kîsisahkik" class="vti" gcat="3pTIcnj" preverbs="ê|cnj" sgloss="burn" stem="kîsis" suffix="-ahkik">êh-kîsisahkik</w>
@@ -499,7 +499,7 @@
 </seg>
 
 <seg n="7.3">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyokoh</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwakoh</w>
 <w canon="tahtw-âskiy" class="ipc" gcat="IPC" sgloss="so_many_years" stem="tahtw-âskiy">tahtw-âskiy</w>
 <w canon="kita-tôtahkik" class="vti" gcat="3pTIcnj" preverbs="kita|to" sgloss="do_thus" stem="tôt" suffix="-ahkik">kita-tôtahkik</w>
 <w canon="ayîsiyiniwak" class="na" gcat="3pNA" sgloss="person" stem="ayisiyiniw" suffix="-ak">ayîsiyiniwak</w>
@@ -855,10 +855,10 @@
 
 <seg n="9.1">
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
 <w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
 <w canon="âcimôwin" class="ni" gcat="0sNI" sgloss="story" stem="âcimowin" suffix="0">âcimôwin</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyoko</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwako</w>
 .
 <gloss>So much for this, for this one story.</gloss>
 </seg>

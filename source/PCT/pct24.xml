@@ -2585,7 +2585,7 @@
 <w canon="mitoni" class="ipc" gcat="IPC" sgloss="intensively" stem="mitoni">miton</w>
 <w canon="ê-pakwâtitân" class="vta" gcat="1s2sTAcnj" preverbs="ê|cnj" sgloss="hate" stem="pakwât" suffix="-itân">êh-pakwâtitân</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ôhci</w>
 <w canon="kotak" class="pr" gcat="3sPR" sgloss="other" stem="kotak">kotak</w>
 <w canon="nâpêw" class="na" gcat="3sNA" sgloss="man" stem="nâpêw" suffix="0">nâpêw</w>
@@ -2901,7 +2901,7 @@
 <seg n="124.2">
 <w canon="nayêstaw" class="ipc" gcat="IPC" sgloss="only" stem="nayêstaw">nayêstaw</w>
 <w canon="otakohpis" class="ni" gcat="0sNIof3s" prefix="3" sgloss="small_blanket" stem="akohpis" suffix="0">otakohpis</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="pimiwitâw" class="vai" gcat="3sAI" sgloss="carry" stem="pimiwitâ" suffix="-w">pimiwitâw</w>
 ,
 <w canon="ocânisa" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="daughter" stem="cânis" suffix="-a">ocânisah</w>
@@ -2916,7 +2916,7 @@
 <w canon="pîtos" class="ipc" gcat="IPC" sgloss="strangely" stem="pîtos">pîtos</w>
 <w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ayâw" class="vai" gcat="3sAI" sgloss="be" stem="ayâ" suffix="-w">ayâw</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="ê-kî-nipahât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj kî|PAST" sgloss="kill" stem="nipah" suffix="-ât">ê-kîh-nipahât</w>
 <w canon="wîwa" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="wife" stem="îw" suffix="-a">wîwah</w>
 .

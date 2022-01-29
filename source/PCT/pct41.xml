@@ -112,14 +112,14 @@
 ,
 <w canon="wiyâkan" class="ni" gcat="0sNI" sgloss="dish" stem="wiyâkan" suffix="0">wiyâkan</w>
 <w canon="mistikoyâkan" class="ni" gcat="0sNI" sgloss="wooden_bowl" stem="mistikoyâkan" suffix="0">mistikoyâkan</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyoko</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwako</w>
 <w canon="ê-mêtawâkêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="play_with" stem="mêtawâkê" suffix="-t">êh-mêtawâkêt</w>
 ;
 <q>
 <w canon="ê-pakêsêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="gamble" stem="pakêsê" suffix="-t">êh-pakêsêt</w>
 ,</q>
 <w canon="isiyîhkâtêw" class="vii" gcat="0sII" sgloss="be_called_thus" stem="isiyîhkâtê" suffix="-w">isiyîhkâtêw</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="mêtawêwin" class="ni" gcat="0sNI" sgloss="game" stem="mêtawêwin" suffix="0">mêtawêwin</w>
 .
 <gloss>He did no work in the way of hunting; instead, he always played, and what he played with was a cup, a wooden bowl; the cup-game this game is called.</gloss>
@@ -4433,7 +4433,7 @@
 <seg n="111.3">
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="ôki" class="dem" gcat="3pDEM" sgloss="this" stem="awa" suffix="-3p">ôki</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyokw</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyokw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">âwa</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">aw</w>
 <w canon="okimâw" class="na" gcat="3sNA" sgloss="chief" stem="okimâw" suffix="0">okimâw</w>
@@ -4749,7 +4749,7 @@
 </seg>
 
 <seg n="119.4">
-<w canon="êwakoni" class="pr" gcat="3oPR" sgloss="that_one" stem="êwako" suffix="-3o">êyokonih</w>
+<w canon="êwakoni" class="pr" gcat="3oPR" sgloss="that_one" stem="êwako" suffix="-3o">êwakonih</w>
 <w canon="ma-mitihtêwak" class="vta" gcat="3p3oTA" preverbs="dupL|L.REDUP" sgloss="track" stem="mitiht" suffix="-êwak">ma-mitihtêwak</w>
 .
 <gloss>They followed its trail.</gloss>
@@ -5926,7 +5926,7 @@
 
 <seg n="157.2">
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyoko</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwako</w>
 <w canon="ê-pêtât" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="bring" stem="pêtâ" suffix="-t">êh-pêtât</w>
 ,
 <w canon="ê-tihkisahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="melt_down" stem="tihkis" suffix="-ahk">êh-tihkisahk</w>
@@ -6199,7 +6199,7 @@
 <w canon="pêtâw" class="vai" gcat="3sAI" sgloss="bring" stem="pêtâ" suffix="-w">pêtâw</w>
 <w canon="pimiy" class="ni" gcat="0sNI" sgloss="fat" stem="pimiy" suffix="0">pimih</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyoko</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwako</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
 <w canon="ê-tihkisahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="melt_down" stem="tihkis" suffix="-ahk">êh-tihkisahk</w>
 ,
@@ -6341,7 +6341,7 @@
 <seg n="172.3">
 <w canon="ê-kîsihtât" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="finish" stem="kîsîhtâ" suffix="-t">êh-kîsihtât</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôm</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ôhci</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
@@ -6500,7 +6500,7 @@
 <w canon="pâkahkos" class="na" gcat="3sNA" sgloss="bony_spectre" stem="pâkahkos" suffix="0">pâkahkos</w>
 <w canon="ê-kî-otihtikoyâhk" class="vta" gcat="3s1eTAcnj" preverbs="ê|cnj kî|PAST" sgloss="reach" stem="otiht" suffix="-ikoyâhk">ê-kiy-ôtihtikoyâhk</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="ê-pê-kîwêhtahâyâhk" class="vta" gcat="1e3sTAcnj" preverbs="ê|cnj pê|thence" sgloss="take_home" stem="kîwêhtah" suffix="-âyâhk">ê-pê-kîwêhtahâyâhk</w>
 ;</q>
 <gloss>That time when we were hunting, a bony spectre came where we were, and we brought it home here with us;</gloss>
@@ -6695,7 +6695,7 @@
 </seg>
 
 <seg n="182.4">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="kâ-ôh-kâtâcik" class="vta" gcat="3p3oTAcnj" preverbs="kâ|cnj ôh|thence" sgloss="hide" stem="kât" suffix="-âcik">k-ôh-kâtâcik</w>
 <w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôhi</w>
@@ -7713,7 +7713,7 @@
 </seg>
 
 <seg n="218.3">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="kâ-ôh-itât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj ôh|thence" sgloss="say_to" stem="it" suffix="-ât">k-ôh-itât</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>

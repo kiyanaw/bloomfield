@@ -753,7 +753,7 @@
 <w canon="iskotêw" class="ni" gcat="0sNI" sgloss="fire" stem="iskotêw" suffix="0">iskotêw</w>
 <w canon="ê-tahkonamiyit" class="vti" gcat="3oTIcnj" preverbs="ê|cnj" sgloss="carry" stem="tahkon" suffix="-amiyit">êh-tahkonamiyit</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ôhci</w>
 <w canon="ê-pakamahokocik" class="vta" gcat="3o3pTAcnj" preverbs="ê|cnj" sgloss="hit" stem="pakamahw" suffix="-ikocik">êh-pakamahokocik</w>
 ,
@@ -1081,7 +1081,7 @@
 
 <seg n="18.3">
 <w canon="wîhkasko-kisêyin" class="na" gcat="3sNA" sgloss="Sweet_Grass" stem="wîhkasko-kisêyin" suffix="0">wîhkaskô-kisêyin</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyoko</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwako</w>
 <w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
 <w canon="okimâw" class="na" gcat="3sNA" sgloss="chief" stem="okimâw" suffix="0">okimâw</w>
 ;
@@ -1585,7 +1585,7 @@
 
 <seg n="35.1">
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êôkôw</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êôkôw</w>
 <w canon="âcimowin" class="ni" gcat="0sNI" sgloss="story" stem="âcimowin" suffix="0">âcimowin</w>
 .
 <gloss>So goes this story.</gloss>

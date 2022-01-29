@@ -410,7 +410,7 @@
 
 <seg n="15.3">
 <q rend="PRE 0 POST1">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">oma</w>
 <w canon="nipostastotinân" class="vai" gcat="1sAI" prefix="1" sgloss="put_on_hat" stem="postastotinê" suffix="-n">nipostastotinân</w>
 ,
@@ -1299,7 +1299,7 @@
 
 <seg n="39.2">
 <q rend="PRE 0 POST0">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 <w canon="nêpâyani" class="vai" gcat="2sAIsubjunc" prefix="IC" sgloss="sleep" stem="nipâ" suffix="-yani">nêpâyanih</w>
 <w canon="ê-pê-kîwêhtahikoyan" class="vta" gcat="0x2sTAcnji" preverbs="ê|cnj pê|thence" sgloss="take_home" stem="kîwêhtah" suffix="-ikoyan">êh-pê-kîwêhtahikoyan</w>

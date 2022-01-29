@@ -825,7 +825,7 @@
 
 <seg n="29.1">
 <q>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyokô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyokô</w>
 <w canon="kâ-nitawêyihtamân" class="vti" gcat="1sTIcnj" preverbs="kâ|cnj" sgloss="want" stem="nitawêyiht" suffix="-amân">kâ-nitawêyihtamân</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
@@ -1494,7 +1494,7 @@
 
 <seg n="59.1">
 <q>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkw</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkw</w>
 <w canon="ana" class="dem" gcat="3sDEM" sgloss="that" stem="ana">ânah</w>
 ,</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
@@ -2181,7 +2181,7 @@
 <seg n="86.1">
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
 <w canon="wiya" class="ipc" gcat="IPC" sgloss="WIYA" stem="wiya">wiy</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwôkô</w>
 <w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
 <w canon="âtayôhkêwin" class="ni" gcat="0sNI" sgloss="sacred_story" stem="âtayôhkêwin" suffix="0">âtayôhkêwin</w>
 <w canon="nikîsihtân" class="vai" gcat="1sAI" prefix="1" sgloss="finish" stem="kîsîhtâ" suffix="-n">nikîsihtân</w>

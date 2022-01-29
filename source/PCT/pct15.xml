@@ -779,7 +779,7 @@
 
 <seg n="13.4">
 <w canon="kinwês" class="ipc" gcat="IPC" sgloss="for_a_long_time" stem="kinwês">kinwês</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakoh</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakoh</w>
 <w canon="ê-wîwit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="have_wife" stem="wîwi" suffix="-t">êh-wîwit</w>
 .
 <gloss>This was when he had been married for quite some time.</gloss>
@@ -1749,7 +1749,7 @@
 
 <seg n="37.4">
 <w canon="câpihcicikanis" class="ni" gcat="0sNI" sgloss="spear" stem="câpihcikanis" suffix="0">câpihcicikanis</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
 <w canon="otinam" class="vti" gcat="3sTI" sgloss="take" stem="otin" suffix="-am">ôtinam</w>
 .
 <gloss>A spear he took.</gloss>
@@ -1760,7 +1760,7 @@
 <w canon="astotin" class="ni" gcat="0sNI" sgloss="hat" stem="astotin" suffix="0">astotn</w>
 ,
 <w canon="sihkosiwayân-astotin" class="ni" gcat="0sNI" prenouns="sihkosiwayân|weasel_skin" sgloss="hat" stem="astotin" suffix="0">sihkosiwayân-astotn</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 ,
 <w canon="êskanak" class="na" gcat="3pNA" sgloss="horn" stem="êskan" suffix="-ak">êskanak</w>
 <w canon="kikamôwak" class="vai" gcat="3pAI" sgloss="be_attached" stem="kikamo" suffix="-wak">kikamôwak</w>
@@ -2250,7 +2250,7 @@
 ,
 <w canon="kita-âcimoyan" class="vai" gcat="2sAIcnj" preverbs="kita|to" sgloss="tell_story" stem="âcimo" suffix="-yan">kitah-âcimowin</w>
 ;
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <q>
 <w canon="pitanê" class="ipc" gcat="IPC" sgloss="wish_that" stem="pitanê">ptanêh</w>

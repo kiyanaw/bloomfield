@@ -796,7 +796,7 @@
 
 <seg n="22.5">
 <q rend="PRE 0 POST0">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakoh</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakoh</w>
 <w canon="miyâskamani" class="vti" gcat="2sTIsubjunc" sgloss="pass_around" stem="miyâsk" suffix="-amani">miyâskamani</w>
 ,
 <w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
@@ -1763,12 +1763,12 @@
 
 <seg n="52.2">
 <q rend="PRE 1 POST0">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôw</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôw</w>
 <w canon="ani" class="ipc" gcat="IPC" sgloss="then" stem="ani">âni</w>
 <w canon="kâ-pê-ohciskanawêyân" class="vai" gcat="1sAIcnj" preverbs="kâ|cnj pê|thence" sgloss="make_tracks_from" stem="ohciskanawê" suffix="-yân">kâ-pê-ohtiskanawiyân</w>
 ,
 <w canon="kika-mitihtên" class="vti" gcat="2sTI" prefix="2" preverbs="ka|will" sgloss="track" stem="mitiht" suffix="-ên">kika-mitihtên</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 .</q>
 <gloss>“The path by which I came here, you will follow.</gloss>
 </seg>

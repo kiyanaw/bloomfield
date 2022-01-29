@@ -2951,7 +2951,7 @@
 
 <seg n="111.1">
 <q>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mînah</w>
 <w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
@@ -3350,7 +3350,7 @@
 
 <seg n="122.3">
 <q rend="PRE 0 POST0">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ôhci</w>
 <w canon="kâ-nôtinitocik" class="vai" gcat="3pAIcnj" preverbs="kâ|cnj" sgloss="fight_with_e.o." stem="nôtinito" suffix="-cik">kâh-nôtinitôcik</w>
 ;</q>
@@ -5179,7 +5179,7 @@
 <w canon="kêtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kêtahtawê</w>
 <w canon="nîpâtipisk" class="ipc" gcat="IPC" sgloss="in_dark_of_night" stem="nîpâ-tipisk">nîpâtipisk</w>
 <w canon="sipwêhtêw" class="vai" gcat="3sAI" sgloss="leave" stem="sipwêhtê" suffix="-w">sipwêhtêw</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
 <w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
 ;
 <w canon="ocawâsimisa" class="na" extra="im dim" gcat="3oNAof3s" prefix="3" sgloss="child" stem="awâsis" suffix="-a">cawâsimisah</w>
@@ -5235,7 +5235,7 @@
 <w canon="kâ-tahkopitât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj" sgloss="tie_fast" stem="tahkopit" suffix="-ât">kâ-tahkopitât</w>
 ,
 <w canon="kâ-ocawâsimisit" class="vai" gcat="3sAIcnj" preverbs="kâ|cnj" sgloss="have_child" stem="otawâsimisi" suffix="-t">k-ôcawâsimisit</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êôkôh</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êôkôh</w>
 <w canon="oskinîkiw" class="na" gcat="3sNA" sgloss="young_man" stem="oskinîkiw" suffix="0">oskinîkiw</w>
 <w canon="ê-nêpêwisit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="be_ashamed" stem="nêpêwisi" suffix="-t">ê-nêpêwisit</w>
 .

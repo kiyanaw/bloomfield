@@ -3542,7 +3542,7 @@
 <p n="103">
 
 <seg n="103.1">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôko</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôko</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
 <w canon="paskêhtam" class="vti" gcat="3sTI" sgloss="bite_piece" stem="paskêht" suffix="-am">paskêhtam</w>
 .
@@ -3612,7 +3612,7 @@
 </seg>
 
 <seg n="106.2">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyokw</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyokw</w>
 <w canon="êsa" class="ipc" gcat="IPC" sgloss="reportedly" stem="êsa">ês</w>
 <w canon="ana" class="dem" gcat="3sDEM" sgloss="that" stem="ana">âna</w>
 <w canon="nôtokêsiw" class="na" gcat="3sNA" sgloss="old_woman" stem="nôtokwêsiw" suffix="0">nôtokêsiw</w>
@@ -4257,7 +4257,7 @@
 </seg>
 
 <seg n="129.3">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyokô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyokô</w>
 <w canon="kîkisêpâ" class="ipc" gcat="IPC" sgloss="early_in_morning" stem="kêkisêpâ">kîksêpê</w>
 ,
 <w canon="ê-kî-mîcisocik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj kî|PAST" sgloss="eat" stem="mîciso" suffix="-cik">ê-kih-mîcisocik</w>

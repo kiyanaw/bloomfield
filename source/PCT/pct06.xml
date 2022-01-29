@@ -292,7 +292,7 @@
 <w canon="ê-nawaswâtât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="pursue" stem="nawaswât" suffix="-ât">êh-nawaswâtât</w>
 ,
 <w canon="ê-sakâyik" class="vii" gcat="0oIIcnj" preverbs="ê|cnj" sgloss="be_bush" stem="sakâ" suffix="-yik">ê-sakâyik</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="môskîstamwak" class="vti" gcat="3pTI" sgloss="attack" stem="môskîst" suffix="-amwak">môskîstamwak</w>
 <w canon="sîpîsis" class="ni" gcat="0sNI" sgloss="small_river" stem="sîpîsis" suffix="0">sîpîsis</w>
 .
@@ -496,7 +496,7 @@
 <w canon="ayis" class="ipc" gcat="IPC" sgloss="for" stem="ayis">ayis</w>
 <w canon="mêscihêwak" class="vta" gcat="3p3oTA" sgloss="kill_off" stem="mêscih" suffix="-êwak">mêscihêwak</w>
 ;
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="kâ-poyocik" class="vai" gcat="3pAIcnj" preverbs="kâ|cnj" sgloss="cease" stem="pôyo" suffix="-cik">kâ-poyocik</w>
 .

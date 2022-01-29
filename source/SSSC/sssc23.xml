@@ -185,7 +185,7 @@
 <w canon="mîcimâpôhkêw" class="vai" gcat="3sAI" sgloss="make_broth" stem="mîcimâpôhkê" suffix="-w">mîcimâpôhkêw</w>
 ,
 <w canon="mîcimâpoy" class="ni" gcat="0sNI" sgloss="broth" stem="mîcimâpoy" suffix="0">mîcimâpoy</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="ê-mîcicik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="eat" stem="mîci" suffix="-cik">êh-mîcicik</w>
 ,
 <w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyako</w>
@@ -499,7 +499,7 @@
 <seg n="17.1">
 <q>
 <w canon="nika-wîkimâw" class="vta" gcat="1s3sTA" prefix="1" preverbs="ka|will" sgloss="live_with" stem="wîkim" suffix="-âw">nka-wîkimêw</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
 <w canon="nâpêw" class="na" gcat="3sNA" sgloss="man" stem="nâpêw" suffix="0">nâpêw</w>
 ,</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
@@ -751,7 +751,7 @@
 
 <seg n="28.1">
 <q>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
 <w canon="niwîkimâkan" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="spouse" stem="wîkimâkan" suffix="0">niwîkimâkan</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>

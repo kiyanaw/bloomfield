@@ -126,7 +126,7 @@
 <w canon="ê-mîsahahkik" class="vti" gcat="3pTIcnj" preverbs="ê|cnj" sgloss="mend" stem="mîsah" suffix="-ahkik">êh-mîsahahkik</w>
 <w canon="ê-pîkopayiyiki" class="vii" gcat="0qIIcnj" preverbs="ê|cnj" sgloss="break_down" stem="pîkopayi" suffix="-yiki">ê-pîkopayiyikih</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="wîhkasko-kisêyin" class="na" gcat="3sNA" sgloss="Sweet_Grass" stem="wîhkasko-kisêyin" suffix="0">wîhkasko-kisêyin</w>
 <w canon="pasikôw" class="vai" gcat="3sAI" sgloss="arise" stem="pasikô" suffix="-w">pasikôw</w>
 ,
@@ -672,7 +672,7 @@
 <seg n="1.53">
 <w canon="âsay" class="ipc" gcat="IPC" sgloss="already" stem="âsay">âsa</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîn</w>
-<w canon="êwakoni" class="pr" gcat="3oPR" sgloss="that_one" stem="êwako" suffix="-3o">êyokoni</w>
+<w canon="êwakoni" class="pr" gcat="3oPR" sgloss="that_one" stem="êwako" suffix="-3o">êwakoni</w>
 <w canon="otêmiyiwa" class="nda" gcat="3oNDAof3o" prefix="3" sgloss="dog" stem="têm" suffix="-iyiwa">otêmiyiwah</w>
 <w canon="otinêw" class="vta" gcat="3s3oTA" sgloss="take" stem="otin" suffix="-êw">otinêw</w>
 .

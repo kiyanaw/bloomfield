@@ -140,7 +140,7 @@
 ,</q>
 <w canon="itêyihtam" class="vti" gcat="3sTI" sgloss="think_of" stem="itêyiht" suffix="-am">itêyihtam</w>
 ;
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="kâ-ôh-sipwêhtêt" class="vai" gcat="3sAIcnj" preverbs="kâ|cnj ôh|thence" sgloss="leave" stem="sipwêhtê" suffix="-t">k-ô-sipwêhtêt</w>
 .
@@ -432,7 +432,7 @@
 <w canon="wîki" class="ndi" gcat="0sNDIof3s" prefix="3" sgloss="house" stem="îk" suffix="0">wîki</w>
 <w canon="ê-pîkosahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="cut_to_pieces" stem="pîkos" suffix="-ahk">êh-pîkosahk</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="oskotâkayiyiw" class="ndi" gcat="0sNDIof3o" prefix="3" sgloss="coat" stem="skotâkay" suffix="-iyiw">oskotâkayiw</w>
 <w canon="ê-osîhtât" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="prepare" stem="osîhtâ" suffix="-t">êw-osîhtât</w>
@@ -777,7 +777,7 @@
 <w canon="ê-asamât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="feed" stem="asam" suffix="-ât">êh-asamât</w>
 <w canon="osîma" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="younger_sib" stem="sîm" suffix="-a">osîma</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ôhci</w>
 <w canon="kâ-ôh-pakwâtahk" class="vti" gcat="3sTIcnj" preverbs="kâ|cnj ôh|thence" sgloss="hate" stem="pakwât" suffix="-ahk">k-ôh-pakwâtahk</w>
 .
@@ -1378,7 +1378,7 @@
 <seg n="24.2">
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="wâwâskêsiwa" class="na" gcat="3oNA" sgloss="deer" stem="wâwâskêsiw" suffix="-a">wâwâskêsiwah</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="pêcimêw" class="vta" gcat="3s3oTA" sgloss="call_here" stem="pêcim" suffix="-êw">pêcimêw</w>
 ,
 <w canon="êwakoni" class="pr" gcat="3oPR" sgloss="that_one" stem="êwako" suffix="-3o">êyakonih</w>
@@ -2515,7 +2515,7 @@
 
 <seg n="46.11">
 <q rend="PRE0 POST0">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 ,
 <q>
@@ -3556,7 +3556,7 @@
 <q>
 <w canon="yôh" class="interj" gcat="INTERJ" sgloss="oho" stem="yôh">yôh</w>
 !
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">ayôkw</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">ayôkw</w>
 <w canon="êcika" class="ipc" gcat="IPC" sgloss="what_is_this" stem="êcika">êcik</w>
 <w canon="ana" class="dem" gcat="3sDEM" sgloss="that" stem="ana">âna</w>
 <w canon="opipikwan" class="ni" gcat="0sNIof3s" prefix="3" sgloss="flute" stem="pipikwan" suffix="0">opipikwan</w>
@@ -4299,7 +4299,7 @@
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîn</w>
 <w canon="êcika" class="ipc" gcat="IPC" sgloss="what_is_this" stem="êcika">êcik</w>
 <w canon="ani" class="ipc" gcat="IPC" sgloss="then" stem="ani">ân</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
 <w canon="kê-tâpwêhtâkoyâhk" class="vta" gcat="3s1eTAcnj" preverbs="kê|IC+FUT" sgloss="agree_with" stem="tâpwêhtaw" suffix="-ikoyâhk">kê-tâpwêhtâkoyâhk</w>
 !</q>
@@ -4370,7 +4370,7 @@
 !
 <w canon="tâpwê" class="ipc" gcat="IPC" sgloss="truly" stem="tâpwê">tâpwê</w>
 <w canon="ninôhtê-wîwin" class="vai" gcat="1sAI" prefix="1" preverbs="nôhtê|want_to" sgloss="have_wife" stem="wîwi" suffix="-n">nnôhtê-wîwin</w>
-<w canon="âpihtawikosisâniskwêwak" class="na" gcat="3pNA" sgloss="Métis_woman" stem="âpihtawikosisâniskwêw" suffix="-ak">âpihtêyokosisâniskwêwak</w>
+<w canon="âpihtawikosisâniskwêwak" class="na" gcat="3pNA" sgloss="Métis_woman" stem="âpihtawikosisâniskwêw" suffix="-ak">âpihtêwakosisâniskwêwak</w>
 !</q>
 <gloss>“Really, I do fancy taking half-breed women for wives!</gloss>
 <q rend="PRE 0 POST0">

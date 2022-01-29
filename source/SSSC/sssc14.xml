@@ -470,7 +470,7 @@
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
 <w canon="kâ-kî-mitihtimiht" class="vta" gcat="x3oTAcnj" preverbs="kâ|cnj kî|PAST" sgloss="track" stem="mitiht" suffix="-imiht">kâ-kîh-mitihtimiht</w>
 <w canon="osôsimâna" class="na" gcat="3oNAof3s" prefix="3" sgloss="snow_dart" stem="sôsimân" suffix="-a">osôsimâna</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyoko</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwako</w>
 <w canon="kâ-pîhtokêkociniyit" class="vai" gcat="3oAIcnj" preverbs="kâ|cnj" sgloss="fly_in" stem="pîhtokêkocin" suffix="-yit">kâ-pîhtokêkociniyit</w>
 <w canon="osôsimâna" class="na" gcat="3oNAof3s" prefix="3" sgloss="snow_dart" stem="sôsimân" suffix="-a">osôsimâna</w>
 .
@@ -1647,7 +1647,7 @@
 
 <seg n="59.1">
 <q>
-<w canon="êwakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êyokonik</w>
+<w canon="êwakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êwakonik</w>
 <w canon="nisîmak" class="nda" gcat="3pNDAof1s" prefix="1" sgloss="younger_sib" stem="sîm" suffix="-ak">nisîmak</w>
 <w canon="kâ-mîsihtâcik" class="vai" gcat="3pAIcnj" preverbs="kâ|cnj" sgloss="have_food_supply" stem="mîsihtâ" suffix="-cik">kâ-mîsihtâcik</w>
 !</q>

@@ -103,7 +103,7 @@
 <q>
 <w canon="miyâmay" class="ipc" gcat="IPC" sgloss="surely" stem="miyâmay">miyâmay</w>
 <w canon="kônâpêmin" class="vai" gcat="2sAI" prefix="2" sgloss="have_husband" stem="onâpêmi" suffix="-n">kônâpêmin</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôk</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôk</w>
 <w canon="oskinîkiw" class="na" gcat="3sNA" sgloss="young_man" stem="oskinîkiw" suffix="0">ôskinîkiw</w>
 !</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
@@ -257,7 +257,7 @@
 <p n="9">
 
 <seg n="9.1">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyoko</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwako</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
 <w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
 <w canon="ayahciyiniw" class="na" gcat="3sNA" sgloss="Blackfoot" stem="ayahciyiniw" suffix="0">iyahciyiniw</w>
@@ -270,7 +270,7 @@
 <w canon="maywês" class="ipc" gcat="IPC" sgloss="previously" stem="maywês">mayiwês</w>
 <w canon="ihtakohk" class="vii" gcat="0sIIcnj" sgloss="exist" stem="ihtakon" suffix="-k">ihtakohk</w>
 <w canon="wiyasôwêwin" class="ni" gcat="0sNI" sgloss="decision" stem="wiyasiwêwin" suffix="0">oyasôwêwin</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkôh</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkôh</w>
 <w canon="kâ-kî-ispayik" class="vii" gcat="0sIIcnj" preverbs="kâ|cnj kî|PAST" sgloss="happen" stem="ispayi" suffix="-k">kâ-kih-ispayik</w>
 ;
 <gloss>before there was any law was when this took place;</gloss>

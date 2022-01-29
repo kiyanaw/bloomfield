@@ -480,7 +480,7 @@
 </seg>
 
 <seg n="5.3">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="ayîsiyiniwak" class="na" gcat="3pNA" sgloss="person" stem="ayisiyiniw" suffix="-ak">ayîsiyiniwak</w>
 ,
@@ -976,7 +976,7 @@
 </seg>
 
 <seg n="17.2">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="pêyakwan" class="ipc" gcat="IPC" sgloss="the_same" stem="pêyakwan">pêyakwan</w>
 :
 <w canon="tahki" class="ipc" gcat="IPC" sgloss="always" stem="tahki">tahki</w>
@@ -994,7 +994,7 @@
 <seg n="17.3">
 <w canon="pêyakwan" class="ipc" gcat="IPC" sgloss="the_same" stem="pêyakwan">pêyakwan</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîn</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="pâh-pêyak" class="ipc" gcat="IPC" sgloss="singly" stem="pâh-pêyak">pâh-pêyak</w>
 <w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">piko</w>
 <w canon="kâ-miyihcik" class="vta" gcat="x3pTAcnj" preverbs="kâ|cnj" sgloss="give_to" stem="miy" suffix="-ihcik">kâ-miyihcik</w>
@@ -1551,7 +1551,7 @@
 </seg>
 
 <seg n="31.2">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
 <w canon="pêyakwan" class="ipc" gcat="IPC" sgloss="the_same" stem="pêyakwan">pêyakwan</w>
 <w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyako</w>

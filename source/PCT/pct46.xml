@@ -1886,7 +1886,7 @@
 
 <seg n="73.1">
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakoh</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakoh</w>
 <w canon="ê-nikamot" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="sing" stem="nikamo" suffix="-t">êh-nikamot</w>
 .
 <gloss>Then she sang.</gloss>
@@ -2273,7 +2273,7 @@
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
 <w canon="âtayôhkêwin" class="ni" gcat="0sNI" sgloss="sacred_story" stem="âtayôhkêwin" suffix="0">âtayôhkêwin</w>
 .
 <gloss>And so this is the end of this sacred story.</gloss>

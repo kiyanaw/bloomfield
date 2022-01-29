@@ -91,7 +91,7 @@
 </seg>
 
 <seg n="2.2">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êkô</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="kâ-ôh-kitimâkisiyâhk" class="vai" gcat="1eAIcnj" preverbs="kâ|cnj ôh|thence" sgloss="be_pitiable" stem="kitimâkisi" suffix="-yâhk">k-ôh-kitimâkisiyâhk</w>
 .
@@ -1422,7 +1422,7 @@
 </seg>
 
 <seg n="24.10">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="yôspisiwin" class="ni" gcat="0sNI" sgloss="gentleness" stem="yôspisiwin" suffix="0">yôspisiwin</w>
 <w canon="kâ-ôh-ayât" class="vai" gcat="3sAIcnj" preverbs="kâ|cnj ôh|thence" sgloss="have" stem="ayâ" suffix="-t">k-ôh-ayât</w>
@@ -1583,7 +1583,7 @@
 <p n="30">
 
 <seg n="30.1">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
 <w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
 <w canon="âcimowin" class="ni" gcat="0sNI" sgloss="story" stem="âcimowin" suffix="0">âcimowin</w>
 .

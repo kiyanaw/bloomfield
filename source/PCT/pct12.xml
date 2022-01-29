@@ -630,7 +630,7 @@
 
 <seg n="6.1">
 <q>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êokôh</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êokôh</w>
 <w canon="kâ-sakâk" class="vii" gcat="0sIIcnj" preverbs="kâ|cnj" sgloss="be_bush" stem="sakâ" suffix="-k">kâ-sakâk</w>
 <w canon="anima" class="dem" gcat="0sDEM" sgloss="that" stem="anima">animah</w>
 ,
@@ -1051,7 +1051,7 @@
 
 <seg n="18.6">
 <q rend="PRE 0 POST1">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwôkô</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">oma</w>
 <w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">êtah</w>
 <w canon="ê-kî-wîkit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj kî|PAST" sgloss="live_there" stem="wîki" suffix="-t">ê-kîh-wîkit</w>
@@ -1092,7 +1092,7 @@
 
 <seg n="19.3">
 <q rend="PRE 0 POST0">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwôkô</w>
 <w canon="kimiyitin" class="vta" gcat="1s2sTA" prefix="2" sgloss="give_to" stem="miy" suffix="-itin">kimiyitin</w>
 ;
 <w canon="nipa" class="vta" gcat="2s3sTAimp" sgloss="kill" stem="nipah" suffix="0">nipah</w>
@@ -1354,7 +1354,7 @@
 <w canon="otinam" class="vti" gcat="3sTI" sgloss="take" stem="otin" suffix="-am">otinam</w>
 <w canon="ocîkahikanisiyiw" class="ni" gcat="0sNIof3o" prefix="3" sgloss="small_axe" stem="cîkahikanis" suffix="-iyiw">ocîkahikanisiyiw</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwôkô</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="ê-câ-cîkahwât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj dupH|H.REDUP" sgloss="chop" stem="cîkahw" suffix="-ât">êh-câ-cîkahwêt</w>
 .

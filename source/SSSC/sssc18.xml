@@ -2365,7 +2365,7 @@
 <seg n="85.3">
 <w canon="âsay" class="ipc" gcat="IPC" sgloss="already" stem="âsay">âsay</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîn</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="sipwêhtêw" class="vai" gcat="3sAI" sgloss="leave" stem="sipwêhtê" suffix="-w">sipwêhtêw</w>
 ,
 <w canon="ê-mâcît" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="hunt" stem="mâcî" suffix="-t">êh-mâcît</w>
@@ -2374,7 +2374,7 @@
 </seg>
 
 <seg n="85.4">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="kapê-kîsik" class="ipc" gcat="IPC" sgloss="all_day_long" stem="kapê-kîsik">kapê-kîsik</w>
 <w canon="papâmohtêw" class="vai" gcat="3sAI" sgloss="walk_about" stem="papâmohtê" suffix="-w">papâmohtêw</w>
 .
@@ -2647,7 +2647,7 @@
 </seg>
 
 <seg n="96a.4">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="kâ-ôh-itât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj ôh|thence" sgloss="say_to" stem="it" suffix="-ât">k-ôh-itât</w>
 .
@@ -3924,7 +3924,7 @@
 <w canon="hây" class="interj" gcat="INTERJ" sgloss="hay" stem="hay">hây</w>
 !
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="kî-omaskisiniyâhk" class="vai" gcat="1eAIcnj" preverbs="kî|can" sgloss="have_shoes" stem="omaskisini" suffix="-yâhk">kiy-ômaskisiniyâhk</w>
 !</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
@@ -4904,7 +4904,7 @@
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">oma</w>
 <w canon="osîhtâw" class="vai" gcat="3sAI" sgloss="prepare" stem="osîhtâ" suffix="-w">osîhtâw</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyoko</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwako</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
 <w canon="ê-wî-ohci-sîkahâhtawâyit" class="vta" gcat="3o3oTAcnj" preverbs="ê|cnj wî|will ohci|thence" sgloss="sprinkle_with_water" stem="sîkahâhtaw" suffix="-âyit">ê-wîh-ohci-sîkahâhtawâyit</w>
 <w canon="asiniya" class="na" gcat="3oNA" sgloss="rock" stem="asiniy" suffix="-a">asiniyah</w>

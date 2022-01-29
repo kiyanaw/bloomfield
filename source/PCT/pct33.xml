@@ -752,7 +752,7 @@
 
 <seg n="20.5">
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="wâtihk" class="ni" gcat="0locNI" sgloss="hole" stem="wât" suffix="-ihk">wâtihk</w>
 <w canon="nitawi-asiwahâw" class="vta" gcat="x3sTA" preverbs="nitawi|go_to" sgloss="place_inside" stem="asiwah" suffix="-âw">nitaw-âsiwahâw</w>
 .
@@ -810,7 +810,7 @@
 </seg>
 
 <seg n="20.11">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">aw</w>
 <w canon="iskwêw" class="na" gcat="3sNA" sgloss="woman" stem="iskwêw" suffix="0">îskwêw</w>
 <w canon="kâ-kî-nipahiht" class="vta" gcat="x3sTAcnj" preverbs="kâ|cnj kî|PAST" sgloss="kill" stem="nipah" suffix="-iht">kâ-kîh-nipahiht</w>

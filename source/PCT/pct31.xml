@@ -65,7 +65,7 @@
 <w canon="nikî-wâpamâw" class="vta" gcat="1s3sTA" prefix="1" preverbs="kî|PAST" sgloss="see" stem="wâpam" suffix="-âw">nikîh-wâpamâw</w>
 <w canon="kisêyiniw" class="na" gcat="3sNA" sgloss="old_man" stem="kisêyiniw" suffix="0">kisêyiniw</w>
 ;
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
 <w canon="ê-kî-âcimot" class="vai" gcat="3sAIcnj" preverbs="ê|cnj kî|PAST" sgloss="tell_story" stem="âcimo" suffix="-t">ê-kîh-âcimot</w>
 <w canon="kisêyiniw" class="na" gcat="3sNA" sgloss="old_man" stem="kisêyiniw" suffix="0">kisêyiniw</w>
 <w canon="ômisi" class="ipc" gcat="IPC" sgloss="thus" stem="ômisi">ômis</w>
@@ -391,7 +391,7 @@
 <w canon="pasikôw" class="vai" gcat="3sAI" sgloss="arise" stem="pasikô" suffix="-w">pasikôw</w>
 .
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mînah</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="ê-itohtêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="go" stem="itohtê" suffix="-t">êh-itohtêt</w>
 <w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôh</w>
 <w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">îtah</w>
@@ -411,7 +411,7 @@
 <seg n="9.10">
 <w canon="kiyipa" class="ipc" gcat="IPC" sgloss="quickly" stem="kiyipa">kiyipah</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">min</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôw</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôw</w>
 <w canon="nipahik" class="vta" gcat="3o3sTA" sgloss="kill" stem="nipah" suffix="-ik">nipahik</w>
 <w canon="wâkayôsa" class="na" gcat="3oNA" sgloss="bear" stem="wâkayôs" suffix="-a">wâkayôsah</w>
 .
@@ -573,7 +573,7 @@
 <w canon="ê-pasikôt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="arise" stem="pasikô" suffix="-t">êh-pasikôt</w>
 ,
 <w canon="pôti" class="ipc" gcat="IPC" sgloss="lo_and_behold" stem="pôti">pôtiy</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="mostosis" class="na" extra="dim" gcat="3sNA" sgloss="cattle" stem="mostosw" suffix="0">mostosis</w>
 .
 <gloss>Then he flung himself on the ground; when he arose, there was again that young buffalo.</gloss>
@@ -786,7 +786,7 @@
 </seg>
 
 <seg n="15.4">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôw</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôw</w>
 <w canon="âcimowak" class="vai" gcat="3pAI" sgloss="tell_story" stem="âcimo" suffix="-wak">âcimowak</w>
 .
 <gloss>They told their story.</gloss>

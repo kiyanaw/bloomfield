@@ -164,11 +164,11 @@
 <w canon="otihtêwak" class="vta" gcat="3p3oTA" sgloss="reach" stem="otiht" suffix="-êwak">otihtêwak</w>
 <w canon="osôsimâna" class="na" gcat="3oNAof3s" prefix="3" sgloss="snow_dart" stem="sôsimân" suffix="-a">osôsimânah</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="ê-apisîsisit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="be_quite_small" stem="apisîsisi" suffix="-t">h-apisîsisit</w>
 <w canon="osîmimâw" class="na" gcat="3sNA" sgloss="youngest_sib" stem="osîmimâw" suffix="0">osîmimâw</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="nâpêsis" class="na" gcat="3sNA" sgloss="boy" stem="nâpêsis" suffix="0">nâpêsis</w>
 <w canon="osôsimâna" class="na" gcat="3oNAof3s" prefix="3" sgloss="snow_dart" stem="sôsimân" suffix="-a">osôsimânah</w>
 .
@@ -177,7 +177,7 @@
 
 <seg n="3.5">
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="iskwêyâc" class="ipc" gcat="IPC" sgloss="to_the_end" stem="iskwêyâc">iskwêyâc</w>
 <w canon="otihtêwak" class="vta" gcat="3p3oTA" sgloss="reach" stem="otiht" suffix="-êwak">otihtêwak</w>
 <w canon="nêwâw" class="ipc" gcat="IPC" sgloss="four_times" stem="nêwâw">nêwâw</w>

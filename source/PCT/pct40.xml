@@ -856,7 +856,7 @@
 ,
 <w canon="âpihtaw" class="ipc" gcat="IPC" sgloss="half" stem="âpihtaw">âpihtaw</w>
 <w canon="âpihtâwi-ayisiyinîwici" class="vai" gcat="3sAIsubjunc" preverbs="âpihtâwi|half" sgloss="be_person" stem="ayisiyinîwi" suffix="-ci">âpihtaw-ayisiyiniwici</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôw</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">âwa</w>
 ,
 <w canon="kiyi-otihtikoyêk" class="vta" gcat="3s2pTAcnj" preverbs="kiyi|FUT" sgloss="reach" stem="otiht" suffix="-ikoyêk">kiy-ôtihtikoyêk</w>
@@ -1200,7 +1200,7 @@
 
 <seg n="29.2">
 <q rend="PRE 0 POST0">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 <w canon="ê-kî-nitotamawit" class="vta" gcat="3s1sTAcnj" preverbs="ê|cnj kî|PAST" sgloss="ask_for" stem="nitotamaw" suffix="-it">ê-kîh-ntotamawit</w>
 <w canon="kita-asamak" class="vta" gcat="1s3sTAcnj" preverbs="kita|to" sgloss="feed" stem="asam" suffix="-ak">kit-âsamak</w>

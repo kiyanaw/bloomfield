@@ -62,7 +62,7 @@
 
 <seg n="1.1">
 <w canon="iskwêwak" class="na" gcat="3pNA" sgloss="woman" stem="iskwêw" suffix="-ak">iskwêwak</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
 :
 <w canon="mitâtaht" class="ipc" gcat="IPC" sgloss="ten" stem="mitâtaht">mitâtaht</w>
 <w canon="iskwêwak" class="na" gcat="3pNA" sgloss="woman" stem="iskwêw" suffix="-ak">iskwêwak</w>
@@ -156,7 +156,7 @@
 </seg>
 
 <seg n="3.2">
-<w canon="êwakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êyokonik</w>
+<w canon="êwakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êwakonik</w>
 <w canon="ôki" class="dem" gcat="3pDEM" sgloss="this" stem="awa" suffix="-3p">ôki</w>
 <w canon="iskwêwak" class="na" gcat="3pNA" sgloss="woman" stem="iskwêw" suffix="-ak">iskwêwak</w>
 ,
@@ -3755,7 +3755,7 @@
 <w canon="misi-kinêpikwa" class="na" gcat="3oNA" prenouns="misi|big" sgloss="snake" stem="kinêpikw" suffix="-a">misi-kinêpikwah</w>
 <w canon="ê-wî-môwâcik" class="vta" gcat="3p3oTAcnj" preverbs="ê|cnj wî|will" sgloss="eat" stem="mow" suffix="-âcik">ê-wîh-môwâcik</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyok</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyok</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="kâ-ôh-itât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj ôh|thence" sgloss="say_to" stem="it" suffix="-ât">k-ôh-itât</w>
 <w canon="onahâhkisîma" class="na" extra="dim im" gcat="3oNAof3s" prefix="3" sgloss="son_in_law" stem="nahâhk" suffix="-a">onahâhkisîma</w>

@@ -822,7 +822,7 @@
 ,</q>
 <w canon="kikî-itwân" class="vai" gcat="2sAI" prefix="2" preverbs="kî|PAST" sgloss="say" stem="itwê" suffix="-n">kikîh-itwân</w>
 ;
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
 <w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
@@ -1021,7 +1021,7 @@
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôhi</w>
 <w canon="kâ-kî-pôsihtâcik" class="vai" gcat="3pAIcnj" preverbs="kâ|cnj kî|PAST" sgloss="load_on" stem="pôsihtâ" suffix="-cik">kâ-kîh-pôsihtâcik</w>
-<w canon="êwakoni" class="pr" gcat="0pPR" sgloss="that_one" stem="êwako" suffix="-0p">êyokoni</w>
+<w canon="êwakoni" class="pr" gcat="0pPR" sgloss="that_one" stem="êwako" suffix="-0p">êwakoni</w>
 <w canon="ê-wâpahtahkik" class="vti" gcat="3pTIcnj" preverbs="ê|cnj" sgloss="see" stem="wâpaht" suffix="-ahkik">êh-wâpahtahkik</w>
 ,
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
@@ -1228,7 +1228,7 @@
 <w canon="kâ-miyât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj" sgloss="give_to" stem="miy" suffix="-ât">kâ-miyât</w>
 <w canon="osîma" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="younger_sib" stem="sîm" suffix="-a">osîma</w>
 ;
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
 <w canon="âcimôw" class="vai" gcat="3sAI" sgloss="tell_story" stem="âcimo" suffix="-w">âcimôw</w>
 .
 <gloss>Then he told how his brother had been unwilling to wade in and how he had at last given his brother those objects; he told of that.</gloss>

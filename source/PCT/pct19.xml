@@ -98,7 +98,7 @@
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
 <w canon="iskwêw" class="na" gcat="3sNA" sgloss="woman" stem="iskwêw" suffix="0">iskwêw</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîn</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 <w canon="miyosiw" class="vai" gcat="3sAI" sgloss="be_good" stem="miyosi" suffix="-w">miyosiw</w>
 .
 <gloss>One of them, a youth, was very handsome, and the woman, too, was beautiful.</gloss>
@@ -831,7 +831,7 @@
 
 <seg n="16.1">
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosih</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôw</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôw</w>
 <w canon="âcimowin" class="ni" gcat="0sNI" sgloss="story" stem="âcimowin" suffix="0">âcimowin</w>
 .
 <gloss>So goes this tale.</gloss>

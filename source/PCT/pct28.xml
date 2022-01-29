@@ -74,7 +74,7 @@
 <w canon="pôl" class="foreign" gcat="FOREIGN" sgloss="Paul" stem="pôl">pôl</w>
 <w canon="kapinêt" class="foreign" gcat="FOREIGN" sgloss="Caplette" stem="kapinêt">kapinêt</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôw</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakôw</w>
 <w canon="pîhtokêwak" class="vai" gcat="3pAI" sgloss="enter" stem="pîhtikwê" suffix="-wak">pîhtokêwak</w>
 <w canon="minihkwêwikamikohk" class="ni" gcat="0locNI" sgloss="bar" stem="minihkwêwikamikw" suffix="-ihk">minihkwêwikamikohk</w>
 .
@@ -352,7 +352,7 @@
 <w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistahi</w>
 <w canon="pâhpiw" class="vai" gcat="3sAI" sgloss="laugh" stem="pâhpi" suffix="-w">pâhpiw</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">min</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 .
 <gloss>When the bartender was told why this man was standing treat, then he too had a hearty laugh</gloss>
 </seg>
@@ -360,7 +360,7 @@
 <seg n="10.3">
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
 <w canon="kîsihtâwak" class="vai" gcat="3pAI" sgloss="finish" stem="kîsîhtâ" suffix="-wak">kîsihtâwak</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyakô</w>
 .
 <gloss>So they finished this.</gloss>
 </seg>

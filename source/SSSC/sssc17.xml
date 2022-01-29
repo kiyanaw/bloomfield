@@ -483,7 +483,7 @@
 </seg>
 
 <seg n="9.6">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôko</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôko</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mînah</w>
 <w canon="kapê-kîsik" class="ipc" gcat="IPC" sgloss="all_day_long" stem="kapê-kîsik">kapê-kîsik</w>
 <w canon="ê-pimohtêcik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="go_along" stem="pimohtê" suffix="-cik">êh-pimohtêcik</w>
@@ -2479,7 +2479,7 @@
 <w canon="kâ-kî-asiwatâcik" class="vai" gcat="3pAIcnj" preverbs="kâ|cnj kî|PAST" sgloss="place_inside" stem="asiwatâ" suffix="-cik">kâ-kîh-asiwatâcik</w>
 <w canon="mihko" class="ni" gcat="0sNI" sgloss="blood" stem="mihk" suffix="0">mihkoh</w>
 ,
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyok</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyok</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ôhci</w>
 <w canon="ayîsiyinîwiw" class="vai" gcat="3sAI" sgloss="be_person" stem="ayisiyinîwi" suffix="-w">ayîsiyinîwiw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">aw</w>
@@ -2939,7 +2939,7 @@
 <w canon="nôhtâ" class="nda" extra="voc" gcat="3sNDAof1svoc" prefix="1" sgloss="father" stem="ôhtâwiy">nohtâ</w>
 ,
 <w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
 <w canon="otihtin" class="vta" gcat="2s3sTAimp" sgloss="grab" stem="otihtin" suffix="0">otihtin</w>
 !</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
@@ -3289,7 +3289,7 @@
 <p n="98">
 
 <seg n="98.1">
-<w canon="êyoko" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
+<w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyak</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 <w canon="ôtênaw" class="ni" gcat="0sNI" sgloss="town" stem="ôtênaw" suffix="0">otênaw</w>
 <w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistah</w>
@@ -4879,7 +4879,7 @@
 <q>
 <w canon="hâw" class="ipc" gcat="IPC" sgloss="now" stem="hâw">hâw</w>
 ,
-<w canon="êwakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êyokonik</w>
+<w canon="êwakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êwakonik</w>
 <w canon="nitânisak" class="nda" gcat="3pNDAof1s" prefix="1" sgloss="daughter" stem="tânis" suffix="-ak">ntânisak</w>
 <w canon="kimiyikawin" class="vta" gcat="x2sTA" prefix="2" sgloss="give_to" stem="miy" suffix="-ikawin">kimiyikawin</w>
 ,
