@@ -301,7 +301,7 @@
 <w canon="ê-kapatêskwêhk" class="vai" gcat="xAIcnj" preverbs="ê|cnj" sgloss="take_food_from_kettle" stem="kapatêskwê" suffix="-hk">êh-kapâtêskwêhk</w>
 ,
 <w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
-<w canon="kâ-pê-itohtêyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj pê|thence" sgloss="go" stem="itohtê" suffix="-yan">kâ-pê-itohtêyin</w>
+<w canon="kâ-pê-itohtêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj pê|thence" sgloss="go" stem="itohtê" suffix="-yan">kâ-pê-itohtêyan</w>
 !</q>
 <gloss>Then she spoke thus: “Hey, Cherry-Tree, it is not here that food is being served, seeing that you have come here!</gloss>
 </seg>
@@ -421,7 +421,7 @@
 <w canon="kisâkihikwak" class="vta" gcat="3p2sTA" prefix="2" sgloss="love" stem="sâkih" suffix="-ikwak">kisâkihikok</w>
 ,
 <w canon="osâm" class="ipc" gcat="IPC" sgloss="because" stem="osâm">osâm</w>
-<w canon="ê-miyosiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_good" stem="miyosi" suffix="-yan">êh-miyosiyin</w>
+<w canon="ê-miyosiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_good" stem="miyosi" suffix="-yan">êh-miyosiyin</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 <w canon="wîscâsa" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="male_cross_cousin" stem="îscâs" suffix="-a">wîscâsah</w>

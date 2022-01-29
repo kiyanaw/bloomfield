@@ -98,7 +98,7 @@
 <q rend="PRE 0 POST1">
 <w canon="osâm" class="ipc" gcat="IPC" sgloss="too_much" stem="osâm">osâm</w>
 <w canon="kikitimâkisin" class="vai" gcat="2sAI" prefix="2" sgloss="be_pitiable" stem="kitimâkisi" suffix="-n">kikitimâkisin</w>
-<w canon="ê-nôhtê-okimâwiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj nôhtê|want_to" sgloss="be_chief" stem="okimâwi" suffix="-yan">êh-nôhtê-okimâwiyin</w>
+<w canon="ê-nôhtê-okimâwiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj nôhtê|want_to" sgloss="be_chief" stem="okimâwi" suffix="-yan">êh-nôhtê-okimâwiyan</w>
 .</q>
 <gloss>Too pitiable is thy plight in thy longing to be a chief.”</gloss>
 </seg>
@@ -171,7 +171,7 @@
 <seg n="3.1">
 <q>
 <w canon="tânitê" class="ipc" gcat="IPC" sgloss="where" stem="tânitê">tântêh</w>
-<w canon="ê-wî-itohtêyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj wî|will" sgloss="go" stem="itohtê" suffix="-yan">ê-wîh-tohtêyin</w>
+<w canon="ê-wî-itohtêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj wî|will" sgloss="go" stem="itohtê" suffix="-yan">ê-wîh-tohtêyan</w>
 ?</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 <w canon="wîstâwa" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="cousin" stem="îstâw" suffix="-a">wîstâwah</w>

@@ -571,7 +571,7 @@
 <w canon="êtiskâyan" class="vai" gcat="2sAIcnj" prefix="IC" sgloss="step" stem="itiskê" suffix="-yan">êtiskâyan</w>
 ,
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
-<w canon="kâ-pê-itohtêyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj pê|thence" sgloss="go" stem="itohtê" suffix="-yan">kâ-pêh-itohtêyin</w>
+<w canon="kâ-pê-itohtêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj pê|thence" sgloss="go" stem="itohtê" suffix="-yan">kâ-pêh-itohtêyin</w>
 <w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
 ?</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
@@ -1865,7 +1865,7 @@
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
 <w canon="kâ-ôh-awâsisîhkâsoyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence" sgloss="pretend_to_be_child" stem="awâsisîhkâso" suffix="-yan">k-ôh-awâsisîhkâsoyin</w>
 ,
-<w canon="kâ-pê-nayômikawiyin" class="vta" gcat="x2sTAcnj" preverbs="kâ|cnj pê|thence" sgloss="carry_on_back" stem="nayôm" suffix="-ikawiyan">kâ-pê-nayômikawiyin</w>
+<w canon="kâ-pê-nayômikawiyan" class="vta" gcat="x2sTAcnj" preverbs="kâ|cnj pê|thence" sgloss="carry_on_back" stem="nayôm" suffix="-ikawiyan">kâ-pê-nayômikawiyan</w>
 ?</q>
 <gloss>“Hey, why are you again acting like a child, being carried here on someone's back?”</gloss>
 </seg>
@@ -5776,7 +5776,7 @@
 <q>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
 <w canon="cî" class="ipc" gcat="IPC" sgloss="[?]" stem="cî">cî</w>
-<w canon="ê-mamisîyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="rely_on" stem="mamisî" suffix="-yan">ê-mamisiyin</w>
+<w canon="ê-mamisîyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="rely_on" stem="mamisî" suffix="-yan">ê-mamisiyan</w>
 ?</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 ,
@@ -5815,7 +5815,7 @@
 <q>
 <w canon="ôhi" class="dem" gcat="0pDEM" sgloss="this" stem="ôma" suffix="-0p">ôhi</w>
 <w canon="cî" class="ipc" gcat="IPC" sgloss="[?]" stem="cî">cî</w>
-<w canon="ê-mamisîyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="rely_on" stem="mamisî" suffix="-yan">ê-mamisiyin</w>
+<w canon="ê-mamisîyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="rely_on" stem="mamisî" suffix="-yan">ê-mamisiyan</w>
 ?</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 ,
@@ -6214,7 +6214,7 @@
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 ,
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
-<w canon="kê-paskiyawiyin" class="vta" gcat="2s1sTAcnj" preverbs="kê|IC+FUT" sgloss="beat_in_contest" stem="paskiyaw" suffix="-iyan">kê-paskiyawiyin</w>
+<w canon="kê-paskiyawiyan" class="vta" gcat="2s1sTAcnj" preverbs="kê|IC+FUT" sgloss="beat_in_contest" stem="paskiyaw" suffix="-iyan">kê-paskiyawiyan</w>
 !</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 .
@@ -6348,7 +6348,7 @@
 <w canon="sâkohtâyani" class="vai" gcat="2sAIsubjunc" sgloss="overcome" stem="sâkôhtâ" suffix="-yani">sâkohtâyanih</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 ,
-<w canon="kê-paskiyawiyin" class="vta" gcat="2s1sTAcnj" preverbs="kê|IC+FUT" sgloss="beat_in_contest" stem="paskiyaw" suffix="-iyan">kê-paskiyawiyin</w>
+<w canon="kê-paskiyawiyan" class="vta" gcat="2s1sTAcnj" preverbs="kê|IC+FUT" sgloss="beat_in_contest" stem="paskiyaw" suffix="-iyan">kê-paskiyawiyan</w>
 !</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 .
@@ -7122,7 +7122,7 @@
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 ?
 <w canon="tânitê" class="ipc" gcat="IPC" sgloss="where" stem="tânitê">tântê</w>
-<w canon="ê-ohtohtêyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="come_from" stem="ohtohtê" suffix="-yan">êw-ohtohtêyin</w>
+<w canon="ê-ohtohtêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="come_from" stem="ohtohtê" suffix="-yan">êw-ohtohtêyin</w>
 !</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">aw</w>
@@ -7585,7 +7585,7 @@
 <q rend="PRE 1 POST0">
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="kiya" class="pr" gcat="2sPR" sgloss="you" stem="kiya">kiya</w>
-<w canon="kâ-pê-mêtawêyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj pê|thence" sgloss="play" stem="mêtawê" suffix="-yan">kâ-pê-mêtawiyin</w>
+<w canon="kâ-pê-mêtawêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj pê|thence" sgloss="play" stem="mêtawê" suffix="-yan">kâ-pê-mêtawiyan</w>
 ,
 <w canon="nâtakâm" class="ipc" gcat="IPC" sgloss="in_north" stem="nâtakâm">nâtakâm</w>
 <w canon="itohtê" class="vai" gcat="2sAIimp" sgloss="go" stem="itohtê" suffix="0">itohtêh</w>

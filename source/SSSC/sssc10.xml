@@ -379,7 +379,7 @@
 <w canon="cî" class="ipc" gcat="IPC" sgloss="[?]" stem="cî">ciw</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">omah</w>
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkos</w>
-<w canon="ê-isi-minahoyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj isi|thus" sgloss="kill_game" stem="minaho" suffix="-yan">êy-isi-minahoyin</w>
+<w canon="ê-isi-minahoyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj isi|thus" sgloss="kill_game" stem="minaho" suffix="-yan">êy-isi-minahoyin</w>
 ?</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .

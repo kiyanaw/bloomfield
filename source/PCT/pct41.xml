@@ -2542,7 +2542,7 @@
 <q rend="PRE 0 POST0">
 <w canon="âta" class="ipc" gcat="IPC" sgloss="although" stem="âta">âtah</w>
 <w canon="nipakwâtên" class="vti" gcat="1sTI" prefix="1" sgloss="hate" stem="pakwât" suffix="-ên">nipakwâtên</w>
-<w canon="ê-tôtâkawiyin" class="vta" gcat="x2sTAcnj" preverbs="ê|cnj" sgloss="do_thus_to" stem="tôtaw" suffix="-ikawiyan">êh-tôtâkawiyin</w>
+<w canon="ê-tôtâkawiyan" class="vta" gcat="x2sTAcnj" preverbs="ê|cnj" sgloss="do_thus_to" stem="tôtaw" suffix="-ikawiyan">êh-tôtâkawiyin</w>
 ,
 <w canon="ê-sâkihitân" class="vta" gcat="1s2sTAcnj" preverbs="ê|cnj" sgloss="love" stem="sâkih" suffix="-itân">ê-sâkihitân</w>
 .</q>
@@ -3841,7 +3841,7 @@
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
 <w canon="ta-kiskêyihtam" class="vti" gcat="3sTI" preverbs="ta|FUT" sgloss="know" stem="kiskêyiht" suffix="-am">ta-kiskêyihtam</w>
 <w canon="kimanâcimâkan" class="nda" gcat="3sNDAof2s" prefix="2" sgloss="parent_in_law" stem="manâcimâkan" suffix="0">kimanâcimâkan</w>
-<w canon="ê-pimâtisiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="live" stem="pimâtisi" suffix="-yan">êh-pimâtisiyin</w>
+<w canon="ê-pimâtisiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="live" stem="pimâtisi" suffix="-yan">êh-pimâtisiyin</w>
 ,</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 .
@@ -6391,7 +6391,7 @@
 <w canon="ê-itwêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="say" stem="itwê" suffix="-yan">êh-itwêyan</w>
 <w canon="nika-tôtên" class="vti" gcat="1sTI" prefix="1" preverbs="ka|will" sgloss="do_thus" stem="tôt" suffix="-ên">nka-tôtên</w>
 ,
-<w canon="ê-pimâcihiyin" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj" sgloss="make_live" stem="pimâcih" suffix="-iyan">êh-pimâcihiyin</w>
+<w canon="ê-pimâcihiyan" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj" sgloss="make_live" stem="pimâcih" suffix="-iyan">êh-pimâcihiyin</w>
 .</q>
 <gloss>Whatever you say I will do, for you have restored me to life.”</gloss>
 </seg>
@@ -6938,7 +6938,7 @@
 <q>
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
 <w canon="niwîhtamawâwak" class="vta" gcat="1s3pTA" prefix="1" sgloss="tell_about" stem="wîhtamaw" suffix="-âwak">niwîhtamawâwak</w>
-<w canon="ê-pimâtisiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="live" stem="pimâtisi" suffix="-yan">êh-pimâtisiyin</w>
+<w canon="ê-pimâtisiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="live" stem="pimâtisi" suffix="-yan">êh-pimâtisiyin</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .
@@ -7835,7 +7835,7 @@
 <w canon="itohtêtân" class="vai" gcat="1iAIimp" sgloss="go" stem="itohtê" suffix="-tân">tohtêtân</w>
 <w canon="pita" class="ipc" gcat="IPC" sgloss="first" stem="pitamâ">pitah</w>
 ,
-<w canon="kâ-ôh-pê-wayawiyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence pê|thence" sgloss="go_outside" stem="wayawî" suffix="-yan">k-ôh-pê-wayawiyin</w>
+<w canon="kâ-ôh-pê-wayawiyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence pê|thence" sgloss="go_outside" stem="wayawî" suffix="-yan">k-ôh-pê-wayawiyan</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .
@@ -7965,7 +7965,7 @@
 
 <seg n="227.1">
 <q>
-<w canon="ta-pê-kîwêyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT pê|thence" sgloss="go_home" stem="kîwê" suffix="-yan">ta-pê-kîwêyin</w>
+<w canon="ta-pê-kîwêyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT pê|thence" sgloss="go_home" stem="kîwê" suffix="-yan">ta-pê-kîwêyan</w>
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 !</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
@@ -8067,7 +8067,7 @@
 <w canon="nânitaw" class="ipc" gcat="IPC" sgloss="simply" stem="nânitaw">nântaw</w>
 <w canon="kititêyimitin" class="vta" gcat="1s2sTA" prefix="2" sgloss="think_thus_of" stem="itêyim" suffix="-itin">kitêyimitn</w>
 ,
-<w canon="ê-kî-âta-tôtawiyin" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj kî|PAST âta|in_vain" sgloss="do_thus_to" stem="tôtaw" suffix="-iyan">ê-kîh-âtah-tôtawiyin</w>
+<w canon="ê-kî-âta-tôtawiyan" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj kî|PAST âta|in_vain" sgloss="do_thus_to" stem="tôtaw" suffix="-iyan">ê-kîh-âtah-tôtawiyan</w>
 ;</q>
 <gloss>“Oh, my father-in-law, I bear you no grudge at all, even though you did that to me;</gloss>
 </seg>
@@ -8184,7 +8184,7 @@
 ,
 <w canon="kimiywêyihtên" class="vti" gcat="2sTI" prefix="2" sgloss="consider_good" stem="miywêyiht" suffix="-ên">kimiywêyihtên</w>
 <w canon="cî" class="ipc" gcat="IPC" sgloss="[?]" stem="cî">cî</w>
-<w canon="ê-owôhtâwîyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="have_father" stem="owôhtâwiyi" suffix="-yan">êh-oyôhtâwiyin</w>
+<w canon="ê-owôhtâwîyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="have_father" stem="owôhtâwiyi" suffix="-yan">êh-oyôhtâwiyin</w>
 ?</q>
 <gloss>Then, as they went to bed, “My wife,” said that young man, “Tell me, are you glad that you have a father?”</gloss>
 </seg>

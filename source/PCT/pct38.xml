@@ -1050,7 +1050,7 @@
 <w canon="kikî-wâpamitin" class="vta" gcat="1s2sTA" prefix="2" preverbs="kî|PAST" sgloss="see" stem="wâpam" suffix="-itin">kikî-wâpamitin</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 <w canon="kâ-tâpwêhtaman" class="vti" gcat="2sTIcnj" preverbs="kâ|cnj" sgloss="agree_with" stem="tâpwêht" suffix="-aman">kâ-tâpwêhtaman</w>
-<w canon="ê-pê-itisahokawiyan" class="vta" gcat="x2sTAcnj" preverbs="ê|cnj pê|thence" sgloss="send" stem="itisahw" suffix="-ikawiyan">ê-pê-itisahokawiyin</w>
+<w canon="ê-pê-itisahokawiyan" class="vta" gcat="x2sTAcnj" preverbs="ê|cnj pê|thence" sgloss="send" stem="itisahw" suffix="-ikawiyan">ê-pê-itisahokawiyan</w>
 !</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 ;
@@ -1726,7 +1726,7 @@
 ,
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosî</w>
 <w canon="cî" class="ipc" gcat="IPC" sgloss="[?]" stem="cî">cî</w>
-<w canon="ê-wî-mâcîyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj wî|will" sgloss="hunt" stem="mâcî" suffix="-yan">ê-wih-mâciyin</w>
+<w canon="ê-wî-mâcîyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj wî|will" sgloss="hunt" stem="mâcî" suffix="-yan">ê-wih-mâciyan</w>
 ?</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>

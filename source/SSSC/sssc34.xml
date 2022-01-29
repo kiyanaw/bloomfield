@@ -869,7 +869,7 @@
 <w canon="ayisk" class="ipc" gcat="IPC" sgloss="for" stem="ayis">ayisk</w>
 <w canon="kikakêpâtisin" class="vai" gcat="2sAI" prefix="2" sgloss="be_foolish" stem="kakêpâtisi" suffix="-n">kikâkêpâtisin</w>
 ,
-<w canon="ê-kî-nôhtê-onâpêmiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj kî|PAST nôhtê|want_to" sgloss="have_husband" stem="onâpêmi" suffix="-yan">êh-kîh-nôhtêh-onâpêmiyin</w>
+<w canon="ê-kî-nôhtê-onâpêmiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj kî|PAST nôhtê|want_to" sgloss="have_husband" stem="onâpêmi" suffix="-yan">êh-kîh-nôhtêh-onâpêmiyin</w>
 <w canon="acâhkos" class="na" gcat="3sNA" sgloss="star" stem="acâhkos" suffix="0">acâhkos</w>
 ,</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
@@ -1699,13 +1699,13 @@
 ,
 <w canon="ê-mâyâtisiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_ugly" stem="mâyâtisi" suffix="-yan">êh-mâyâtisiyan</w>
 ,
-<w canon="ê-pitikohkwêyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="have_round_face" stem="pitikohkwê" suffix="-yan">êh-pitikohkwêyin</w>
+<w canon="ê-pitikohkwêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="have_round_face" stem="pitikohkwê" suffix="-yan">êh-pitikohkwêyin</w>
 ,
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
-<w canon="ê-mamâhkisitêyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="have_big_feet" stem="mamâhkisitê" suffix="-yan">êh-mâmâhkisitêyin</w>
+<w canon="ê-mamâhkisitêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="have_big_feet" stem="mamâhkisitê" suffix="-yan">êh-mâmâhkisitêyin</w>
 ,
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkw</w>
-<w canon="ê-nâ-napakâskitoyêyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj dupH|H.REDUP" sgloss="have_flat_buttocks" stem="napakâskitoyê" suffix="-yan">ê-nâ-napakâskitoyêyin</w>
+<w canon="ê-nâ-napakâskitoyêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj dupH|H.REDUP" sgloss="have_flat_buttocks" stem="napakâskitoyê" suffix="-yan">ê-nâ-napakâskitoyêyan</w>
 ?</q>
 <gloss>“Ho ho, do you suppose we would marry you in any case, you ugly fellow, with your crumpled-up snout and your big feet and your flat rump?”</gloss>
 </seg>
@@ -3691,7 +3691,7 @@
 
 <seg n="133.2">
 <q rend="PRE 0 POST0">
-<w canon="ê-kâtawiyin" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj" sgloss="hide_it_from" stem="kâtaw" suffix="-iyan">êh-kâtwawiyin</w>
+<w canon="ê-kâtawiyan" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj" sgloss="hide_it_from" stem="kâtaw" suffix="-iyan">êh-kâtwawiyin</w>
 ,
 <w canon="ka-ta-tahkiskâtin" class="vta" gcat="1s2sTA" preverbs="ka|will dupL|L.REDUP" sgloss="kick" stem="tahkiskaw" suffix="-itin">ka-tah-tahkiskâtin</w>
 !</q>
@@ -4206,7 +4206,7 @@
 <w canon="ka-nipahitin" class="vta" gcat="1s2sTA" preverbs="ka|will" sgloss="kill" stem="nipah" suffix="-itin">ka-nipahitin</w>
 ,
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
-<w canon="kâ-wî-kâ-kitosiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj wî|will dupH|H.REDUP" sgloss="address" stem="kitot" suffix="-iyan">kâ-wê-kâ-kitosiyin</w>
+<w canon="kâ-wî-kâ-kitosiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj wî|will dupH|H.REDUP" sgloss="address" stem="kitot" suffix="-iyan">kâ-wê-kâ-kitosiyan</w>
 !</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .
@@ -4967,7 +4967,7 @@
 
 <seg n="173.3">
 <q>
-<w canon="ê-kî-kitimâkisiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj kî|PAST" sgloss="be_pitiable" stem="kitimâkisi" suffix="-yan">ê-kîh-kitimâkisiyin</w>
+<w canon="ê-kî-kitimâkisiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj kî|PAST" sgloss="be_pitiable" stem="kitimâkisi" suffix="-yan">ê-kîh-kitimâkisiyan</w>
 ,
 <q>
 <w canon="mahti" class="ipc" gcat="IPC" sgloss="let's_see" stem="mahti">mahtih</w>
@@ -5459,7 +5459,7 @@
 <w canon="nisîm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="younger_sib" stem="sîm" suffix="0">nisîm</w>
 ,
 <w canon="kakwêyâho" class="vai" gcat="2sAIimp" sgloss="hurry" stem="kakwêyâho" suffix="0">kakwêyâhoh</w>
-<w canon="ê-nânapâcihoyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="dress_self_up" stem="nânapâciho" suffix="-yan">êh-nanâpâcihoyin</w>
+<w canon="ê-nânapâcihoyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="dress_self_up" stem="nânapâciho" suffix="-yan">êh-nanâpâcihoyin</w>
 .</q>
 <gloss>“Ho, little sister, hurry and deck yourself out.</gloss>
 </seg>

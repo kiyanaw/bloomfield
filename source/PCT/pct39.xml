@@ -863,7 +863,7 @@
 <seg n="23.2">
 <q rend="PRE 0 POST0">
 <w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
-<w canon="ê-sâkihtâyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="love" stem="sâkihtâ" suffix="-yan">ê-sâkihtâyin</w>
+<w canon="ê-sâkihtâyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="love" stem="sâkihtâ" suffix="-yan">ê-sâkihtâyan</w>
 <w canon="niwî-otinên" class="vti" gcat="1sTI" prefix="1" preverbs="wî|will" sgloss="take" stem="otin" suffix="-ên">niwîh-otinên</w>
 .</q>
 <gloss>Now I will take a thing you love.</gloss>
@@ -1228,7 +1228,7 @@
 
 <seg n="33.2">
 <q rend="PRE 0 POST0">
-<w canon="ê-atamihiyin" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj" sgloss="make_grateful" stem="atamih" suffix="-iyan">êh-atamihiyin</w>
+<w canon="ê-atamihiyan" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj" sgloss="make_grateful" stem="atamih" suffix="-iyan">êh-atamihiyin</w>
 ,
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
 <w canon="wîhkâc" class="ipc" gcat="IPC" sgloss="ever" stem="wîhkâc">wîhkâc</w>

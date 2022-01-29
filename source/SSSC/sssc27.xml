@@ -936,7 +936,7 @@
 <w canon="ana" class="dem" gcat="3sDEM" sgloss="that" stem="ana">âna</w>
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
 <w canon="wîhkâc" class="ipc" gcat="IPC" sgloss="ever" stem="wîhkâc">wîhkâc</w>
-<w canon="kê-wâpamiyin" class="vta" gcat="2s1sTAcnj" preverbs="kê|IC+FUT" sgloss="see" stem="wâpam" suffix="-iyan">kê-wâpamiyin</w>
+<w canon="kê-wâpamiyan" class="vta" gcat="2s1sTAcnj" preverbs="kê|IC+FUT" sgloss="see" stem="wâpam" suffix="-iyan">kê-wâpamiyan</w>
 !</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>

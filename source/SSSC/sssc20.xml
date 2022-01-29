@@ -4035,7 +4035,7 @@
 <w canon="nisîmak" class="nda" gcat="3pNDAof1s" prefix="1" sgloss="younger_sib" stem="sîm" suffix="-ak">nisîmak</w>
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
 <w canon="kwayask" class="ipc" gcat="IPC" sgloss="properly" stem="kwayask">kwayask</w>
-<w canon="ê-isiwêpinamawiyin" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj isi|thus" sgloss="throw_on" stem="wêpinamaw" suffix="-iyan">êh-isiwêpinamawiyin</w>
+<w canon="ê-isiwêpinamawiyan" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj isi|thus" sgloss="throw_on" stem="wêpinamaw" suffix="-iyan">êh-isiwêpinamawiyin</w>
 !</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .
@@ -4088,7 +4088,7 @@
 <w canon="ê-pimipahtâyân" class="vai" gcat="1sAIcnj" preverbs="ê|cnj" sgloss="run" stem="pimipahtâ" suffix="-yân">êh-pimipahtâyân</w>
 ,
 <w canon="osâm" class="ipc" gcat="IPC" sgloss="too_much" stem="osâm">osâm</w>
-<w canon="ê-kisiwi-cîsihiyin" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj kisiwi|angrily" sgloss="deceive" stem="cîsih" suffix="-iyan">êh-kisiwi-cîsihiyin</w>
+<w canon="ê-kisiwi-cîsihiyan" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj kisiwi|angrily" sgloss="deceive" stem="cîsih" suffix="-iyan">êh-kisiwi-cîsihiyin</w>
 ,
 <w canon="iskwêw" class="na" gcat="3sNA" sgloss="woman" stem="iskwêw" suffix="0">iskwêw</w>
 <w canon="ê-itêyimitân" class="vta" gcat="1s2sTAcnj" preverbs="ê|cnj" sgloss="think_thus_of" stem="itêyim" suffix="-itân">êh-itêyimitân</w>
@@ -4858,7 +4858,7 @@
 <q>
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkos</w>
 <w canon="ani" class="ipc" gcat="IPC" sgloss="then" stem="ani">âni</w>
-<w canon="ê-pimâtisiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="live" stem="pimâtisi" suffix="-yan">ê-pimâtisiyin</w>
+<w canon="ê-pimâtisiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="live" stem="pimâtisi" suffix="-yan">ê-pimâtisiyan</w>
 ,
 <w canon="opipikwan" class="ni" gcat="0sNIof3s" prefix="3" sgloss="flute" stem="pipikwan" suffix="0">opipikwan</w>
 <w canon="kâ-nayahtahk" class="vti" gcat="3sTIcnj" preverbs="kâ|cnj" sgloss="carry_on_back" stem="nayaht" suffix="-ahk">kâ-nayahtahk</w>

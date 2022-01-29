@@ -4990,9 +4990,9 @@
 ,
 <w canon="nikwêmê" class="nda" extra="voc" gcat="3sNDAof1svoc" prefix="1" sgloss="namesake" stem="kwêmês">nikwêmê</w>
 ,
-<w canon="ê-kitimâkisiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_pitiable" stem="kitimâkisi" suffix="-yan">ê-kitimâkisiyin</w>
+<w canon="ê-kitimâkisiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_pitiable" stem="kitimâkisi" suffix="-yan">ê-kitimâkisiyan</w>
 ,
-<w canon="ê-wî-nipiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj wî|will" sgloss="die" stem="nipi" suffix="-yan">ê-wîh-nipiyin</w>
+<w canon="ê-wî-nipiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj wî|will" sgloss="die" stem="nipi" suffix="-yan">ê-wîh-nipiyan</w>
 ,
 <q>
 <w canon="kêhcinâ" class="ipc" gcat="IPC" sgloss="surely" stem="kêhcinâ">kêhcinâ</w>
@@ -5004,7 +5004,7 @@
 <w canon="kêhcinâ" class="ipc" gcat="IPC" sgloss="surely" stem="kêhcinâ">kêhcinâ</w>
 <w canon="nika-môwik" class="vta" gcat="3s1sTA" prefix="1" preverbs="ka|will" sgloss="eat" stem="mow" suffix="-ik">nka-môwik</w>
 ,</q>
-<w canon="ê-itêyimiyin" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj" sgloss="think_thus_of" stem="itêyim" suffix="-iyan">êh-itêyimiyin</w>
+<w canon="ê-itêyimiyan" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj" sgloss="think_thus_of" stem="itêyim" suffix="-iyan">êh-itêyimiyin</w>
 ,
 <q>
 <w canon="nicawâc" class="ipc" gcat="IPC" sgloss="best_to_do" stem="nicawâc">ncawâc</w>

@@ -175,7 +175,7 @@
 <seg n="4.2">
 <q rend="PRE 0 POST0">
 <w canon="âhkamêyimo" class="vai" gcat="2sAIimp" sgloss="persevere" stem="âhkamêyimo" suffix="0">âhkamêyimô</w>
-<w canon="ê-atoskêyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="work" stem="atoskê" suffix="-yan">êh-atoskêyin</w>
+<w canon="ê-atoskêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="work" stem="atoskê" suffix="-yan">êh-atoskêyin</w>
 .</q>
 <gloss>Take heart and work.</gloss>
 </seg>
@@ -511,7 +511,7 @@
 <q rend="PRE0 POST1">
 <w canon="kitatamihin" class="vta" gcat="2s1sTA" prefix="2" sgloss="make_grateful" stem="atamih" suffix="-in">kitatamihin</w>
 <w canon="ôhi" class="dem" gcat="0pDEM" sgloss="this" stem="ôma" suffix="-0p">ôhi</w>
-<w canon="kâ-pê-miyiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj pê|thence" sgloss="give_to" stem="miy" suffix="-iyan">kâ-pê-miyiyin</w>
+<w canon="kâ-pê-miyiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj pê|thence" sgloss="give_to" stem="miy" suffix="-iyan">kâ-pê-miyiyan</w>
 .</q>
 <gloss>I thank you for having come and given me these things.”</gloss>
 </seg>
@@ -753,7 +753,7 @@
 
 <seg n="27.2">
 <q rend="PRE 0 POST1">
-<w canon="kâ-pê-kiyokêyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj pê|thence" sgloss="visit_people" stem="kiyokê" suffix="-yan">kâ-pê-kiyokêyin</w>
+<w canon="kâ-pê-kiyokêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj pê|thence" sgloss="visit_people" stem="kiyokê" suffix="-yan">kâ-pê-kiyokêyan</w>
 <w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kîkway</w>
 <w canon="êtokê" class="ipc" gcat="IPC" sgloss="I_guess" stem="êtikwê">êtokê</w>
 <w canon="ê-pê-nitawêyihtaman" class="vti" gcat="2sTIcnj" preverbs="ê|cnj pê|thence" sgloss="want" stem="nitawêyiht" suffix="-aman">ê-pê-nitawêyihtaman</w>
@@ -1850,7 +1850,7 @@
 <seg n="59.4">
 <q rend="PRE0 POST0">
 <w canon="âhkamêyimo" class="vai" gcat="2sAIimp" sgloss="persevere" stem="âhkamêyimo" suffix="0">âhkamêyimoh</w>
-<w canon="ê-atoskêyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="work" stem="atoskê" suffix="-yan">êh-atoskêyin</w>
+<w canon="ê-atoskêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="work" stem="atoskê" suffix="-yan">êh-atoskêyin</w>
 .
 </q>
 <gloss>Set bravely to work.</gloss>

@@ -1263,7 +1263,7 @@
 <w canon="kî-kiskêyimitân" class="vta" gcat="1s2sTAcnj" preverbs="kî|PAST" sgloss="know" stem="kiskêyim" suffix="-itân">kîh-kiskêyimitân</w>
 ,
 <w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
-<w canon="ê-wîkiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="live_there" stem="wîki" suffix="-yan">êh-wîkiyin</w>
+<w canon="ê-wîkiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="live_there" stem="wîki" suffix="-yan">êh-wîkiyin</w>
 ,
 <w canon="ka-pê-kâh-kiyokâtin" class="vta" gcat="1s2sTA" preverbs="ka|will pê|thence dupH|H.REDUP" sgloss="visit" stem="kiyokaw" suffix="-itin">kah-pêh-kâh-kiyôkâtin</w>
 ,
@@ -2140,7 +2140,7 @@
 <q>
 <w canon="tânitê" class="ipc" gcat="IPC" sgloss="where" stem="tânitê">tântêh</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ômah</w>
-<w canon="ê-ohtohtêyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="come_from" stem="ohtohtê" suffix="-yan">êh-ohtohtêyin</w>
+<w canon="ê-ohtohtêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="come_from" stem="ohtohtê" suffix="-yan">êh-ohtohtêyin</w>
 ?</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .
@@ -2294,7 +2294,7 @@
 <w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistah</w>
 <w canon="êcika" class="ipc" gcat="IPC" sgloss="what_is_this" stem="êcika">êcik</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
-<w canon="ê-kitimâkisiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_pitiable" stem="kitimâkisi" suffix="-yan">êh-kitimâkisiyin</w>
+<w canon="ê-kitimâkisiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_pitiable" stem="kitimâkisi" suffix="-yan">êh-kitimâkisiyin</w>
 ,
 <w canon="nôsisê" class="nda" extra="voc" gcat="3sNDAof1svoc" prefix="1" sgloss="grandchild" stem="ôsisim">nôsisê</w>
 !</q>
@@ -3194,7 +3194,7 @@
 
 <seg n="92.2">
 <q rend="PRE 0 POST0">
-<w canon="ê-kitimâkisiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_pitiable" stem="kitimâkisi" suffix="-yan">êh-kitimâkisiyin</w>
+<w canon="ê-kitimâkisiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_pitiable" stem="kitimâkisi" suffix="-yan">êh-kitimâkisiyin</w>
 <w canon="kôh-kitimâkêyimitih" class="vta" gcat="1s2sTAh" prefix="2" preverbs="ôh|thence" sgloss="pity" stem="kitimâkêyim" suffix="-itih">kôh-kitimâkêyimitih</w>
 ,
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
@@ -3244,7 +3244,7 @@
 <w canon="nikiscikânisa" class="ni" gcat="0pNIof1s" prefix="1" sgloss="garden" stem="kiscikânis" suffix="-a">nikiscikânisah</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
 <w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistah</w>
-<w canon="ê-misi-wanâcihtâyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="ruin" stem="misiwanâcihtâ" suffix="-yan">ê-misi-wanâcihtâyin</w>
+<w canon="ê-misi-wanâcihtâyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="ruin" stem="misiwanâcihtâ" suffix="-yan">ê-misi-wanâcihtâyan</w>
 ;</q>
 <gloss>You have angered me, even though I felt pitying kindness for you when you did me harm and greatly laid waste my garden-plants;</gloss>
 </seg>
@@ -3274,7 +3274,7 @@
 <q rend="PRE 0 POST1">
 <w canon="kimanâkitimahitin" class="vta" gcat="1s2sTA" prefix="2" preverbs="manâ|avoid" sgloss="be_mean_to" stem="kitimah" suffix="-itin">kimanâkitimahitin</w>
 ,
-<w canon="ê-kitimâkisiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_pitiable" stem="kitimâkisi" suffix="-yan">êh-kitimâkisiyin</w>
+<w canon="ê-kitimâkisiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_pitiable" stem="kitimâkisi" suffix="-yan">êh-kitimâkisiyin</w>
 ,</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 .
@@ -3867,7 +3867,7 @@
 <q>
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkos</w>
 <w canon="ani" class="ipc" gcat="IPC" sgloss="then" stem="ani">ânih</w>
-<w canon="ê-pmâtisiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="live" stem="pimâtisi" suffix="-yan">ê-pmâtisiyin</w>
+<w canon="ê-pmâtisiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="live" stem="pimâtisi" suffix="-yan">ê-pmâtisiyan</w>
 ,
 <w canon="pîsimôwâsis" class="na" gcat="3sNA" sgloss="Sun_Child" stem="pîsimôwâsis" suffix="0">pîsimôwâsis</w>
 !
