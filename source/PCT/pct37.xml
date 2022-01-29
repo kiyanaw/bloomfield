@@ -1021,7 +1021,7 @@
 <q>
 <w canon="kaskikwâta" class="vti" gcat="2sTIimp" sgloss="sew" stem="kaskikwât" suffix="-a">kaskikwâtah</w>
 ,
-<w canon="kita-oskotâkâyin" class="vai" gcat="2sAIcnj" preverbs="kita|to" sgloss="have_coat" stem="oskotâkâ" suffix="-yan">kit-ôskotâkayin</w>
+<w canon="kita-oskotâkâyan" class="vai" gcat="2sAIcnj" preverbs="kita|to" sgloss="have_coat" stem="oskotâkâ" suffix="-yan">kit-ôskotâkayin</w>
 ,</q>
 <w canon="ê-itât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="say_to" stem="it" suffix="-ât">êh-itêt</w>
 ,
@@ -5304,7 +5304,7 @@
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
 <w canon="ê-nipahikawiyân" class="vta" gcat="x1sTAcnj" preverbs="ê|cnj" sgloss="kill" stem="nipah" suffix="-ikawiyân">êh-nipahikawiyân</w>
 ,
-<w canon="kâ-wâpamiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpam" suffix="-iyan">kâ-wâpamiyin</w>
+<w canon="kâ-wâpamiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpam" suffix="-iyan">kâ-wâpamiyan</w>
 ,</q>
 <w canon="ê-itikot" class="vta" gcat="3o3sTAcnj" preverbs="ê|cnj" sgloss="say_to" stem="it" suffix="-ikot">êh-itikot</w>
 .
@@ -5426,7 +5426,7 @@
 <q>
 <w canon="kisîm" class="nda" gcat="3sNDAof2s" prefix="2" sgloss="younger_sib" stem="sîm" suffix="0">kisîm</w>
 <w canon="ta-kaskikwâtam" class="vti" gcat="3sTI" preverbs="ta|FUT" sgloss="sew" stem="kaskikwât" suffix="-am">ta-kaskikwâtam</w>
-<w canon="ta-otâsiyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="have_pants" stem="otâsi" suffix="-yan">t-ôtâsiyin</w>
+<w canon="ta-otâsiyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="have_pants" stem="otâsi" suffix="-yan">t-ôtâsiyin</w>
 ,</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 .

@@ -636,7 +636,7 @@
 <w canon="nânitaw" class="ipc" gcat="IPC" sgloss="simply" stem="nânitaw">nântaw</w>
 <w canon="nititêyihtên" class="vti" gcat="1sTI" prefix="1" sgloss="think_of" stem="itêyiht" suffix="-ên">ntêyihtên</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
-<w canon="kâ-tôtawiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="do_thus_to" stem="tôtaw" suffix="-iyan">kâ-tôtawiyin</w>
+<w canon="kâ-tôtawiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="do_thus_to" stem="tôtaw" suffix="-iyan">kâ-tôtawiyan</w>
 ,</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 .
@@ -751,7 +751,7 @@
 <w canon="nitôtêm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="kinsman" stem="tôtêm" suffix="0">ntôtêm</w>
 ,
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
-<w canon="kâ-tôtawiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="do_thus_to" stem="tôtaw" suffix="-iyan">kâ-tôtawiyin</w>
+<w canon="kâ-tôtawiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="do_thus_to" stem="tôtaw" suffix="-iyan">kâ-tôtawiyan</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
 ;
@@ -763,7 +763,7 @@
 <w canon="osâm" class="ipc" gcat="IPC" sgloss="because" stem="osâm">osâm</w>
 <w canon="êkwêyâk" class="ipc" gcat="IPC" sgloss="exactly_then" stem="êkwêyâk">êkwêyâk</w>
 <w canon="kiya" class="pr" gcat="2sPR" sgloss="you" stem="kiya">kiya</w>
-<w canon="kâ-tôtawiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="do_thus_to" stem="tôtaw" suffix="-iyan">kâ-tôtawiyin</w>
+<w canon="kâ-tôtawiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="do_thus_to" stem="tôtaw" suffix="-iyan">kâ-tôtawiyan</w>
 .</q>
 <gloss>“You are the first to treat me that way.</gloss>
 </seg>
@@ -1186,7 +1186,7 @@
 <w canon="kika-miyitin" class="vta" gcat="1s2sTA" prefix="2" preverbs="ka|will" sgloss="give_to" stem="miy" suffix="-itin">kika-miyitin</w>
 <w canon="cî" class="ipc" gcat="IPC" sgloss="[?]" stem="cî">cî</w>
 <w canon="ayiwinisa" class="ni" gcat="0pNI" sgloss="clothes" stem="ayiwinis" suffix="-a">ayôwinisah</w>
-<w canon="ta-postayôwinisêyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="put_on_clothes" stem="postayôwinisê" suffix="-yan">ta-postayôwinisêyin</w>
+<w canon="ta-postayôwinisêyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="put_on_clothes" stem="postayôwinisê" suffix="-yan">ta-postayôwinisêyan</w>
 ?</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
@@ -1395,7 +1395,7 @@
 <w canon="kâ-tôtâsk" class="vta" gcat="3s2sTAcnj" preverbs="kâ|cnj" sgloss="do_thus_to" stem="tôtaw" suffix="-isk">kâ-tôtâsk</w>
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
 <w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
-<w canon="kâ-ôh-kî-nipahtâyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence kî|can" sgloss="kill" stem="nipahtâ" suffix="-yan">k-ô-kih-nipahtâyin</w>
+<w canon="kâ-ôh-kî-nipahtâyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence kî|can" sgloss="kill" stem="nipahtâ" suffix="-yan">k-ô-kih-nipahtâyin</w>
 !</q>
 <w canon="itâw" class="vta" gcat="x3sTA" sgloss="say_to" stem="it" suffix="-âw">itâw</w>
 .
@@ -2247,7 +2247,7 @@
 <w canon="kiya" class="pr" gcat="2sPR" sgloss="you" stem="kiya">kiya</w>
 <w canon="kika-tipêyihtên" class="vti" gcat="2sTI" prefix="2" preverbs="ka|will" sgloss="own" stem="tipêyiht" suffix="-ên">kika-tipêyihtên</w>
 <w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkota</w>
-<w canon="ta-takosiniyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="arrive" stem="takosin" suffix="-yan">ta-takosiniyin</w>
+<w canon="ta-takosiniyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="arrive" stem="takosin" suffix="-yan">ta-takosiniyan</w>
 .</q>
 <gloss>But you will be the head man until you arrive yonder.</gloss>
 </seg>
@@ -3484,7 +3484,7 @@
 <w canon="kitisi-kitahamâtin" class="vta" gcat="1s2sTA" prefix="2" preverbs="isi|thus" sgloss="advise_against" stem="kitahamaw" suffix="-itin">kitisi-kitahamâtin</w>
 ,
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
-<w canon="ta-maci-nôcihtâyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="pursue_evil_things" stem="maci-nôcihtâ" suffix="-yan">ta-maci-nôcihtâyin</w>
+<w canon="ta-maci-nôcihtâyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="pursue_evil_things" stem="maci-nôcihtâ" suffix="-yan">ta-maci-nôcihtâyan</w>
 .</q>
 <gloss>And so now I forbid you to exercise any more evil arts.”</gloss>
 </seg>

@@ -278,7 +278,7 @@
 <w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ê-papâ-nâtaman" class="vti" gcat="2sTIcnj" preverbs="ê|cnj papâ|around" sgloss="fetch" stem="nât" suffix="-aman">êh-papâ-nâtaman</w>
 ,
-<w canon="kâ-papâmohtêyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="walk_about" stem="papâmohtê" suffix="-yan">kâ-papâmohtêyin</w>
+<w canon="kâ-papâmohtêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="walk_about" stem="papâmohtê" suffix="-yan">kâ-papâmohtêyan</w>
 ?</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 .
@@ -571,7 +571,7 @@
 <w canon="êtiskâyan" class="vai" gcat="2sAIcnj" prefix="IC" sgloss="step" stem="itiskê" suffix="-yan">êtiskâyan</w>
 ,
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
-<w canon="kâ-pê-itohtêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj pê|thence" sgloss="go" stem="itohtê" suffix="-yan">kâ-pêh-itohtêyin</w>
+<w canon="kâ-pê-itohtêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj pê|thence" sgloss="go" stem="itohtê" suffix="-yan">kâ-pêh-itohtêyan</w>
 <w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
 ?</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
@@ -1708,7 +1708,7 @@
 <w canon="êyahâ" class="interj" gcat="INTERJ" sgloss="oho" stem="êyahâ">êyahâ</w>
 !
 <w canon="tânisi" class="ipc" gcat="IPC" sgloss="how" stem="tânisi">tânisih</w>
-<w canon="kâ-ôh-pêtôwatâmikawiyin" class="vta" gcat="x2sTAcnj" preverbs="kâ|cnj ôh|thence" sgloss="make_bring_a_load" stem="pêtôwatâm" suffix="-ikawiyan">k-ôh-pêtôwatâmikawiyin</w>
+<w canon="kâ-ôh-pêtôwatâmikawiyan" class="vta" gcat="x2sTAcnj" preverbs="kâ|cnj ôh|thence" sgloss="make_bring_a_load" stem="pêtôwatâm" suffix="-ikawiyan">k-ôh-pêtôwatâmikawiyin</w>
 ,
 <w canon="nôtokêsiw" class="na" gcat="3sNA" sgloss="old_woman" stem="nôtokwêsiw" suffix="0">nôtokêsiw</w>
 ?</q>
@@ -1863,7 +1863,7 @@
 <w canon="tânisi" class="ipc" gcat="IPC" sgloss="how" stem="tânisi">tânisih</w>
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
-<w canon="kâ-ôh-awâsisîhkâsoyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence" sgloss="pretend_to_be_child" stem="awâsisîhkâso" suffix="-yan">k-ôh-awâsisîhkâsoyin</w>
+<w canon="kâ-ôh-awâsisîhkâsoyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence" sgloss="pretend_to_be_child" stem="awâsisîhkâso" suffix="-yan">k-ôh-awâsisîhkâsoyin</w>
 ,
 <w canon="kâ-pê-nayômikawiyan" class="vta" gcat="x2sTAcnj" preverbs="kâ|cnj pê|thence" sgloss="carry_on_back" stem="nayôm" suffix="-ikawiyan">kâ-pê-nayômikawiyan</w>
 ?</q>
@@ -6073,7 +6073,7 @@
 <w canon="sâkohikawiyahko" class="vta" gcat="x1iTAsubjunc" sgloss="overcome" stem="sâkoh" suffix="-ikawiyahko">sâkohikawiyahkoh</w>
 ,
 <w canon="êyakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êyakonik</w>
-<w canon="ta-mêkinawêyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="give_up" stem="mêkinawê" suffix="-yan">ta-mêkinawiyin</w>
+<w canon="ta-mêkinawêyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="give_up" stem="mêkinawê" suffix="-yan">ta-mêkinawiyan</w>
 .</q>
 <gloss>It happens that even if we are not defeated, you are to give them up.</gloss>
 </seg>
@@ -6469,7 +6469,7 @@
 <w canon="opahcâwiyak" class="na" gcat="3pNA" sgloss="levitators" stem="opahcâwiy" suffix="-ak">opahcâwiyak</w>
 ,
 <w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
-<w canon="kita-nîpawiyin" class="vai" gcat="2sAIcnj" preverbs="kita|to" sgloss="stand" stem="nîpawi" suffix="-yan">kita-nîpawiyin</w>
+<w canon="kita-nîpawiyan" class="vai" gcat="2sAIcnj" preverbs="kita|to" sgloss="stand" stem="nîpawi" suffix="-yan">kita-nîpawiyan</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 <w canon="okosisa" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="son" stem="kosis" suffix="-a">okosisah</w>
@@ -7008,7 +7008,7 @@
 <w canon="nîpihki" class="vii" gcat="0sIIsubjunc" sgloss="be_summer" stem="nîpin" suffix="-ki">nîpihki</w>
 ,
 <w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
-<w canon="kâ-wî-mêtawêyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj wî|will" sgloss="play" stem="mêtawê" suffix="-yan">kâ-wîh-mêtawêyin</w>
+<w canon="kâ-wî-mêtawêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj wî|will" sgloss="play" stem="mêtawê" suffix="-yan">kâ-wîh-mêtawêyan</w>
 .</q>
 <gloss>As the warm weather comes on, well on into summer, that is when you will be contending.”</gloss>
 </seg>

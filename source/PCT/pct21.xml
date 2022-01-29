@@ -1043,7 +1043,7 @@
 <w canon="oskinîkiw" class="na" gcat="3sNA" sgloss="young_man" stem="oskinîkiw" suffix="0">oskinîkiw</w>
 ,
 <w canon="ôhi" class="dem" gcat="0pDEM" sgloss="this" stem="ôma" suffix="-0p">ôhih</w>
-<w canon="kâ-miyiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="give_to" stem="miy" suffix="-iyan">kâ-miyiyin</w>
+<w canon="kâ-miyiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="give_to" stem="miy" suffix="-iyan">kâ-miyiyan</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .
@@ -1702,7 +1702,7 @@
 <q rend="PRE 0 POST1">
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ômâ</w>
 <w canon="osihtâ" class="vai" gcat="2sAIimp" sgloss="prepare" stem="osîhtâ" suffix="-h">osihtâh</w>
-<w canon="kita-oskotâkâyin" class="vai" gcat="2sAIcnj" preverbs="kita|to" sgloss="have_coat" stem="oskotâkâ" suffix="-yan">kit-ôskotâkayin</w>
+<w canon="kita-oskotâkâyan" class="vai" gcat="2sAIcnj" preverbs="kita|to" sgloss="have_coat" stem="oskotâkâ" suffix="-yan">kit-ôskotâkayin</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .
@@ -1889,7 +1889,7 @@
 <w canon="âhkamêyimo" class="vai" gcat="2sAIimp" sgloss="persevere" stem="âhkamêyimo" suffix="0">âhkamêyimô</w>
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="tâpwê" class="ipc" gcat="IPC" sgloss="truly" stem="tâpwê">tâpwê</w>
-<w canon="kita-atoskêyin" class="vai" gcat="2sAIcnj" preverbs="kita|to" sgloss="work" stem="atoskê" suffix="-yan">kit-âtoskêyin</w>
+<w canon="kita-atoskêyan" class="vai" gcat="2sAIcnj" preverbs="kita|to" sgloss="work" stem="atoskê" suffix="-yan">kit-âtoskêyin</w>
 ;
 </q>
 <gloss>Take heart and work bravely;</gloss>
@@ -2520,7 +2520,7 @@
 <w canon="misatim" class="na" gcat="3sNA" sgloss="horse" stem="mistatimw" suffix="0">misatim</w>
 ,
 <w canon="wiyâs" class="ni" gcat="0sNI" sgloss="meat" stem="wiyâs" suffix="0">wiyâs</w>
-<w canon="kâ-miyiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="give_to" stem="miy" suffix="-iyan">kâ-miyiyin</w>
+<w canon="kâ-miyiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="give_to" stem="miy" suffix="-iyan">kâ-miyiyan</w>
 .</q>
 <gloss>“Now you asked for one horse for the meat you gave me.</gloss>
 </seg>
@@ -2566,7 +2566,7 @@
 <w canon="ê-otihtamân" class="vti" gcat="1sTIcnj" preverbs="ê|cnj" sgloss="reach" stem="otiht" suffix="-amân">êw-otihtamân</w>
 ,
 <w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">iyikohk</w>
-<w canon="kâ-miyiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="give_to" stem="miy" suffix="-iyan">kâ-miyiyin</w>
+<w canon="kâ-miyiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="give_to" stem="miy" suffix="-iyan">kâ-miyiyan</w>
 <w canon="mîciwin" class="ni" gcat="0sNI" sgloss="food" stem="mîciwin" suffix="0">mîciwin</w>
 <w canon="ahtayak" class="na" gcat="3pNA" sgloss="pelt" stem="ahtay" suffix="-ak">ahtayak</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mînah</w>

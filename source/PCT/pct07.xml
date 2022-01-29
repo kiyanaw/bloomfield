@@ -89,7 +89,7 @@
 <w canon="kika-miyitin" class="vta" gcat="1s2sTA" prefix="2" preverbs="ka|will" sgloss="give_to" stem="miy" suffix="-itin">kika-miyitin</w>
 ;
 <w canon="kimiyitin" class="vta" gcat="1s2sTA" prefix="2" sgloss="give_to" stem="miy" suffix="-itin">kimiyitin</w>
-<w canon="ta-okimâwiyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="be_chief" stem="okimâwi" suffix="-yan">tah-okimâwiyin</w>
+<w canon="ta-okimâwiyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="be_chief" stem="okimâwi" suffix="-yan">tah-okimâwiyin</w>
 .</q>
 <gloss>Four nights from now I shall give it thee; I shall give thee chieftainship.</gloss>
 </seg>
@@ -466,7 +466,7 @@
 <w canon="mîkiwâhpihk" class="ni" gcat="0locNI" sgloss="lodge" stem="mîkiwâhp" suffix="-ihk">mîkiwâhpihk</w>
 ,
 <w canon="mîkiwâhpihk" class="ni" gcat="0locNI" sgloss="lodge" stem="mîkiwâhp" suffix="-ihk">mîkiwâhpihk</w>
-<w canon="kâ-itâmoyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="flee" stem="itâmo" suffix="-yan">k-êtâmoyin</w>
+<w canon="kâ-itâmoyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="flee" stem="itâmo" suffix="-yan">k-êtâmoyin</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .

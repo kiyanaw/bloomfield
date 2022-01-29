@@ -1346,7 +1346,7 @@
 
 <seg n="39.1">
 <q rend="PRE 1 POST0">
-<w canon="kâ-ayisiyinîwiyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="be_person" stem="ayisiyinîwi" suffix="-yan">k-âyisiyinîwiyin</w>
+<w canon="kâ-ayisiyinîwiyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="be_person" stem="ayisiyinîwi" suffix="-yan">k-âyisiyinîwiyin</w>
 ,
 <q>
 <w canon="pîsim" class="na" gcat="3sNA" sgloss="sun" stem="pîsimw" suffix="0">pîsim</w>
@@ -1586,7 +1586,7 @@
 <w canon="ka-âpihkonên" class="vti" gcat="2sTI" preverbs="ka|will" sgloss="untie" stem="âpihkon" suffix="-ên">k-âpihkonên</w>
 <w canon="anima" class="dem" gcat="0sDEM" sgloss="that" stem="anima">anim</w>
 <w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
-<w canon="kâ-wî-pôsiyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj wî|will" sgloss="board" stem="pôsi" suffix="-yan">kâ-wîh-pôsiyin</w>
+<w canon="kâ-wî-pôsiyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj wî|will" sgloss="board" stem="pôsi" suffix="-yan">kâ-wîh-pôsiyan</w>
 .</q>
 <gloss>“Then when you reach yon earth of yours, you will unti that in which you will be riding.</gloss>
 </seg>
@@ -2173,7 +2173,7 @@
 ,
 <w canon="ôhi" class="dem" gcat="0pDEM" sgloss="this" stem="ôma" suffix="-0p">ôhi</w>
 <w canon="nikiscikânisa" class="ni" gcat="0pNIof1s" prefix="1" sgloss="garden" stem="kiscikânis" suffix="-a">nikiscikânisah</w>
-<w canon="kâ-misi-wanâcihtâyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="ruin" stem="misiwanâcihtâ" suffix="-yan">kâ-misi-wanâcihtâyin</w>
+<w canon="kâ-misi-wanâcihtâyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="ruin" stem="misiwanâcihtâ" suffix="-yan">kâ-misi-wanâcihtâyan</w>
 .</q>
 <gloss>“My dear little grandchild, I am not angry at you for having spoiled these plants of mine.</gloss>
 </seg>
@@ -3239,7 +3239,7 @@
 <w canon="ê-âta-kitimâkêyimitân" class="vta" gcat="1s2sTAcnj" preverbs="ê|cnj âta|in_vain" sgloss="pity" stem="kitimâkêyim" suffix="-itân">êh-âta-kitimâkêyimitân</w>
 ,
 <w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">iyikohk</w>
-<w canon="kâ-kîsinâcihiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="make_grieve" stem="kîsinâcih" suffix="-iyan">kâ-kîsinâcihiyin</w>
+<w canon="kâ-kîsinâcihiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="make_grieve" stem="kîsinâcih" suffix="-iyan">kâ-kîsinâcihiyan</w>
 ,
 <w canon="nikiscikânisa" class="ni" gcat="0pNIof1s" prefix="1" sgloss="garden" stem="kiscikânis" suffix="-a">nikiscikânisah</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
@@ -3763,7 +3763,7 @@
 <w canon="pîsimôwâsis" class="na" gcat="3sNA" sgloss="Sun_Child" stem="pîsimôwâsis" suffix="0">pîsimôwâsis</w>
 ,
 <w canon="mitoni" class="ipc" gcat="IPC" sgloss="intensively" stem="mitoni">mitoni</w>
-<w canon="kâ-kitimahiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="be_mean_to" stem="kitimah" suffix="-iyan">kâ-kitimahiyin</w>
+<w canon="kâ-kitimahiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="be_mean_to" stem="kitimah" suffix="-iyan">kâ-kitimahiyan</w>
 ,
 <w canon="nitawâsimisak" class="na" extra="im" gcat="3pNAof1s" prefix="1" sgloss="child" stem="awâsis" suffix="-ak">nitawâsimisak</w>
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
@@ -4121,7 +4121,7 @@
 <w canon="âyiman" class="vii" gcat="0sII" sgloss="be_difficult" stem="âyiman" suffix="0">âyiman</w>
 <w canon="ani" class="ipc" gcat="IPC" sgloss="then" stem="ani">ani</w>
 <w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
-<w canon="kâ-takohtêyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="arrive" stem="takohtê" suffix="-yan">kâ-takohtêyin</w>
+<w canon="kâ-takohtêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="arrive" stem="takohtê" suffix="-yan">kâ-takohtêyan</w>
 <w canon="pisisik" class="ipc" gcat="IPC" sgloss="always" stem="pisisik">pisisik</w>
 <w canon="ê-mêtawêhk" class="vai" gcat="xAIcnj" preverbs="ê|cnj" sgloss="play" stem="mêtawê" suffix="-hk">êh-mêtawêhk</w>
 ,
@@ -5346,9 +5346,9 @@
 <w canon="awiyak" class="pr" gcat="3sPR" sgloss="someone" stem="awiyak">awiyak</w>
 <w canon="kâ-ôh-kakêskimisk" class="vta" gcat="3s2sTAcnj" preverbs="kâ|cnj ôh|thence" sgloss="counsel" stem="kakêskim" suffix="-isk">k-ôh-kakêskimisk</w>
 ,
-<w canon="kâ-papâ-misi-wanâtahkamikisiyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj papâ|around" sgloss="make_mess_of_things" stem="misiwanâtahkamikisi" suffix="-yan">kâ-papâ-misi-wanâtahkamikisiyin</w>
+<w canon="kâ-papâ-misi-wanâtahkamikisiyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj papâ|around" sgloss="make_mess_of_things" stem="misiwanâtahkamikisi" suffix="-yan">kâ-papâ-misi-wanâtahkamikisiyan</w>
 ,
-<w canon="kâ-ôh-kakêpâtisiyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence" sgloss="be_foolish" stem="kakêpâtisi" suffix="-yan">k-ôh-kakêpâtisiyin</w>
+<w canon="kâ-ôh-kakêpâtisiyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence" sgloss="be_foolish" stem="kakêpâtisi" suffix="-yan">k-ôh-kakêpâtisiyin</w>
 .
 </q>
 <gloss>No wonder, seeing how foolish was your mother who took you away with her, so that there was no one to instruct you, no wonder that you went about making a ruin of things at large, and that you are a fool.</gloss>

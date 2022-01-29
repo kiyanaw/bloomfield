@@ -684,7 +684,7 @@
 ,
 <w canon="oskinîkiw" class="na" gcat="3sNA" sgloss="young_man" stem="oskinîkiw" suffix="0">oskinîkiw</w>
 ,
-<w canon="kâ-ôh-isiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj ôh|thence" sgloss="say_to" stem="it" suffix="-iyan">k-ôh-isiyin</w>
+<w canon="kâ-ôh-isiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj ôh|thence" sgloss="say_to" stem="it" suffix="-iyan">k-ôh-isiyin</w>
 ?</q>
 <gloss>Then, “What do you mean, youth?”</gloss>
 </seg>
@@ -710,7 +710,7 @@
 <w canon="wâkayôs" class="na" gcat="3sNA" sgloss="bear" stem="wâkayôs" suffix="0">wâkayôs</w>
 <w canon="ê-kî-kimotamâsk" class="vta" gcat="3s2sTAcnj" preverbs="ê|cnj kî|PAST" sgloss="steal_from" stem="kimotamaw" suffix="-isk">ê-kîh-kimotamâsk</w>
 ,
-<w canon="kâ-ôh-kî-wanihiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj ôh|thence kî|PAST" sgloss="lose" stem="wanih" suffix="-iyan">k-ô-kih-wanihiyin</w>
+<w canon="kâ-ôh-kî-wanihiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj ôh|thence kî|PAST" sgloss="lose" stem="wanih" suffix="-iyan">k-ô-kih-wanihiyin</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
 <w canon="êsa" class="ipc" gcat="IPC" sgloss="reportedly" stem="êsa">êsah</w>

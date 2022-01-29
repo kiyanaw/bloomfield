@@ -2533,7 +2533,7 @@
 <q rend="PRE0 POST1">
 <w canon="âyiman" class="vii" gcat="0sII" sgloss="be_difficult" stem="âyiman" suffix="0">âyiman</w>
 <w canon="nânitaw" class="ipc" gcat="IPC" sgloss="simply" stem="nânitaw">nânitaw</w>
-<w canon="ta-kî-itohtêyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT kî|can" sgloss="go" stem="itohtê" suffix="-yan">ta-kîh-itohtêyin</w>
+<w canon="ta-kî-itohtêyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT kî|can" sgloss="go" stem="itohtê" suffix="-yan">ta-kîh-itohtêyan</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 <w canon="osîma" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="younger_sib" stem="sîm" suffix="-a">osîma</w>
@@ -3321,7 +3321,7 @@
 <w canon="tânitê" class="ipc" gcat="IPC" sgloss="where" stem="tânitê">tântê</w>
 <w canon="kê-pîhcâk" class="vii" gcat="0sIIcnj" preverbs="kê|IC+FUT" sgloss="be_long_distance" stem="pîhcâ" suffix="-k">kê-pîhcâk</w>
 <w canon="askiy" class="ni" gcat="0sNI" sgloss="land" stem="askiy" suffix="0">askiy</w>
-<w canon="ta-itâmoyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="flee" stem="itâmo" suffix="-yan">t-êtâmoyin</w>
+<w canon="ta-itâmoyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="flee" stem="itâmo" suffix="-yan">t-êtâmoyin</w>
 ?
 </q>
 <gloss>“Whereto in all the extent of the earth will you flee?</gloss>
@@ -4246,7 +4246,7 @@
 <w canon="opipikwan" class="ni" gcat="0sNIof3s" prefix="3" sgloss="flute" stem="pipikwan" suffix="0">opipikwan</w>
 <w canon="kâ-nayahtahk" class="vti" gcat="3sTIcnj" preverbs="kâ|cnj" sgloss="carry_on_back" stem="nayaht" suffix="-ahk">kâ-nayahtahk</w>
 ,
-<w canon="kâ-isîhoyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="be_so_dressed" stem="isîho" suffix="-yan">k-êsihoyin</w>
+<w canon="kâ-isîhoyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="be_so_dressed" stem="isîho" suffix="-yan">k-êsihoyin</w>
 !</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .

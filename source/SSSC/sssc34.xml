@@ -768,7 +768,7 @@
 
 <seg n="20.2">
 <q rend="PRE 0 POST0">
-<w canon="kâ-ayisiyinîwiyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="be_person" stem="ayisiyinîwi" suffix="-yan">k-âyisiyinîwiyin</w>
+<w canon="kâ-ayisiyinîwiyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="be_person" stem="ayisiyinîwi" suffix="-yan">k-âyisiyinîwiyin</w>
 ,
 <q>
 <w canon="acâhkosak" class="na" gcat="3pNA" sgloss="star" stem="acâhkos" suffix="-ak">acâhkosak</w>
@@ -2212,7 +2212,7 @@
 <w canon="kîhkwahâhkês" class="na" extra="dim" gcat="3sNA" sgloss="wolverine" stem="kîhkwahâhkêw" suffix="0">kîhkwahâkês</w>
 ,
 <w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">iyikohk</w>
-<w canon="kâ-wîsakisimiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="throw_painfully" stem="wîsakisim" suffix="-iyan">kâ-wîsakisimiyin</w>
+<w canon="kâ-wîsakisimiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="throw_painfully" stem="wîsakisim" suffix="-iyan">kâ-wîsakisimiyan</w>
 ,
 <w canon="nitawâc" class="ipc" gcat="IPC" sgloss="despite_all" stem="nitawâc">ntawâc</w>
 <w canon="anima" class="dem" gcat="0sDEM" sgloss="that" stem="anima">anim</w>
@@ -3027,7 +3027,7 @@
 <w canon="misawâc" class="ipc" gcat="IPC" sgloss="in_any_case" stem="misawâc">misawâc</w>
 <w canon="ta-pîhcâw" class="vii" gcat="0sII" preverbs="ta|FUT" sgloss="be_long_distance" stem="pîhcâw" suffix="0">ta-pîhcâw</w>
 <w canon="itê" class="ipc" gcat="IPC" sgloss="there" stem="itê">itêh</w>
-<w canon="cita-itâmoyin" class="vai" gcat="2sAIcnj" preverbs="cita|????" sgloss="flee" stem="itâmo" suffix="-yan">cit-êtâmoyin</w>
+<w canon="cita-itâmoyan" class="vai" gcat="2sAIcnj" preverbs="cita|????" sgloss="flee" stem="itâmo" suffix="-yan">cit-êtâmoyin</w>
 !</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 <w canon="osîma" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="younger_sib" stem="sîm" suffix="-a">osîma</w>
@@ -4954,7 +4954,7 @@
 ,
 <w canon="têyaniya" class="ndi" gcat="0pNDI" sgloss="tongue" stem="têyaniy" suffix="-a">têyaniyah</w>
 <w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">piko</w>
-<w canon="kita-omîciwiniyin" class="vai" gcat="2sAIcnj" preverbs="kita|to" sgloss="have_food" stem="omîciwini" suffix="-yan">kit-ômîciwiniyin</w>
+<w canon="kita-omîciwiniyan" class="vai" gcat="2sAIcnj" preverbs="kita|to" sgloss="have_food" stem="omîciwini" suffix="-yan">kit-ômîciwiniyin</w>
 ,
 <w canon="ê-isi-takahkêyimitân" class="vta" gcat="1s2sTAcnj" preverbs="ê|cnj isi|thus" sgloss="think_well_of" stem="takahkêyim" suffix="-itân">êy-isi-takahkêyimitân</w>
 ,
@@ -5126,7 +5126,7 @@
 ,
 <w canon="nisîm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="younger_sib" stem="sîm" suffix="0">nisîm</w>
 ,
-<w canon="ta-kitohtâyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="play_music" stem="kitohtâ" suffix="-yan">ta-kitohtâyin</w>
+<w canon="ta-kitohtâyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="play_music" stem="kitohtâ" suffix="-yan">ta-kitohtâyan</w>
 .</q>
 <gloss>Then, always, when she had put on her finery, “Now, climb up again, little sister, to play on the flute.”</gloss>
 </seg>
@@ -6773,7 +6773,7 @@
 <w canon="awiyak" class="pr" gcat="3sPR" sgloss="someone" stem="awiyak">awiyak</w>
 <w canon="ta-nâtam" class="vti" gcat="3sTI" preverbs="ta|FUT" sgloss="fetch" stem="nât" suffix="-am">ta-nâtam</w>
 ,
-<w canon="ta-minihkwêyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="drink" stem="minihkwê" suffix="-yan">ta-minihkwêyin</w>
+<w canon="ta-minihkwêyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="drink" stem="minihkwê" suffix="-yan">ta-minihkwêyan</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .

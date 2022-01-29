@@ -933,7 +933,7 @@
 <w canon="nitôtêm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="kinsman" stem="tôtêm" suffix="0">ntôtêm</w>
 ,
 <w canon="anima" class="dem" gcat="0sDEM" sgloss="that" stem="anima">anima</w>
-<w canon="kâ-kî-isiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj kî|PAST" sgloss="say_to" stem="it" suffix="-iyan">kâ-kîh-isiyin</w>
+<w canon="kâ-kî-isiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj kî|PAST" sgloss="say_to" stem="it" suffix="-iyan">kâ-kîh-isiyan</w>
 <w canon="tipiskohk" class="ipc" gcat="IPC" sgloss="last_night" stem="tipiskohk">tipiskohk</w>
 ,
 <w canon="miywêyihtam" class="vti" gcat="3sTI" sgloss="consider_good" stem="miywêyiht" suffix="-am">miywêyihtam</w>
@@ -1391,7 +1391,7 @@
 ,
 <w canon="âyiman" class="vii" gcat="0sII" sgloss="be_difficult" stem="âyiman" suffix="0">âyiman</w>
 <w canon="itê" class="ipc" gcat="IPC" sgloss="there" stem="itê">itêh</w>
-<w canon="kâ-nahâhkapiyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="live_with_wife" stem="nahâhkapi" suffix="-yan">kâ-nahâhkapiyin</w>
+<w canon="kâ-nahâhkapiyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="live_with_wife" stem="nahâhkapi" suffix="-yan">kâ-nahâhkapiyan</w>
 .</q>
 <gloss>“Oh, my son, it is a dangerous place where you are to stay with your wife's people.</gloss>
 </seg>
@@ -1762,7 +1762,7 @@
 <q rend="PRE 0 POST1">
 <w canon="âyimanohk" class="ipc" gcat="IPC" sgloss="in_difficult_place" stem="âyimanohk">âyimanohk</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
-<w canon="kâ-wîkihkêmoyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="live_with_people" stem="wîkihkêmo" suffix="-yan">kâ-wîkihkêmoyin</w>
+<w canon="kâ-wîkihkêmoyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="live_with_people" stem="wîkihkêmo" suffix="-yan">kâ-wîkihkêmoyan</w>
 ,
 <w canon="ana" class="dem" gcat="3sDEM" sgloss="that" stem="ana">an</w>
 <w canon="ana" class="dem" gcat="3sDEM" sgloss="that" stem="ana">âna</w>
@@ -2529,7 +2529,7 @@
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 <w canon="nôhtâwiy" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="father" stem="ôhtâwiy" suffix="0">nôhtâwiy</w>
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
-<w canon="ta-asamikawiyin" class="vta" gcat="x2sTAcnj" preverbs="ta|FUT" sgloss="feed" stem="asam" suffix="-ikawiyan">t-âsamikawiyin</w>
+<w canon="ta-asamikawiyan" class="vta" gcat="x2sTAcnj" preverbs="ta|FUT" sgloss="feed" stem="asam" suffix="-ikawiyan">t-âsamikawiyin</w>
 ,
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
 <w canon="ê-kostâyâhk" class="vta" gcat="1e3sTAcnj" preverbs="ê|cnj" sgloss="fear" stem="kost" suffix="-âyâhk">ê-kostâyâhk</w>
@@ -2559,7 +2559,7 @@
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkos</w>
 <w canon="ê-tôtâhcik" class="vta" gcat="x3pTAcnj" preverbs="ê|cnj" sgloss="do_thus_to" stem="tôtaw" suffix="-ihcik">êh-tôtâhcik</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
-<w canon="kâ-wî-tôtâkawiyin" class="vta" gcat="x2sTAcnj" preverbs="kâ|cnj wî|will" sgloss="do_thus_to" stem="tôtaw" suffix="-ikawiyan">kâ-wîh-tôtâkawiyin</w>
+<w canon="kâ-wî-tôtâkawiyan" class="vta" gcat="x2sTAcnj" preverbs="kâ|cnj wî|will" sgloss="do_thus_to" stem="tôtaw" suffix="-ikawiyan">kâ-wîh-tôtâkawiyan</w>
 ,
 <w canon="ê-nipahâhkatosocik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="starve_to_death" stem="nipahâhkatoso" suffix="-cik">êh-nipahâhkatosocik</w>
 .</q>
@@ -3402,7 +3402,7 @@
 <w canon="kititâhkômâw" class="vta" gcat="2s3sTA" prefix="2" sgloss="be_related_to" stem="itâhkôm" suffix="-âw">kititâhkômâw</w>
 ,
 <w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">iyikohk</w>
-<w canon="kâ-mâtoyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="cry" stem="mâto" suffix="-yan">kâ-mâtôyin</w>
+<w canon="kâ-mâtoyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="cry" stem="mâto" suffix="-yan">kâ-mâtôyan</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .
@@ -3580,7 +3580,7 @@
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 <w canon="wiya" class="ipc" gcat="IPC" sgloss="WIYA" stem="wiya">wiya</w>
 <w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
-<w canon="kâ-ôh-pa-pimisiniyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|PAST dupL|L.REDUP" sgloss="lie_extended" stem="pimisin" suffix="-yan">k-ôh-pa-pimisiniyin</w>
+<w canon="kâ-ôh-pa-pimisiniyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|PAST dupL|L.REDUP" sgloss="lie_extended" stem="pimisin" suffix="-yan">k-ôh-pa-pimisiniyin</w>
 ?</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 .
@@ -5222,7 +5222,7 @@
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
 <w canon="ta-kî-ispayiw" class="vii" gcat="0sII" preverbs="ta|FUT kî|can" sgloss="happen" stem="ispayi" suffix="-w">ta-kîh-ispayiw</w>
 <w canon="anima" class="dem" gcat="0sDEM" sgloss="that" stem="anima">anima</w>
-<w canon="kâ-isiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="say_to" stem="it" suffix="-iyan">k-êsiyin</w>
+<w canon="kâ-isiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="say_to" stem="it" suffix="-iyan">k-êsiyin</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .
