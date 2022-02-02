@@ -1540,7 +1540,7 @@
 
 <seg n="59.13">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="nipahêw" class="vta" gcat="3s3oTA" sgloss="kill" stem="nipah" suffix="-êw">nipahêw</w>
 ;
 <w canon="ayisk" class="ipc" gcat="IPC" sgloss="for" stem="ayis">âyisk</w>
@@ -1561,7 +1561,7 @@
 <w canon="owîkimâkana" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="spouse" stem="wîkimâkan" suffix="-a">owîkimâkanah</w>
 ,
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ê-nipahtât" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="kill" stem="nipahtâ" suffix="-t">êh-nipahtât</w>
 ,
 <w canon="ê-kîhkâmikot" class="vta" gcat="3o3sTAcnj" preverbs="ê|cnj" sgloss="scold" stem="kîhkâm" suffix="-ikot">êh-kîhkâmikot</w>

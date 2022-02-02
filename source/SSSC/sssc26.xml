@@ -153,7 +153,7 @@
 <seg n="1c.6">
 <w canon="kîtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kîtahtawê</w>
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="êsa" class="ipc" gcat="IPC" sgloss="reportedly" stem="êsa">êsah</w>
 <w canon="pawâtam" class="vti" gcat="3sTI" sgloss="dream_about" stem="pawât" suffix="-am">pawâtam</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
@@ -463,7 +463,7 @@
 <w canon="ê-isi-atoskêcik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj isi|thus" sgloss="work" stem="atoskê" suffix="-cik">êh-is-âtoskêcik</w>
 ,
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ê-mâcîtotawâcik" class="vta" gcat="3p3oTAcnj" preverbs="ê|cnj" sgloss="hunt_for" stem="mâcîtotaw" suffix="-âcik">êh-mâcîtotawâcik</w>
 .
 <gloss>As soon as the young man got up, they went away, for every day they did nothing but hunt, for this was their work, to hunt every kind of creature.</gloss>
@@ -2247,7 +2247,7 @@
 <w canon="ayisk" class="ipc" gcat="IPC" sgloss="for" stem="ayis">ayisk</w>
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
 <w canon="nikaskihtamâson" class="vai" gcat="1sAI" prefix="1" sgloss="earn_for_self" stem="kaskihtamâso" suffix="-n">nikaskihtamâson</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
@@ -2323,7 +2323,7 @@
 <q>
 <w canon="ô" class="interj" gcat="INTERJ" sgloss="oh" stem="ô">ôh</w>
 ,
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
 <w canon="kê-kitimâkêyimikoyan" class="vta" gcat="0x2sTAcnji" preverbs="kê|IC+FUT" sgloss="pity" stem="kitimâkêyim" suffix="-ikoyan">kê-kitimâkêyimikoyan</w>
 ?</q>

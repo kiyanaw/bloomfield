@@ -162,7 +162,7 @@
 <q rend="PRE 0 POST0">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
 <w canon="wiya" class="ipc" gcat="IPC" sgloss="WIYA" stem="wiya">wiyah</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ê-mâyâtahk" class="vii" gcat="0sIIcnj" preverbs="ê|cnj" sgloss="be_ugly" stem="mâyâtan" suffix="-k">êh-mâyâtahk</w>
 <w canon="ka-kî-wîhtamâtinâwâw" class="vta" gcat="1s2pTA" preverbs="ka|will kî|can" sgloss="tell_about" stem="wîhtamaw" suffix="-itinâwâw">ka-kîh-wîhtamâtinâwâw</w>
 ;</q>
@@ -282,7 +282,7 @@
 <w canon="ta-kimiwahk" class="vii" gcat="0sIIcnj" preverbs="ta|FUT" sgloss="rain" stem="kimiwan" suffix="-k">ta-kimiwahk</w>
 ,
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
 <w canon="askîhk" class="ni" gcat="0locNI" sgloss="land" stem="askiy" suffix="-ihk">askîhk</w>
 <w canon="ta-miyo-ohpikihk" class="vai" gcat="xAIcnj" preverbs="ta|FUT miyo|good" sgloss="grow_up" stem="ohpiki" suffix="-hk">ta-miy-ôhpikihk</w>

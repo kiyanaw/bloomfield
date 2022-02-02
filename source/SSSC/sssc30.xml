@@ -776,7 +776,7 @@
 <w canon="kôhtâwiy" class="nda" gcat="3sNDAof2s" prefix="2" sgloss="father" stem="ôhtâwiy" suffix="0">kôhtâwiy</w>
 <w canon="kikâwiy" class="nda" gcat="3sNDAof2s" prefix="2" sgloss="mother" stem="kâwiy" suffix="0">kikâwiy</w>
 ,
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="pêhtahkwâwi" class="vti" gcat="3pTIsubjunc" sgloss="hear" stem="pêht" suffix="-ahkwâwi">pêhtahkwâwi</w>
 ;</q>
 <gloss>Then, when they went to bed, he said to his wife, “Let not your father and your mother peek out from the lodge, when they hear anything;</gloss>
@@ -1181,7 +1181,7 @@
 <seg n="34.4">
 <w canon="ayis" class="ipc" gcat="IPC" sgloss="for" stem="ayis">ayis</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ihtakoniyiw" class="vii" gcat="0oII" sgloss="exist" stem="ihtakon" suffix="-yiw">ihtakoniyiw</w>
 .
 <gloss>Thre was simply nothing left.</gloss>
@@ -4291,7 +4291,7 @@
 
 <seg n="115.13">
 <w canon="kîtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kîtahtawê</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ispimihk" class="ipc" gcat="IPC" sgloss="high_up" stem="ispimihk">ispimihk</w>
 <w canon="kâ-ôh-pêtôwêkotêyik" class="vii" gcat="0oIIcnj" preverbs="kâ|cnj ôh|thence" sgloss="come_flying_noisily" stem="pêtôwêkotê" suffix="-yik">k-ôh-pêtowêkotêyik</w>
 .

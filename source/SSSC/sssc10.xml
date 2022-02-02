@@ -127,7 +127,7 @@
 <w canon="ê-nahapit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="sit_down_in_place" stem="nahapi" suffix="-t">êh-nahapit</w>
 ,
 <w canon="nanâtawâpahtam" class="vti" gcat="3sTI" sgloss="look_out_for" stem="nanâtawâpaht" suffix="-am">nanâtawâpahtam</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ka-mîcit" class="vai" gcat="3sAIcnj" preverbs="ka|will" sgloss="eat" stem="mîci" suffix="-t">ka-mîcit</w>
 .
 <gloss>When he sat down, he looked all round for something to eat.</gloss>
@@ -135,7 +135,7 @@
 
 <seg n="5.3">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wâpahtam" class="vti" gcat="3sTI" sgloss="see" stem="wâpaht" suffix="-am">wâpahtam</w>
 .
 <gloss>He saw nothing.</gloss>
@@ -350,7 +350,7 @@
 
 <seg n="13.1">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="mostoswa" class="na" gcat="3oNA" sgloss="cattle" stem="mostosw" suffix="-a">mostoswah</w>
 ;
 <w canon="sipwêhtêyiwa" class="vai" gcat="3oAI" sgloss="leave" stem="sipwêhtê" suffix="-yiwa">sipwêhtêyiwa</w>

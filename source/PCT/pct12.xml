@@ -295,7 +295,7 @@
 <w canon="ê-sâkêwêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="appear" stem="sâkêwê" suffix="-t">ê-sâkêwêt</w>
 ,
 <w canon="ê-wî-kakwê-wâpahtahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj wî|will kakwê|try_to" sgloss="see" stem="wâpaht" suffix="-ahk">ê-wîh-kakwêh-wâpahtahk</w>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 .
 <gloss>Where a river flowed by, there he went along; concealing himself, but coming forth every now and then, to see what could be seen.</gloss>
 </seg>
@@ -592,7 +592,7 @@
 <w canon="ê-takohtêcik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="arrive" stem="takohtê" suffix="-cik">êh-takohtêcik</w>
 ,
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wâpahtam" class="vti" gcat="3sTI" sgloss="see" stem="wâpaht" suffix="-am">wâpahtam</w>
 .
 <gloss>When they came to the place from which he had seen the camp, he saw nothing at all.</gloss>
@@ -785,7 +785,7 @@
 ,
 <w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
 <w canon="matokahpihk" class="ni" gcat="0locNI" sgloss="empty_camp" stem="matokahp" suffix="-ihk">matokapihk</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="nikî-wâpahtên" class="vti" gcat="1sTI" prefix="1" preverbs="kî|PAST" sgloss="see" stem="wâpaht" suffix="-ên">nikih-wâpahtên</w>
 .</q>
 <gloss>Thus spoke the woman: “My husband, there in the camp site I saw something.</gloss>
@@ -828,7 +828,7 @@
 
 <seg n="13.2">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wâpahtamani" class="vti" gcat="2sTIsubjunc" sgloss="see" stem="wâpaht" suffix="-amani">wâpahtamani</w>
 ,
 <w canon="pê-itohtêhkan" class="vai" gcat="2sAIdelimp" preverbs="pê|thence" sgloss="go" stem="itohtê" suffix="-hkan">pê-itohtêhkan</w>
@@ -899,7 +899,7 @@
 <w canon="mêkwâc" class="ipc" gcat="IPC" sgloss="while" stem="mêkwâc">mêkwâc</w>
 ,
 <q>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="miyâmay" class="ipc" gcat="IPC" sgloss="surely" stem="miyâmay">miyâmay</w>
 ,</q>
 <w canon="ê-itêyihtahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="think_of" stem="itêyiht" suffix="-ahk">êh-itêyihtahk</w>

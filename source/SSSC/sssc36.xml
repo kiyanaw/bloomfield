@@ -78,7 +78,7 @@
 <w canon="mâna" class="ipc" gcat="IPC" sgloss="usually" stem="mâna">mânah</w>
 <w canon="ôtênâhk" class="ni" gcat="0locNI" sgloss="town" stem="ôtênaw" suffix="-ihk">ôtênâhk</w>
 ,
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ê-wî-kakwê-miskahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj wî|will kakwê|try_to" sgloss="find" stem="misk" suffix="-ahk">ê-wîh-kakwê-miskahk</w>
 <w canon="ta-mîcit" class="vai" gcat="3sAIcnj" preverbs="ta|FUT" sgloss="eat" stem="mîci" suffix="-t">ta-mîcit</w>
 .
@@ -377,7 +377,7 @@
 
 <seg n="11.5">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wâpahtam" class="vti" gcat="3sTI" sgloss="see" stem="wâpaht" suffix="-am">wâpahtam</w>
 .
 <gloss>He could not see anything.</gloss>
@@ -399,7 +399,7 @@
 
 <seg n="12.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 ,
 <w canon="kâ-tipêyimiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="own" stem="tipêyim" suffix="-iyan">kâ-tipêyimiyan</w>
 ?</q>
@@ -551,7 +551,7 @@
 
 <seg n="19.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="nitawêyihtaman" class="vti" gcat="2sTIcnj" sgloss="want" stem="nitawêyiht" suffix="-aman">nitawêyihtaman</w>
 ,
 <w canon="kâ-tipêyimiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="own" stem="tipêyim" suffix="-iyan">kâ-tipêyimiyan</w>
@@ -631,7 +631,7 @@
 <seg n="24.1">
 <q rend="PRE 1 POST0">
 <w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">pikô</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="nêtawêyihtamani" class="vti" gcat="2sTIsubjunc" prefix="IC" sgloss="want" stem="nitawêyiht" suffix="-amani">nêtawêyihtamani</w>
 ,
 <w canon="ka-kâsîhên" class="vti" gcat="2sTI" preverbs="ka|will" sgloss="wipe" stem="kâsîh" suffix="-ên">ka-kâsîhên</w>
@@ -660,7 +660,7 @@
 <seg n="24.3">
 <q rend="PRE 0 POST1">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ka-pwâtawihtân" class="vai" gcat="2sAI" preverbs="ka|will" sgloss="be_thwarted_at" stem="pwâtawihtâ" suffix="-n">ka-pwâtawihtân</w>
 ,</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
@@ -762,7 +762,7 @@
 <q rend="PRE 1 POST0">
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
 <w canon="cî" class="ipc" gcat="IPC" sgloss="[?]" stem="cî">cî</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kitayân" class="vai" gcat="2sAI" prefix="2" sgloss="have" stem="ayâ" suffix="-n">kitayân</w>
 <w canon="wâsaskotênikan" class="ni" gcat="0sNI" sgloss="light" stem="wâsaskotênikan" suffix="0">wâsaskotênikan</w>
 <w canon="ê-mâyâtahk" class="vii" gcat="0sIIcnj" preverbs="ê|cnj" sgloss="be_ugly" stem="mâyâtan" suffix="-k">êh-mâyâtahk</w>
@@ -1383,7 +1383,7 @@
 
 <seg n="54.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ê-nitawêyihtaman" class="vti" gcat="2sTIcnj" preverbs="ê|cnj" sgloss="want" stem="nitawêyiht" suffix="-aman">êh-ntawêyihtaman</w>
 ?</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>

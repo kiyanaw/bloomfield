@@ -524,7 +524,7 @@
 <seg n="18.1">
 <w canon="tâpwê" class="ipc" gcat="IPC" sgloss="truly" stem="tâpwê">tâpwê</w>
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wî-kitâpahtam" class="vti" gcat="3sTI" preverbs="wî|will" sgloss="look_at" stem="kitâpaht" suffix="-am">wîh-kitâpahtam</w>
 <w canon="iskwâhtêm" class="ni" gcat="0sNI" sgloss="door" stem="iskwâhtêm" suffix="0">iskwâhtêm</w>
 .
@@ -542,7 +542,7 @@
 <seg n="18.3">
 <w canon="kîtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kîtahtawê</w>
 <w canon="pê-sêwêpayiyiw" class="vii" gcat="0oII" preverbs="pê|thence" sgloss="jingle" stem="sêwêpayi" suffix="-yiw">pê-sêwêpayiyiw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 .
 <gloss>Then at one time something came a-jingling.</gloss>
 </seg>
@@ -3194,7 +3194,7 @@
 <w canon="ê-apit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="sit" stem="api" suffix="-t">êh-apit</w>
 ,
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="iskwâhtêm" class="ni" gcat="0sNI" sgloss="door" stem="iskwâhtêm" suffix="0">iskwâhtêm</w>
 .
 <gloss>When night came, and he sat there, the doorway disappeared.</gloss>
@@ -3676,7 +3676,7 @@
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="kiyipa" class="ipc" gcat="IPC" sgloss="quickly" stem="kiyipa">kiyipa</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kôna" class="na" gcat="3oNA" sgloss="snow" stem="kôn" suffix="-a">kônah</w>
 <w canon="pîhcâyihk" class="ipc" gcat="IPC" sgloss="inside" stem="pîhc-âyihk">pîhcâyihk</w>
 ;

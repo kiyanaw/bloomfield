@@ -842,7 +842,7 @@
 ,
 <q>
 <w canon="êkâya" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâya">kâyâ</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="otina" class="vti" gcat="2sTIimp" sgloss="take" stem="otin" suffix="-a">ôtinah</w>
 !</q>
 <gloss>Then her big brother, “Do not take anything!”</gloss>
@@ -853,7 +853,7 @@
 
 <seg n="34.1">
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="pimastêw" class="vii" gcat="0sII" sgloss="be_placed_along" stem="pimastê" suffix="-w">pimastêw</w>
 ;
 <gloss>All kinds of things were lying around;</gloss>
@@ -921,7 +921,7 @@
 <q>
 <w canon="êkâya" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâya">kâya</w>
 <w canon="kîhtwâm" class="ipc" gcat="IPC" sgloss="again" stem="kîhtwâm">kîhtwâm</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="otina" class="vti" gcat="2sTIimp" sgloss="take" stem="otin" suffix="-a">otinah</w>
 !</q>
 <gloss>“Do not take anything more!”</gloss>
