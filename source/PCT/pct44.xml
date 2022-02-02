@@ -653,7 +653,7 @@
 ,
 <w canon="ê-nîpihk" class="vii" gcat="0sIIcnj" preverbs="ê|cnj" sgloss="be_summer" stem="nîpin" suffix="-k">êh-nîpihk</w>
 ,
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 ?
 -
 <gloss>hen, at one time, as he was walking along, in summer, what was that? --</gloss>
@@ -1217,7 +1217,7 @@
 <w canon="sîsîp" class="na" gcat="3sNA" sgloss="duck" stem="sîsîp" suffix="0">sîsîp</w>
 ,
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="kâ-nayahtaman" class="vti" gcat="2sTIcnj" preverbs="kâ|cnj" sgloss="carry_on_back" stem="nayaht" suffix="-aman">kâ-nayahtaman</w>
 ?</q>
 <gloss>“Big Brother,” said a duck, “what are you carrying on your back?”</gloss>
@@ -2476,7 +2476,7 @@
 
 <seg n="90.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="kiya" class="pr" gcat="2sPR" sgloss="you" stem="kiya">kiya</w>
 <w canon="mistik" class="na" gcat="3sNA" sgloss="tree" stem="mistikw" suffix="0">mistik</w>
 ?</q>
@@ -2531,7 +2531,7 @@
 
 <seg n="94.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ê-itikawiyan" class="vta" gcat="x2sTAcnj" preverbs="ê|cnj" sgloss="say_to" stem="it" suffix="-ikawiyan">h-itikôwiyan</w>
 ?</q>
 <gloss>“What are you called?”</gloss>
@@ -3404,7 +3404,7 @@
 
 <seg n="124.1">
 <q rend="PRE 1 POST0">
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="êtokê" class="ipc" gcat="IPC" sgloss="I_guess" stem="êtikwê">êtokê</w>
 <w canon="ayîsiyiniwa" class="na" gcat="3oNA" sgloss="person" stem="ayisiyiniw" suffix="-a">ayîsiyiniwah</w>
 <w canon="kê-nôtinitoyit" class="vai" gcat="3oAIcnj" preverbs="kê|IC+FUT" sgloss="fight_with_e.o." stem="nôtinito" suffix="-yit">kê-nôtinitôwit</w>

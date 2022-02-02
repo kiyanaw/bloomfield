@@ -471,7 +471,7 @@
 <q>
 <w canon="hwâ" class="interj" gcat="INTERJ" sgloss="oh" stem="hwâ">hwah</w>
 ,
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
@@ -2249,7 +2249,7 @@
 
 <seg n="77.1">
 <q rend="PRE 1 POST0">
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="kâ-saskitêk" class="vii" gcat="0sIIcnj" preverbs="kâ|cnj" sgloss="catch_fire" stem="saskitê" suffix="-k">kâ-saskitêk</w>
 ?</q>
 <gloss>“What is burning?</gloss>
@@ -2592,7 +2592,7 @@
 
 <seg n="91.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="kâ-kîsitêk" class="vii" gcat="0sIIcnj" preverbs="kâ|cnj" sgloss="be_burnt" stem="kîsitê" suffix="-k">kâ-kîsitêk</w>
 ?</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
@@ -3029,7 +3029,7 @@
 
 <seg n="108.1">
 <q rend="PRE 1 POST0">
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="itahk" class="vti" gcat="3sTIcnj" sgloss="say_about" stem="it" suffix="-ahk">itahk</w>
 <w canon="ayîkis" class="na" gcat="3sNA" sgloss="frog" stem="ayîkis" suffix="0">ayîkis</w>
 <w canon="kê-nipiskêt" class="vai" gcat="3sAIcnj" preverbs="kê|IC+FUT" sgloss="doctor_by_breathing" stem="nipiskê" suffix="-t">kê-nipiskêt</w>

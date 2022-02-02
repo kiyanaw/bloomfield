@@ -492,7 +492,7 @@
 
 <seg n="14.3">
 <q>
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="kî-asamâyahk" class="vta" gcat="1i3sTAcnj" preverbs="kî|can" sgloss="feed" stem="asam" suffix="-âyahk">kiy-âsamâyahk</w>
 ?
 <w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">pikoh</w>
@@ -1972,7 +1972,7 @@
 <seg n="57.2">
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
 <w canon="kiskêyihtam" class="vti" gcat="3sTI" sgloss="know" stem="kiskêyiht" suffix="-am">kiskêyihtam</w>
-<w canon="kêkwaya" class="pr" gcat="3o/0pPRq" sgloss="what" stem="kîkway" suffix="-3o/0p">kêkwayah</w>
+<w canon="kîkwâya" class="pr" gcat="3o/0pPRq" sgloss="what" stem="kîkway" suffix="-3o/0p">kêkwayah</w>
 <w canon="ôhi" class="dem" gcat="0pDEM" sgloss="this" stem="ôma" suffix="-0p">ôhi</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
 <w canon="awâsis" class="na" gcat="3sNA" sgloss="child" stem="awâsis" suffix="0">êwêsis</w>
@@ -2230,7 +2230,7 @@
 
 <seg n="63.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
 ,
 <w canon="nôsisê" class="nda" extra="voc" gcat="3sNDAof1svoc" prefix="1" sgloss="grandchild" stem="ôsisim">nôsisê</w>
@@ -2638,7 +2638,7 @@
 <q>
 <w canon="nôhkô" class="nda" extra="voc" gcat="3sNDAof1svoc" prefix="1" sgloss="grandmother" stem="ôhkom">nôhkô</w>
 ,
-<w canon="kêkwaya" class="pr" gcat="0pPRq" sgloss="what" stem="kîkway" suffix="-0p">kêkwayah</w>
+<w canon="kîkwâya" class="pr" gcat="0pPRq" sgloss="what" stem="kîkway" suffix="-0p">kêkwayah</w>
 <w canon="ôhi" class="dem" gcat="0pDEM" sgloss="this" stem="ôma" suffix="-0p">ôhi</w>
 ?</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
@@ -2676,7 +2676,7 @@
 <seg n="76.1">
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
 <w canon="wî-wîhtamawêw" class="vta" gcat="3s3oTA" preverbs="wî|will" sgloss="tell_about" stem="wîhtamaw" suffix="-êw">wîh-wîhtamawêw</w>
-<w canon="kêkwaya" class="pr" gcat="0pPRq" sgloss="what" stem="kîkway" suffix="-0p">kêkwayah</w>
+<w canon="kîkwâya" class="pr" gcat="0pPRq" sgloss="what" stem="kîkway" suffix="-0p">kêkwayah</w>
 <w canon="ôhi" class="dem" gcat="0pDEM" sgloss="this" stem="ôma" suffix="-0p">ôhi</w>
 <w canon="kâ-asiwatêyiki" class="vii" gcat="0qIIcnj" preverbs="kâ|cnj" sgloss="be_placed_inside" stem="asiwatê" suffix="-yiki">k-âsiwatêyikih</w>
 .
@@ -2855,7 +2855,7 @@
 
 <seg n="78.1">
 <q>
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
 <w canon="kâ-wî-ayâtamihit" class="vta" gcat="3s1sTAcnj" preverbs="kâ|cnj wî|will" sgloss="please" stem="ayâtamih" suffix="-it">kâ-wih-ayâtamihit</w>
 <w canon="nôsisimis" class="nda" extra="dim" gcat="3sNDAof1s" prefix="1" sgloss="grandchild" stem="ôsisim" suffix="0">nôsisimis</w>
@@ -3112,7 +3112,7 @@
 
 <seg n="88.1">
 <q>
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
 <w canon="kâ-wî-atamihit" class="vta" gcat="3s1sTAcnj" preverbs="kâ|cnj wî|will" sgloss="make_grateful" stem="atamih" suffix="-it">kâ-wîh-atamihit</w>
 <w canon="nôsisim" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="grandchild" stem="ôsisim" suffix="0">nôsisim</w>
@@ -3463,7 +3463,7 @@
 <q>
 <w canon="yahâ" class="interj" gcat="INTERJ" sgloss="yah" stem="yahâ">yahâ</w>
 ,
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
 <w canon="kâ-kî-asamâyahk" class="vta" gcat="1i3sTAcnj" preverbs="kâ|cnj kî|can" sgloss="feed" stem="asam" suffix="-âyahk">kî-kîh-asamayah</w>
 ?</q>

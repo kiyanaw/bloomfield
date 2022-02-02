@@ -2805,7 +2805,7 @@
 
 <seg n="83.3">
 <q rend="PRE 0 POST0">
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="êtokê" class="ipc" gcat="IPC" sgloss="I_guess" stem="êtikwê">êtokê</w>
 <w canon="ka-sa-sawêyimâwâwak" class="vta" gcat="2p3pTA" preverbs="ka|will dupL|L.REDUP" sgloss="be_generous_to" stem="sawêyim" suffix="-âwâwak">ka-sa-sawêyimâwâwak</w>
 ,
@@ -2930,7 +2930,7 @@
 
 <seg n="86.2">
 <q rend="PRE0 POST1">
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="êtokê" class="ipc" gcat="IPC" sgloss="I_guess" stem="êtikwê">êtokê</w>
 <w canon="kiyi-oy-ohtinamawak" class="vta" gcat="1s3sTAcnj" preverbs="kiyi|FUT oy|L.REDUP" sgloss="take_from_for" stem="ohtinamaw" suffix="-ak">kiy-ôy-ôhtinamôwak</w>
 ?</q>

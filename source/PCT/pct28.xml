@@ -161,14 +161,14 @@
 
 <seg n="4.3">
 <q rend="PRE 0 POST1">
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="anima" class="dem" gcat="0sDEM" sgloss="that" stem="anima">anima</w>
 :
 <q>
 <w canon="ahpônâni" class="ipc" gcat="IPC" sgloss="of_course_not" stem="ahpônâni">ahpônâni</w>
 <w canon="kîwâc" class="ipc" gcat="IPC" sgloss="failing" stem="kîwâc">kîwâc</w>
 ,</q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="anima" class="dem" gcat="0sDEM" sgloss="that" stem="anima">anim</w>
 <w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwakô</w>
 ?</q>
@@ -344,7 +344,7 @@
 <w canon="ê-wîhtamâht" class="vta" gcat="x3sTAcnj" preverbs="ê|cnj" sgloss="tell_about" stem="wîhtamaw" suffix="-iht">êh-wîhtamâht</w>
 <w canon="ana" class="dem" gcat="3sDEM" sgloss="that" stem="ana">ana</w>
 <w canon="osîkinikêw" class="na" gcat="3sNA" sgloss="bartender" stem="osîkinikêw" suffix="0">osîkinikêw</w>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="kâ-minahiwêt" class="vai" gcat="3sAIcnj" preverbs="kâ|cnj" sgloss="give_ppl_drink" stem="minahiwê" suffix="-t">kâ-minahiwêt</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>

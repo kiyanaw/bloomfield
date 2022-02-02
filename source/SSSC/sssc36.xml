@@ -399,7 +399,7 @@
 
 <seg n="12.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 ,
 <w canon="kâ-tipêyimiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="own" stem="tipêyim" suffix="-iyan">kâ-tipêyimiyan</w>
 ?</q>
@@ -551,7 +551,7 @@
 
 <seg n="19.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="nitawêyihtaman" class="vti" gcat="2sTIcnj" sgloss="want" stem="nitawêyiht" suffix="-aman">nitawêyihtaman</w>
 ,
 <w canon="kâ-tipêyimiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="own" stem="tipêyim" suffix="-iyan">kâ-tipêyimiyan</w>
@@ -959,7 +959,7 @@
 <w canon="ê-waskawît" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="move" stem="waskawî" suffix="-t">êh-waskawît</w>
 ,
 <q>
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 ,
 <w canon="kâ-tipêyimiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="own" stem="tipêyim" suffix="-iyan">kâ-tipêyimiyan</w>
 ,
@@ -1130,7 +1130,7 @@
 
 <seg n="43.1">
 <q>
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="ê-nitawêyihtaman" class="vti" gcat="2sTIcnj" preverbs="ê|cnj" sgloss="want" stem="nitawêyiht" suffix="-aman">êh-ntawêyihtaman</w>
 ,
 <w canon="kâ-tipêyimiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="own" stem="tipêyim" suffix="-iyan">kâ-tipêyimiyan</w>
@@ -1383,7 +1383,7 @@
 
 <seg n="54.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ê-nitawêyihtaman" class="vti" gcat="2sTIcnj" preverbs="ê|cnj" sgloss="want" stem="nitawêyiht" suffix="-aman">êh-ntawêyihtaman</w>
 ?</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>

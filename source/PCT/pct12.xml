@@ -295,7 +295,7 @@
 <w canon="ê-sâkêwêt" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="appear" stem="sâkêwê" suffix="-t">ê-sâkêwêt</w>
 ,
 <w canon="ê-wî-kakwê-wâpahtahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj wî|will kakwê|try_to" sgloss="see" stem="wâpaht" suffix="-ahk">ê-wîh-kakwêh-wâpahtahk</w>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 .
 <gloss>Where a river flowed by, there he went along; concealing himself, but coming forth every now and then, to see what could be seen.</gloss>
 </seg>
@@ -971,7 +971,7 @@
 
 <seg n="16.1">
 <q>
-<w canon="kêkwaya" class="pr" gcat="3o/0pPRq" sgloss="what" stem="kîkway" suffix="-3o/0p">kêkwayah</w>
+<w canon="kîkwâya" class="pr" gcat="3o/0pPRq" sgloss="what" stem="kîkway" suffix="-3o/0p">kêkwayah</w>
 <w canon="kiya" class="pr" gcat="2sPR" sgloss="you" stem="kiya">kiyah</w>
 ?</q>
 <w canon="itinamâk" class="vta" gcat="3o3sTA" sgloss="move_by_hand" stem="itinamaw" suffix="-ik">itinamâk</w>
