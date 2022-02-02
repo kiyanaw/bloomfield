@@ -613,7 +613,7 @@
 <seg n="11.2">
 <q rend="PRE 0 POST1">
 <w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">pikoh</w>
-<w canon="kita-kakwêyâhoyin" class="vai" gcat="2sAIcnj" preverbs="kita|to" sgloss="hurry" stem="kakwêyâho" suffix="-yan">kita-kakwêyâhoyin</w>
+<w canon="kita-kakwêyâhoyan" class="vai" gcat="2sAIcnj" preverbs="kita|to" sgloss="hurry" stem="kakwêyâho" suffix="-yan">kita-kakwêyâhoyan</w>
 <w canon="ta-tapasîyahk" class="vai" gcat="1iAIcnj" preverbs="ta|FUT" sgloss="flee" stem="tapasî" suffix="-yahk">ta-tapasiyahk</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
@@ -2937,7 +2937,7 @@
 <q>
 <w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
-<w canon="ê-osîhtâyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="prepare" stem="osîhtâ" suffix="-yan">êw-osîhtâyin</w>
+<w canon="ê-osîhtâyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="prepare" stem="osîhtâ" suffix="-yan">êw-osîhtâyin</w>
 ?</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 <w canon="êsa" class="ipc" gcat="IPC" sgloss="reportedly" stem="êsa">êsah</w>
@@ -3081,7 +3081,7 @@
 <q>
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
 <w canon="konita" class="ipc" gcat="IPC" sgloss="in_vain" stem="konita">kontah</w>
-<w canon="ta-kî-pîhtokêyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT kî|can" sgloss="enter" stem="pîhtikwê" suffix="-yan">ta-kih-pîhtokêyin</w>
+<w canon="ta-kî-pîhtokêyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT kî|can" sgloss="enter" stem="pîhtikwê" suffix="-yan">ta-kih-pîhtokêyan</w>
 ,</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 <w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôhi</w>
@@ -3095,7 +3095,7 @@
 <w canon="tânitowihk" class="ipc" gcat="IPC" sgloss="in_what_place" stem="tânitowihk">tântôwihk</w>
 <w canon="kiya" class="pr" gcat="2sPR" sgloss="you" stem="kiya">kiya</w>
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
-<w canon="kâ-ôh-kî-nipahikawiyin" class="vta" gcat="x2sTAcnj" preverbs="kâ|cnj ôh|thence kî|can" sgloss="kill" stem="nipah" suffix="-ikawiyan">k-ô-kî-nipahikawiyin</w>
+<w canon="kâ-ôh-kî-nipahikawiyan" class="vta" gcat="x2sTAcnj" preverbs="kâ|cnj ôh|thence kî|can" sgloss="kill" stem="nipah" suffix="-ikawiyan">k-ô-kî-nipahikawiyan</w>
 ?</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 <w canon="êsa" class="ipc" gcat="IPC" sgloss="reportedly" stem="êsa">êsa</w>

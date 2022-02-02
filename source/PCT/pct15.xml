@@ -1459,7 +1459,7 @@
 <w canon="nitohta" class="vti" gcat="2sTIimp" sgloss="listen_to" stem="nitoht" suffix="-a">nitohtah</w>
 <w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">pikw</w>
 <w canon="isi" class="ipc" gcat="IPC" sgloss="thus" stem="isi">îsi</w>
-<w canon="ê-itikawiyin" class="vta" gcat="x2sTAcnj" preverbs="ê|cnj" sgloss="say_to" stem="it" suffix="-ikawiyan">êh-itikawiyin</w>
+<w canon="ê-itikawiyan" class="vta" gcat="x2sTAcnj" preverbs="ê|cnj" sgloss="say_to" stem="it" suffix="-ikawiyan">êh-itikawiyin</w>
 ;
 <w canon="ê-ohtêyimikawiyan" class="vta" gcat="x2sTAcnj" preverbs="ê|cnj" sgloss="be_jealous_of" stem="ohtêyim" suffix="-ikawiyan">êh-ohtêyimikawiyan</w>
 ,

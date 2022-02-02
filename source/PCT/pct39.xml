@@ -863,7 +863,7 @@
 <seg n="23.2">
 <q rend="PRE 0 POST0">
 <w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
-<w canon="ê-sâkihtâyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="love" stem="sâkihtâ" suffix="-yan">ê-sâkihtâyin</w>
+<w canon="ê-sâkihtâyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="love" stem="sâkihtâ" suffix="-yan">ê-sâkihtâyan</w>
 <w canon="niwî-otinên" class="vti" gcat="1sTI" prefix="1" preverbs="wî|will" sgloss="take" stem="otin" suffix="-ên">niwîh-otinên</w>
 .</q>
 <gloss>Now I will take a thing you love.</gloss>
@@ -1228,7 +1228,7 @@
 
 <seg n="33.2">
 <q rend="PRE 0 POST0">
-<w canon="ê-atamihiyin" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj" sgloss="make_grateful" stem="atamih" suffix="-iyan">êh-atamihiyin</w>
+<w canon="ê-atamihiyan" class="vta" gcat="2s1sTAcnj" preverbs="ê|cnj" sgloss="make_grateful" stem="atamih" suffix="-iyan">êh-atamihiyin</w>
 ,
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
 <w canon="wîhkâc" class="ipc" gcat="IPC" sgloss="ever" stem="wîhkâc">wîhkâc</w>
@@ -1276,7 +1276,7 @@
 <w canon="minahôwin" class="ni" gcat="0sNI" sgloss="game_kill" stem="minahôwin" suffix="0">minahôwin</w>
 <w canon="kiwîhtamâk" class="vta" gcat="3s2sTA" prefix="2" sgloss="tell_about" stem="wîhtamaw" suffix="-ik">kiwîhtamâk</w>
 ,
-<w canon="ta-wahkê-nipahtâyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT wahkê|addicted_to" sgloss="kill" stem="nipahtâ" suffix="-yan">ta-wahkêh-nipahtâyin</w>
+<w canon="ta-wahkê-nipahtâyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT wahkê|addicted_to" sgloss="kill" stem="nipahtâ" suffix="-yan">ta-wahkêh-nipahtâyan</w>
 <w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="pisiskiwak" class="na" gcat="3pNA" sgloss="animal" stem="pisiskiw" suffix="-ak">pisiskiwak</w>
 .</q>
@@ -1333,7 +1333,7 @@
 <w canon="môswak" class="na" gcat="3pNA" sgloss="moose" stem="môsw" suffix="-ak">môswak</w>
 <w canon="kimiyitin" class="vta" gcat="1s2sTA" prefix="2" sgloss="give_to" stem="miy" suffix="-itin">kimiyitin</w>
 ,
-<w canon="kita-asamiyin" class="vta" gcat="2s1sTAcnj" preverbs="kita|to" sgloss="feed" stem="asam" suffix="-iyan">kit-âsamiyin</w>
+<w canon="kita-asamiyan" class="vta" gcat="2s1sTAcnj" preverbs="kita|to" sgloss="feed" stem="asam" suffix="-iyan">kit-âsamiyin</w>
 ,
 <w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>

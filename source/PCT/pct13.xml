@@ -616,7 +616,7 @@
 <q rend="PRE 0 POST0">
 <w canon="êkâya" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâya">êkâya</w>
 <w canon="kosta" class="vti" gcat="2sTIimp" sgloss="fear" stem="kost" suffix="-a">kostah</w>
-<w canon="ta-nipahikawiyin" class="vta" gcat="x2sTAcnj" preverbs="ta|FUT" sgloss="kill" stem="nipah" suffix="-ikawiyan">ta-nipahikawiyin</w>
+<w canon="ta-nipahikawiyan" class="vta" gcat="x2sTAcnj" preverbs="ta|FUT" sgloss="kill" stem="nipah" suffix="-ikawiyan">ta-nipahikawiyan</w>
 .</q>
 <gloss>do not fear that you will be slain.</gloss>
 </seg>

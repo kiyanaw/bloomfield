@@ -2696,7 +2696,7 @@
 <w canon="nôhkô" class="nda" extra="voc" gcat="3sNDAof1svoc" prefix="1" sgloss="grandmother" stem="ôhkom">nôhko</w>
 ,
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
-<w canon="kâ-ôh-mîcisoyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence" sgloss="eat" stem="mîciso" suffix="-yan">k-oh-mîcisoyin</w>
+<w canon="kâ-ôh-mîcisoyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence" sgloss="eat" stem="mîciso" suffix="-yan">k-oh-mîcisoyin</w>
 ?</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 <w canon="ôhkoma" class="nda" gcat="3oNDA" sgloss="grandmother" stem="ôhkom" suffix="-a">ôhkoma</w>
@@ -2952,7 +2952,7 @@
 <w canon="hâ" class="ipc" gcat="IPC" sgloss="oh" stem="hâ">hâ</w>
 ,
 <w canon="wiya" class="ipc" gcat="IPC" sgloss="WIYA" stem="wiya">wiy</w>
-<w canon="ê-sâkwêyimoyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_unwilling" stem="sâkwêyimo" suffix="-yan">ê-sâkwêyimoyin</w>
+<w canon="ê-sâkwêyimoyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_unwilling" stem="sâkwêyimo" suffix="-yan">ê-sâkwêyimoyan</w>
 ,
 <w canon="kiyâm" class="ipc" gcat="IPC" sgloss="oh_well" stem="kiyâm">kiyâm</w>
 <w canon="ici" class="ipc" gcat="IPC" sgloss="later" stem="ici">ici</w>
@@ -3552,7 +3552,7 @@
 <q>
 <w canon="kiya" class="pr" gcat="2sPR" sgloss="you" stem="kiya">kiy</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
-<w canon="kâ-misi-wanâtahkamikisiyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="make_mess_of_things" stem="misiwanâtahkamikisi" suffix="-yan">kâ-misi-wanâtahkamikisiyin</w>
+<w canon="kâ-misi-wanâtahkamikisiyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="make_mess_of_things" stem="misiwanâtahkamikisi" suffix="-yan">kâ-misi-wanâtahkamikisiyan</w>
 !</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .
@@ -3875,7 +3875,7 @@
 <q>
 <w canon="nâpêw" class="na" gcat="3sNA" sgloss="man" stem="nâpêw" suffix="0">nâpêw</w>
 </q>
-<w canon="ê-pakosihtâyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="beg_for" stem="pakosihtâ" suffix="-yan">ê-pakosîhtâyin</w>
+<w canon="ê-pakosîhtâyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="beg_for" stem="pakosihtâ" suffix="-yan">ê-pakosîhtâyan</w>
 .</q>
 <gloss>And so at last you have that which you begged for, saying, ‘a man.’</gloss>
 </seg>
@@ -4023,7 +4023,7 @@
 ,
 <w canon="kiya" class="pr" gcat="2sPR" sgloss="you" stem="kiya">kiy</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
-<w canon="kâ-wîwiyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="have_wife" stem="wîwi" suffix="-yan">kâ-wîwiyin</w>
+<w canon="kâ-wîwiyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="have_wife" stem="wîwi" suffix="-yan">kâ-wîwiyan</w>
 .</q>
 <gloss>“Nonsense, brother-in-law, it is you, rather, who have taken her to wife.</gloss>
 </seg>
@@ -4404,7 +4404,7 @@
 !
 <w canon="pêyakwan" class="ipc" gcat="IPC" sgloss="the_same" stem="pêyakwan">pêyakwan</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
-<w canon="kâ-isinâkosiyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="look_thus" stem="isinâkosi" suffix="-yan">kây-isinâkosiyin</w>
+<w canon="kâ-isinâkosiyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="look_thus" stem="isinâkosi" suffix="-yan">kây-isinâkosiyin</w>
 ,
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
 <w canon="kika-isinâkosin" class="vai" gcat="2sAI" prefix="2" preverbs="ka|will" sgloss="look_thus" stem="isinâkosi" suffix="-n">kik-êsinâkosin</w>

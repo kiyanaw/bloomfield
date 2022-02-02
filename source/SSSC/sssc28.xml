@@ -270,7 +270,7 @@
 ,
 <w canon="ê-wî-wîhtamâtân" class="vta" gcat="1s2sTAcnj" preverbs="ê|cnj wî|will" sgloss="tell_about" stem="wîhtamaw" suffix="-itân">ê-wîh-wîhtamâtân</w>
 ,
-<w canon="kita-ôh-owîcimosiyin" class="vai" gcat="2sAIcnj" preverbs="kita|to ôh|thence" sgloss="have_sweetheart" stem="owîcimosi" suffix="-yan">kit-ôh-owîcimosimiyin</w>
+<w canon="kita-ôh-owîcimosiyan" class="vai" gcat="2sAIcnj" preverbs="kita|to ôh|thence" sgloss="have_sweetheart" stem="owîcimosi" suffix="-yan">kit-ôh-owîcimosimiyin</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 ,
@@ -1055,7 +1055,7 @@
 <w canon="kika-kaskikwâtison" class="vai" gcat="2sAI" prefix="2" preverbs="ka|will" sgloss="sew_for_self" stem="kaskikwâtiso" suffix="-n">kika-kaskikwâtison</w>
 ,
 <w canon="ahpô" class="ipc" gcat="IPC" sgloss="even" stem="ahpô">ahpoh</w>
-<w canon="ê-miyomahcihoyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="fare_well" stem="miyomahciho" suffix="-yan">êh-miyômahcihoyin</w>
+<w canon="ê-miyomahcihoyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="fare_well" stem="miyomahciho" suffix="-yan">êh-miyômahcihoyin</w>
 ;</q>
 <gloss>You are never to do your own sewing, even when you are well;</gloss>
 </seg>
@@ -2187,7 +2187,7 @@
 <w canon="nôsisê" class="nda" extra="voc" gcat="3sNDAof1svoc" prefix="1" sgloss="grandchild" stem="ôsisim">nôsisê</w>
 ,
 <w canon="nawac" class="ipc" gcat="IPC" sgloss="more" stem="nawac">nawac</w>
-<w canon="ta-kîwêyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="go_home" stem="kîwê" suffix="-yan">ta-kîwêyin</w>
+<w canon="ta-kîwêyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="go_home" stem="kîwê" suffix="-yan">ta-kîwêyan</w>
 ,
 <w canon="wâpahki" class="ipc" gcat="IPC" sgloss="tomorrow" stem="wâpahki">wâpahkih</w>
 .</q>
@@ -2958,7 +2958,7 @@
 <w canon="aspapiwin" class="ni" gcat="0sNI" sgloss="saddle" stem="aspapiwin" suffix="0">aspapiwin</w>
 ,
 <w canon="ohcitaw" class="ipc" gcat="IPC" sgloss="expressly" stem="ohcitaw">ohcitaw</w>
-<w canon="ta-kîwê-têhtapiyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT kîwê|back" sgloss="be_mounted" stem="têhtapi" suffix="-yan">ta-kîwê-têhtapiyin</w>
+<w canon="ta-kîwê-têhtapiyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT kîwê|back" sgloss="be_mounted" stem="têhtapi" suffix="-yan">ta-kîwê-têhtapiyan</w>
 ,</q>
 <w canon="kika-itik" class="vta" gcat="3s2sTA" prefix="2" preverbs="ka|will" sgloss="say_to" stem="it" suffix="-ik">kik-êtik</w>
 ,
@@ -3701,7 +3701,7 @@
 ,
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkos</w>
 <w canon="ani" class="ipc" gcat="IPC" sgloss="then" stem="ani">âni</w>
-<w canon="ta-pê-kîwêyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT pê|thence" sgloss="go_home" stem="kîwê" suffix="-yan">ta-pê-kîwêyin</w>
+<w canon="ta-pê-kîwêyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT pê|thence" sgloss="go_home" stem="kîwê" suffix="-yan">ta-pê-kîwêyan</w>
 .</q>
 <gloss>“But if he puts you on its back, then indeed you will come home.</gloss>
 </seg>
@@ -4122,12 +4122,12 @@
 ,
 <w canon="tita-otinaman" class="vti" gcat="2sTIcnj" preverbs="kita|to" sgloss="take" stem="otin" suffix="-aman">tit-ôtinaman</w>
 ,
-<w canon="ci-ta-âpacihtâyin" class="vai" gcat="2sAIcnj" preverbs="ci|so_that ta|FUT" sgloss="use" stem="âpacihtâ" suffix="-yan">ci-t-âpacihtâyin</w>
+<w canon="ci-ta-âpacihtâyan" class="vai" gcat="2sAIcnj" preverbs="ci|so_that ta|FUT" sgloss="use" stem="âpacihtâ" suffix="-yan">ci-t-âpacihtâyin</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">ô</w>
 <w canon="ka-miyitân" class="vta" gcat="1s2sTAcnj" preverbs="ka|will" sgloss="give_to" stem="miy" suffix="-itân">ka-miyitân</w>
 <w canon="nitêm" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="dog" stem="têm" suffix="0">ntêm</w>
 ,
-<w canon="ta-kîwêyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="go_home" stem="kîwê" suffix="-yan">ta-kîwêyin</w>
+<w canon="ta-kîwêyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="go_home" stem="kîwê" suffix="-yan">ta-kîwêyan</w>
 .</q>
 <gloss>Over on this side you will see a beaded saddle, and an excellent rawhide thong bridle, that you may take to use on this my horse which I shall give you, when you go home.”</gloss>
 </seg>
@@ -5046,7 +5046,7 @@
 <q rend="PRE 0 POST1">
 <w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">iyikoh</w>
 <w canon="mâna" class="ipc" gcat="IPC" sgloss="usually" stem="mâna">mâna</w>
-<w canon="kâ-koskoniyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="awaken_by_hand" stem="koskon" suffix="-iyan">kâ-koskoniyin</w>
+<w canon="kâ-koskoniyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="awaken_by_hand" stem="koskon" suffix="-iyan">kâ-koskoniyan</w>
 ,
 <w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
 <w canon="ka-koskonin" class="vta" gcat="2s1sTA" preverbs="ka|will" sgloss="awaken_by_hand" stem="koskon" suffix="-in">ka-koskonin</w>
@@ -5327,7 +5327,7 @@
 <q rend="PRE 0 POST1">
 <w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">iyikoh</w>
 <w canon="mâna" class="ipc" gcat="IPC" sgloss="usually" stem="mâna">mâna</w>
-<w canon="kâ-koskoniyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="awaken_by_hand" stem="koskon" suffix="-iyan">kâ-koskoniyin</w>
+<w canon="kâ-koskoniyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="awaken_by_hand" stem="koskon" suffix="-iyan">kâ-koskoniyan</w>
 ,
 <w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikoh</w>
 <w canon="koskonîhkan" class="vta" gcat="2s1sTAdelimp" sgloss="awaken_by_hand" stem="koskon" suffix="-îhkan">koskonihkân</w>
@@ -5700,7 +5700,7 @@
 <w canon="nôsisê" class="nda" extra="voc" gcat="3sNDAof1svoc" prefix="1" sgloss="grandchild" stem="ôsisim">nôsisê</w>
 ,
 <w canon="wâhyaw" class="ipc" gcat="IPC" sgloss="far_away" stem="wâhyaw">wâhyaw</w>
-<w canon="kâ-ohtohtêyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="come_from" stem="ohtohtê" suffix="-yan">k-ôhtohtêyin</w>
+<w canon="kâ-ohtohtêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="come_from" stem="ohtohtê" suffix="-yan">k-ôhtohtêyin</w>
 .</q>
 <gloss>“Now then, my grandson, you have come from afar.</gloss>
 </seg>
@@ -7035,10 +7035,10 @@
 <w canon="ê-kî-itêyimitân" class="vta" gcat="1s2sTAcnj" preverbs="ê|cnj kî|PAST" sgloss="think_thus_of" stem="itêyim" suffix="-itân">ê-kîh-itêyimitân</w>
 ,
 <w canon="anima" class="dem" gcat="0sDEM" sgloss="that" stem="anima">anima</w>
-<w canon="kâ-kî-tôtawiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj kî|PAST" sgloss="do_thus_to" stem="tôtaw" suffix="-iyan">ka-kîh-tôtawiyin</w>
+<w canon="kâ-kî-tôtawiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj kî|PAST" sgloss="do_thus_to" stem="tôtaw" suffix="-iyan">ka-kîh-tôtawiyin</w>
 ,
 <w canon="kêkâc" class="ipc" gcat="IPC" sgloss="almost" stem="kêkâc">kêkâc</w>
-<w canon="kâ-nipahiyin" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="kill" stem="nipah" suffix="-iyan">kâ-nipahiyin</w>
+<w canon="kâ-nipahiyan" class="vta" gcat="2s1sTAcnj" preverbs="kâ|cnj" sgloss="kill" stem="nipah" suffix="-iyan">kâ-nipahiyan</w>
 ?</q>
 <gloss>“Why, when I thought of you, ‘He loves me,’ did you do that to me, when you nearly killed me?</gloss>
 </seg>
@@ -7516,7 +7516,7 @@
 <w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistah</w>
 <w canon="êcika" class="ipc" gcat="IPC" sgloss="what_is_this" stem="êcika">êcik</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
-<w canon="ê-kakêpâtisiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_foolish" stem="kakêpâtisi" suffix="-yan">êh-kakêpâtisiyin</w>
+<w canon="ê-kakêpâtisiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="be_foolish" stem="kakêpâtisi" suffix="-yan">êh-kakêpâtisiyin</w>
 !</q>
 <gloss>When they had sat down there, “And so it appears that you are of a most evil nature!</gloss>
 </seg>

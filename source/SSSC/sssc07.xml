@@ -482,7 +482,7 @@
 <w canon="aspin" class="ipc" gcat="IPC" sgloss="off" stem="aspin">aspin</w>
 ,
 <w canon="kâ-pêhtamân" class="vti" gcat="1sTIcnj" preverbs="kâ|cnj" sgloss="hear" stem="pêht" suffix="-amân">kâ-pêhtamân</w>
-<w canon="ê-nikohtêyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="collect_firewood" stem="nikohtê" suffix="-yan">ê-nikohtêyin</w>
+<w canon="ê-nikohtêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="collect_firewood" stem="nikohtê" suffix="-yan">ê-nikohtêyan</w>
 !</q>
 <gloss>“Dear me, little brother, for a long time, ever since four nights ago, I have heard you chopping!”</gloss>
 </seg>
@@ -867,7 +867,7 @@
 <w canon="kâ-ôh-kaskihtâyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence" sgloss="be_able_to_do" stem="kaskihtâ" suffix="-yan">k-ôh-kaskihtâyin</w>
 ,
 <w canon="tahki" class="ipc" gcat="IPC" sgloss="always" stem="tahki">tahkih</w>
-<w canon="ê-nikohtêyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="collect_firewood" stem="nikohtê" suffix="-yan">ê-nikohtêyin</w>
+<w canon="ê-nikohtêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="collect_firewood" stem="nikohtê" suffix="-yan">ê-nikohtêyan</w>
 <w canon="tahto-kîsikâw" class="ipc" gcat="IPC" sgloss="every_day" stem="tahto-kîsikâw">tahto-kîsikâw</w>
 ?</q>
 <gloss>“But why is it you accomplish nothing, when you are always a-chopping every day?”</gloss>
@@ -1090,7 +1090,7 @@
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
 <w canon="nânitaw" class="ipc" gcat="IPC" sgloss="simply" stem="nânitaw">nântaw</w>
 <w canon="ka-kî-ohtinamâson" class="vai" gcat="2sAI" preverbs="ka|will kî|can" sgloss="take_for_self" stem="ohtinamâso" suffix="-n">ka-kîh-ohtinamâson</w>
-<w canon="ta-mîciyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="eat" stem="mîci" suffix="-yan">ta-mîciyin</w>
+<w canon="ta-mîciyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="eat" stem="mîci" suffix="-yan">ta-mîciyan</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 <w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôhi</w>
@@ -1283,7 +1283,7 @@
 <w canon="sôniyâw" class="na" gcat="3sNA" sgloss="gold" stem="sôniyâw" suffix="0">sôniyâw</w>
 <w canon="kâ-ohtinak" class="vta" gcat="1s3sTAcnj" preverbs="kâ|cnj" sgloss="take_from_there" stem="ohtin" suffix="-ak">k-ôhtinak</w>
 <w canon="kîsta" class="pr" gcat="2sPRc" sgloss="you" stem="kîsta">kîstah</w>
-<w canon="pê-itohtêyin" class="vai" gcat="2sAIcnj" preverbs="pê|thence" sgloss="go" stem="itohtê" suffix="-yan">pêy-itohtêyin</w>
+<w canon="pê-itohtêyan" class="vai" gcat="2sAIcnj" preverbs="pê|thence" sgloss="go" stem="itohtê" suffix="-yan">pêy-itohtêyin</w>
 ,</q>
 <w canon="kika-itâw" class="vta" gcat="2s3sTA" prefix="2" preverbs="ka|will" sgloss="say_to" stem="it" suffix="-âw">kik-êtâw</w>
 .</q>
@@ -1587,7 +1587,7 @@
 <seg n="49.1">
 <q rend="PRE 1 POST0">
 <w canon="tânisi" class="ipc" gcat="IPC" sgloss="how" stem="tânisi">tânisi</w>
-<w canon="kâ-ôh-pê-kîwêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence pê|thence" sgloss="go_home" stem="kîwê" suffix="-yan">k-ôh-pê-kîwêyin</w>
+<w canon="kâ-ôh-pê-kîwêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence pê|thence" sgloss="go_home" stem="kîwê" suffix="-yan">k-ôh-pê-kîwêyan</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
 <w canon="wîhkâc" class="ipc" gcat="IPC" sgloss="ever" stem="wîhkâc">wîhkâc</w>
 <w canon="nôhtaw" class="ipc" gcat="IPC" sgloss="less" stem="nôhtaw">nôhtaw</w>
@@ -1602,7 +1602,7 @@
 <w canon="nîsosâp" class="ipc" gcat="IPC" sgloss="twelve" stem="nîsosâp">nîsosâp</w>
 <w canon="tipahikan" class="ni" gcat="0sNI" sgloss="measure" stem="tipahikan" suffix="0">tipahikan</w>
 <w canon="mâna" class="ipc" gcat="IPC" sgloss="usually" stem="mâna">mâna</w>
-<w canon="kâ-pê-âpihta-kîsikâw-mîcisoyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj pê|thence" sgloss="eat_lunch" stem="âpihtâ-kîsikani-mîciso" suffix="-yan">kâ-pê-âpihta-kîsikâw-mîcisoyin</w>
+<w canon="kâ-pê-âpihta-kîsikâw-mîcisoyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj pê|thence" sgloss="eat_lunch" stem="âpihtâ-kîsikani-mîciso" suffix="-yan">kâ-pê-âpihta-kîsikâw-mîcisoyan</w>
 .</q>
 <gloss>It is always twelve o'clock that you come home to eat dinner.</gloss>
 </seg>
@@ -1750,7 +1750,7 @@
 <q>
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="wâh-wîpac" class="ipc" gcat="IPC" sgloss="quite_often" stem="wâh-wîpac">wâh-wîpac</w>
-<w canon="ê-pê-kîwêyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj pê|thence" sgloss="go_home" stem="kîwê" suffix="-yan">êh-pê-kîwêyin</w>
+<w canon="ê-pê-kîwêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj pê|thence" sgloss="go_home" stem="kîwê" suffix="-yan">êh-pê-kîwêyan</w>
 !</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 .

@@ -930,7 +930,7 @@
 
 <seg n="26.3">
 <q rend="PRE 0 POST0">
-<w canon="kâ-wîkiyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="live_there" stem="wîki" suffix="-yan">kâ-wîkiyin</w>
+<w canon="kâ-wîkiyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="live_there" stem="wîki" suffix="-yan">kâ-wîkiyan</w>
 <w canon="âstamita" class="ipc" gcat="IPC" sgloss="later" stem="âstamita">âstam-itah</w>
 <w canon="kâ-sakâk" class="vii" gcat="0sIIcnj" preverbs="kâ|cnj" sgloss="be_bush" stem="sakâ" suffix="-k">kâ-sakâk</w>
 ,
@@ -947,7 +947,7 @@
 <q rend="PRE 0 POST0">
 <w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
 <w canon="kika-ohtinên" class="vti" gcat="2sTI" prefix="2" preverbs="ka|will" sgloss="take_from_there" stem="ohtin" suffix="-ên">kik-ôhtinên</w>
-<w canon="kita-asamiyin" class="vta" gcat="2s1sTAcnj" preverbs="kita|to" sgloss="feed" stem="asam" suffix="-iyan">kit-âsamiyin</w>
+<w canon="kita-asamiyan" class="vta" gcat="2s1sTAcnj" preverbs="kita|to" sgloss="feed" stem="asam" suffix="-iyan">kit-âsamiyin</w>
 .</q>
 <gloss>From there you will get that with which to feed me.</gloss>
 </seg>

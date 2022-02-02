@@ -89,7 +89,7 @@
 <w canon="kika-miyitin" class="vta" gcat="1s2sTA" prefix="2" preverbs="ka|will" sgloss="give_to" stem="miy" suffix="-itin">kika-miyitin</w>
 ;
 <w canon="kimiyitin" class="vta" gcat="1s2sTA" prefix="2" sgloss="give_to" stem="miy" suffix="-itin">kimiyitin</w>
-<w canon="ta-okimâwiyin" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="be_chief" stem="okimâwi" suffix="-yan">tah-okimâwiyin</w>
+<w canon="ta-okimâwiyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="be_chief" stem="okimâwi" suffix="-yan">tah-okimâwiyin</w>
 .</q>
 <gloss>Four nights from now I shall give it thee; I shall give thee chieftainship.</gloss>
 </seg>
@@ -98,7 +98,7 @@
 <q rend="PRE 0 POST1">
 <w canon="osâm" class="ipc" gcat="IPC" sgloss="too_much" stem="osâm">osâm</w>
 <w canon="kikitimâkisin" class="vai" gcat="2sAI" prefix="2" sgloss="be_pitiable" stem="kitimâkisi" suffix="-n">kikitimâkisin</w>
-<w canon="ê-nôhtê-okimâwiyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj nôhtê|want_to" sgloss="be_chief" stem="okimâwi" suffix="-yan">êh-nôhtê-okimâwiyin</w>
+<w canon="ê-nôhtê-okimâwiyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj nôhtê|want_to" sgloss="be_chief" stem="okimâwi" suffix="-yan">êh-nôhtê-okimâwiyan</w>
 .</q>
 <gloss>Too pitiable is thy plight in thy longing to be a chief.”</gloss>
 </seg>
@@ -171,7 +171,7 @@
 <seg n="3.1">
 <q>
 <w canon="tânitê" class="ipc" gcat="IPC" sgloss="where" stem="tânitê">tântêh</w>
-<w canon="ê-wî-itohtêyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj wî|will" sgloss="go" stem="itohtê" suffix="-yan">ê-wîh-tohtêyin</w>
+<w canon="ê-wî-itohtêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj wî|will" sgloss="go" stem="itohtê" suffix="-yan">ê-wîh-tohtêyan</w>
 ?</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 <w canon="wîstâwa" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="cousin" stem="îstâw" suffix="-a">wîstâwah</w>
@@ -466,7 +466,7 @@
 <w canon="mîkiwâhpihk" class="ni" gcat="0locNI" sgloss="lodge" stem="mîkiwâhp" suffix="-ihk">mîkiwâhpihk</w>
 ,
 <w canon="mîkiwâhpihk" class="ni" gcat="0locNI" sgloss="lodge" stem="mîkiwâhp" suffix="-ihk">mîkiwâhpihk</w>
-<w canon="kâ-itâmoyin" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="flee" stem="itâmo" suffix="-yan">k-êtâmoyin</w>
+<w canon="kâ-itâmoyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="flee" stem="itâmo" suffix="-yan">k-êtâmoyin</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .

@@ -371,7 +371,7 @@
 ,
 <q>
 <w canon="tânitê" class="ipc" gcat="IPC" sgloss="where" stem="tânitê">tânt</w>
-<w canon="ê-kî-ayâyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj kî|PAST" sgloss="be" stem="ayâ" suffix="-yan">êh-kîh-ayâyin</w>
+<w canon="ê-kî-ayâyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj kî|PAST" sgloss="be" stem="ayâ" suffix="-yan">êh-kîh-ayâyin</w>
 ?</q>
 <gloss>then, “Where have you been?”</gloss>
 </seg>
@@ -762,7 +762,7 @@
 <seg n="24.1">
 <q>
 <w canon="tânitê" class="ipc" gcat="IPC" sgloss="where" stem="tânitê">tântêh</w>
-<w canon="ê-kî-itohtêyin" class="vai" gcat="2sAIcnj" preverbs="ê|cnj kî|PAST" sgloss="go" stem="itohtê" suffix="-yan">ê-kîh-tohtêyin</w>
+<w canon="ê-kî-itohtêyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj kî|PAST" sgloss="go" stem="itohtê" suffix="-yan">ê-kîh-tohtêyan</w>
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mînah</w>
 ?</q>
@@ -804,7 +804,7 @@
 <w canon="awâsis" class="na" gcat="3sNA" sgloss="child" stem="awâsis" suffix="0">awâsis</w>
 ,
 <w canon="konita" class="ipc" gcat="IPC" sgloss="in_vain" stem="konita">kontah</w>
-<w canon="kâ-papâmâcihoyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="travel_about" stem="papâmâciho" suffix="-yan">kâ-ppâmâcihoyin</w>
+<w canon="kâ-papâmâcihoyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="travel_about" stem="papâmâciho" suffix="-yan">kâ-ppâmâcihoyan</w>
 ;</q>
 <gloss>For you will bring the children to grief wandering about in this needless way;</gloss>
 </seg>
