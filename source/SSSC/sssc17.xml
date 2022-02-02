@@ -70,7 +70,7 @@
 <w canon="sikâkwa" class="na" gcat="3oNA" sgloss="skunk" stem="sikâkw" suffix="-a">sikâkwah</w>
 ,
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="otawâsimisa" class="na" extra="im" gcat="3oNAof3s" prefix="3" sgloss="child" stem="awâsis" suffix="-a">otawâsimisah</w>
 .
 <gloss>Once upon a time there dwelt somewhere Badger and his wife, Skunk, and they had no children at all.</gloss>
@@ -95,7 +95,7 @@
 <seg n="1.3">
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="nihtâ-nipahtâw" class="vai" gcat="3sAI" preverbs="nihtâ|good_at" sgloss="kill" stem="nipahtâ" suffix="-w">nihtah-nipahtâw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
 <w canon="wâkayôs" class="na" gcat="3sNA" sgloss="bear" stem="wâkayôs" suffix="0">wâkayôs</w>
@@ -226,7 +226,7 @@
 <seg n="5.3">
 <q rend="PRE 0 POST0">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="nitayân" class="vai" gcat="1sAI" prefix="1" sgloss="have" stem="ayâ" suffix="-n">nitayân</w>
 <w canon="ta-mîciyân" class="vai" gcat="1sAIcnj" preverbs="ta|FUT" sgloss="eat" stem="mîci" suffix="-yân">ta-mîciyân</w>
 ;</q>
@@ -297,7 +297,7 @@
 <w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
 <w canon="kisiwâk" class="ipc" gcat="IPC" sgloss="nearby" stem="kisiwâk">kisiwâk</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="mostos" class="na" gcat="3sNA" sgloss="cattle" stem="mostosw" suffix="0">mostos</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
@@ -346,7 +346,7 @@
 <q rend="PRE 0 POST1">
 <w canon="anohc" class="ipc" gcat="IPC" sgloss="now" stem="anohc">anohc</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="nimîcison" class="vai" gcat="1sAI" prefix="1" sgloss="eat" stem="mîciso" suffix="-n">nimîcison</w>
 <w canon="nîsta" class="pr" gcat="1sPRc" sgloss="I" stem="nîsta">nîsta</w>
 ,</q>
@@ -582,7 +582,7 @@
 <w canon="otinamwak" class="vti" gcat="3pTI" sgloss="take" stem="otin" suffix="-amwak">otinamwak</w>
 ;
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wêpinamwak" class="vti" gcat="3pTI" sgloss="throw_away" stem="wêpin" suffix="-amwak">wêpinamwak</w>
 .
 <gloss>Then they cleaned them and took off the hides and took all the flesh; they wasted none of it.</gloss>
@@ -736,7 +736,7 @@
 <w canon="otinêwak" class="vta" gcat="3p3oTA" sgloss="take" stem="otin" suffix="-êwak">otinêwak</w>
 ;
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wêpinamwak" class="vti" gcat="3pTI" sgloss="throw_away" stem="wêpin" suffix="-amwak">wêpinamwak</w>
 .
 <gloss>These, too, they took entirely; they threw nothing away.</gloss>
@@ -1419,7 +1419,7 @@
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
 <w canon="mitoni" class="ipc" gcat="IPC" sgloss="intensively" stem="mitoni">mitoni</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ayâw" class="vai" gcat="3sAI" sgloss="have" stem="ayâ" suffix="-w">ayâw</w>
 <w canon="ta-mîcit" class="vai" gcat="3sAIcnj" preverbs="ta|FUT" sgloss="eat" stem="mîci" suffix="-t">ta-mîcit</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
@@ -1447,7 +1447,7 @@
 <w canon="piyis" class="ipc" gcat="IPC" sgloss="finally" stem="piyis">piyis</w>
 <w canon="kinwês" class="ipc" gcat="IPC" sgloss="for_a_long_time" stem="kinwês">kinwês</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="mîciw" class="vai" gcat="3sAI" sgloss="eat" stem="mîci" suffix="-w">mîciw</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
 <w canon="mistanask" class="na" gcat="3sNA" sgloss="badger" stem="mistanaskw" suffix="0">mistanask</w>
@@ -1725,7 +1725,7 @@
 <w canon="kîwê" class="vai" gcat="2sAIimp" sgloss="go_home" stem="kîwê" suffix="0">kîwê</w>
 !
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kika-ayân" class="vai" gcat="2sAI" prefix="2" preverbs="ka|will" sgloss="have" stem="ayâ" suffix="-n">kik-âyân</w>
 <w canon="wiyâs" class="ni" gcat="0sNI" sgloss="meat" stem="wiyâs" suffix="0">wiyâs</w>
 ,</q>
@@ -1867,7 +1867,7 @@
 
 <seg n="45.2">
 <q rend="PRE 0 POST0">
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="kê-postayôwinisêt" class="vai" gcat="3sAIcnj" preverbs="kê|IC+FUT" sgloss="put_on_clothes" stem="postayôwinisê" suffix="-t">kê-postayôwinisêt</w>
 ?</q>
 <gloss>What is he to wear?</gloss>
@@ -2562,7 +2562,7 @@
 <seg n="76.3">
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="mîcisôwak" class="vai" gcat="3pAI" sgloss="eat" stem="mîciso" suffix="-wak">mîcisôwak</w>
 .
 <gloss>Now they had nothing to eat.</gloss>
@@ -4686,7 +4686,7 @@
 <seg n="147.3">
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kî-miciminamiyiwa" class="vti" gcat="3oTI" preverbs="kî|can" sgloss="hold_on_to" stem="micimin" suffix="-amiyiwa">kîh-miciminamiyiwa</w>
 .
 <gloss>So now the other could not hold anything.</gloss>
@@ -7027,7 +7027,7 @@
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 .</q>
 <gloss>And, therefore, nothing at all.”</gloss>
 </seg>
@@ -7039,7 +7039,7 @@
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="âcimowin" class="ni" gcat="0sNI" sgloss="story" stem="âcimowin" suffix="0">âcimowin</w>
 .
 <gloss>And so there is nothing at all of my tale.</gloss>

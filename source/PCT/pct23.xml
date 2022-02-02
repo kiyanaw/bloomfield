@@ -748,7 +748,7 @@
 
 <seg n="15.13">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="nipiy" class="ni" gcat="0sNI" sgloss="water" stem="nipiy" suffix="0">nipiy</w>
 <w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
 <w canon="ayâw" class="vai" gcat="3sAI" sgloss="have" stem="ayâ" suffix="-w">ayâw</w>
@@ -867,7 +867,7 @@
 
 <seg n="15.26">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="mêskanaw" class="ni" gcat="0sNI" sgloss="path" stem="mêskanaw" suffix="0">mêskanaw</w>
 .
 <gloss>The road was not there.</gloss>
@@ -879,7 +879,7 @@
 <seg n="16.1">
 <q rend="PRE 1 POST0">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="mêskanaw" class="ni" gcat="0sNI" sgloss="path" stem="mêskanaw" suffix="0">mêskanaw</w>
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 ;</q>
@@ -949,7 +949,7 @@
 
 <seg n="19.1">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="âsay" class="ipc" gcat="IPC" sgloss="already" stem="âsay">âsay</w>
 <w canon="mîcisôwin" class="ni" gcat="0sNI" sgloss="eating" stem="mîcisowin" suffix="0">mîcisôwin</w>
 .
@@ -1218,7 +1218,7 @@
 <w canon="hâ" class="ipc" gcat="IPC" sgloss="well" stem="hâ">hâ</w>
 ,
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="cistêmâw" class="na" gcat="3sNA" sgloss="tobacco" stem="cistêmâw" suffix="0">cistêmâw</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>

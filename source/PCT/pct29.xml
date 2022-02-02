@@ -467,7 +467,7 @@
 
 <seg n="11.3">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="nipiy" class="ni" gcat="0sNI" sgloss="water" stem="nipiy" suffix="0">nipiy</w>
 <w canon="kî-miskamwak" class="vti" gcat="3pTI" preverbs="kî|can" sgloss="find" stem="misk" suffix="-amwak">kîh-miskamwak</w>
 .

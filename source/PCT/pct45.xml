@@ -211,7 +211,7 @@
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="wiya" class="ipc" gcat="IPC" sgloss="WIYA" stem="wiya">wiyah</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wâpahtam" class="vti" gcat="3sTI" sgloss="see" stem="wâpaht" suffix="-am">wâpahtam</w>
 <w canon="tê-mîcisot" class="vai" gcat="3sAIcnj" prefix="IC" preverbs="ta|FUT" sgloss="eat" stem="mîciso" suffix="-t">tê-mîcisot</w>
 .
@@ -643,7 +643,7 @@
 <w canon="ê-mîsît" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="shit" stem="mîsî" suffix="-t">êh-mîsît</w>
 :
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="mahtâmina" class="na" gcat="3oNA" sgloss="corn_grain" stem="mahtâmin" suffix="-a">mahtâminah</w>
 ,
 <w canon="pisisik" class="ipc" gcat="IPC" sgloss="always" stem="pisisik">pisisik</w>

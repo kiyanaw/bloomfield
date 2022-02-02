@@ -565,7 +565,7 @@
 <q>
 <w canon="tânisi" class="ipc" gcat="IPC" sgloss="how" stem="tânisi">tânisi</w>
 <w canon="ôhi" class="dem" gcat="3o/0pDEM" sgloss="this" stem="awa" suffix="-3o/0p">ôh</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ê-isi-môhcôwisiyêk" class="vai" gcat="2pAIcnj" preverbs="ê|cnj isi|thus" sgloss="be_crazy" stem="môhcôwisi" suffix="-yêk">êh-isi-môhcôwisiyêk</w>
 ?</q>
 <gloss>“What on earth makes you act this crazy way?”</gloss>
@@ -621,7 +621,7 @@
 
 <seg n="22.2">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kotawânâpisk" class="ni" gcat="0sNI" sgloss="stove" stem="kotawânâpisk" suffix="0">kotawânâpisk</w>
 .
 <gloss>There was no stove.</gloss>

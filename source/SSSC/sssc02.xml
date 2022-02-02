@@ -125,7 +125,7 @@
 ;
 <q>
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="nîswayak" class="ipc" gcat="IPC" sgloss="two_ways" stem="nîswayak">nîswayak</w>
 <w canon="isiyîhkâtêw" class="vii" gcat="0sII" sgloss="be_called_thus" stem="isiyîhkâtê" suffix="-w">isiyîhkâtêw</w>
 .</q>
@@ -344,7 +344,7 @@
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
 ;
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="nîsoyîhkâtêw" class="vii" gcat="0sII" sgloss="have_two_names" stem="nîsoyîhkâtê" suffix="-w">nîsoyîhkâtêw</w>
 ,</q>
 <w canon="nititikonân" class="vta" gcat="3s1eTA" prefix="1" sgloss="say_to" stem="it" suffix="-ikonân">nitikonân</w>
@@ -1115,7 +1115,7 @@
 <w canon="otinêw" class="vta" gcat="3s3oTA" sgloss="take" stem="otin" suffix="-êw">otinêw</w>
 ;
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 .
 <gloss>It lay there in the water; he reached to take it; there was nothing.</gloss>
 </seg>
@@ -1125,7 +1125,7 @@
 <w canon="ômayikohk" class="ipc" gcat="IPC" sgloss="this_much" stem="ômayikohk">omayikohk</w>
 ;
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 .
 <gloss>At last as far as this; nothing.</gloss>
 </seg>
@@ -1175,7 +1175,7 @@
 <w canon="kâskatâwahkinikêw" class="vai" gcat="3sAI" sgloss="scrape_ground" stem="kâskatâwahkinikê" suffix="-w">kâskatâwahkinikêw</w>
 ;
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 .
 <gloss>Way out he was scratching up gravel from the bed of the stream; nothing.</gloss>
 </seg>
@@ -1837,7 +1837,7 @@
 <w canon="kî-pihkohow" class="vai" gcat="3sAI" preverbs="kî|can" sgloss="free_self" stem="pihkoho" suffix="-w">kih-pihkohôw</w>
 ,
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="pêmohtêyici" class="vai" gcat="3oAIsubjunc" prefix="IC" sgloss="go_along" stem="pimohtê" suffix="-yici">pêmohtêyic</w>
 <w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
 ,
@@ -1899,7 +1899,7 @@
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
 <w canon="nanâtohk" class="ipc" gcat="IPC" sgloss="variously" stem="nanâtohk">nanâtohk</w>
 <w canon="ôhi" class="dem" gcat="3oDEM" sgloss="this" stem="awa" suffix="-3o">ôhih</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkwah</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkwah</w>
 .
 <gloss>“Let him stay where he is, when he takes his seat anywhere,” those different creatures said to him.</gloss>
 </seg>

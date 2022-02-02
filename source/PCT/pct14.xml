@@ -671,7 +671,7 @@
 <q rend="PRE 0 POST1">
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
 <w canon="ôhi" class="dem" gcat="0pDEM" sgloss="this" stem="ôma" suffix="-0p">ôhih</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kâ-miywâsiki" class="vii" gcat="0pIIcnj" preverbs="kâ|cnj" sgloss="be_good" stem="miywâsin" suffix="-ki">kâ-miywâsikih</w>
 <w canon="kiya" class="pr" gcat="2sPR" sgloss="you" stem="kiya">kiya</w>
 <w canon="kitâyân" class="vai" gcat="1sAIcnj" sgloss="eat_up" stem="kitâ" suffix="-yân">kitâyân</w>
@@ -887,7 +887,7 @@
 <w canon="itê" class="ipc" gcat="IPC" sgloss="there" stem="itê">itêh</w>
 <w canon="kâ-itohtêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="go" stem="itohtê" suffix="-yan">k-êtohtêyin</w>
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kakî-wâpahtên" class="vti" gcat="2sTI" preverbs="ka|will kî|can" sgloss="see" stem="wâpaht" suffix="-ên">kakîh-wâpahtên</w>
 <w canon="iskwêwak" class="na" gcat="3pNA" sgloss="woman" stem="iskwêw" suffix="-ak">iskwêwak</w>
 <w canon="osikâkwaniwâwa" class="ndi" gcat="0pNDIof3p" prefix="3" sgloss="calf" stem="sikâkwan" suffix="-iwâwa">osikâkwaniwâwa</w>
@@ -1359,7 +1359,7 @@
 <seg n="33.3">
 <q rend="PRE 0 POST0">
 <w canon="nânitaw" class="ipc" gcat="IPC" sgloss="simply" stem="nânitaw">nântaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wâpahtamani" class="vti" gcat="2sTIsubjunc" sgloss="see" stem="wâpaht" suffix="-amani">wâpahtamanih</w>
 ,
 <w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
@@ -1378,7 +1378,7 @@
 ,
 <w canon="kika-otinên" class="vti" gcat="2sTI" prefix="2" preverbs="ka|will" sgloss="take" stem="otin" suffix="-ên">kik-ôtinên</w>
 <w canon="tahto" class="ipc" gcat="IPC" sgloss="so_many" stem="tahto">tahto</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ê-ayât" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="have" stem="ayâ" suffix="-t">êh-ayât</w>
 .</q>
 <gloss>and when you have done this, you will take as many things as he has.</gloss>

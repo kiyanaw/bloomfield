@@ -175,7 +175,7 @@
 <seg n="3.6">
 <w canon="piyis" class="ipc" gcat="IPC" sgloss="finally" stem="piyis">piyis</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="mîciwak" class="vai" gcat="3pAI" sgloss="eat" stem="mîci" suffix="-wak">mîciwak</w>
 .
 <gloss>At last they had nothing to eat.</gloss>
@@ -199,7 +199,7 @@
 
 <seg n="3.8">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="mîciwak" class="vai" gcat="3pAI" sgloss="eat" stem="mîci" suffix="-wak">mîciwak</w>
 .
 <gloss>They had nothing to eat.</gloss>
@@ -501,7 +501,7 @@
 <w canon="wîcimosa" class="nda" gcat="3oNDAof3s" prefix="3" sgloss="sweetheart" stem="îcimos" suffix="-a">wîcimosah</w>
 ,
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="kâ-nîmâyêk" class="vai" gcat="2pAIcnj" preverbs="kâ|cnj" sgloss="take_provisions" stem="nîmâ" suffix="-yêk">kâ-nîmâyâk</w>
 ?</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
@@ -513,7 +513,7 @@
 <p n="13">
 
 <seg n="13.1">
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="natonamwêw" class="vti" gcat="3sTIrel3o" sgloss="look_for" stem="naton" suffix="-amwêw">natonamwêw</w>
 :
 <w canon="pôti" class="ipc" gcat="IPC" sgloss="lo_and_behold" stem="pôti">pôt</w>

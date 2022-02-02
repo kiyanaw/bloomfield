@@ -453,7 +453,7 @@
 <seg n="16.4">
 <q rend="PRE 0 POST1">
 <w canon="mâskôc" class="ipc" gcat="IPC" sgloss="perhaps" stem="mâskôc">mâskôc</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kikiskêyihtên" class="vti" gcat="2sTI" prefix="2" sgloss="know" stem="kiskêyiht" suffix="-ên">kikiskêyihtên</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
@@ -862,7 +862,7 @@
 
 <seg n="23.2">
 <q rend="PRE 0 POST0">
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ê-sâkihtâyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="love" stem="sâkihtâ" suffix="-yan">ê-sâkihtâyan</w>
 <w canon="niwî-otinên" class="vti" gcat="1sTI" prefix="1" preverbs="wî|will" sgloss="take" stem="otin" suffix="-ên">niwîh-otinên</w>
 .</q>
@@ -942,7 +942,7 @@
 <w canon="ahpô" class="ipc" gcat="IPC" sgloss="even" stem="ahpô">ahpôh</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
 <w canon="wîhkâc" class="ipc" gcat="IPC" sgloss="ever" stem="wîhkâc">wîhkâc</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ka-pwâtawihtân" class="vai" gcat="2sAI" preverbs="ka|will" sgloss="be_thwarted_at" stem="pwâtawihtâ" suffix="-n">ka-pwâtawihtân</w>
 .</q>
 <gloss>“If you wish, never will you fail of any game.</gloss>
@@ -951,7 +951,7 @@
 <seg n="26.2">
 <q rend="PRE 0 POST0">
 <w canon="ka-nihtâ-nipahtân" class="vai" gcat="1sAI" preverbs="ka|will nihtâ|good_at" sgloss="kill" stem="nipahtâ" suffix="-n">ka-nihtâ-nipahtân</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="pisiskiwak" class="na" gcat="3pNA" sgloss="animal" stem="pisiskiw" suffix="-ak">pisiskiwak</w>
 .</q>
 <gloss>You will be good at killing every kind of beast.</gloss>
@@ -1043,7 +1043,7 @@
 <w canon="mâna" class="ipc" gcat="IPC" sgloss="usually" stem="mâna">mâna</w>
 ,
 <w canon="wiyîhtamawaki" class="vta" gcat="1s3sTAsubjunc" prefix="IC" sgloss="tell_about" stem="wîhtamaw" suffix="-aki">wiyîhtamôwaki</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 ,
 <w canon="âhci" class="ipc" gcat="IPC" sgloss="still" stem="âhci">ahci</w>
 <w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">piko</w>
@@ -1277,7 +1277,7 @@
 <w canon="kiwîhtamâk" class="vta" gcat="3s2sTA" prefix="2" sgloss="tell_about" stem="wîhtamaw" suffix="-ik">kiwîhtamâk</w>
 ,
 <w canon="ta-wahkê-nipahtâyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT wahkê|addicted_to" sgloss="kill" stem="nipahtâ" suffix="-yan">ta-wahkêh-nipahtâyan</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="pisiskiwak" class="na" gcat="3pNA" sgloss="animal" stem="pisiskiw" suffix="-ak">pisiskiwak</w>
 .</q>
 <gloss>Your fellow-husband promised you the killing of game, of every kind of beast.”</gloss>

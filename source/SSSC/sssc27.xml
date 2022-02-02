@@ -67,11 +67,11 @@
 <w canon="kî-pakitinikôwisiwak" class="vai" gcat="3pAI" preverbs="kî|PAST" sgloss="be_permitted_by_powers" stem="pakitinikowisi" suffix="-wak">kîh-pakitinikôwisiwak</w>
 :
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kî-kitimâkêyimikwak" class="vta" gcat="0x3pTAi" preverbs="kî|PAST" sgloss="pity" stem="kitimâkêyim" suffix="-ikwak">kîh-kitimâkêyimikwak</w>
 ,
 <w canon="tahto" class="ipc" gcat="IPC" sgloss="so_many" stem="tahto">tahtoh</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kâ-wâpahtamihk" class="vti" gcat="xTIcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpaht" suffix="-amihk">kâ-wâpahtamihk</w>
 ,
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
@@ -83,7 +83,7 @@
 
 <seg n="1.2">
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kî-pawâtamok" class="vti" gcat="2pTIimp" preverbs="kî|PAST" sgloss="dream_about" stem="pawât" suffix="-amok">kîh-pawâtamok</w>
 .
 <gloss>They dreamt of every kind of thing.</gloss>
@@ -93,7 +93,7 @@
 <w canon="ahpô" class="ipc" gcat="IPC" sgloss="even" stem="ahpô">ahpôh</w>
 <w canon="wâkayôsa" class="na" gcat="3oNA" sgloss="bear" stem="wâkayôs" suffix="-a">wâkayôsah</w>
 <w canon="kî-kiskinôhamâkwak" class="vta" gcat="3o3pTA" preverbs="kî|PAST" sgloss="teach" stem="kiskinahamaw" suffix="-ikwak">kîh-kiskinôhamâkwak</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 .
 <gloss>Even the bears taught them things.</gloss>
 </seg>

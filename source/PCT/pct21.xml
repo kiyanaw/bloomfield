@@ -1595,7 +1595,7 @@
 <seg n="53.3">
 <q rend="PRE 0 POST0">
 <w canon="tahto" class="ipc" gcat="IPC" sgloss="so_many" stem="tahto">tahto</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="atâwâkana" class="na" gcat="3oNA" sgloss="fur" stem="atâwâkan" suffix="-a">atâwâkanah</w>
 <w canon="mêstawatâtwâwi" class="vta" gcat="3p3oTAsubjunc" sgloss="take_all_away" stem="mêstawat" suffix="-âtwâwi">mêstawatâtwâwi</w>
 <w canon="kôskinîkîmak" class="nda" gcat="3pNDAof2s" prefix="2" sgloss="young_man" stem="oskinîkîm" suffix="-ak">kôskinîkîmak</w>
@@ -2326,7 +2326,7 @@
 <w canon="ay" class="ipc" gcat="IPC" sgloss="hey" stem="ay">ây</w>
 ,
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="kinitawêyihtên" class="vti" gcat="2sTI" prefix="2" sgloss="want" stem="nitawêyiht" suffix="-ên">kintawêyihtên</w>
 ?</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
@@ -2703,7 +2703,7 @@
 <q rend="PRE0 POST0">
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="nanâtohk" class="ipc" gcat="IPC" sgloss="variously" stem="nanâtohk">nanâtohk</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 ,
 <w canon="wâpamona" class="ni" gcat="0pNI" sgloss="mirror" stem="wâpamon" suffix="-a">wâpamonah</w>
 ,
@@ -2767,7 +2767,7 @@
 ,
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mînah</w>
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kâ-miyiht" class="vta" gcat="x3sTAcnj" preverbs="kâ|cnj" sgloss="give_to" stem="miy" suffix="-iht">kâ-miyiht</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awâ</w>
 <w canon="kâ-kitimâkisit" class="vai" gcat="3sAIcnj" preverbs="kâ|cnj" sgloss="be_pitiable" stem="kitimâkisi" suffix="-t">kâ-kitimâkisit</w>

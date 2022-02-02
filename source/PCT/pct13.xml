@@ -640,7 +640,7 @@
 <seg n="11.5">
 <q rend="PRE 0 POST0">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kika-nipahikon" class="vta" gcat="0x2sTAi" prefix="2" preverbs="ka|will" sgloss="kill" stem="nipah" suffix="-ikon">kika-nipahikon</w>
 .</q>
 <gloss>by nothing at all will you be slain.</gloss>

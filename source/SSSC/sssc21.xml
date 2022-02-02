@@ -441,7 +441,7 @@
 <w canon="kâ-wâpahtahk" class="vti" gcat="3sTIcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpaht" suffix="-ahk">kâ-wâpahtahk</w>
 <w canon="wêskwâhtêmihk" class="ipc" gcat="IPC" sgloss="opposite_the_door" stem="wêskwâhtêmihk">wêskwâhtêmihk</w>
 <w canon="nanâtohk" class="ipc" gcat="IPC" sgloss="variously" stem="nanâtohk">nanâtohk</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ê-astêyiki" class="vii" gcat="0qIIcnj" preverbs="ê|cnj" sgloss="be_placed" stem="astê" suffix="-yiki">êh-astêyikih</w>
 ,
 <w canon="ayiwinisa" class="ni" gcat="0pNI" sgloss="clothes" stem="ayiwinis" suffix="-a">ayôwinisah</w>
@@ -789,7 +789,7 @@
 <w canon="kikî-isi-pakitinikonaw" class="vta" gcat="3s1iTA" prefix="2" preverbs="kî|PAST isi|thus" sgloss="set_down" stem="pakitin" suffix="-ikonaw">kikîh-isih-pakitinikonâw</w>
 <w canon="kâ-tipêyihtahk" class="vti" gcat="3sTIcnj" preverbs="kâ|cnj" sgloss="own" stem="tipêyiht" suffix="-ahk">kâ-tipêyihtahk</w>
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 ,
 <w canon="ta-pamihtâyan" class="vai" gcat="2sAIcnj" preverbs="ta|FUT" sgloss="look_after" stem="pamihtâ" suffix="-yan">ta-pamihtâyan</w>
 <w canon="askiy" class="ni" gcat="0sNI" sgloss="land" stem="askiy" suffix="0">askiy</w>
@@ -938,7 +938,7 @@
 <w canon="ê-mîcicik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="eat" stem="mîci" suffix="-cik">êh-mîcicik</w>
 ,
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="pîtos" class="ipc" gcat="IPC" sgloss="strangely" stem="pîtos">pîtos</w>
 <w canon="ê-mîcicik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="eat" stem="mîci" suffix="-cik">êh-mîcicik</w>
 .
@@ -2230,7 +2230,7 @@
 
 <seg n="63.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
 ,
 <w canon="nôsisê" class="nda" extra="voc" gcat="3sNDAof1svoc" prefix="1" sgloss="grandchild" stem="ôsisim">nôsisê</w>
@@ -5214,7 +5214,7 @@
 </seg>
 
 <seg n="151.10">
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="omôhkomân" class="ni" gcat="0sNIof3s" prefix="3" sgloss="knife" stem="môhkomân" suffix="0">omôhkomân</w>
 <w canon="nitotam" class="vti" gcat="3sTI" sgloss="look_for" stem="nitot" suffix="-am">ntotam</w>
 .

@@ -1200,7 +1200,7 @@
 <w canon="sihkihp" class="na" gcat="3sNA" sgloss="diver_duck" stem="sihkihp" suffix="0">sihkihp</w>
 ,
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
 <w canon="kiyi-otakohpiyân" class="vai" gcat="1sAIcnj" preverbs="kiyi|FUT" sgloss="have_blanket" stem="otakohpi" suffix="-yân">kiy-ôtakohpiyân</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
@@ -1236,7 +1236,7 @@
 <q>
 <w canon="yaw" class="ipc" gcat="IPC" sgloss="well_now" stem="yaw">yaw</w>
 ,
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
 <w canon="kiyi-owîkohkiyân" class="vai" gcat="1sAIcnj" preverbs="kiyi|FUT" sgloss="have_kidney_fat" stem="owîkohki" suffix="-yân">kiy-ôwîkohkêyân</w>
 ?</q>
@@ -1263,7 +1263,7 @@
 <q>
 <w canon="yôhô" class="ipc" gcat="IPC" sgloss="oh" stem="yôhô">yôhô</w>
 ,
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
 <w canon="kiyi-otastotiniyân" class="vai" gcat="1sAIcnj" preverbs="kiyi|FUT" sgloss="have_hat" stem="otastotini" suffix="-yân">kiy-ôtastotiniyân</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
@@ -3550,7 +3550,7 @@
 <w canon="nipîhk" class="ni" gcat="0locNI" sgloss="water" stem="nipiy" suffix="-ihk">nipîhk</w>
 ,
 <w canon="piyisk" class="ipc" gcat="IPC" sgloss="finally" stem="piyis">piyisk</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="miskoskahkwâwi" class="vti" gcat="3pTIsubjunc" sgloss="find_with_foot" stem="miskosk" suffix="-ahkwâwi">miskoskahkwâwih</w>
 ,
 <w canon="kîtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kîtahtawê</w>

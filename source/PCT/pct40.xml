@@ -828,7 +828,7 @@
 ,
 <w canon="têpiyâhk" class="ipc" gcat="IPC" sgloss="merely" stem="têpiyâhk">têpiyâhk</w>
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ta-mêskoskaman" class="vti" gcat="2sTIcnj" preverbs="ta|FUT" sgloss="??" stem="mêskosk" suffix="-aman">ta-mêskoskaman</w>
 ,
 <w canon="kînikâw" class="vii" gcat="0sII" sgloss="be_sharp" stem="kînikâ" suffix="-w">kînikâw</w>
@@ -1037,7 +1037,7 @@
 
 <seg n="28.3">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="opâskisikan" class="ni" gcat="0sNIof3s" prefix="3" sgloss="gun" stem="pâskisikan" suffix="0">opâskisikan</w>
 ;
 <w canon="ayis" class="ipc" gcat="IPC" sgloss="for" stem="ayis">ayis</w>
@@ -1405,7 +1405,7 @@
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
 <w canon="wîhkâc" class="ipc" gcat="IPC" sgloss="ever" stem="wîhkâc">wîhkâc</w>
 <w canon="kita-patahamân" class="vti" gcat="1sTIcnj" preverbs="kita|to" sgloss="miss" stem="patah" suffix="-amân">kita-patahamân</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkwah</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkwah</w>
 ,
 <w canon="piyâskisamâni" class="vti" gcat="1sTIsubjunc" prefix="IC" sgloss="shoot_at" stem="pâskis" suffix="-amâni">piyâskisamâni</w>
 .</q>

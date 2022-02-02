@@ -471,7 +471,7 @@
 
 <seg n="14.2">
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kî-osîmiw" class="vai" gcat="3sAI" preverbs="kî|PAST" sgloss="have_younger_sib" stem="osîmî" suffix="-w">kîh-osîmiw</w>
 <w canon="ayisk" class="ipc" gcat="IPC" sgloss="for" stem="ayis">ayisk</w>
 <w canon="êsa" class="ipc" gcat="IPC" sgloss="reportedly" stem="êsa">êsah</w>
@@ -579,7 +579,7 @@
 <q>
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="pêhtamani" class="vti" gcat="2sTIsubjunc" sgloss="hear" stem="pêht" suffix="-amani">pêhtamanih</w>
 ,
 <w canon="êkâya" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâya">êkâya</w>
@@ -608,7 +608,7 @@
 <w canon="wîhkâc" class="ipc" gcat="IPC" sgloss="ever" stem="wîhkâc">wîhkâc</w>
 ,
 <w canon="wâpahtamani" class="vti" gcat="2sTIsubjunc" sgloss="see" stem="wâpaht" suffix="-amani">wâpahtamanih</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 ,
 <w canon="otin" class="vta" gcat="2s3sTAimp" sgloss="take" stem="otin" suffix="0">otin</w>
 ,</q>
@@ -634,7 +634,7 @@
 
 <seg n="16.6">
 <q rend="PRE 0 POST0">
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
 <w canon="pêhtamani" class="vti" gcat="2sTIsubjunc" sgloss="hear" stem="pêht" suffix="-amani">pêhtamanih</w>
 ,
@@ -901,12 +901,12 @@
 ,
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
 <w canon="wîhkâc" class="ipc" gcat="IPC" sgloss="ever" stem="wîhkâc">wîhkâc</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="otinam" class="vti" gcat="3sTI" sgloss="take" stem="otin" suffix="-am">otinam</w>
 ,
 <w canon="âta" class="ipc" gcat="IPC" sgloss="although" stem="âta">âtah</w>
 <w canon="nanâtohk" class="ipc" gcat="IPC" sgloss="variously" stem="nanâtohk">nanâtohk</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wiyâpahtahki" class="vti" gcat="3sTIsubjunc" prefix="IC" sgloss="see" stem="wâpaht" suffix="-ahki">wiyâpahtahkih</w>
 .
 <gloss>Then, when the young woman always gathered wood all day, she never picked up anything, although she saw all manner of things.</gloss>
@@ -1746,7 +1746,7 @@
 <seg n="43.3">
 <w canon="kîtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kîtahtawê</w>
 <w canon="kâ-pîmoyohikot" class="vta" gcat="3o3sTAcnj" preverbs="kâ|cnj" sgloss="make_carry_in_fold" stem="pîmoyoh" suffix="-ikot">kâ-pîmoyohikot</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohcih</w>
 <w canon="kita-manitôwit" class="vai" gcat="3sAIcnj" preverbs="kita|to" sgloss="be_spirit" stem="manitowi" suffix="-t">kitah-manitôwit</w>
 .

@@ -73,7 +73,7 @@
 <w canon="osâm" class="ipc" gcat="IPC" sgloss="too_much" stem="osâm">osâm</w>
 <w canon="kîtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kîtahtawê</w>
 <w canon="nikâ-mâkohikon" class="vta" gcat="0x1sTAi" prefix="1" preverbs="kâ|cnj" sgloss="press_upon" stem="mâkoh" suffix="-ikon">nikâ-mâkohikon</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 ,</q>
 <w canon="itêyihtam" class="vti" gcat="3sTI" sgloss="think_of" stem="itêyiht" suffix="-am">itêyihtam</w>
 .
@@ -98,7 +98,7 @@
 
 <seg n="3.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kê-kînikâk" class="vii" gcat="0sIIcnj" preverbs="kê|IC+FUT" sgloss="be_sharp" stem="kînikâ" suffix="-k">kê-kînikâk</w>
 <w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkotah</w>
 <w canon="kita-astâyân" class="vai" gcat="1sAIcnj" preverbs="kita|to" sgloss="place_there" stem="astâ" suffix="-yân">kit-âstâyân</w>
@@ -255,7 +255,7 @@
 <seg n="8.3">
 <q rend="PRE 0 POST1">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="nika-kostên" class="vti" gcat="1sTI" prefix="1" preverbs="ka|will" sgloss="fear" stem="kost" suffix="-ên">nika-kostên</w>
 ,</q>
 <w canon="itêyihtam" class="vti" gcat="3sTI" sgloss="think_of" stem="itêyiht" suffix="-am">itêyihtam</w>
@@ -1004,7 +1004,7 @@
 <q rend="PRE 0 POST1">
 <w canon="nîsta" class="pr" gcat="1sPRc" sgloss="I" stem="nîsta">nîsta</w>
 <w canon="nitayân" class="vai" gcat="1sAI" prefix="1" sgloss="have" stem="ayâ" suffix="-n">nitayân</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kita-ôh-nipahitân" class="vta" gcat="1s2sTAcnj" preverbs="kita|to ôh|thence" sgloss="kill" stem="nipah" suffix="-itân">kit-ôh-nipahitân</w>
 .</q>
 <gloss>But I, too, have something with which I can kill you.”</gloss>

@@ -161,7 +161,7 @@
 <seg n="1.8">
 <w canon="ê-asawâpit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="be_on_lookout" stem="asawâpi" suffix="-t">êh-asawâpit</w>
 <w canon="ê-wî-kakwê-wâpahtahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj wî|will kakwê|try_to" sgloss="see" stem="wâpaht" suffix="-ahk">êh-wîh-kakwê-wâpahtahk</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 ,
 <w canon="ê-ispatinâyik" class="vii" gcat="0oIIcnj" preverbs="ê|cnj" sgloss="be_hill" stem="ispatinâ" suffix="-yik">êh-ispatinâyik</w>
 <w canon="êkota" class="ipc" gcat="IPC" sgloss="there" stem="êkota">êkot</w>
@@ -176,7 +176,7 @@
 
 <seg n="1.9">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wâpahtam" class="vti" gcat="3sTI" sgloss="see" stem="wâpaht" suffix="-am">wâpahtam</w>
 .
 <gloss>he could not see anything.</gloss>
@@ -184,7 +184,7 @@
 
 <seg n="1.10">
 <w canon="kîtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kîtahtawê</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="pêhtam" class="vti" gcat="3sTI" sgloss="hear" stem="pêht" suffix="-am">pêhtam</w>
 <w canon="ê-pitihkwêyik" class="vii" gcat="0oIIcnj" preverbs="ê|cnj" sgloss="thud" stem="pitihkwê" suffix="-yik">êh-pê-tihkwêyik</w>
 .
@@ -237,7 +237,7 @@
 <w canon="ê-tahkonahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="carry" stem="tahkon" suffix="-ahk">êh-tahkonahk</w>
 ;
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="pâskisikan" class="ni" gcat="0sNI" sgloss="gun" stem="pâskisikan" suffix="0">pâskisikan</w>
 .
 <gloss>there he lay, holding his arrows; he had no gun.</gloss>

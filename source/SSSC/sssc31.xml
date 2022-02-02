@@ -273,7 +273,7 @@
 
 <seg n="10.6">
 <w canon="maskamik" class="vta" gcat="3o3sTA" sgloss="seize_from" stem="maskam" suffix="-ik">maskamik</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 ;
 <w canon="sipwêhtatâyiwa" class="vai" gcat="3oAI" sgloss="depart_with" stem="sipwêhtatâ" suffix="-yiwa">sipwêhtatâyiwah</w>
 .
@@ -439,7 +439,7 @@
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
 !
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 !</q>
 <gloss>“Oh dear, no! I should say not!</gloss>
 </seg>
@@ -805,7 +805,7 @@
 <p n="31">
 
 <seg n="31.1">
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
 :
 <q rend="PRE 1 POST0">
