@@ -275,7 +275,7 @@
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">îtwêw</w>
 :
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ê-papâ-nâtaman" class="vti" gcat="2sTIcnj" preverbs="ê|cnj papâ|around" sgloss="fetch" stem="nât" suffix="-aman">êh-papâ-nâtaman</w>
 ,
 <w canon="kâ-papâmohtêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj" sgloss="walk_about" stem="papâmohtê" suffix="-yan">kâ-papâmohtêyan</w>
@@ -990,7 +990,7 @@
 
 <seg n="26.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
 <w canon="kâ-ohci-papâmohtêyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ohci|thence" sgloss="walk_about" stem="papâmohtê" suffix="-yan">kâ-ohci-papâmohtêyan</w>
 ?</q>
@@ -1391,7 +1391,7 @@
 
 <seg n="32.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ê-papâ-nâtaman" class="vti" gcat="2sTIcnj" preverbs="ê|cnj papâ|around" sgloss="fetch" stem="nât" suffix="-aman">ê-papâ-nâtaman</w>
 ?</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
@@ -2749,7 +2749,7 @@
 <w canon="oskinîkiw" class="na" gcat="3sNA" sgloss="young_man" stem="oskinîkiw" suffix="0">oskinîkiw</w>
 ,
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 <w canon="ê-papâ-nâtaman" class="vti" gcat="2sTIcnj" preverbs="ê|cnj papâ|around" sgloss="fetch" stem="nât" suffix="-aman">ê-papâ-nâtaman</w>
 ?</q>
@@ -5337,7 +5337,7 @@
 <q>
 <w canon="hêy" class="ipc" gcat="IPC" sgloss="hey" stem="hêy">hêy</w>
 ,
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">om</w>
 <w canon="ê-papâ-nâtaman" class="vti" gcat="2sTIcnj" preverbs="ê|cnj papâ|around" sgloss="fetch" stem="nât" suffix="-aman">êh-papâ-nâtaman</w>
 ?</q>
@@ -6011,7 +6011,7 @@
 <q>
 <w canon="hêy" class="ipc" gcat="IPC" sgloss="hey" stem="hêy">hêy</w>
 ,
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 <w canon="ê-kî-nâtaman" class="vti" gcat="2sTIcnj" preverbs="ê|cnj kî|PAST" sgloss="fetch" stem="nât" suffix="-aman">ê-kîh-nâtaman</w>
 ,
@@ -7169,7 +7169,7 @@
 
 <seg n="248.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
 <w canon="ê-papâ-nâtaman" class="vti" gcat="2sTIcnj" preverbs="ê|cnj papâ|around" sgloss="fetch" stem="nât" suffix="-aman">ê-papâ-nâtaman</w>
 ?</q>
