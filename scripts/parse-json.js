@@ -1,6 +1,8 @@
 const fs = require('fs')
 const xml = require('xmldoc')
 
+const util = require('util')
+
 const processText = (tokens) => {
   return tokens.filter((token) => token).reduce((memo, token, index) => {
     if (index === 0) return `${token}`
@@ -21,9 +23,7 @@ const processQuote = (node) => {
     return null
   })
 
-  const processedQuote = processText(quote)
-
-  return `'${processedQuote}'`
+  return processText(quote)
 }
 
 const processAnalysis = (node) => {
@@ -31,8 +31,7 @@ const processAnalysis = (node) => {
 
   const analysis = node.children.map((child) => {
     if (child.name === 'q') {
-      const transformed = processAnalysis(child)
-      return transformed
+      return processAnalysis(child)
     }
     if (child.name === 'w') return { surface: child.attr.canon, analysis: "TODO" }
     return null
@@ -48,11 +47,14 @@ const processSequence = (node) => {
 
   const text = node.children.map((child) => {
     if (child.name === 'q') {
-      const transformed = processQuote(child)
-      return transformed
+      return processQuote(child)
     }
+
+    //This is where we need to replace or get rid of \r, but it doesn't seem to accept a replace all. 
+
     if (child.name === 'w') return child.val
     if (child.text) return child.text.replaceAll('\n', '')
+
     return null
   })
 
@@ -68,7 +70,11 @@ const processSequence = (node) => {
     return null
   }).filter((token) => token)[0]
 
-  return { text: processedText, english, footnote, analysis }
+  // only return footnote if it exists
+
+  const returnSeq = { text: processedText, english, analysis }
+
+  return footnote !== undefined ? { ...returnSeq, footnote } : returnSeq
 }
 
 const processChildren = (node) => {
@@ -77,14 +83,17 @@ const processChildren = (node) => {
   const processedBody = node.children.map((child) => {
     if (child.name === 'p') {
       const sentences = processChildren(child)
-
+ 
       const transformedSentence = sentences.filter((token) => token)
+
+      transformedSentence.forEach((sentence) => {
+        sentence.text = stripSentence(sentence.text)
+      })
 
       return { id: child.attr.n, sentences: transformedSentence }
     }
     if (child.name === 'seg') {
-      const { text, english, footnote, analysis } = processSequence(child)
-      return { id: child.attr.n, text, english, footnote, analysis }
+      return { id: child.attr.n, ...processSequence(child) }
     }
     return null
   }).filter((token) => token)
@@ -92,17 +101,20 @@ const processChildren = (node) => {
   return processedBody
 }
 
+const stripSentence = (sentenceText) => {
+  // This function processes the sentence to remove \n, \r, and fix double spacing between words and periods
+  return sentenceText.replaceAll('\n', '').replaceAll('\r', '').replaceAll('  ', ' ').replace(/(\w+)\s+\./g, '$1.').trim()
+}
+
 const processXml = (node) => {
   if (!node.children) return node
 
   const headEntry = node.children.find((child) => {
-    if (child.name === 'head') return true
-    return false
+    return child.name === 'head'
   })
 
   const authorEntry = node.children.find((child) => {
-    if (child.name === 'docauthor') return true
-    return false
+    return child.name === 'docauthor'
   })
 
   const body = processChildren(node)
@@ -116,12 +128,10 @@ const processXml = (node) => {
   if (authorEntry && authorEntry.val) {
     text.body.author = authorEntry.val
   }
-
   text.body.body = body
 
-  const processedJson = { text }
 
-  return processedJson
+  return { text }
 }
 
 const main = async (infile) => {
@@ -131,7 +141,8 @@ const main = async (infile) => {
   const children = processXml(xmlParsed.descendantWithPath('text.body'))
   const json = JSON.stringify(children)
 
-  console.log(json)
+  
+  console.log(util.inspect(children, {depth: null}))
 }
 
 main(process.argv[2])
