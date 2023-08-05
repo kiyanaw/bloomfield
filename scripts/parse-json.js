@@ -139,10 +139,11 @@ const main = async (infile) => {
   const xmlParsed = new xml.XmlDocument(xmlRaw)
 
   const children = processXml(xmlParsed.descendantWithPath('text.body'))
-  const json = JSON.stringify(children)
 
-  
-  console.log(util.inspect(children, {depth: null}))
+  // Uncomment this line for easier debugging in the console.
+  // console.log(util.inspect(children, {depth: null}))
+
+  console.log(JSON.stringify(children))
 }
 
 main(process.argv[2])
