@@ -143,8 +143,7 @@ const main = async (infile) => {
   // Uncomment this line for easier debugging in the console.
   // console.log(util.inspect(children, {depth: null}))
 
-  return JSON.stringify(children)
+  console.log(JSON.stringify(children))
 }
 
-
-module.exports = main;
+main(process.argv[2])
