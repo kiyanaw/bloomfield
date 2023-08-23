@@ -13,7 +13,7 @@ const bulkParse = (input, output) => {
     }
 
     if (!fs.existsSync(output)) {
-        fs.mkdir(output);
+        fs.mkdirSync(output);
     } else {
         fs.readdir(output, (err, files) => {
             if (err) throw new Error(err);
