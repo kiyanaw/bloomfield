@@ -43,22 +43,25 @@ const processAnalysis = (node) => {
 const processSequence = (node) => {
   if (!node.children) return node
 
+  const text = [];
+
   const analysis = processAnalysis(node)
 
-  const text = node.children.map((child) => {
+  const original = node.children.map((child) => {
     if (child.name === 'q') {
       return processQuote(child)
     }
 
-    //This is where we need to replace or get rid of \r, but it doesn't seem to accept a replace all. 
-
-    if (child.name === 'w') return child.val
+    if (child.name === 'w') {
+      text.push(child.attr.canon)
+      return child.val
+    }
     if (child.text) return child.text.replaceAll('\n', '')
 
     return null
   })
 
-  const processedText = processText(text)
+  const processedText = processText(original)
 
   const english = node.children.map((child) => {
     if (child.name === 'gloss') return child.val
@@ -72,7 +75,7 @@ const processSequence = (node) => {
 
   // only return footnote if it exists
 
-  const returnSeq = { text: processedText, english, analysis }
+  const returnSeq = { original: processedText, text: text.join(' '), english, analysis }
 
   return footnote !== undefined ? { ...returnSeq, footnote } : returnSeq
 }
@@ -87,6 +90,7 @@ const processChildren = (node) => {
       const transformedSentence = sentences.filter((token) => token)
 
       transformedSentence.forEach((sentence) => {
+        sentence.original = stripSentence(sentence.original)
         sentence.text = stripSentence(sentence.text)
       })
 
@@ -143,7 +147,7 @@ const main = async (infile) => {
   // Uncomment this line for easier debugging in the console.
   // console.log(util.inspect(children, {depth: null}))
 
-  console.log(JSON.stringify(children))
+  return JSON.stringify(children)
 }
 
-main(process.argv[2])
+module.exports = main;
