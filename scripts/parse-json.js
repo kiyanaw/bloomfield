@@ -43,6 +43,8 @@ const processAnalysis = (node) => {
 const processSequence = (node) => {
   if (!node.children) return node
 
+  const original = [];
+
   const analysis = processAnalysis(node)
 
   const text = node.children.map((child) => {
@@ -50,9 +52,10 @@ const processSequence = (node) => {
       return processQuote(child)
     }
 
-    //This is where we need to replace or get rid of \r, but it doesn't seem to accept a replace all. 
-
-    if (child.name === 'w') return child.val
+    if (child.name === 'w') {
+      original.push(child.attr.canon)
+      return child.val
+    }
     if (child.text) return child.text.replaceAll('\n', '')
 
     return null
@@ -72,7 +75,7 @@ const processSequence = (node) => {
 
   // only return footnote if it exists
 
-  const returnSeq = { text: processedText, english, analysis }
+  const returnSeq = { original: processedText, text: original.join(' '), english, analysis }
 
   return footnote !== undefined ? { ...returnSeq, footnote } : returnSeq
 }
@@ -87,6 +90,7 @@ const processChildren = (node) => {
       const transformedSentence = sentences.filter((token) => token)
 
       transformedSentence.forEach((sentence) => {
+        sentence.original = stripSentence(sentence.original)
         sentence.text = stripSentence(sentence.text)
       })
 
