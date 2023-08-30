@@ -56,7 +56,7 @@ const bulkParse = (input, output) => {
     let outputCount = 1;
 
     files.forEach((file) => {
-      let fileName = `json-pct-${outputCount}.json`;
+      let fileName = `pct-${outputCount}.json`;
       let fileOutPath = path.join(output, fileName);
 
       parser(path.join(input, file.name)).then((result) => {
