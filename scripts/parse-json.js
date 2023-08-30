@@ -43,17 +43,17 @@ const processAnalysis = (node) => {
 const processSequence = (node) => {
   if (!node.children) return node
 
-  const original = [];
+  const text = [];
 
   const analysis = processAnalysis(node)
 
-  const text = node.children.map((child) => {
+  const original = node.children.map((child) => {
     if (child.name === 'q') {
       return processQuote(child)
     }
 
     if (child.name === 'w') {
-      original.push(child.attr.canon)
+      text.push(child.attr.canon)
       return child.val
     }
     if (child.text) return child.text.replaceAll('\n', '')
@@ -61,7 +61,7 @@ const processSequence = (node) => {
     return null
   })
 
-  const processedText = processText(text)
+  const processedText = processText(original)
 
   const english = node.children.map((child) => {
     if (child.name === 'gloss') return child.val
@@ -75,7 +75,7 @@ const processSequence = (node) => {
 
   // only return footnote if it exists
 
-  const returnSeq = { original: processedText, text: original.join(' '), english, analysis }
+  const returnSeq = { original: processedText, text: text.join(' '), english, analysis }
 
   return footnote !== undefined ? { ...returnSeq, footnote } : returnSeq
 }
