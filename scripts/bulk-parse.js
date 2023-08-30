@@ -7,16 +7,16 @@ const DEFAULT_INPUT_DIR = `./source/PCT`;
 const DEFAULT_OUTPUT_DIR = `./json`;
 
 const bulkParse = (input, output) => {
-  const HELP_MESSAGE = `
-    Usage:
-        node ./scripts/bulk-parse.js [input]
-    `;
-
   const inputDir = process.argv[2];
+  const outputDir = process.argv[3];
+
   if (!inputDir) {
-    console.log(HELP_MESSAGE);
-    process.exit(1);
-  }
+    console.log(`No input directory specified. Using default ${ DEFAULT_INPUT_DIR }`);
+  };
+
+  if (!outputDir) {
+    console.log(`No output directory specified. Using default ${ DEFAULT_OUTPUT_DIR }`);
+  };
 
   if (!fs.existsSync(input)) {
     throw new Error(`${input} directory could not be found or opened.`);
@@ -64,4 +64,4 @@ const main = async (input = DEFAULT_INPUT_DIR, output = DEFAULT_OUTPUT_DIR) => {
   bulkParse(input, output);
 };
 
-main(process.argv[2]);
+main(process.argv[3]);
