@@ -7,8 +7,20 @@ const DEFAULT_INPUT_DIR = `./source/PCT`;
 const DEFAULT_OUTPUT_DIR = `./json`;
 
 const bulkParse = (input, output) => {
+  const helpText = `
+  Usage: 
+    node bulk-parse.js [inputDir] [outputDir]
+
+    inputDir: The directory containing the XML files to be parsed. Defaults to ${ DEFAULT_INPUT_DIR }.
+    outputDir: The directory where the parsed JSON files will be written. Defaults to ${ DEFAULT_OUTPUT_DIR }.
+  `
   const inputDir = process.argv[2];
   const outputDir = process.argv[3];
+
+  if (process.argv[2] == "--help" || process.argv[2] == "-h") {
+    console.log(helpText);
+    process.exit(0);
+  }
 
   if (!inputDir) {
     console.log(`No input directory specified. Using default ${ DEFAULT_INPUT_DIR }`);
