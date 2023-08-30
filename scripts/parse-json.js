@@ -123,19 +123,20 @@ const processXml = (node) => {
 
   const body = processChildren(node)
 
-  const text = { body: {} }
+  const text = { }
 
   if (headEntry && headEntry.val) {
-    text.body.title = headEntry.val
+    text.title = headEntry.val
   }
 
   if (authorEntry && authorEntry.val) {
-    text.body.author = authorEntry.val
+    text.author = authorEntry.val
   }
-  text.body.body = body
+
+  text.body = body
 
 
-  return { text }
+  return text
 }
 
 const main = async (infile) => {
