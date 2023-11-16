@@ -316,7 +316,7 @@
 <w canon="kanâci" class="vta" gcat="2s3sTAimp" sgloss="clean" stem="kanâcih" suffix="0">kanâcih</w>
 ,
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ta-sêkihikocik" class="vta" gcat="3o3pTAcnj" preverbs="ta|FUT" sgloss="frighten" stem="sêkih" suffix="-ikocik">ta-sêkihikocik</w>
 <w canon="ayîsiyiniwak" class="na" gcat="3pNA" sgloss="person" stem="ayisiyiniw" suffix="-ak">ayîsiyiniwak</w>
 .</q>
@@ -386,7 +386,7 @@
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 <w canon="nîpawiyâni" class="vai" gcat="1sAIsubjunc" sgloss="stand" stem="nîpawi" suffix="-yâni">nîpawiyâni</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kita-sêkihikwak" class="vta" gcat="0x3pTAi" preverbs="kita|to" sgloss="frighten" stem="sêkih" suffix="-ikwak">kita-sêkihikok</w>
 .</q>
 <gloss>When here I stand let them not by aught be frightened.</gloss>
@@ -726,7 +726,7 @@
 <w canon="kâ-wîci-pîhtwâmihcik" class="vta" gcat="x3pTAcnj" preverbs="kâ|cnj" sgloss="smoke_together_with" stem="wîci-pîhtwâm" suffix="-ihcik">kâ-wîci-pîhtwâmihcik</w>
 <w canon="miy" class="vta" gcat="2s3sTAimp" sgloss="give_to" stem="miy" suffix="0">miy</w>
 <w canon="kita-ôh-kitimâkêyihtahkik" class="vti" gcat="3pTIcnj" preverbs="kita|to ôh|thence" sgloss="take_pity_on" stem="kitimâkêyiht" suffix="-ahkik">kit-ôh-kitimâkêyihtahkik</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 ,
 <w canon="ta-ohpikîmakaniyik" class="vai" gcat="0oAIcnj" preverbs="ta|FUT" sgloss="grow_up" stem="ohpiki" suffix="-makaniyik">t-ôhpikîmakaniyik</w>
 <w canon="wiyawâw" class="pr" gcat="3pPR" sgloss="they" stem="wiyawâw">wiyawâw</w>
@@ -1365,7 +1365,7 @@
 <w canon="ê-pîkosamoht" class="vti" gcat="xTIcnj" preverbs="ê|cnj" sgloss="cut_to_pieces" stem="pîkos" suffix="-amoht">êh-pîkosamoht</w>
 ,
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="miyâw" class="vta" gcat="x3sTA" sgloss="give_to" stem="miy" suffix="-âw">miyâw</w>
 .
 <gloss>But one who was made angry by the destruction of his dwelling, was not given anything.</gloss>

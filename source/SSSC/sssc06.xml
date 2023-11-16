@@ -173,7 +173,7 @@
 
 <seg n="4.2">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="kâ-nayahtahk" class="vti" gcat="3sTIcnj" preverbs="kâ|cnj" sgloss="carry_on_back" stem="nayaht" suffix="-ahk">kâ-nayahtahk</w>
 ?</q>
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
@@ -307,7 +307,7 @@
 
 <seg n="13.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="pasakwâpisimôwin" class="ni" gcat="0sNI" sgloss="shut_eye_dance" stem="pasakwâpisimowin" suffix="0">pasakwâpisimôwin</w>
 ?</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
@@ -870,7 +870,7 @@
 ,
 <w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êwakoh</w>
 <w canon="ê-pêhtahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="hear" stem="pêht" suffix="-ahk">êh-pêhtahk</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 ,
 <w canon="ê-napatê-tôhkâpit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj napatê|on_one_side" sgloss="open_eyes" stem="tôhkâpi" suffix="-t">êh-napatêh-tôhkâpit</w>
 ,
@@ -915,7 +915,7 @@
 <w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
 :
 <q rend="PRE 1 POST0">
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 <w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
 <w canon="kê-pêtâyân" class="vai" gcat="1sAIcnj" preverbs="kê|IC+FUT" sgloss="bring" stem="pêtâ" suffix="-yân">kê-pêtâyân</w>
@@ -1482,7 +1482,7 @@
 
 <seg n="54.3">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="niska" class="na" gcat="3oNA" sgloss="goose" stem="nisk" suffix="-a">niskah</w>
 .
 <gloss>There was not any goose.</gloss>
@@ -1514,7 +1514,7 @@
 ;
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 ;
 <w canon="ositiyiwa" class="ndi" gcat="0pNDIof3o" prefix="3" sgloss="foot" stem="sit" suffix="-iyiwa">ositiyiwah</w>
 <w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">piko</w>

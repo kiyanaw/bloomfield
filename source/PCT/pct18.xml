@@ -653,7 +653,7 @@
 <seg n="14.3">
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kî-nipahêwak" class="vta" gcat="3p3oTA" preverbs="kî|can" sgloss="kill" stem="nipah" suffix="-êwak">kîh-nipahêwak</w>
 ,
 <w canon="ê-mitâtasiyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj" sgloss="be_ten" stem="mitâtasi" suffix="-yit">êh-mitâtasiyit</w>
@@ -1475,13 +1475,13 @@
 
 <seg n="29.2">
 <q rend="PRE 0 POST0">
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="niwâpahtên" class="vti" gcat="1sTI" prefix="1" sgloss="see" stem="wâpaht" suffix="-ên">niwâpahtên</w>
 ;
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
 <w canon="nikiskêyihtên" class="vti" gcat="1sTI" prefix="1" sgloss="know" stem="kiskêyiht" suffix="-ên">nikiskêyihtên</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 .</q>
 <gloss>I see something; but I do not know what it is.</gloss>
 </seg>

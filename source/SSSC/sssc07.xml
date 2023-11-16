@@ -150,7 +150,7 @@
 <w canon="hô" class="interj" gcat="INTERJ" sgloss="ho" stem="hô">hôh</w>
 ,
 <w canon="namwâc" class="ipc" gcat="IPC" sgloss="not" stem="namwâc">namwâc</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wâpahtam" class="vti" gcat="3sTI" sgloss="see" stem="wâpaht" suffix="-am">wâpahtam</w>
 <w canon="kita-otinamiyit" class="vti" gcat="3oTIcnj" preverbs="kita|to" sgloss="take" stem="otin" suffix="-amiyit">kit-ôtinamiyit</w>
 <w canon="mîciwin" class="ni" gcat="0sNI" sgloss="food" stem="mîciwin" suffix="0">mîciwin</w>
@@ -445,7 +445,7 @@
 
 <seg n="15.4">
 <w canon="namwâc" class="ipc" gcat="IPC" sgloss="not" stem="namwâc">namwâc</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wâpahtam" class="vti" gcat="3sTI" sgloss="see" stem="wâpaht" suffix="-am">wâpahtam</w>
 <w canon="kita-osîhtâyit" class="vai" gcat="3oAIcnj" preverbs="kita|to" sgloss="prepare" stem="osîhtâ" suffix="-yit">kita-osîhtayit</w>
 <w canon="mihta" class="ni" gcat="0pNI" sgloss="firewood" stem="miht" suffix="-a">mihtah</w>
@@ -863,7 +863,7 @@
 <w canon="tânêhki" class="ipc" gcat="IPC" sgloss="why" stem="tânêhki">tânêhki</w>
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kâ-ôh-kaskihtâyan" class="vai" gcat="2sAIcnj" preverbs="kâ|cnj ôh|thence" sgloss="be_able_to_do" stem="kaskihtâ" suffix="-yan">k-ôh-kaskihtâyin</w>
 ,
 <w canon="tahki" class="ipc" gcat="IPC" sgloss="always" stem="tahki">tahkih</w>
@@ -996,7 +996,7 @@
 <w canon="atôspowinâhtikohk" class="ni" gcat="0locNI" sgloss="table" stem="atôspôwinânâhtikw" suffix="-ihk">atôspowinâhtikohk</w>
 <w canon="pôti" class="ipc" gcat="IPC" sgloss="lo_and_behold" stem="pôti">pôtih</w>
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wâpahtam" class="vti" gcat="3sTI" sgloss="see" stem="wâpaht" suffix="-am">wâpahtam</w>
 .
 <gloss>Look you, on a table he saw all kinds of things.</gloss>
@@ -1428,7 +1428,7 @@
 </seg>
 
 <seg n="43.4">
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkwah</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkwah</w>
 <w canon="â" class="ipc" gcat="IPC" sgloss="well" stem="â">âh</w>
 <w canon="wâpahtêhêw" class="vta" gcat="3s3oTA" sgloss="show_to" stem="wâpahtêh" suffix="-êw">wâpahtêhêw</w>
 .
@@ -1770,7 +1770,7 @@
 <q>
 <w canon="kîtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kîtahtawê</w>
 <w canon="wâh-wîpac" class="ipc" gcat="IPC" sgloss="quite_often" stem="wâh-wîpac">wâ-wîpac</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="niwâh-wani-kiskisin" class="vai" gcat="1sAI" prefix="1" preverbs="dupH|H.REDUP wani|indistinctly" sgloss="remember" stem="kiskisi" suffix="-n">niwâh-wani-kiskisin</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
@@ -2346,7 +2346,7 @@
 
 <seg n="71.2">
 <w canon="kahkiyaw" class="ipc" gcat="IPC" sgloss="every" stem="kahkiyaw">kahkiyaw</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ê-atotât" class="vta" gcat="3s3oTAcnj" preverbs="ê|cnj" sgloss="ask_to_do" stem="atot" suffix="-ât">êh-atotât</w>
 ,
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>

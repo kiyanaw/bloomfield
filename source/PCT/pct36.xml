@@ -537,7 +537,7 @@
 <w canon="ostêsimâw" class="na" gcat="3sNA" sgloss="the_oldest_brother" stem="ostêsimâw" suffix="0">ostêsimâw</w>
 <w canon="itâmihk" class="ipc" gcat="IPC" sgloss="beneath" stem="itâmihk">itâmihk</w>
 <w canon="nipîhk" class="ni" gcat="0locNI" sgloss="water" stem="nipiy" suffix="-ihk">nipîhk</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kâ-miskonahk" class="vti" gcat="3sTIcnj" preverbs="kâ|cnj" sgloss="find_by_hand" stem="miskon" suffix="-ahk">kâ-miskonahk</w>
 .
 <gloss>When he had got a bit past the middle of the stream, the elder brother suddenly felt something under the water.</gloss>
@@ -814,7 +814,7 @@
 ,
 <q>
 <w canon="kîspin" class="ipc" gcat="IPC" sgloss="if" stem="kîspin">kîspin</w>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="sêkihikoyani" class="vta" gcat="0x2sTAsubjunci" sgloss="frighten" stem="sêkih" suffix="-ikoyani">sêkihikoyinih</w>
 ,
 <w canon="kisiwâk" class="ipc" gcat="IPC" sgloss="nearby" stem="kisiwâk">kisiwâk</w>
@@ -825,7 +825,7 @@
 <w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyôkô</w>
 <w canon="ohci" class="ipc" gcat="IPC" sgloss="thence" stem="ohci">ohci</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kâ-ôh-kostamân" class="vti" gcat="1sTIcnj" preverbs="kâ|cnj ôh|thence" sgloss="fear" stem="kost" suffix="-amân">k-ôh-kostamân</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
@@ -1025,7 +1025,7 @@
 <w canon="ê-wâpahtahkik" class="vti" gcat="3pTIcnj" preverbs="ê|cnj" sgloss="see" stem="wâpaht" suffix="-ahkik">êh-wâpahtahkik</w>
 ,
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="wanihtâwak" class="vai" gcat="3pAI" sgloss="lose" stem="wanihtâ" suffix="-wak">wanihtâwak</w>
 .
 <gloss>When they looked at the things that they had loaded on there, they missed nothing.</gloss>

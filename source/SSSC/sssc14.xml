@@ -525,7 +525,7 @@
 
 <seg n="16.1">
 <w canon="ê-kî-isi-pitihkohtiniyik" class="vii" gcat="0oIIcnj" preverbs="ê|cnj kî|PAST isi|thus" sgloss="fall_with_thud" stem="pitihkohtin" suffix="-yik">ê-k-îsi-pitihkohtiniyik</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkwah</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkwah</w>
 ,
 <q>
 <w canon="ê" class="ipc" gcat="IPC" sgloss="well" stem="â">êh</w>
@@ -1290,7 +1290,7 @@
 <w canon="ê-kawâhkatosot" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="be_weak_from_hunger" stem="kawâhkatoso" suffix="-t">êh-kawâhkatosot</w>
 ,
 <w canon="êkâ" class="ipc" gcat="IPC" sgloss="not_to" stem="êkâ">êkâ</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ê-mîcit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="eat" stem="mîci" suffix="-t">êh-mîcit</w>
 ,
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
@@ -3857,7 +3857,7 @@
 <seg n="142.3">
 <w canon="piyis" class="ipc" gcat="IPC" sgloss="finally" stem="piyis">piyis</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="miskwamiy" class="na" gcat="3sNA" sgloss="ice" stem="maskwamiy" suffix="0">miskwamiy</w>
 .
 <gloss>At last the ice was gone.</gloss>
@@ -4037,7 +4037,7 @@
 <q rend="PRE 0 POST0">
 <w canon="mâka" class="ipc" gcat="IPC" sgloss="but" stem="mâka">mâka</w>
 <w canon="nanâtohk" class="ipc" gcat="IPC" sgloss="variously" stem="nanâtohk">nanâtohk</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kika-mîcin" class="vai" gcat="2sAI" prefix="2" preverbs="ka|will" sgloss="eat" stem="mîci" suffix="-n">kika-mîcin</w>
 ,
 <w canon="kinêpikosak" class="na" extra="dim" gcat="3pNA" sgloss="snake" stem="kinêpikw" suffix="-ak">kinêpikosak</w>

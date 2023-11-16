@@ -133,7 +133,7 @@
 
 <seg n="1.7">
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kotak" class="pr" gcat="0sPR" sgloss="other" stem="kotak">kotak</w>
 <w canon="êwako" class="pr" gcat="PR" sgloss="that_one" stem="êwako">êyako</w>
 <w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">piko</w>
@@ -298,7 +298,7 @@
 <seg n="3.2">
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="âhci" class="ipc" gcat="IPC" sgloss="still" stem="âhci">âhci</w>
 <w canon="piko" class="ipc" gcat="IPC" sgloss="only" stem="piko">pikoh</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
@@ -1176,7 +1176,7 @@
 <w canon="iyikohk" class="ipc" gcat="IPC" sgloss="so_much" stem="iyikohk">iyikohk</w>
 <w canon="âpihtaw" class="ipc" gcat="IPC" sgloss="half" stem="âpihtaw">âpihtaw</w>
 <w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ê-astêk" class="vii" gcat="0sIIcnj" preverbs="ê|cnj" sgloss="be_placed" stem="astê" suffix="-k">êy-astêk</w>
 <w canon="ka-miyitin" class="vta" gcat="1s2sTA" preverbs="ka|will" sgloss="give_to" stem="miy" suffix="-itin">ka-miyitin</w>
 .</q>
@@ -1201,7 +1201,7 @@
 <w canon="âta" class="ipc" gcat="IPC" sgloss="although" stem="âta">âta</w>
 <w canon="wiya" class="ipc" gcat="IPC" sgloss="WIYA" stem="wiya">wiya</w>
 <w canon="êkoyikohk" class="ipc" gcat="IPC" sgloss="that_much" stem="êkoyikohk">êkoyikohk</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistah</w>
 <w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
 <w canon="astêw" class="vii" gcat="0sII" sgloss="be_placed" stem="astê" suffix="-w">astêw</w>
@@ -3035,7 +3035,7 @@
 <q><q>
 <w canon="mahti" class="ipc" gcat="IPC" sgloss="let's_see" stem="mahti">mahtih</w>
 <w canon="wâh-wîhtamâtotân" class="vai" gcat="1iAIimp" preverbs="dupH|H.REDUP" sgloss="tell_e.o._about" stem="wîhtamâto" suffix="-tân">wâh-wîhtamâtotân</w>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="kita-isi-kî-ohci-nipahikawiyahk" class="vta" gcat="x1iTAcnj" preverbs="kita|to isi|thus kî|can ohci|thence" sgloss="kill" stem="nipah" suffix="-ikawiyahk">kit-si-ki-ohci-nipahikawiyahk</w>
 ,</q>
 <w canon="kika-itânaw" class="vta" gcat="1i3sTA" prefix="2" preverbs="ka|will" sgloss="say_to" stem="it" suffix="-ânaw">kik-êtânâw</w>
@@ -3121,10 +3121,10 @@
 <seg n="98.2">
 <q>
 <w canon="pêyak" class="ipc" gcat="IPC" sgloss="one" stem="pêyak">pêyak</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="sîpâ" class="ipc" gcat="IPC" sgloss="beneath" stem="sîpâ">sîpâ</w>
 <w canon="misitihk" class="ndi" gcat="0locNDIofxs" prefix="x" sgloss="foot" stem="sit" suffix="-ihk">misitihk</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kita-ohtinamihk" class="vti" gcat="xTIcnj" preverbs="kita|to" sgloss="take_from_there" stem="ohtin" suffix="-amihk">kit-ôhtinamihk</w>
 <w canon="kita-mâhtakoskâkoyân" class="vta" gcat="0x1sTAcnji" preverbs="kita|to" sgloss="step_on" stem="mâhtakoskaw" suffix="-ikoyân">kita-mâhtakoskâkoyân</w>
 .</q>

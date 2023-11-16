@@ -379,7 +379,7 @@
 <w canon="ê-apit" class="vai" gcat="3sAIcnj" preverbs="ê|cnj" sgloss="sit" stem="api" suffix="-t">êh-apit</w>
 ,
 <w canon="kîtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kîtahtawê</w>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="kâ-kiskêyihtahk" class="vti" gcat="3sTIcnj" preverbs="kâ|cnj" sgloss="know" stem="kiskêyiht" suffix="-ahk">kâ-kiskêyihtahk</w>
 <w canon="itâmihk" class="ipc" gcat="IPC" sgloss="beneath" stem="itâmihk">itâmihk</w>
 <w canon="ê-astêyiki" class="vii" gcat="0qIIcnj" preverbs="ê|cnj" sgloss="be_placed" stem="astê" suffix="-yiki">êh-astêyikih</w>
@@ -699,7 +699,7 @@
 ,
 <w canon="âsay" class="ipc" gcat="IPC" sgloss="already" stem="âsay">âsay</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="itêyihtam" class="vti" gcat="3sTI" sgloss="think_of" stem="itêyiht" suffix="-am">itêyihtam</w>
 <w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
 <w canon="kâ-kî-astêyiki" class="vii" gcat="0qIIcnj" preverbs="kâ|cnj kî|PAST" sgloss="be_placed" stem="astê" suffix="-yiki">kâ-kiy-astêyikih</w>
@@ -1020,7 +1020,7 @@
 <w canon="âsay" class="ipc" gcat="IPC" sgloss="already" stem="âsay">âsay</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
 <w canon="kâ-wâpahtahk" class="vti" gcat="3sTIcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpaht" suffix="-ahk">kâ-wâpahtahk</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ê-astêyiki" class="vii" gcat="0qIIcnj" preverbs="ê|cnj" sgloss="be_placed" stem="astê" suffix="-yiki">êh-astêyikih</w>
 .
 <w canon="ê-otinahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="take" stem="otin" suffix="-ahk">êw-otinahk</w>
@@ -1543,7 +1543,7 @@
 ;
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="kika-omaskisininâwâw" class="vai" gcat="2pAI" prefix="2" preverbs="ka|will" sgloss="have_shoes" stem="omaskisini" suffix="-nâwâw">kik-ômaskisininâwâw</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
@@ -3215,7 +3215,7 @@
 :
 <q>
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ninipahâw" class="vta" gcat="1s3sTA" prefix="1" sgloss="kill" stem="nipah" suffix="-âw">ninipahâw</w>
 ,</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
@@ -3363,7 +3363,7 @@
 :
 <q>
 <w canon="namôya" class="ipc" gcat="IPC" sgloss="not" stem="namôya">namoya</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ninipahâw" class="vta" gcat="1s3sTA" prefix="1" sgloss="kill" stem="nipah" suffix="-âw">ninipahâw</w>
 ,</q>
 <w canon="itâw" class="vta" gcat="x3sTA" sgloss="say_to" stem="it" suffix="-âw">itâw</w>
@@ -3599,7 +3599,7 @@
 <w canon="piyêsiwa" class="na" gcat="3oNA" sgloss="thunderbird" stem="piyêsiw" suffix="-a">piyêsiwa</w>
 ,
 <w canon="tâpiskôc" class="ipc" gcat="IPC" sgloss="like" stem="tâpiskôc">tâpiskôc</w>
-<w canon="kêkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
+<w canon="kîkway" class="pr" gcat="0sPR" sgloss="something" stem="kîkway">kêkway</w>
 <w canon="ê-pâskisamiyit" class="vti" gcat="3oTIcnj" preverbs="ê|cnj" sgloss="shoot_at" stem="pâskis" suffix="-amiyit">êh-pâskisamiyit</w>
 ,
 <w canon="mistahi" class="ipc" gcat="IPC" sgloss="greatly" stem="mistahi">mistah</w>
