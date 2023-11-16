@@ -173,7 +173,7 @@
 
 <seg n="4.2">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="kâ-nayahtahk" class="vti" gcat="3sTIcnj" preverbs="kâ|cnj" sgloss="carry_on_back" stem="nayaht" suffix="-ahk">kâ-nayahtahk</w>
 ?</q>
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
@@ -216,7 +216,7 @@
 <q>
 <w canon="nistêsê" class="nda" extra="voc" gcat="3sNDAof1svoc" prefix="1" sgloss="older_brother" stem="stês">nistêsê</w>
 ,
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="kâ-nayahtaman" class="vti" gcat="2sTIcnj" preverbs="kâ|cnj" sgloss="carry_on_back" stem="nayaht" suffix="-aman">kâ-nayahtaman</w>
 ?</q>
 <gloss>“Big brother, what is that you're carrying on your back?”</gloss>
@@ -254,7 +254,7 @@
 <q>
 <w canon="nistêsê" class="nda" extra="voc" gcat="3sNDAof1svoc" prefix="1" sgloss="older_brother" stem="stês">nistêsê</w>
 ,
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="kâ-nayahtaman" class="vti" gcat="2sTIcnj" preverbs="kâ|cnj" sgloss="carry_on_back" stem="nayaht" suffix="-aman">kâ-nayahtaman</w>
 ?</q>
 <gloss>Again the duck asked him, “Big brother, what is it you're carrying on your back?”</gloss>
@@ -281,7 +281,7 @@
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
 ,
 <q>
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="kâ-nayahtaman" class="vti" gcat="2sTIcnj" preverbs="kâ|cnj" sgloss="carry_on_back" stem="nayaht" suffix="-aman">kâ-nayahtaman</w>
 ?</q>
 <gloss>“Say,” it said, “what is it you're carrying?”</gloss>
@@ -307,7 +307,7 @@
 
 <seg n="13.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="pasakwâpisimôwin" class="ni" gcat="0sNI" sgloss="shut_eye_dance" stem="pasakwâpisimowin" suffix="0">pasakwâpisimôwin</w>
 ?</q>
 <w canon="itwêw" class="vai" gcat="3sAI" sgloss="say" stem="itwê" suffix="-w">itwêw</w>
@@ -915,7 +915,7 @@
 <w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>
 :
 <q rend="PRE 1 POST0">
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 <w canon="ita" class="ipc" gcat="IPC" sgloss="there" stem="ita">itah</w>
 <w canon="kê-pêtâyân" class="vai" gcat="1sAIcnj" preverbs="kê|IC+FUT" sgloss="bring" stem="pêtâ" suffix="-yân">kê-pêtâyân</w>

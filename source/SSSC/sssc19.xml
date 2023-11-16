@@ -1167,7 +1167,7 @@
 
 <seg n="18.1">
 <q>
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
 ?</q>
 <w canon="itêyihtam" class="vti" gcat="3sTI" sgloss="think_of" stem="itêyiht" suffix="-am">itêyihtam</w>
@@ -1196,7 +1196,7 @@
 
 <seg n="20.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="awa" class="dem" gcat="3sDEM" sgloss="this" stem="awa">awa</w>
 ?</q>
 <w canon="itêyihtam" class="vti" gcat="3sTI" sgloss="think_of" stem="itêyiht" suffix="-am">itêyihtam</w>
@@ -1609,7 +1609,7 @@
 <w canon="ê-pêsiwâyit" class="vta" gcat="3o3oTAcnj" preverbs="ê|cnj" sgloss="bring_hither" stem="pêsiw" suffix="-âyit">êh-pêsiwâyit</w>
 ,
 <q>
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="êtokê" class="ipc" gcat="IPC" sgloss="I_guess" stem="êtikwê">êtokê</w>
 ?</q>
 <w canon="ê-itêyihtahk" class="vti" gcat="3sTIcnj" preverbs="ê|cnj" sgloss="think_of" stem="itêyiht" suffix="-ahk">êh-itêyihtahk</w>
@@ -2272,7 +2272,7 @@
 <w canon="êkosi" class="ipc" gcat="IPC" sgloss="thus" stem="êkosi">êkosi</w>
 ,
 <q>
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="êtokê" class="ipc" gcat="IPC" sgloss="I_guess" stem="êtikwê">êtokê</w>
 ?</q>
 <w canon="itêyihtam" class="vti" gcat="3sTI" sgloss="think_of" stem="itêyiht" suffix="-am">itêyihtam</w>
@@ -4700,7 +4700,7 @@
 
 <seg n="112.1">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">oma</w>
 <w canon="mâna" class="ipc" gcat="IPC" sgloss="usually" stem="mâna">mâna</w>
 <w canon="ê-nâtamêk" class="vti" gcat="2pTIcnj" preverbs="ê|cnj" sgloss="fetch" stem="nât" suffix="-amêk">êh-nâtamêk</w>

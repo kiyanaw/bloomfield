@@ -1270,7 +1270,7 @@
 
 <seg n="36.1">
 <q>
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="mîna" class="ipc" gcat="IPC" sgloss="also" stem="mîna">mîna</w>
 ?</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
@@ -2935,7 +2935,7 @@
 
 <seg n="91.1">
 <q>
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="ôta" class="ipc" gcat="IPC" sgloss="here" stem="ôta">ôtah</w>
 <w canon="ê-osîhtâyan" class="vai" gcat="2sAIcnj" preverbs="ê|cnj" sgloss="prepare" stem="osîhtâ" suffix="-yan">êw-osîhtâyin</w>
 ?</q>
@@ -2947,7 +2947,7 @@
 
 <seg n="91.2">
 <q>
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="kiyi-osîhtâyan" class="vai" gcat="2sAIcnj" preverbs="kiyi|FUT" sgloss="prepare" stem="osîhtâ" suffix="-yan">kiy-osîhtâyan</w>
 ?</q>
 <gloss>“What is it you mean to do?”</gloss>
@@ -3035,7 +3035,7 @@
 <q><q>
 <w canon="mahti" class="ipc" gcat="IPC" sgloss="let's_see" stem="mahti">mahtih</w>
 <w canon="wâh-wîhtamâtotân" class="vai" gcat="1iAIimp" preverbs="dupH|H.REDUP" sgloss="tell_e.o._about" stem="wîhtamâto" suffix="-tân">wâh-wîhtamâtotân</w>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="kita-isi-kî-ohci-nipahikawiyahk" class="vta" gcat="x1iTAcnj" preverbs="kita|to isi|thus kî|can ohci|thence" sgloss="kill" stem="nipah" suffix="-ikawiyahk">kit-si-ki-ohci-nipahikawiyahk</w>
 ,</q>
 <w canon="kika-itânaw" class="vta" gcat="1i3sTA" prefix="2" preverbs="ka|will" sgloss="say_to" stem="it" suffix="-ânaw">kik-êtânâw</w>

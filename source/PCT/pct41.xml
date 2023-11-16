@@ -2853,7 +2853,7 @@
 
 <seg n="66.2">
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 <w canon="mêwîhkâtaman" class="vti" gcat="2sTIcnj" prefix="IC" sgloss="cry_out_over" stem="mawîhkât" suffix="-aman">mêwihkâtaman</w>
 ?
@@ -3375,7 +3375,7 @@
 ,
 <w canon="nitânis" class="nda" gcat="3sNDAof1s" prefix="1" sgloss="daughter" stem="tânis" suffix="0">ntânis</w>
 ,
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="ôma" class="dem" gcat="0sDEM" sgloss="this" stem="ôma">ôma</w>
 <w canon="ê-mawîhkâtaman" class="vti" gcat="2sTIcnj" preverbs="ê|cnj" sgloss="cry_out_over" stem="mawîhkât" suffix="-aman">ê-mawîhkâtaman</w>
 ?</q>

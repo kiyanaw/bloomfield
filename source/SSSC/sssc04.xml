@@ -67,7 +67,7 @@
 ;
 <w canon="nama" class="ipc" gcat="IPC" sgloss="not" stem="nama">nama</w>
 <w canon="wiya" class="ipc" gcat="IPC" sgloss="WIYA" stem="wiya">wya</w>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="otayôwinis" class="ni" gcat="0sNIof3s" prefix="3" sgloss="clothes" stem="ayiwinis" suffix="0">otayôwinis</w>
 <w canon="ê-wîkicik" class="vai" gcat="3pAIcnj" preverbs="ê|cnj" sgloss="live_there" stem="wîki" suffix="-cik">ê-wîkicik</w>
 ,
@@ -199,7 +199,7 @@
 <w canon="wêmistikôsiwak" class="na" gcat="3pNA" sgloss="French_person" stem="wêmistikôsiw" suffix="-ak">wêmistikôsiwak</w>
 -
 <q>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="kinitawêyihtên" class="vti" gcat="2sTI" prefix="2" sgloss="want" stem="nitawêyiht" suffix="-ên">kintawêyihtên</w>
 ,
 <w canon="wîsahkêcâhk" class="na" gcat="3sNA" sgloss="Wisahketchahk" stem="wîsahkêcâhkw" suffix="0">wîsahkêcâhk</w>

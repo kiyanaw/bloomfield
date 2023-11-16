@@ -2326,7 +2326,7 @@
 <w canon="ay" class="ipc" gcat="IPC" sgloss="hey" stem="ay">ây</w>
 ,
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
-<w canon="kêkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kêkway</w>
 <w canon="kinitawêyihtên" class="vti" gcat="2sTI" prefix="2" sgloss="want" stem="nitawêyiht" suffix="-ên">kintawêyihtên</w>
 ?</q>
 <w canon="itik" class="vta" gcat="3o3sTA" sgloss="say_to" stem="it" suffix="-ik">itik</w>
@@ -2638,7 +2638,7 @@
 <seg n="78.10">
 <q rend="PRE0 POST1">
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
-<w canon="kîkway" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
+<w canon="kîkwây" class="pr" gcat="0sPRq" sgloss="what" stem="kîkway">kîkway</w>
 <w canon="wâh-otinaman" class="vti" gcat="2sTIcnj" prefix="IC" preverbs="wî|will" sgloss="take" stem="otin" suffix="-aman">wâh-otinaman</w>
 <w canon="ayiwinisa" class="ni" gcat="0oNI" sgloss="clothes" stem="ayiwinis" suffix="-a">ayôwinisah</w>
 ?</q>
