@@ -1079,7 +1079,7 @@
 <seg n="34.2">
 <w canon="kîtahtawê" class="ipc" gcat="IPC" sgloss="at_times" stem="kêtahtawê">kîtahtawê</w>
 <w canon="kâ-wâpamât" class="vta" gcat="3s3oTAcnj" preverbs="kâ|cnj" sgloss="see" stem="wâpam" suffix="-ât">kâ-wâpamât</w>
-<w canon="ê-akociniyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj" sgloss="hang" stem="akocin" suffix="-yit">êh-akociniyit</w>
+<w canon="ê-akohciniyit" class="vai" gcat="3oAIcnj" preverbs="ê|cnj" sgloss="law_in_water" stem="akohcin" suffix="-yit">êh-akociniyit</w>
 .
 <gloss>Then all at once he saw it lying in the water.</gloss>
 </seg>
