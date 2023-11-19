@@ -25,7 +25,7 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          if git status --porcelain | grep -E '^(M|A|D)'; then
+          if git status --porcelain | grep -E '^(M|A|D|\?\?)'; then
             echo "Changes detected."
             echo "::set-output name=has_changes::true"
           else
