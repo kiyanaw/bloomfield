@@ -1,7 +1,11 @@
 const fs = require('fs')
 const xml = require('xmldoc')
-
+const { Transducer } = require('hfstol')
 const util = require('util')
+
+const transducerPath = `transducers\\crk-relaxed-analyzer.hfstol`;
+const fst = new Transducer(transducerPath);
+const fraggedWords = [];
 
 const processText = (tokens) => {
   return tokens.filter((token) => token).reduce((memo, token, index) => {
@@ -29,15 +33,38 @@ const processQuote = (node) => {
 const processAnalysis = (node) => {
   if (!node.children) return node
 
-  const analysis = node.children.map((child) => {
+  const analysis = node.children.map(async (child) => {
     if (child.name === 'q') {
       return processAnalysis(child)
     }
-    if (child.name === 'w') return { surface: child.attr.canon, analysis: "TODO" }
+    if (child.name === 'w') {
+      const results = fst.lookup(child.attr.canon);
+
+      const resultsDefragged = results.filter((result) => {
+        return !result.split('+').includes('Err/Frag');
+      });
+
+      if (resultsDefragged.length === 0) {
+        fraggedWords.push({
+          surface: child.attr.canon,
+          nodePosition: {
+            line: child.line,
+            column: child.column
+          },
+          results: results
+        });
+
+        return;
+      };
+
+      return { surface: child.attr.canon, analysis: resultsDefragged }
+    }
+
+
     return null
   }).filter((token) => token)
 
-  return analysis
+  return analysis;
 }
 
 const processSequence = (node) => {
@@ -148,7 +175,7 @@ const main = async (infile) => {
   // Uncomment this line for easier debugging in the console.
   // console.log(util.inspect(children, {depth: null}))
 
-  return JSON.stringify(children)
+  return { results: JSON.stringify(children), fraggedResults: JSON.stringify(fraggedWords) }
 }
 
 module.exports = main;
