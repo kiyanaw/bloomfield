@@ -3,7 +3,7 @@ const xml = require('xmldoc')
 const { Transducer } = require('hfstol')
 const util = require('util')
 
-const transducerPath = `transducers\\crk-relaxed-analyzer.hfstol`;
+const transducerPath = `./transducers/crk-relaxed-analyzer.hfstol`;
 const fst = new Transducer(transducerPath);
 const fraggedWords = [];
 
