@@ -30,12 +30,12 @@ const processQuote = (node) => {
   return processText(quote)
 }
 
-const processAnalysis = (node) => {
+const processAnalysis = (node, paragraph, sentence) => {
   if (!node.children) return node
 
   const analysis = node.children.map(async (child) => {
     if (child.name === 'q') {
-      return processAnalysis(child)
+      return processAnalysis(child, paragraph)
     }
     if (child.name === 'w') {
       const results = fst.lookup(child.attr.canon);
@@ -48,8 +48,8 @@ const processAnalysis = (node) => {
         fraggedWords.push({
           surface: child.attr.canon,
           nodePosition: {
-            line: child.line,
-            column: child.column
+            paragraph: paragraph,
+            sentence: sentence,
           },
           results: results
         });
@@ -67,12 +67,12 @@ const processAnalysis = (node) => {
   return analysis;
 }
 
-const processSequence = (node) => {
+const processSequence = (node, paragraph, sentence) => {
   if (!node.children) return node
 
-  const text = [];
+  const text = [];  
 
-  const analysis = processAnalysis(node)
+  const analysis = processAnalysis(node, paragraph, sentence);
 
   const original = node.children.map((child) => {
     if (child.name === 'q') {
@@ -111,6 +111,7 @@ const processChildren = (node) => {
   if (!node.children) return node
 
   const processedBody = node.children.map((child) => {
+    const paragraph = node.name === 'p' ? node.attr.n : null
     if (child.name === 'p') {
       const sentences = processChildren(child)
  
@@ -124,7 +125,7 @@ const processChildren = (node) => {
       return { id: child.attr.n, sentences: transformedSentence }
     }
     if (child.name === 'seg') {
-      return { id: child.attr.n, ...processSequence(child) }
+      return { id: child.attr.n, ...processSequence(child, paragraph, child.attr.n) }
     }
     return null
   }).filter((token) => token)
