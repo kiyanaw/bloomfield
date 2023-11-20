@@ -50,8 +50,7 @@ const processAnalysis = (node, paragraph, sentence) => {
           nodePosition: {
             paragraph: paragraph,
             sentence: sentence,
-          },
-          results: results
+          }
         });
 
         return;
