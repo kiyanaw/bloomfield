@@ -5,7 +5,7 @@ const util = require('util')
 
 const transducerPath = `./transducers/crk-relaxed-analyzer.hfstol`;
 const fst = new Transducer(transducerPath);
-const fraggedWords = [];
+let fraggedWords = [];
 
 const processText = (tokens) => {
   return tokens.filter((token) => token).reduce((memo, token, index) => {
@@ -33,7 +33,7 @@ const processQuote = (node) => {
 const processAnalysis = (node, paragraph, sentence) => {
   if (!node.children) return node
 
-  const analysis = node.children.map(async (child) => {
+  const analysis = node.children.map((child) => {
     if (child.name === 'q') {
       return processAnalysis(child, paragraph)
     }
@@ -58,7 +58,6 @@ const processAnalysis = (node, paragraph, sentence) => {
 
       return { surface: child.attr.canon, analysis: resultsDefragged }
     }
-
 
     return null
   }).filter((token) => token)
@@ -97,7 +96,7 @@ const processSequence = (node, paragraph, sentence) => {
   const footnote = node.children.map((child) => {
     if (child.name === 'note') return child.val
     return null
-  }).filter((token) => token)[0]
+  }).filter((token) => token)[0];
 
   // only return footnote if it exists
 
@@ -168,9 +167,10 @@ const processXml = (node) => {
 
 const main = async (infile) => {
   const xmlRaw = fs.readFileSync(infile).toString()
-  const xmlParsed = new xml.XmlDocument(xmlRaw)
+  const xmlParsed = new xml.XmlDocument(xmlRaw);
+  fraggedWords = [];
 
-  const children = processXml(xmlParsed.descendantWithPath('text.body'))
+  const children = processXml(xmlParsed.descendantWithPath('text.body'));
 
   // Uncomment this line for easier debugging in the console.
   // console.log(util.inspect(children, {depth: null}))
