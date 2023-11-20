@@ -36,18 +36,11 @@ const bulkParse = (input, output) => {
 
   if (!fs.existsSync(output)) {
     fs.mkdirSync(output);
+    fs.mkdirSync(path.join(output, 'errors'));
   } else {
-    fs.readdir(output, (error, files) => {
-      if (error) throw error;
-
-      files.forEach((file) => {
-        fs.unlink(path.join(output, file), (err) => {
-          if (err) {
-            throw new Error(err);
-          }
-        });
-      });
-    });
+    deleteExistingFiles(output);
+    fs.mkdirSync(output);
+    fs.mkdirSync(path.join(output, 'errors'));
   }
 
   fs.readdir(input, { withFileTypes: true }, (err, files) => {
@@ -59,17 +52,40 @@ const bulkParse = (input, output) => {
       let fileName = `pct-${outputCount}.json`;
       let fileOutPath = path.join(output, fileName);
 
+      let errorFileName = `pct-${outputCount}-errors.json`
+      let errorOutPath = path.join(output, 'errors', errorFileName);
+
       parser(path.join(input, file.name)).then((result) => {
-        fs.writeFile(fileOutPath, result, (err) => {
-          if (err) {
-            throw new Error(err);
-          }
+        fs.writeFile(fileOutPath, result.results, (err) => {
+          if (err) throw new Error(err);
         });
+
+        if (JSON.parse(result.fraggedResults).length !== 0) {
+          fs.writeFile(errorOutPath, result.fraggedResults, (err) => {
+            if (err) throw new Error(err);
+          });
+        }
       });
 
       outputCount++;
     });
   });
+};
+
+const deleteExistingFiles = (dir) => {
+  if (fs.existsSync(dir)) {
+    fs.readdirSync(dir).forEach((file) => {
+      const currentPath = path.join(dir, file);
+
+      if (fs.lstatSync(currentPath).isDirectory()) {
+        deleteExistingFiles(currentPath);
+      } else {
+        fs.unlinkSync(currentPath);
+      }
+
+    })
+    fs.rmdirSync(dir);
+  }
 };
 
 const main = async (input = DEFAULT_INPUT_DIR, output = DEFAULT_OUTPUT_DIR) => {

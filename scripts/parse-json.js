@@ -1,7 +1,11 @@
 const fs = require('fs')
 const xml = require('xmldoc')
-
+const { Transducer } = require('hfstol')
 const util = require('util')
+
+const transducerPath = `./transducers/crk-relaxed-analyzer.hfstol`;
+const fst = new Transducer(transducerPath);
+let fraggedWords = [];
 
 const processText = (tokens) => {
   return tokens.filter((token) => token).reduce((memo, token, index) => {
@@ -26,26 +30,47 @@ const processQuote = (node) => {
   return processText(quote)
 }
 
-const processAnalysis = (node) => {
+const processAnalysis = (node, paragraph, sentence) => {
   if (!node.children) return node
 
   const analysis = node.children.map((child) => {
     if (child.name === 'q') {
-      return processAnalysis(child)
+      return processAnalysis(child, paragraph)
     }
-    if (child.name === 'w') return { surface: child.attr.canon, analysis: "TODO" }
+    if (child.name === 'w') {
+      const results = fst.lookup(child.attr.canon);
+
+      const resultsDefragged = results.filter((result) => {
+        return !result.split('+').includes('Err/Frag');
+      });
+
+      if (resultsDefragged.length === 0) {
+        fraggedWords.push({
+          surface: child.attr.canon,
+          nodePosition: {
+            paragraph: paragraph,
+            sentence: sentence,
+          }
+        });
+
+        return;
+      };
+
+      return { surface: child.attr.canon, analysis: resultsDefragged }
+    }
+
     return null
   }).filter((token) => token)
 
-  return analysis
+  return analysis;
 }
 
-const processSequence = (node) => {
+const processSequence = (node, paragraph, sentence) => {
   if (!node.children) return node
 
-  const text = [];
+  const text = [];  
 
-  const analysis = processAnalysis(node)
+  const analysis = processAnalysis(node, paragraph, sentence);
 
   const original = node.children.map((child) => {
     if (child.name === 'q') {
@@ -71,7 +96,7 @@ const processSequence = (node) => {
   const footnote = node.children.map((child) => {
     if (child.name === 'note') return child.val
     return null
-  }).filter((token) => token)[0]
+  }).filter((token) => token)[0];
 
   // only return footnote if it exists
 
@@ -84,6 +109,7 @@ const processChildren = (node) => {
   if (!node.children) return node
 
   const processedBody = node.children.map((child) => {
+    const paragraph = node.name === 'p' ? node.attr.n : null
     if (child.name === 'p') {
       const sentences = processChildren(child)
  
@@ -97,7 +123,7 @@ const processChildren = (node) => {
       return { id: child.attr.n, sentences: transformedSentence }
     }
     if (child.name === 'seg') {
-      return { id: child.attr.n, ...processSequence(child) }
+      return { id: child.attr.n, ...processSequence(child, paragraph, child.attr.n) }
     }
     return null
   }).filter((token) => token)
@@ -141,14 +167,15 @@ const processXml = (node) => {
 
 const main = async (infile) => {
   const xmlRaw = fs.readFileSync(infile).toString()
-  const xmlParsed = new xml.XmlDocument(xmlRaw)
+  const xmlParsed = new xml.XmlDocument(xmlRaw);
+  fraggedWords = [];
 
-  const children = processXml(xmlParsed.descendantWithPath('text.body'))
+  const children = processXml(xmlParsed.descendantWithPath('text.body'));
 
   // Uncomment this line for easier debugging in the console.
   // console.log(util.inspect(children, {depth: null}))
 
-  return JSON.stringify(children)
+  return { results: JSON.stringify(children), fraggedResults: JSON.stringify(fraggedWords) }
 }
 
 module.exports = main;
