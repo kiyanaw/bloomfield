@@ -354,7 +354,7 @@
 
 <seg n="12.4">
 <w canon="êwakonik" class="pr" gcat="3pPR" sgloss="that_one" stem="êwako" suffix="-3p">êyôkonik</w>
-<w canon="nîsopôsiwak" class="vai" gcat="3pAI" preverbs="nîso|two" sgloss="board" stem="pôsi" suffix="-wak">nîsopôsiwak</w>
+<w canon="nîso-pôsiwak" class="vai" gcat="3pAI" preverbs="nîso|two" sgloss="board" stem="pôsi" suffix="-wak">nîsopôsiwak</w>
 <w canon="iskwêwak" class="na" gcat="3pNA" sgloss="woman" stem="iskwêw" suffix="-ak">iskwêwak</w>
 .
 <gloss>Those two women got into the canoe.</gloss>
@@ -536,7 +536,7 @@
 <q>
 <w canon="êkwa" class="ipc" gcat="IPC" sgloss="then" stem="êkwa">êkwah</w>
 <w canon="kicâhkos" class="nda" gcat="3sNDAof2s" prefix="2" sgloss="female_cross_cousin" stem="câhkos" suffix="0">kicâhkos</w>
-<w canon="kâ-pê-nitomikowâw" class="vta" gcat="3s2pTA" preverbs="kâ|cnj pê|thence" sgloss="call" stem="nitom" suffix="-ikowâw">kâ-pê-ntômikowâw</w>
+<w canon="ka-pê-nitomikowâw" class="vta" gcat="3s2pTA" preverbs="kâ|cnj pê|thence" sgloss="call" stem="nitom" suffix="-ikowâw">ka-pê-ntômikowâw</w>
 ,</q>
 <w canon="itêw" class="vta" gcat="3s3oTA" sgloss="say_to" stem="it" suffix="-êw">itêw</w>
 .
@@ -582,7 +582,7 @@
 <w canon="wâpiski-acimo-mêyisa" class="ni" extra="dim" gcat="0oNI" prenouns="wâpiski|white acimo|dog" sgloss="dung" stem="mêy" suffix="-a">wâpisk-acimo-mêyisah</w>
 <w canon="tâpihtêpisôwak" class="vai" gcat="3pAI" sgloss="wear_earrings" stem="tâpihtêpiso" suffix="-wak">tâpihtêpisôwak</w>
 .
-<gloss>[no translation]</gloss>
+<gloss>[white cactus berry?]</gloss>
 <note>CHECK:  white-dog-dung?</note>
 </seg>
 
